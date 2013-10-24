@@ -4,8 +4,8 @@ module.exports = function() {
   var walk = require('walk');
   var options = this.options();
   var done = this.async();
-  var lastmod = '2013-10-18';
-  var base = 'http://he-said-she-said.github.io/';
+  var lastmod = '2013-10-24';
+  var base = 'http://he-said.github.io/';
   var sitemaps = [];
   var pages = [];
   var sitemapSize = 25000;
@@ -15,7 +15,22 @@ module.exports = function() {
   var sitemapTemplate = _.template(sitemapTemplateString);
   var ended;
 
+  function writeSitemaps() {
+    var fname = options.sitemapdir + '/sitemap-' + sitemaps.length + '.xml';
+
+    if (!pages.length)
+      return;
+
+    fs.writeFileSync(fname, template({pages: pages}));
+    sitemaps.push({
+      url: base + fname,
+      lastmod: lastmod
+    });
+    pages = [];
+  }
+
   function finish() {
+    writeSitemaps();
     fs.writeFileSync(options.sitemapdir + '/sitemap-index.xml',
       sitemapTemplate({sitemaps: sitemaps}));
     ended = true;
@@ -23,8 +38,6 @@ module.exports = function() {
   }
 
   walk.walk(options.docdir).on('names', function(dir, names) {
-    var fname;
-
     if (ended)
       return;
 
@@ -38,13 +51,7 @@ module.exports = function() {
       });
 
       if (pages.length >= sitemapSize) {
-        fname = options.sitemapdir + '/sitemap-' + sitemaps.length + '.xml';
-        fs.writeFileSync(fname, template({pages: pages}));
-        sitemaps.push({
-          url: base + fname,
-          lastmod: lastmod
-        });
-        pages = [];
+        writeSitemaps();
 
         if (sitemaps.length >= maxSitemaps) {
           finish();
