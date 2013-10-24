@@ -1,0 +1,28 @@
+{
+  "name": "he-said-she-said",
+  "version": "0.0.0",
+  "description": "just run the grunt commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aaronj1335/he-said-she-said.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "321349059362976c98dfb88164498a2caac5bb27",
+  "bugs": {
+    "url": "https://github.com/aaronj1335/he-said-she-said/issues"
+  },
+  "devDependencies": {
+    "shelljs": "~0.2.6",
+    "request": "~2.27.0",
+    "grunt": "~0.4.1",
+    "async": "~0.2.9",
+    "lodash": "~2.2.1",
+    "walk": "~2.2.1"
+  }
+}
