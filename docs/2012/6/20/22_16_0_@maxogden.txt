@@ -1,0 +1,1 @@
+all things in node share 1 thread

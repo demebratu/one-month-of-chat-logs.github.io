@@ -1,0 +1,1 @@
+I have a string which is all numbers, but I need to multiply that. How I can convert it so that I could multiply it?

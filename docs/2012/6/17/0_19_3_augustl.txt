@@ -1,0 +1,1 @@
+isaacs: I want to create a sandboxed runtime where some modules are my own, so that the "fs" module is my own, for example

@@ -1,0 +1,1 @@
+timoxley, you mean basically changing socket.io to xhr communication, yea?

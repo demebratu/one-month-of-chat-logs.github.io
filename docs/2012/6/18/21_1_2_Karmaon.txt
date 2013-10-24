@@ -1,0 +1,1 @@
+AvianFlu: I see the problem, on my terminal `forever stop 0` reports no processes stopped.

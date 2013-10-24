@@ -1,0 +1,1 @@
+And why can't anyone offer a coherent explination of ECMAScript's prototype model

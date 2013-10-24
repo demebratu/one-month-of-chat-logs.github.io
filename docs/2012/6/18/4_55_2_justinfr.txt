@@ -1,0 +1,1 @@
+yep basically a nice lil wrapper around a flat file is what im after

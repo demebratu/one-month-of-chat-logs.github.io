@@ -1,0 +1,1 @@
+Giving 0 or NULL to a low-level API and claiming that it gives you the right ports back, that's barely a guarantee that it's the right way to do it.

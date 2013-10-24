@@ -1,0 +1,1 @@
+this works well, but then when I do `npm shrinkwrap` for staging builds, when I do `npm install` it can't find the module, since it's not in the public repo

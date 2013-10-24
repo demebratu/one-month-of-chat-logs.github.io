@@ -1,0 +1,1 @@
+i thought you were actually going to intercept writeHead becaue it broke so much stuff?

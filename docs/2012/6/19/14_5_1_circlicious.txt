@@ -1,0 +1,1 @@
+i think the first problem "could" be solved by wrapping the code injected by browserify (var require and all) into an anonjymous function

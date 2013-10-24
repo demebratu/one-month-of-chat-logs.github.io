@@ -1,0 +1,1 @@
+I've actually only implemented Last-modified and If-Modified Since.

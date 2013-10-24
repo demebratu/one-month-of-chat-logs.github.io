@@ -1,0 +1,1 @@
+yes. regular node moves way too fast for debian/ubuntu stable

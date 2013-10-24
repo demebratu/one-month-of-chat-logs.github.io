@@ -1,0 +1,1 @@
+staar2: personally id try something like N cores + 1 instead of N cores * 2

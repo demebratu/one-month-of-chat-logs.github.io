@@ -1,0 +1,1 @@
+hij1nx: i wrote a better view for it: https://isaacs.iriscouch.com/registry/_design/scratch/_view/byVersion?group_level=2&startkey=[0,{}]&endkey=[0]&descending=true

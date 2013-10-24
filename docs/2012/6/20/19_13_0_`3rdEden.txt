@@ -1,0 +1,1 @@
+stagas yeh that is what I have atm, but then wrapped in a setInterval, but I was wondering if there where a more effective option

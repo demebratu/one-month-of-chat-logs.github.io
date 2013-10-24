@@ -1,0 +1,1 @@
+isaacs: it seems that npm isn't fetching a dependency because a package.json up the directory tree has a main with that name of that package?

@@ -1,0 +1,1 @@
+just nvm install 0.7.12 and express is now emitting its standard logs even when i pass in a log callback. is that to be expected?

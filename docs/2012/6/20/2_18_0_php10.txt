@@ -1,0 +1,1 @@
+yeah i can pass along the actual message along to my callback but it's just a string saing "E11000 duplicate key error index: api.us..."

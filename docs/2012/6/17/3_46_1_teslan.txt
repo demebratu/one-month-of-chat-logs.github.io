@@ -1,0 +1,1 @@
+DougReeder: is presence of ETag: on responses not a hint to client to loop it back as an if-none-match condition the next time it makes a request

@@ -1,0 +1,1 @@
+the function is later on called to client side, which has jquery source linked

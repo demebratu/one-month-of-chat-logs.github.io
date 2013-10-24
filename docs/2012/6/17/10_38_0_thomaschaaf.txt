@@ -1,0 +1,1 @@
+Hey I build this really simple script to demonstate that exec seems to be blocking for me: http://pastie.org/4102237 do you guys know why the first 100 calls are just begin and the last 100 are end? Shouldn't it be a mix of both of them. Something like begin, end, begin, end? (the real command I want to run takes 200 ms)

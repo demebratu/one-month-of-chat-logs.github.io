@@ -1,0 +1,1 @@
+the API is the same, but you don't get access to the entire file system

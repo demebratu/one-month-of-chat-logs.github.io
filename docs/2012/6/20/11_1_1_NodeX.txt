@@ -1,0 +1,1 @@
+REST or the concept is a good idea to expose a language agnostic service

@@ -1,0 +1,1 @@
+rking: yeah, well i have recently been working with x86 opcodes, so thats how my brain is wired right now :)

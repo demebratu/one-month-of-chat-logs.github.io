@@ -1,0 +1,1 @@
+I do know the serverside messages are arriving at the app but I cannot confirm if they are being emitted to the socket or not

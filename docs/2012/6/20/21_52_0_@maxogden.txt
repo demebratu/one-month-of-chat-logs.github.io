@@ -1,0 +1,1 @@
+yeah connection pools are at the HTTP level whereas the event loops is lower level

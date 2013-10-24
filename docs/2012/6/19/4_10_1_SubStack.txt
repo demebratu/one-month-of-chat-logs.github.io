@@ -1,0 +1,1 @@
+I was looking around npm for the part that decides which dependencies to fetch but I couldn't find it

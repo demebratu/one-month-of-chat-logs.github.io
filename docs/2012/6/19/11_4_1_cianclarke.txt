@@ -1,0 +1,1 @@
+very slow with a few channels open even on chrome 19 though... Maybe I'll be back yet!?

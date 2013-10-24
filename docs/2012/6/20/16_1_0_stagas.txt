@@ -1,0 +1,1 @@
+guy: if you console.log(game.user_coordinates.x) you'll see the increment correctly

@@ -1,0 +1,1 @@
+those abstractions are better left for the app to define I think

@@ -1,0 +1,1 @@
+how do i capture non stdout output from .py/.jar files when using exec() ?

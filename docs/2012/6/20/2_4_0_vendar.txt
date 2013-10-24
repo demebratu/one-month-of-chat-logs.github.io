@@ -1,0 +1,1 @@
+FNTom: If I've bigger RAM pool, I can hold more connections, message push latency is no problem if it's in an acceptable period.

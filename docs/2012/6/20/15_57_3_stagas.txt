@@ -1,0 +1,1 @@
+guy: the objects in the webkit console update live

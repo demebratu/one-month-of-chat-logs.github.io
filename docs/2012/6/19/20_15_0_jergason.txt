@@ -1,0 +1,1 @@
+rking: did you use a package manager or install from source?

@@ -1,0 +1,1 @@
+i have this function on my server side, which parses a website content. I would like to write this parsed data to my index page, but I have no idea how to do that.

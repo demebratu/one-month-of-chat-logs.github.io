@@ -1,0 +1,1 @@
+DougReeder: no matter the language is, an extra function call will degrade performance.

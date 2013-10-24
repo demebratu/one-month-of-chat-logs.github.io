@@ -1,0 +1,1 @@
+does anyone have any good configs for irssi? i am currently running it in minimalistic mode right now and it sucks to come back and check again and again if there is reference to my nick

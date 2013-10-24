@@ -1,0 +1,1 @@
+could i throw a couple of dumb thoughts out there, re: browser package management? they're a bit half-formed and i'm wondering if something can be made of them.

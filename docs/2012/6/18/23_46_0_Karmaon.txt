@@ -1,0 +1,1 @@
+Executing forever from a script makes node unable to require relative files.

@@ -1,0 +1,1 @@
+anyone know if it's possible to debug node core dumps?

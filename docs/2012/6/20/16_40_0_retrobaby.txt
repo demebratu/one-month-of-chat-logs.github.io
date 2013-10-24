@@ -1,0 +1,1 @@
+rking: i make a batch script that removes all the console.log before shipping for production

@@ -1,0 +1,1 @@
+Ok so apparently socket.io will not connect / emit on websockets on a server if you use anything other than the root IP / eth:0 of the network card .. is that not a bit silly ?

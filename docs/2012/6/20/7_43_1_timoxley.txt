@@ -1,0 +1,1 @@
+wiherek simple answer: start using a framework like ember or angular and use express or restify for your json api. you probably don't need websockets, and if you do, you can easily add them later.

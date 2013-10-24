@@ -1,0 +1,1 @@
+so you'd get something like { host: 'server.com', 'pathname': 'foo' }

@@ -1,0 +1,1 @@
+Hi there, I'm a native PHP/Java/C# programmer but using node.js for building a realtime online game now. I was looking for a way to split stuff up in an OOP-like way, but wasn't sure how I'd handle that best in node. Anyone some advice?

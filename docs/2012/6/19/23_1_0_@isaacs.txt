@@ -1,0 +1,1 @@
+joyent's building SDC on it now.  that's actually what i'm waiting on 0.7.12 for

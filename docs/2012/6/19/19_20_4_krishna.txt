@@ -1,0 +1,1 @@
+if you want to do something every n seconds you would likely use setTimeOut

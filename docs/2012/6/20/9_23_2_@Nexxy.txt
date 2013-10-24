@@ -1,0 +1,1 @@
+jhsto, switch() might clean it up a bit

@@ -1,0 +1,1 @@
+i'm looking at salt for configuration management, and it seems pretty darn cool. Any particular downside to chef/puppet that I should beware of before diving into it?

@@ -1,0 +1,1 @@
+i doubt facebook abtracts much since almost everything you do on there is a hot path seeing as they have millions of users

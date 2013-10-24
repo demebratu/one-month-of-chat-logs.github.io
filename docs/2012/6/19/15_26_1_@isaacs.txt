@@ -1,0 +1,1 @@
+SomeoneWeird: if you use child = child_process.fork() then you can do child.send({some: "message"}) and child.on("message", function (msg) {...})

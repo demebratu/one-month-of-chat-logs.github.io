@@ -1,0 +1,1 @@
+is there a way to refer to an arbitrary (grand)parent of an object from within that object? e.g. to create circular references

@@ -1,0 +1,1 @@
+TomWij: why would you say that me writing a program to pool ports more right than using the kernels automatic port assignment?

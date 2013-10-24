@@ -1,0 +1,1 @@
+My main speedup technique was to serve pictures sized for the receiving device.

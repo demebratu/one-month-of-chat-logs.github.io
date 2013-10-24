@@ -1,0 +1,1 @@
+augustl: you could use async or some other lib for the callbacks.. for example, async supports a sequence of callbacks

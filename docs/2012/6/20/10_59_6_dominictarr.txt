@@ -1,0 +1,1 @@
+but due to some things that seemed like a good idea at the time, http is not full-duplex

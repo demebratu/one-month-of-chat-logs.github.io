@@ -1,0 +1,1 @@
+however, the communication with the webpage itself (as in PHP / MySQL is done through a REST server, using restler)

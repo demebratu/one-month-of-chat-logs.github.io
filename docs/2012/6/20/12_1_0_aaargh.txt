@@ -1,0 +1,1 @@
+they are all connected to a rabbit message queue, and are not processing new messages

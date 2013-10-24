@@ -1,0 +1,1 @@
+what do you usually do when module foo has a require("bar") at the top, and you want to test some behavior of foo but mocked-bar? dont kill me

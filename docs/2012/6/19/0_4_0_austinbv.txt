@@ -1,0 +1,1 @@
+So I hope you guys don't hear this all the time but I am pretty confused on how to write maintanable testable node code

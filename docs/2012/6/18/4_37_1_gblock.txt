@@ -1,0 +1,1 @@
+jamescar: I haven't looked deeply into Connect, does it use piping nowadays?

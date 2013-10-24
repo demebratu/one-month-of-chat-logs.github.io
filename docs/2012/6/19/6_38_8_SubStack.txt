@@ -1,0 +1,1 @@
+Karmaon: a lot of node folks use document databases where you don't need schema migrations

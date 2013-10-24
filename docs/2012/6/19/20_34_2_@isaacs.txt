@@ -1,0 +1,1 @@
+jergason: no, you can't do that with spawn().  you can with exec, thouhg, since it actually spawns sh

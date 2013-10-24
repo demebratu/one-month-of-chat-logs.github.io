@@ -1,0 +1,1 @@
+here I just do NODE_ENV=production node app.js

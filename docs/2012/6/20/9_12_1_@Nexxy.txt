@@ -1,0 +1,1 @@
+if (typeof b_trim_h == 'undefined') { b_trim_h = '1'; }

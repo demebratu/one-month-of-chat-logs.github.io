@@ -1,0 +1,1 @@
+isaacs: maybe it should also check to see if the directory is in a node_modules?

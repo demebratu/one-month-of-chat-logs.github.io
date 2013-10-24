@@ -1,0 +1,1 @@
+pksunkara_: if i were you, i'd spend some time writing a lot of test.  like, especially go through the git remote man pages, rsync, scp, etc.

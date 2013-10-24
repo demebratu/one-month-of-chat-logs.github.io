@@ -1,0 +1,1 @@
+yea, but what I meant was, jquery files are not loaded nor served through node.js

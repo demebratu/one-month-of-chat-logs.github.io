@@ -1,0 +1,1 @@
+the OS already knows what ports are taken, so it would be nice to not have to do retries by hand

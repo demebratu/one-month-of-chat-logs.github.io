@@ -1,0 +1,1 @@
+SubStack: truly RESTful services are at least less awkard to use than kinda-but-not-really RESTful services, beyond that I don't really know what you find so difficult about them

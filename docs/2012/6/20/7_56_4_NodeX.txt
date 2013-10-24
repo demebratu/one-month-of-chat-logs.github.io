@@ -1,0 +1,1 @@
+personaly long polling on many channels breaks some apps of mine due to to many connections to my webserver .. but that's just me

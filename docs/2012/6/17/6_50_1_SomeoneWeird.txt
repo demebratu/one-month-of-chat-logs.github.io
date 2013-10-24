@@ -1,0 +1,1 @@
+yes, then go into it, and type node-waf configure build

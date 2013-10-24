@@ -1,0 +1,1 @@
+basically, I want to fire up a cluster, hand the workers some work for a while (the workers themselves could generate more work and tell master about it) and then immediately close when all work is complete, aka... when the workers are "idle"

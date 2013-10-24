@@ -1,0 +1,1 @@
+and this data may have been mutated in memory, it's not a straight fd

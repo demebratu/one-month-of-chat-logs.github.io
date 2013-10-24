@@ -1,0 +1,1 @@
+thomaschaaf: unless your single JS thread is busy, then it has to wait

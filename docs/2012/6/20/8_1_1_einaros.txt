@@ -1,0 +1,1 @@
+AAA_awright: sure, but you can't have any intermediates. the connection has to go straight from the client to the application server, unlike plain http where more intermediates can pitch in (one can do auth, one can do cached responses of your previous chat in terms of google talk)

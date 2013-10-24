@@ -1,0 +1,1 @@
+tonyk: and another that tests an arbitrary-chunk-emitting stream that isn't connected to anything?

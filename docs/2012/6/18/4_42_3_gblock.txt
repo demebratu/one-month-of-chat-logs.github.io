@@ -1,0 +1,1 @@
+well yes you can pipe to res because it's a stream

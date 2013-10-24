@@ -1,0 +1,1 @@
+surprisingly, having a 1ms interval uses almost 0% cpu

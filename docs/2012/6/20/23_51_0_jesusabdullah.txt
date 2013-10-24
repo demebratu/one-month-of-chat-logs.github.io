@@ -1,0 +1,1 @@
+I've been thinking about hacking together something like, node -e 'require("awk")({ "start": function () {}, /* etc, etc *? })'

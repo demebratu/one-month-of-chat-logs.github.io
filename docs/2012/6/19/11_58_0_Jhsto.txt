@@ -1,0 +1,1 @@
+Any idea how I could append data from server side into client side DOM? I'm nowjs for interaction.

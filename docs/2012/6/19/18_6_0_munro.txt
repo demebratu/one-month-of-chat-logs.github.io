@@ -1,0 +1,1 @@
+does anyone have advice on private CI servers?  I want to be able to customize it, but I also want to avoid reinventing the wheel.  I've looked at Buildbot, Travis-ci, and Jenkins--but none of those really seemed to be what I'm looking for.  Travis is the closest, but I'd rather work in JS than ruby, and it only seems documented to be used as a service

@@ -1,0 +1,1 @@
+adamramadhan, SubStack, mmalecki: Thanks for testing and finding bugs in npm 1.1.29.  it's really nice to be able to catch these things before they go into a node release.

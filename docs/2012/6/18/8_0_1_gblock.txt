@@ -1,0 +1,1 @@
+jesusabdullah: giving a full day tutorial on node.js and Azure. First half is pure node.

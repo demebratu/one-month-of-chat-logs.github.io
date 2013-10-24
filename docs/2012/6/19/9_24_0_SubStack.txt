@@ -1,0 +1,1 @@
+Nexxy: an object that defines .toString() maybe?

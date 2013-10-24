@@ -1,0 +1,1 @@
+yeah definitely. Especially that you can pipe to multiple output streams simultaneously

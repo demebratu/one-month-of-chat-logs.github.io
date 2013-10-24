@@ -1,0 +1,1 @@
+isaacs: but what are the benefits? subsequent page loads make 3 small, cached requests.

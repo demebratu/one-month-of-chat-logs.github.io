@@ -1,0 +1,1 @@
+Every iteration of the loop, node handles any events that occur, such as the connection of new clients to its http server and so on

@@ -1,0 +1,1 @@
+So it should be faster then c++ in logic, is that right?

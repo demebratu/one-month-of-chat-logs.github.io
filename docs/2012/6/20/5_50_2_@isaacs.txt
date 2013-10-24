@@ -1,0 +1,1 @@
+seriously, though, i mean, it seems like it shouldn't be as hard as it is to keep your jquery modules straight

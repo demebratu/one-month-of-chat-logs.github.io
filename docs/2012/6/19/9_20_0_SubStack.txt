@@ -1,0 +1,1 @@
+but then the .pipe() implementation needs to talk to the readable stream in order to negotiate an output value for each type of output

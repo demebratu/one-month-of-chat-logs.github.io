@@ -1,0 +1,1 @@
+tbranyen: and it guesses your test command based on teh presence of certain test frameworks (tap, expresso, mocha, etc.)

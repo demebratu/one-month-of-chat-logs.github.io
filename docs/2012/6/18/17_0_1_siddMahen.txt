@@ -1,0 +1,1 @@
+jhsto: Inefficient, but it works: JSON.parse("123") * 10

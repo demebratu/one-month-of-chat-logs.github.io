@@ -1,0 +1,1 @@
+well, the app is rendered in the website html structure, data is pushed/pulled through socket.io

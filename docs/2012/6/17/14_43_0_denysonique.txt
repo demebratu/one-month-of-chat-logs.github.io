@@ -1,0 +1,1 @@
+Is there a redis/memcached alternative with an interface/logic like MongoDB?

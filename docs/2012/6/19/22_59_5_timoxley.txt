@@ -1,0 +1,1 @@
+themiddleman https://github.com/dominictarr/event-stream/ perhaps

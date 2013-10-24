@@ -1,0 +1,1 @@
+so u have a event loop - u dont want the servers to make blocking calls, so everything in node is async by default

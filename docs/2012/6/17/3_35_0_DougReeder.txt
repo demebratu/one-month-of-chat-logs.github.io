@@ -1,0 +1,1 @@
+Within the Expires period,the client shouln't need to makeany request at all.

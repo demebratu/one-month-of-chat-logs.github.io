@@ -1,0 +1,1 @@
+so.. w/ child_process.exec() .. im running a command that im sure is failing.. but the error in the callback is still null.. is there a way to determine the exit code, from the callback?

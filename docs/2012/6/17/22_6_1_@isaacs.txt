@@ -1,0 +1,1 @@
+jgornick: you can either make your chrome extension look in node_modules, or you can `rm -rf vendor; mv node_modules vendor` after doing your npm stuff

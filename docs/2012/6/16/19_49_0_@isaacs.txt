@@ -1,0 +1,1 @@
+siddMahen: well, your JS could create slabs and manage the buffers going to C++ and the slices to the user

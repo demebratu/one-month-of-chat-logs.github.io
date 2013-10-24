@@ -1,0 +1,1 @@
+:/ so any ideas for capturing non stdout output when running exec() ?

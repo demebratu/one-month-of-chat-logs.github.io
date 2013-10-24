@@ -1,0 +1,1 @@
+like php would parse .php but not .gif ;)

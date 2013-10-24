@@ -1,0 +1,1 @@
+i almost figure it out. i use req.setEncoding('utf8') and console.log(payload) shows me my object, but in mongo i see it as crazy hash of numbers.

@@ -1,0 +1,1 @@
+Repeating the question that I asked earlier, I am using socket, express with node and am trying to parse an xml feel from a third party url. I have successfully parsed the xml but I want to parse this feed every n seconds on server side using node.

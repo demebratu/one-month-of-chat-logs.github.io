@@ -1,0 +1,1 @@
+guy: make sure you install npm from the repo and then clean up the manually installed version from /usr/local

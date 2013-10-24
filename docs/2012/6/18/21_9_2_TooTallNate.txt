@@ -1,0 +1,1 @@
+LibreNick: you'll probably need to add a "libraries" section to your gyp file

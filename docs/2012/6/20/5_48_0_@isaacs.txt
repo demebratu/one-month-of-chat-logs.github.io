@@ -1,0 +1,1 @@
+one could unpack a tarball on the browser, save them in a virtual file systm structure, and even let you fs.open() and shit

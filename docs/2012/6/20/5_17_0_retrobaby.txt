@@ -1,0 +1,1 @@
+so if i have application/commits/:id, i will just look for a specific commit ID in my database.

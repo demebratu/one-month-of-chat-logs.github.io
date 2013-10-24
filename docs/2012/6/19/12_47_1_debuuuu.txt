@@ -1,0 +1,1 @@
+Is it possible to remote debug a node js server using node inspector..? Like, when it starts it says go to 127.0.0.1, blah, but obviously that's for use on a local machine. 

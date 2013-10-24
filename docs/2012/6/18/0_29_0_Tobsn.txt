@@ -1,0 +1,1 @@
+machty, http://jacobmumm.com/2011/08/29/node-as-a-service-in-ubuntu-11-04-with-upstart-monit-and-forever-js/

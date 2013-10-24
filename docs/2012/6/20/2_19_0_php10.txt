@@ -1,0 +1,1 @@
+are there any other useful properties for err that i can use?

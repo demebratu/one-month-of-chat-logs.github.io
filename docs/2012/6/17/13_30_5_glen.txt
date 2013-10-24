@@ -1,0 +1,1 @@
+i want to make offline bundle of borever and it's deps

@@ -1,0 +1,1 @@
+getting some pretty incredible statements such as STATEMENT:  ALTER TABLE "invoices" ADD COLUMN "test" INTEGER NULL,       DROP COLUMN "undefined",       DROP COLUMN "undefined"

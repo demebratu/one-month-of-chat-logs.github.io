@@ -1,0 +1,1 @@
+mikeal: if we want to avoid the case wehre headers have already been sent, and you chagne the statuscode

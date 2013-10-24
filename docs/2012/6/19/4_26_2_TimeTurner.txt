@@ -1,0 +1,1 @@
+npx: oh you mean without the var

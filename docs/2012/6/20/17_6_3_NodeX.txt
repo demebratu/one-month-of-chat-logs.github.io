@@ -1,0 +1,1 @@
+what's the syntax for requiring deps that are -g installed?

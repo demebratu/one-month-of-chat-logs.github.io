@@ -1,0 +1,1 @@
+it must be some external factor, because as I say, 12 processes over 2 servers stopped simultaneously

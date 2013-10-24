@@ -1,0 +1,1 @@
+zutto: thanks, but i dont' need to parse the data. worst comes to worse, i'll start manually stringifying it server-side and parsing it client-side, but i'd rather res.json do the work for me

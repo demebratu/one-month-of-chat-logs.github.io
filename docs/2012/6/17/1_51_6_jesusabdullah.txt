@@ -1,0 +1,1 @@
+If your library has a bunch of corner cases and breaks all the time, then maybe that's a bad idea

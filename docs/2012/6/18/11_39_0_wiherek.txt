@@ -1,0 +1,1 @@
+I have a node.js app working through socket.io client-server connection. I now need to send / gather data from a REST server. How can I do that?

@@ -1,0 +1,1 @@
+Stupid question of the day: How to give undefined variable a value?

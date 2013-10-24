@@ -1,0 +1,1 @@
+Question about asynchronous file write and creation - if I have multiple processes at the same time that will check if a file exists and then create and write to it if it doesn't, do I have to worry about doing any sort of locking or management to prevent simultaneous processes producing a corrupt file?

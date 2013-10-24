@@ -1,0 +1,1 @@
+I mean for sql like pdo oracle, mysql with prepared statements ( security ), psql, etc in one driver

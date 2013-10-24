@@ -1,0 +1,1 @@
+ferlores: the api i imagine is something like require('routesortingthing')(myrouter) and then now myrouter has a .sort function

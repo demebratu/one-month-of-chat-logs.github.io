@@ -1,0 +1,1 @@
+hmm https://github.com/dosx/node-vips anyone know how to install this?

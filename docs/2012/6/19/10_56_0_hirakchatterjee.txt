@@ -1,0 +1,1 @@
+I am trying to open a url using net.connect and the 'data' event is fired multiple times. Is there any property to fire it just once will all the data ? please help

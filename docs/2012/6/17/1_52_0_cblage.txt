@@ -1,0 +1,1 @@
+if I comment out the staticCache line I get a slightly higher throughput than with it turned on

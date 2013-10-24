@@ -1,0 +1,1 @@
+the only thing that sucks is the binary dep on leveldb

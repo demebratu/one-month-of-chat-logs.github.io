@@ -1,0 +1,1 @@
+yeah but when you have clients with firewalls or proxies, it would be nice to fall back, otherwise their screwed or you have to convince their IT to investigate

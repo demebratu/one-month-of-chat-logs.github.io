@@ -1,0 +1,1 @@
+circlicious: it's not really in the scope of browserify to solve your particular use-case

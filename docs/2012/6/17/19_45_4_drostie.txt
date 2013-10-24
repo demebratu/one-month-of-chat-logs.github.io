@@ -1,0 +1,1 @@
+hm. the thing that my framework-in-development does involves constructing a routing table. GET /blog/2012/03/05 maps to services.blog('2012', '03', '05'). clearly I am le crazy.

@@ -1,0 +1,1 @@
+rking: just have a custom function log() that's only passing parameters to console.log() if var debug is true

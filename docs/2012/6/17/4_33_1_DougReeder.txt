@@ -1,0 +1,1 @@
+My tests show that Node doesn't add the Date header, at least in v4.3

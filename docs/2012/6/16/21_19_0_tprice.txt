@@ -1,0 +1,1 @@
+why does this code not throw an error? https://gist.github.com/2942524

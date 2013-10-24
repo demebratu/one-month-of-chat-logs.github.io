@@ -1,0 +1,1 @@
+wiherek multiplayer game, realtime chat, realtime data visualisation, autosaving a document as you type, multi-user collaboration, anything where you're streaming data, etc

@@ -1,0 +1,1 @@
+Tobsn: vhosts = virtual hosts,  right? and it's the ability to, say, direct many DNS sites to the same IP address (running nginx) and then split those out to different servers, say, one to node, one to rails, etc?

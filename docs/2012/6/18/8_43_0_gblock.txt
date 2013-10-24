@@ -1,0 +1,1 @@
+circlicious: if it's WebSocket traffic you may not see much, like in Chrome you'll see the 101 switching protocols and nothing else after.

@@ -1,0 +1,1 @@
+but websockets are also sort of silly considering XHR has everything already, just not uniformly adopted

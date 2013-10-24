@@ -1,0 +1,1 @@
+he's right :P with improper keepalive and maxclients, apache can't handle 30-50 active vistors :P

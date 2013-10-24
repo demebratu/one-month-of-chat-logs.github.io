@@ -1,0 +1,1 @@
+SubStack: Is using difflet a good idea if I want to compare the difference between two objects and don't care about coloring?

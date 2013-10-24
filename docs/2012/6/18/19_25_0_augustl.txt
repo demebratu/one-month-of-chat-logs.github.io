@@ -1,0 +1,1 @@
+I guess the only real example of failed indexings are if my app crashes, but then it won't reach activemq either..

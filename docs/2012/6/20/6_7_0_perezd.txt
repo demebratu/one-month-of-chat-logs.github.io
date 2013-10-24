@@ -1,0 +1,1 @@
+SubStack: even cooler: i can now do uuid's by just browserifying node-uuid project

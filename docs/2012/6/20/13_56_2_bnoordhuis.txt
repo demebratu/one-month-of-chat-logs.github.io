@@ -1,0 +1,1 @@
+tonyk: node is already mostly static, the only external dependency is glibc

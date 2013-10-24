@@ -1,0 +1,1 @@
+thomaschaaf: that's what it does. The callbacks are called when the command is done

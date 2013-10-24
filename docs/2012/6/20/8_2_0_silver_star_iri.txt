@@ -1,0 +1,1 @@
+why after a while my socket.io crash ? http://pastebin.com/GQSLMztG

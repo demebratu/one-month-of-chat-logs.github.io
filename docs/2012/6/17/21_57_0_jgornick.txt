@@ -1,0 +1,1 @@
+hey guys, when using npm, is it possible to install the dependencies into another directory instead of node_modules?

@@ -1,0 +1,1 @@
+isaacs: encouragingly, some folks at yahoo sent me an issue for node-resolve

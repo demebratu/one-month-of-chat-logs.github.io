@@ -1,0 +1,1 @@
+jibay_: thats a very obscure option of the http rfc, I havent seen any web server support it

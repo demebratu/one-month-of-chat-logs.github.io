@@ -1,0 +1,1 @@
+it's kinda stupid, I want to remove it haha caching in node is a bad idea

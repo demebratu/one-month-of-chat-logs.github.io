@@ -1,0 +1,1 @@
+solved my problem by installing nodejs by source and not by zypper

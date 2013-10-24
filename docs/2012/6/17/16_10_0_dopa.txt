@@ -1,0 +1,1 @@
+Googling doesn't turn up much. I've made sure mongoose-auth and everyauth are the latest versions.

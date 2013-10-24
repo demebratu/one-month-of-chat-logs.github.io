@@ -1,0 +1,1 @@
+isaacs: what's the 4th argument being used for runInNewContext?

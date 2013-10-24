@@ -1,0 +1,1 @@
+but why have a -g option then ?

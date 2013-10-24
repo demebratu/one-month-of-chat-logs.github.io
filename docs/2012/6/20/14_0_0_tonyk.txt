@@ -1,0 +1,1 @@
+so, in theory a universal binary should work in all linuxes

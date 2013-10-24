@@ -1,0 +1,1 @@
+a) that optimization probably belongs in libuv, and b) i'd be more convinced if you could typecast "a lot" to a Number

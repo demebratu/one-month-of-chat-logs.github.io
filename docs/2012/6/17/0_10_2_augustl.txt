@@ -1,0 +1,1 @@
+in node itself, "require" is a global that is not available on the top level "this" for example

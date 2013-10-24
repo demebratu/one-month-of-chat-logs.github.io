@@ -1,0 +1,1 @@
+ferlores: maybe so you can attach it to an existing routes instance and it gives you control over the precendence

@@ -1,0 +1,1 @@
+I think I was a bit hasty in my evaluation of the multi-timer solution... seems like the multiple timers do fire within microseconds of each other, but there's still a delay after they fire, presumably when the next tick happens

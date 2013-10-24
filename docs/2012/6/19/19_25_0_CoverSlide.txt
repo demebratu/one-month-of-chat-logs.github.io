@@ -1,0 +1,1 @@
+line 86: change it to: setTimeout(getData, 1000);

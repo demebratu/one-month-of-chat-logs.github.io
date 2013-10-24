@@ -1,0 +1,1 @@
+in js, exponentiation is done with Math.pow

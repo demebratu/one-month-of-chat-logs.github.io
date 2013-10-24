@@ -1,0 +1,1 @@
+If your automatic port assignment takes away a port of another important service that's yet to start, that important service will fail to do so.

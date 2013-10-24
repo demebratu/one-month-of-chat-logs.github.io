@@ -1,0 +1,1 @@
+isaacs: I think he was asking about "not auto-escape single-quotes" 

@@ -1,0 +1,1 @@
+but browserquest doesn't really work.. status give me a really little json array and the game doesn't load.. but doesn't is a problem of nodejs i think :)

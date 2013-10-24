@@ -1,0 +1,1 @@
+mikeal, SubStack: the alternative is that we make statusCode a setter, and throw if the headers have been sent

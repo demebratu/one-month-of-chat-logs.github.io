@@ -1,0 +1,1 @@
+so - passing an array to a function, can I somehow 'dereference' that array and pass all of it's elements as separate arguments to that function?

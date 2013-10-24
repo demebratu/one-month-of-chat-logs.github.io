@@ -1,0 +1,1 @@
+I would use a module from npm that watches directories and then re-run browserify when that module says something changed

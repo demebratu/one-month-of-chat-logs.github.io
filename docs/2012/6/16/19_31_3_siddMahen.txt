@@ -1,0 +1,1 @@
+try adding the path to node-gyp to your path

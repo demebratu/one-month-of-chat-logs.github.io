@@ -1,0 +1,1 @@
+the c++-ism is inherited from V8

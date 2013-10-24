@@ -1,0 +1,1 @@
+Guest1576: that's the modules localy use -g for global install so you can use it anywhere

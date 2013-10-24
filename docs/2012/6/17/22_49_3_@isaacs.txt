@@ -1,0 +1,1 @@
+http://server.com:foo/ is not a valid url

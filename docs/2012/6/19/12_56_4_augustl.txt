@@ -1,0 +1,1 @@
+most IRC clients allow "/away some reason here"

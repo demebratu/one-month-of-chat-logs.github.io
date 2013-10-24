@@ -1,0 +1,1 @@
+DougReeder: benchmark it and you'll see what I mean. I've written 3 python frameworks and I'm pretty sure it will degrade the performance. I know of course that if youre doing file i/o, DB i/o etc. it will be neglectable but I'm still wanting to avoid it.

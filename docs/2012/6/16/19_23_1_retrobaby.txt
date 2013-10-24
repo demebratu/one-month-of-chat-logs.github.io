@@ -1,0 +1,1 @@
+if i get it right, its an asseriton to check if all the assertions are finished before the test object emits exit. 

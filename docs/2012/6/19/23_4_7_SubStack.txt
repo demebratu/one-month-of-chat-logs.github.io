@@ -1,0 +1,1 @@
+mikeal: it especially sucks since I usually know what some of the headers are before I know what the statusCode should be, like content-type

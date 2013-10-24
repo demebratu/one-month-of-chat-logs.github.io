@@ -1,0 +1,1 @@
+the docs are failing me at the moment, how does one duplicate a stream (i.e dup2())

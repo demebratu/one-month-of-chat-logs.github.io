@@ -1,0 +1,1 @@
+TheHippo: node only has one thread. crazy people use extra threads through native plugins :)

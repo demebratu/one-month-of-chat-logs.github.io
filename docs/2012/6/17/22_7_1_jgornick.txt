@@ -1,0 +1,1 @@
+i was hoping for something in the package.json that would allow me to configure the dependencies path so it could be overridden.

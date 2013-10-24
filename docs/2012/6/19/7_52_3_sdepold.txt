@@ -1,0 +1,1 @@
+ParadoxQuine but afaik it's getting removed in newer releases

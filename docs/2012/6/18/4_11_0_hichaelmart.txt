@@ -1,0 +1,1 @@
+jamescarr: perhaps related to http://code.google.com/p/v8/issues/detail?id=1595 ?

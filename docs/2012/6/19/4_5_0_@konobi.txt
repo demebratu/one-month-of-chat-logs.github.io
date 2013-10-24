@@ -1,0 +1,1 @@
+SubStack: it's not a mock lib... it's a way to 'transparently' allow you to intercept require() calls so you can program your own input/output for external libs

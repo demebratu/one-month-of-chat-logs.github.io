@@ -1,0 +1,1 @@
+I should probably stop trying to build my own frameworks and start using other peoples', it would probably be a better way to get stuff done. :<

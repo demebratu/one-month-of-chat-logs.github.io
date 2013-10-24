@@ -1,0 +1,1 @@
+guy: so you'll see the current value no matter when you did console.log

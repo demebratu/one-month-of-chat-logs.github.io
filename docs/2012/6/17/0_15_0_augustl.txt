@@ -1,0 +1,1 @@
+isaacs: basically trying to implement commonjs with vm :)

@@ -1,0 +1,1 @@
+SomeoneWeird: just require them from the index.js file inside routes?

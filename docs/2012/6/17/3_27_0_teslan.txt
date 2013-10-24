@@ -1,0 +1,1 @@
+kind of quiet but meanwhile i could use help with Etag: response headers and If-None-Match request headers and 304 statuses ;)

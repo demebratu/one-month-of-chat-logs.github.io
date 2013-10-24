@@ -1,0 +1,1 @@
+i seem to be creating duplicate connections and so many connection are made althought when i try to coonect and it deosnt go through i  close the connection.

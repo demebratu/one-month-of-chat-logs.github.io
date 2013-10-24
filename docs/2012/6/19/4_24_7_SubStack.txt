@@ -1,0 +1,1 @@
+oh wups, I meant pkg.name

@@ -1,0 +1,1 @@
+augustl: app = connect.createServer(); app.use(somemiddleware) ?

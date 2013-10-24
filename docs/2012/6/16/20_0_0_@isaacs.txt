@@ -1,0 +1,1 @@
+Adamramadhan: for mysql, there's a few mysql drivers.  there's 2 i think for postgres.  there are bunches of things for mongo, and most people just use 'request' for couchdb.

@@ -1,0 +1,1 @@
+isaacs: hmm, require('native_module') doesn't work, is it hidden?

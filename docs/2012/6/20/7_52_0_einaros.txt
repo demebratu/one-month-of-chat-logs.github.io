@@ -1,0 +1,1 @@
+timoxley: in either case, google talk uses none of the new websocket/eventsource voodoo

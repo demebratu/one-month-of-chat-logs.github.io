@@ -1,0 +1,1 @@
+anyway, -f did the trick and node-inspector doesn't appear to be spewing shrapnel all over the place, so thanks, TooTallNate 

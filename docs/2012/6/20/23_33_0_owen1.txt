@@ -1,0 +1,1 @@
+btw, when i try to hardcode an object and pass it to insert it's saving it ok.

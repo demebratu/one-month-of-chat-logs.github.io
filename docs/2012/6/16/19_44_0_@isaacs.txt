@@ -1,0 +1,1 @@
+but i mean, you can alwyas go out and find a benchmark where some other language does better in some specific case.

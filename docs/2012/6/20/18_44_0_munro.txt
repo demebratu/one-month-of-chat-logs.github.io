@@ -1,0 +1,1 @@
+perhaps someone who has experience with vows can enlighten me with their philosophy of contexts... because I found it weird that unrelated contexts shared the same topic state

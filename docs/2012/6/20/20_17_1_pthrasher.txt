@@ -1,0 +1,1 @@
+anyone know if there's a way to get a count of the current event handlers?

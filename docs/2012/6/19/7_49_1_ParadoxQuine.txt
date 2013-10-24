@@ -1,0 +1,1 @@
+ok, awesome. just found the part of the doc where it describes that too. is there a way i can see at runtime where the module was loaded from?

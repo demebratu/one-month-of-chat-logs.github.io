@@ -1,0 +1,1 @@
+My app delivers photos variously resized.

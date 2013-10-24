@@ -1,0 +1,1 @@
+TooTallNate: ok, so 0.7.11 gives the error "undefined symbol: _ZN5boost6system16generic_categoryEv"

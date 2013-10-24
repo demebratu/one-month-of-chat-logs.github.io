@@ -1,0 +1,1 @@
+I think it can be used to tear down any objects created during the tests as well

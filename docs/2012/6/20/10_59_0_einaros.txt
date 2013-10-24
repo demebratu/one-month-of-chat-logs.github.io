@@ -1,0 +1,1 @@
+SubStack: sure, but you're talking nothing but infrastructure now. REST is closer to application level than infrastructure level.

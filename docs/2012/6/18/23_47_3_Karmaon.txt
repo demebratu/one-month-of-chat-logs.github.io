@@ -1,0 +1,1 @@
+zomg: however i have tried starting the app from my home directory, and i get no problems

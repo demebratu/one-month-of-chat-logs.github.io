@@ -1,0 +1,1 @@
+I was able to group paths together in my app, so I found scoped routing easier

@@ -1,0 +1,1 @@
+I presume Node is lowercasing them to make them easier to compare.

@@ -1,0 +1,1 @@
+denysonique: I think that's the wrong approach, determine what you want a program or script to do and then see if Node fits the requirements.

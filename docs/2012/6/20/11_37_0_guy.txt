@@ -1,0 +1,1 @@
+I've looked at socket.id variable. it is always different if I refresh page.

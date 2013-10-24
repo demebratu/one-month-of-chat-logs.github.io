@@ -1,0 +1,1 @@
+Greetings. I am currently trying to make node from the git master. It fails each time with "Error: ENOENT, no such file or directory '~/local/lib/node_modules/npm/bin/npm-cli.js'" any thoughts on how to resolve this?

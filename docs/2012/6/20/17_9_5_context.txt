@@ -1,0 +1,1 @@
+nodex: for modules that have cli commands

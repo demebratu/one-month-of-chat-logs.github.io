@@ -1,0 +1,1 @@
+creationix: ok, but how would I start separate process ,not child processes from a node app?

@@ -1,0 +1,1 @@
+Yeah, I know, what I was concerned about was returning an object which wasn't a "real" buffer, in the sense that it didn't have all of buffer's normal methods

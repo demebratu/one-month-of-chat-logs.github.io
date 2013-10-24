@@ -1,0 +1,1 @@
+konobi: bit then, when osenv is pretending to be windows, i want the path module to work like it does on windows.

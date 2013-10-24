@@ -1,0 +1,1 @@
+chrisdickinson: irl, you have to send everythign in a single http req if you can, or maybe have *a* script tag that gets fetche.d

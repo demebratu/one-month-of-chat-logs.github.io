@@ -1,0 +1,1 @@
+Adamramadhan: i try to install browserquest (html5 browsergame of mozilla).. in the git clone there is a package.json.. as i saw "npm install -d" just uses this and installs everything in ./node_modules

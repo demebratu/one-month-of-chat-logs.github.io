@@ -1,0 +1,1 @@
+tjholowaychuk: do you know why connect.compress() would result in an ERR_CONTENT_DECODING_FAILED on chrome? (and randomly too)

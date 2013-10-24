@@ -1,0 +1,1 @@
+Nexxy: why's that? why's it better than the alternatives? and why specifically static files over dynamic server content?

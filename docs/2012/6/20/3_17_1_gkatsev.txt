@@ -1,0 +1,1 @@
+CS is at least a dsl at most a new language. not 'just syntax sugar'

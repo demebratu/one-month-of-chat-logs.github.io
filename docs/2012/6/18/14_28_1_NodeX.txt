@@ -1,0 +1,1 @@
+I have an app which I copied from a working application and now it wont work on the client - the client is listning it seems but it will not react to messages

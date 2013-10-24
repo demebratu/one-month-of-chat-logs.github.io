@@ -1,0 +1,1 @@
+isaacs: same as issue https://github.com/isaacs/npm/issues/2543

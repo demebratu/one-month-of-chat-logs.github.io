@@ -1,0 +1,1 @@
+guy: if you expect the client to come back after a disconnection your application will have to take care of saving / keeping the state data somewhere

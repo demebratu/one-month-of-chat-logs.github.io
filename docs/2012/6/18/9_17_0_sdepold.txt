@@ -1,0 +1,1 @@
+farhad2161|2 you should probably really spawn a screen session and run the server within it without logging into a file

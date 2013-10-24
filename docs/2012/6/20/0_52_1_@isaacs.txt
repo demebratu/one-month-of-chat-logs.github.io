@@ -1,0 +1,1 @@
+tbranyen: it pulls your git repo out of your .git folder, the description out of your README.md, and your deps out of your node_modules folder, and forces you to enter a test command (it puts a failure there if you dont' specify one)

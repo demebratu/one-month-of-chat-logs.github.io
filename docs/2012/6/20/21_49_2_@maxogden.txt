@@ -1,0 +1,1 @@
+node only has 1 thread for execution. you are thinking of request connection pools 

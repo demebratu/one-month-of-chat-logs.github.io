@@ -1,0 +1,1 @@
+augustl: And is that how Node.js implements it?

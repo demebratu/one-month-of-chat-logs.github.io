@@ -1,0 +1,1 @@
+siddMahen: it just installed everthing in my cwd

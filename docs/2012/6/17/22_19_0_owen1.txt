@@ -1,0 +1,1 @@
+my Makefile have 1 line: seed: node db/seed.js     when i run it i get: 'make: *** No rule to make target `node', needed by `seed'.  Stop.'  any ideas/

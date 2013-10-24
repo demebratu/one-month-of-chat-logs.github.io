@@ -1,0 +1,1 @@
+like trim, split and that kind of stuff

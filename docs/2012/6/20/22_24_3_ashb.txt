@@ -1,0 +1,1 @@
+owen1: node says 'tell me when X happens', and every time the event loop ticks (which is most of the time given node uses callbacks everywhere) then it asks 'which of these 100 events has happened?

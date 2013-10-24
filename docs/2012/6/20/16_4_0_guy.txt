@@ -1,0 +1,1 @@
+frontend https://gist.github.com/10d967b24e7509d3f879 backend https://gist.github.com/1c407e4797ead610830b demo http://dev.anuary.com/game/

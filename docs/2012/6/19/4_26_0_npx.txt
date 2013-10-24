@@ -1,0 +1,1 @@
+TimeTurner the alternative would be var this = require('that'); var that = require('this');

@@ -1,0 +1,1 @@
+gblock: jesusabdullah : one more question, for apps like gmail chat, i dont see any ajax request being made. so how can i know what they are going actually?

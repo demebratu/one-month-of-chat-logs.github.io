@@ -1,0 +1,1 @@
+isaacs: yeah... http.RETURN_THIS_ON_NEXT_REQUEST = { ... }; http.get(...);

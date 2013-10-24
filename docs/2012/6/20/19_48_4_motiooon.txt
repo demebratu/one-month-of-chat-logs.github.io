@@ -1,0 +1,1 @@
+like starting the application and then starting 6 more processes

@@ -1,0 +1,1 @@
+isaacs: true, i wanted to use npm to manage my dependencies for a chrome extension though

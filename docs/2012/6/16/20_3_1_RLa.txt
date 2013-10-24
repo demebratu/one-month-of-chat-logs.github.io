@@ -1,0 +1,1 @@
+wordpress = heaps and heaps of low-quality plugins and very slow core?

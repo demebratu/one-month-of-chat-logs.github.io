@@ -1,0 +1,1 @@
+what's the recommended way to test 0.7.x and not stomp on my stable 0.6.x install?

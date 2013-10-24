@@ -1,0 +1,1 @@
+wondering if there's like a #include_ -like thing in node.js -- for those who've used php

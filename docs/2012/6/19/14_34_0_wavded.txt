@@ -1,0 +1,1 @@
+well one is on the socket.io client, it doesn't fallback to xhr or jsonp if websocket has an error

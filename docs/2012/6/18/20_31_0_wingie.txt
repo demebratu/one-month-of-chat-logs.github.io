@@ -1,0 +1,1 @@
+socket.io seems to do what dnode is doing with passing callbacks now .. is there something i have missed that dnode is better suited for

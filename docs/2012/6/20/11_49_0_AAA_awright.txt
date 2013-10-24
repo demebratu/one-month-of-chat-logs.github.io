@@ -1,0 +1,1 @@
+I'm not aware of any differences between PATCH and POST (except extended semantics in WebDAV and other implementations just using it as an additional verb)

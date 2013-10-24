@@ -1,0 +1,1 @@
+to answer my own question, seems like GridStore is Grid but with more features: http://mongodb.github.com/node-mongodb-native/api-generated/gridstore.html#puts

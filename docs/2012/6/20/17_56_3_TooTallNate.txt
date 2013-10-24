@@ -1,0 +1,1 @@
+rektide: but you can also invoke npm's internal node-gyp by just invoking `npm install` in your native add-on's root

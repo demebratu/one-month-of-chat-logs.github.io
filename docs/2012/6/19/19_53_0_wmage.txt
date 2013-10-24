@@ -1,0 +1,1 @@
+drudge: Is there something that would work in browsers too?

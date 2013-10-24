@@ -1,0 +1,1 @@
+people won't consider it an RC unless you call it 0.8.0-RC1 :)

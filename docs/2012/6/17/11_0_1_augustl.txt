@@ -1,0 +1,1 @@
+thomaschaaf: you probably want a pool of, say, 100, and as soon as one finishes start a new one. Not to start the next 100 when the previous 100 has finished

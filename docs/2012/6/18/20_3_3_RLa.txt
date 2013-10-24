@@ -1,0 +1,1 @@
+but in some other technology having more than one worker per core might be good

@@ -1,0 +1,1 @@
+anyone know of a disk-centric nosql db? something of similar ilk to sqlite but without the sql, so just the ite :/

@@ -1,0 +1,1 @@
+that optimization was not for buffers.  buffers are already fast.

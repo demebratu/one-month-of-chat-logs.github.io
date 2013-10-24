@@ -1,0 +1,1 @@
+so, localStorage exists and is fairly widespread these days.

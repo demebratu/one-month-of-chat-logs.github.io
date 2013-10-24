@@ -1,0 +1,1 @@
+a live data stream... if you consider how much data an audio/video stream contains, 1ms is not even that precise... the reason you don't normally need to deal with it on that level is because your media player buffers it and deals with it for you

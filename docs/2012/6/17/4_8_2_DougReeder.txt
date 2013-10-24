@@ -1,0 +1,1 @@
+I think I have a data structure where they could go, but I don't want to stat every file when starting up.

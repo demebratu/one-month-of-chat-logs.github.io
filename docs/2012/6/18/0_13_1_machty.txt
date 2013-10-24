@@ -1,0 +1,1 @@
+very cool. man. all documentation for ngnix, node, and all sorts of different combinations of technology should immediately start with use cases that demonstrate the relative benefits over the alternatives

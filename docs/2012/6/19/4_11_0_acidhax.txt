@@ -1,0 +1,1 @@
+There are parseJSONCookie(s) and parseSignedCookie(s) though.

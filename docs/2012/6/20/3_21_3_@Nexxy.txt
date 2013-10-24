@@ -1,0 +1,1 @@
+I'd like someone to write an app that just compiles itself back and forth between coffeescript and javascript

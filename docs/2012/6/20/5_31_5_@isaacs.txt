@@ -1,0 +1,1 @@
+chrisdickinson: YUI3 has a very amd-like interface.

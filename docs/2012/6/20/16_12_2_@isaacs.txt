@@ -1,0 +1,1 @@
+because it finds the view.  but then it has to loop over 11k data objects and build up a giant object, then serialize to json, then send to you

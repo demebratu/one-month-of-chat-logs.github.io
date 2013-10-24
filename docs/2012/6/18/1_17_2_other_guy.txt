@@ -1,0 +1,1 @@
+despite that I've set NODE_PATH=/usr/local/bin 

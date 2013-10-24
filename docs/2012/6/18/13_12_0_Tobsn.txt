@@ -1,0 +1,1 @@
+var ..., geoip  = require('geoip'), geo = new geoip.City('./GeoIPCity.dat');

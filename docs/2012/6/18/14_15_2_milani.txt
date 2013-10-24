@@ -1,0 +1,1 @@
+using gyp file, you can set defines easily.

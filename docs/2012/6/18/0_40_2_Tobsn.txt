@@ -1,0 +1,1 @@
+no way to write application logic in nginx

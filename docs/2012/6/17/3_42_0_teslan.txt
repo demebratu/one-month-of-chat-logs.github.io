@@ -1,0 +1,1 @@
+except that i am not getting anything in request.header["If-None-Match"] ... first, is that the right place where these conditionals are located?

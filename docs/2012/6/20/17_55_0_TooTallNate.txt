@@ -1,0 +1,1 @@
+$ ./configure && V=1 make

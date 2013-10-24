@@ -1,0 +1,1 @@
+but suppose I .pipe() to multiple readable streams that all have their own preference for which kind of data event they should receive

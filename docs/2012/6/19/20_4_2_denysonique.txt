@@ -1,0 +1,1 @@
+something that makes it 'easier' to make GET requests and save the returned data to a file?

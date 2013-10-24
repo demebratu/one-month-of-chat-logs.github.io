@@ -1,0 +1,1 @@
+Fletch: so you have sqlite3 installed?

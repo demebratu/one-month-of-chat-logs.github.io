@@ -1,0 +1,1 @@
+Jckf, I do the same thing with my riak db client

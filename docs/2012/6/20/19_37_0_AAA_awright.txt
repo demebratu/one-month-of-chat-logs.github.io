@@ -1,0 +1,1 @@
+http://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/

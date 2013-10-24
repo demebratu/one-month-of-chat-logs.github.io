@@ -1,0 +1,1 @@
+hey guys, i know this channel isn't express-specific (I've already asked this in #express), but i'm scratching my head over some strange res.json behavior

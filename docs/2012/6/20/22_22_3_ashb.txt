@@ -1,0 +1,1 @@
+kernel has a way where an app can be notified when an event (data, can be written to, etc) happens on a file descriptor (socket)

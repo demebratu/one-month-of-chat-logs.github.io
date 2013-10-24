@@ -1,0 +1,1 @@
+i guess i need to upgrade to a bigger ec2 instance

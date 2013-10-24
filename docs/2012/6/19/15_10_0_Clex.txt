@@ -1,0 +1,1 @@
+This there a way with node.js to exec() and replace the process? Like libc's execve() would do.

@@ -1,0 +1,1 @@
+is it possible for you to enlighten me a little bit on the technology? Does node have it's own server software? or does it run behind my current webserver? (nginx)

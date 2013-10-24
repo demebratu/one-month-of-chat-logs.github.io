@@ -1,0 +1,1 @@
+timoxley: also I though it's easier to make real-time applications with socket.io.

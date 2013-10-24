@@ -1,0 +1,1 @@
+most of the views i write these days all emit value=1, and reduce: "_sum"

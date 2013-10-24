@@ -1,0 +1,1 @@
+but I tried both:   NODE_DEBUG=true node test.js    and also    node --debug test.js

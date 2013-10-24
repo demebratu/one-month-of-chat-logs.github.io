@@ -1,0 +1,1 @@
+DougReeder: ^ what else beside the ETag: should i be setting in responses or is it good enough?

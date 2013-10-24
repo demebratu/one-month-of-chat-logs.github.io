@@ -1,0 +1,1 @@
+yeah, you can abstract polling and pretend it's a full duplex stream.

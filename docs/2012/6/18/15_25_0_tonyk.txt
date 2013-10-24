@@ -1,0 +1,1 @@
+dre: will it work over extended periods of time? I can think of a case where intervals slowing drifting will cause it to be inaccurate

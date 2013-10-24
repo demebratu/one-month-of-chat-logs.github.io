@@ -1,0 +1,1 @@
+schaf5: process.stdin.on('data', function (chunk) { /* Do something with chunk of stdin here */ }); process.stdin.resume();

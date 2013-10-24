@@ -1,0 +1,1 @@
+`3rdEden: tickTime = function () { console.time('tick'); process.nextTick(console.timeEnd.bind(console, 'tick')) }

@@ -1,0 +1,1 @@
+airandfingers afaik res.json is usually the last thing that happens so I'm really not sure what else could be affecting it.

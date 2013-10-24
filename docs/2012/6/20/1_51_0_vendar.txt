@@ -1,0 +1,1 @@
+FNTom: with 60k connections, it cost 20-25 seconds to push one message to every connection by running out of CPU. Also I modified the GC timer of node from 5 seconds to 2 minutes

@@ -1,0 +1,1 @@
+jesusabdullah: maybe the plane's wifi blocks WebSocket traffic

@@ -1,0 +1,1 @@
+and with REST you've got to do polling sometimes, which is bad

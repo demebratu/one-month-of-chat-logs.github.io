@@ -1,0 +1,1 @@
+suppose I have a readable stream and I can emit raw objects, strings, or buffers in 'data' events

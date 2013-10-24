@@ -1,0 +1,1 @@
+stop using node for static assets ?

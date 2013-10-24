@@ -1,0 +1,1 @@
+what I find more disappointing about javascript is the total lack of libraries and apis!

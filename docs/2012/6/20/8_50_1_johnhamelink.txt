@@ -1,0 +1,1 @@
+thanks radiodario, here's the problem: https://github.com/LearnBoost/mongoose/issues/973

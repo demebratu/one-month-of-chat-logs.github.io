@@ -1,0 +1,1 @@
+Well, I'm having one under a nested if statement. It checks if variable is undefined, it gives a value of 1 to it.

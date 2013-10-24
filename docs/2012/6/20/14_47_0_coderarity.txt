@@ -1,0 +1,1 @@
+bnoordhuis, this is happening on an HTTP server listen and it's giving me a listen EOF, that other bug was just fs.watchFile not actually doing anything

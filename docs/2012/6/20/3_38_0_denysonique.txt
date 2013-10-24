@@ -1,0 +1,1 @@
+after looking at my 168 loc JS program converted to 109 loc of CoffeeScirpt I will as if someone put glasses on my eyes

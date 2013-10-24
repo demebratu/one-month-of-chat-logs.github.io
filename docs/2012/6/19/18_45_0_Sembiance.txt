@@ -1,0 +1,1 @@
+Ahh, figured it out with trial and error.   NODE_DEBUG=path node test.js.

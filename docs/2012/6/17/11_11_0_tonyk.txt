@@ -1,0 +1,1 @@
+but if you want to do it efficiently, you have to spawn a X number of processes with cluster and consume a redis queue with BLPOP

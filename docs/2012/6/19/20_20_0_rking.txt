@@ -1,0 +1,1 @@
+It probably has a bug, like $INSTALL_ROOT/bin and $INSTALL_ROOT is '' at that point.

@@ -1,0 +1,1 @@
+einaros perhaps a hybrid approach would be optimal… promote to websockets while actively chatting, fall back to long polling while iactive

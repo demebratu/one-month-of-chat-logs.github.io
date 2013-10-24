@@ -1,0 +1,1 @@
+augustl: using the new connect api what I said would amount to app = require('connect').apply(null, middlewares)

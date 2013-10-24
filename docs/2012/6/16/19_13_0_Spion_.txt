@@ -1,0 +1,1 @@
+learn how to set node_env in zsh, i guess

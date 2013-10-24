@@ -1,0 +1,1 @@
+in these protocols, we will return either ':foo' or '/foo' depending on input

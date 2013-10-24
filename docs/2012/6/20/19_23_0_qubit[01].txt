@@ -1,0 +1,1 @@
+Nasrudin,  there is some javascript native ways ala http://howtonode.org/prototypical-inheritance , however I use simple-class , makes it very easy , var Person = Class.extend({}); var Stewardess = Person.exted({});

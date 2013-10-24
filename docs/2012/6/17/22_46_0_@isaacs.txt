@@ -1,0 +1,1 @@
+pksunkara_: so, scp foo server.com:foo is ver different from ssh foo server.com/foo

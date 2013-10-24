@@ -1,0 +1,1 @@
+or to read once and pass this data to each method the generates the response?

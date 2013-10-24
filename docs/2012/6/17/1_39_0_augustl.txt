@@ -1,0 +1,1 @@
+afaik there are low level syscalls to open tcp sockets and have the OS assign a port though

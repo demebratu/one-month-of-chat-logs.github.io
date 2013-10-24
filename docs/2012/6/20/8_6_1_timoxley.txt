@@ -1,0 +1,1 @@
+wiherek jquery is just an ajax + dom abstration layer, drupal has little nothing to do with this discussion

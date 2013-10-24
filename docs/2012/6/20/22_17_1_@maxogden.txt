@@ -1,0 +1,1 @@
+owen1: because node wont block on I/O it will be able to process them serially in a very short amount of time

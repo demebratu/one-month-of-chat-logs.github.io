@@ -1,0 +1,1 @@
+how can u run something in pararell without threads?

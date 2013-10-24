@@ -1,0 +1,1 @@
+http://sequelizejs.com/#migrations + http://sequelizejs.com/#usage-dialects :D

@@ -1,0 +1,1 @@
+I am considering JS instead of Coffee for an open source project

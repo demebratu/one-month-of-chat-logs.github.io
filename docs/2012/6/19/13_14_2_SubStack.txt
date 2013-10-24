@@ -1,0 +1,1 @@
+it's better to have functions that take a request and emit a stream response

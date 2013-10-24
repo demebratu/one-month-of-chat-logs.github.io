@@ -1,0 +1,1 @@
+thiagof - ajax only to load html, right? cause now I have socket.io to pass data (text atm)

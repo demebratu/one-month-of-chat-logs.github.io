@@ -1,0 +1,1 @@
+yui also has this seed-file system, so you can have it dynamically build up the right sort of <script> tag, rather than bundle all your code into the initial download.

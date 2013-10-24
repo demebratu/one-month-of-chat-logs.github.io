@@ -1,0 +1,1 @@
+is there a better way to pull in these files for testing, or can I somehow polute their require to give them the variable dependencies needed to resolve?

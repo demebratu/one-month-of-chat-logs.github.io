@@ -1,0 +1,1 @@
+jfroma: you could use the vm module to monkey patch `require` so it returns the mocked module you want

@@ -1,0 +1,1 @@
+wiherek I'd still try build that with a clientside framework first

@@ -1,0 +1,1 @@
+I have some private NPM modules that I'd like to be able to install with "npm install <modulename>" without having to `npm publish` it to the public repository.

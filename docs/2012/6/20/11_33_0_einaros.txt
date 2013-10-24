@@ -1,0 +1,1 @@
+guy: per connection (provided that you add a message handler which accesses it)

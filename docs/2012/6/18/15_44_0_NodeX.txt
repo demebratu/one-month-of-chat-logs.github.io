@@ -1,0 +1,1 @@
+Good to finaly find out that in socket.io cross domains map back to IP's  too ... nicely documented ... NOT!

@@ -1,0 +1,1 @@
+AAA_awright: no, PUT has side effects. but PUTing the same resource twice shouldn't affect the state further.

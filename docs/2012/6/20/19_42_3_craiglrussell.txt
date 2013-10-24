@@ -1,0 +1,1 @@
+at the cxxlink stage I get ld warning: in /Users/clr/ndb/git-repo/node-src/out/Release/deps/uv/uv.a, file is not of required architecture

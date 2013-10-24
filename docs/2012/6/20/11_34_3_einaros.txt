@@ -1,0 +1,1 @@
+sharing data between servers, if you're e.g. using the redis store backend

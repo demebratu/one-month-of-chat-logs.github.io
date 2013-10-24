@@ -1,0 +1,1 @@
+dominictarr: in either case if you're going to argue that stance you better come up with a specific example of a non-CRUD system where REST can't be used

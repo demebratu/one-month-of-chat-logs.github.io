@@ -1,0 +1,1 @@
+qrpike: so, just require("path/to/file"); ?

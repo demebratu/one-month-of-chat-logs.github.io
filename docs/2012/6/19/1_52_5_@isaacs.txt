@@ -1,0 +1,1 @@
+konobi: or have the path module read it up front, rather than multiple places.

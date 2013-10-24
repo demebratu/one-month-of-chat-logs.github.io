@@ -1,0 +1,1 @@
+augustl: That may have been the problem the first time I tried - since then I seem to get EACCES on /root/.node-gyp.  I'm running it as root.

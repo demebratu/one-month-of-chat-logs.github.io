@@ -1,0 +1,1 @@
+strace dumps a few calls to setxattr then detaches

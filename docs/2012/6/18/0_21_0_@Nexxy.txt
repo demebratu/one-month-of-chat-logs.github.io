@@ -1,0 +1,1 @@
+machty, also nginx also has facilities such as upstart and monit available to it to ensure its livelihood

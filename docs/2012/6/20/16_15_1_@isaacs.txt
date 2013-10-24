@@ -1,0 +1,1 @@
+but yes, i feel like we're hitting some wall with couchdb performance on these views.

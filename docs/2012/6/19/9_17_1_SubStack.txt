@@ -1,0 +1,1 @@
+I could use multiple event names but then I can't use .pipe()

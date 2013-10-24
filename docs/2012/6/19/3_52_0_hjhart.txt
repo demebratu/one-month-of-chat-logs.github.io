@@ -1,0 +1,1 @@
+This may seem like a dumb question to some, but I'm looking to set up a web scraper for google.com/flights. The page is loaded predominantly with javascript so - are there any packages I should know about to get started? 

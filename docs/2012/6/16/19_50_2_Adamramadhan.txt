@@ -1,0 +1,1 @@
+Single thread application with an libev and libio. Very intresting. The only problem is that is still young, have you ever scale node.js in production?

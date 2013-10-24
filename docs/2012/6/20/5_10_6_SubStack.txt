@@ -1,0 +1,1 @@
+and that is the same place that the `browserify` command is installed from?

@@ -1,0 +1,1 @@
+coderarity: does your script work when you run it as root? without dtruss, i mean

@@ -1,0 +1,1 @@
+i would like to explore some data from EVE online. CCP games releases a dataset in their toolkit, as a MSSQL dump.bak

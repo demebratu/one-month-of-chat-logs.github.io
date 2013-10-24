@@ -1,0 +1,1 @@
+for instance... If I want to check to see if I'm awaiting a response from HTTP, or if it's all done, any way to check that at runtime?

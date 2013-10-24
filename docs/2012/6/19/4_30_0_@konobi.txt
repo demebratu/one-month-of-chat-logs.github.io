@@ -1,0 +1,1 @@
+crap... um... 'mocked(...); var http = require('http'); http.ON_NEXT_REQUEST_RETURN = { ... }; http.post(...); t.equal(...);'

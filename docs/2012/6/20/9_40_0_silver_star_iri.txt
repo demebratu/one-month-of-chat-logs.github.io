@@ -1,0 +1,1 @@
+I work with socket.io after a while cpu load goes up about 70 % , and node works , but does not response , How I can find out why ?

@@ -1,0 +1,1 @@
+Try having your script first 'cd' into the directory where your app is

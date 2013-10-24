@@ -1,0 +1,1 @@
+I'm considering just dumping the test data into mongo and creating my own front-end view for it, is that stupid?  am I reinventing the wheel?  I think part of it is that buildbot and jenkins are so ugly

@@ -1,0 +1,1 @@
+A single assignment per request is cheap.

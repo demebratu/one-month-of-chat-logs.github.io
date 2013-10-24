@@ -1,0 +1,1 @@
+Adamramadhan: but in general, node is not about "one good allinone" modules.  it's about openness and small modules and fast distributed innovation.

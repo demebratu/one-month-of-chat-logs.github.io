@@ -1,0 +1,1 @@
+so, in this ideal world i'm hypothesizing, a browser would just have a script tag with a "data-main" of a module name.

@@ -1,0 +1,1 @@
+Tobsn: though, still wondering why bother putting everything through nginx? if you're hosting a bunch of different websites, why bother putting them all through nginx? why aren't they just on separate servers with separate concerns? i guess, what's a good use case for driving multiple IPs/DNSs to nginx only to split them out again?

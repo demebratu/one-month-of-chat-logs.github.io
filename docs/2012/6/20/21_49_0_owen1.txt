@@ -1,0 +1,1 @@
+maxogden: so a request comes in. the main event loop is sending the request somewhere, right? are u sure it's not executed by a thread? i thought there are 5 threads in a pool for that purpoe.

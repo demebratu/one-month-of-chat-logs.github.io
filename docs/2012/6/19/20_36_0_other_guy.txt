@@ -1,0 +1,1 @@
+Anyone in here have an experience amongst existing OAuth 2 modules for implementing an OAuth protected resource, not -consuming- somebody else's resource.

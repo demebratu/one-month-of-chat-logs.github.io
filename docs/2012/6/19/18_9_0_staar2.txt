@@ -1,0 +1,1 @@
+well ok the == is kinda misleading for programmers, i tought object literal as an Map key-value

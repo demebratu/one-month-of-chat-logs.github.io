@@ -1,0 +1,1 @@
+so, i have a problem.  If i do a long http client request, and my node process is sitting there waiting for a response, and I disable my wifi,  none of the "error", "end" or "close" events are getting fired.  is this intended?

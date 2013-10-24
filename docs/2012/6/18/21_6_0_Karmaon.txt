@@ -1,0 +1,1 @@
+apparently 'config/database.json' means '../config/database.json' locally, but not while being executed in a script

@@ -1,0 +1,1 @@
+even then I'm not sure, I never use .js suffix in require's :)

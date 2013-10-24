@@ -1,0 +1,1 @@
+Oh look CRC32 looks great! http://noteslog.com/post/crc32-for-javascript/

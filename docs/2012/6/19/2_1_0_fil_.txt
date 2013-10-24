@@ -1,0 +1,1 @@
+im having trouble kill child processes created by node under Windows

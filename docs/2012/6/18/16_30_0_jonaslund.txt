@@ -1,0 +1,1 @@
+a mpeg stream has them, a raw stream usually atleast signals frame starts or similiar

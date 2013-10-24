@@ -1,0 +1,1 @@
+chapel: multiple var statements aren't necessary either, but i will never not use them

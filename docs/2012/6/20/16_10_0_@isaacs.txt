@@ -1,0 +1,1 @@
+rektide: already, it only downloads new stuff.  but that first one hurts.  it'd be best if it could download like just 1000 package updates at a time or something

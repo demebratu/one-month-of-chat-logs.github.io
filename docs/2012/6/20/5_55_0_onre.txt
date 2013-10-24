@@ -1,0 +1,1 @@
+as an emacs user, ctrl is usually the first key that stops working on my laptop

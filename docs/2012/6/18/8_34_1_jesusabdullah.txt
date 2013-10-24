@@ -1,0 +1,1 @@
+jhsto: Or, use a templating engine to format the data as html and serve that

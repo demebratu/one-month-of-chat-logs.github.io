@@ -1,0 +1,1 @@
+what was that nice javascript module that implemnted .collect.map.sort.revert.compact things like ror?

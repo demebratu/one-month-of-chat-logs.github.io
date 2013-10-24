@@ -1,0 +1,1 @@
+Nexxy: The routes use exports to return a function. Guessing I can return a function that returns a function so that I can pass arguments to them

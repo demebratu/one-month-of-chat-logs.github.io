@@ -1,0 +1,1 @@
+hmm if i do this var x = { y: data.z || false }; - why would it die with TypeError: Cannot read property 'z' of null

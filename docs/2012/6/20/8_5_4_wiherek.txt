@@ -1,0 +1,1 @@
+it all gets rendered in the users browser (jquery is not handled by Drupal at all, just loaded to the browser)

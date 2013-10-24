@@ -1,0 +1,1 @@
+(how) can I put comments in package.json ?

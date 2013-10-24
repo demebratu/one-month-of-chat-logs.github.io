@@ -1,0 +1,1 @@
+Tobsn you could probably run the server exec the script and close it afterwards?

@@ -1,0 +1,1 @@
+I guess you could call that mvc… but it's very high level. typically your m, v and c layers are actual constructs in your code 

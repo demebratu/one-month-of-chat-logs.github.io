@@ -1,0 +1,1 @@
+Clex: spawn(cmd, [arg, arg, arg], { stdio: 'inherit' })

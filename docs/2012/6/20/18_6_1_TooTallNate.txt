@@ -1,0 +1,1 @@
+qbit_: so try patching gyp manually i suppose

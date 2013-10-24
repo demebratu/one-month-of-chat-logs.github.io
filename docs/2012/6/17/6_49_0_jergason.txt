@@ -1,0 +1,1 @@
+Tobsn: https://github.com/rsms/node-imagemagick is decent.

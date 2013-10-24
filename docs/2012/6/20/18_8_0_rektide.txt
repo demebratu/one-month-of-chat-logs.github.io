@@ -1,0 +1,1 @@
+npm link is installing symlinks to /usr/local/lib/node_modules, node is ./configure --prefix=/opt/node and has a /opt/node/lib/node_modules, and stracing a simple require("foo") is only looking in /opt/node/lib/node/foo

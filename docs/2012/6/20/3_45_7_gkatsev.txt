@@ -1,0 +1,1 @@
+chapel: http://benalman.com/news/2012/05/multiple-var-statements-javascript/

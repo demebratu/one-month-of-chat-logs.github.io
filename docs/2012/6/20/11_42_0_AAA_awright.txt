@@ -1,0 +1,1 @@
+einaros: So you might use PUT to perform a calculation on submitted data, but without modifying the application's state

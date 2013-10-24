@@ -1,0 +1,1 @@
+dominictarr: go debate it on the REST mailing list. my impression right now is that you don't have a very good understanding of what REST really is.

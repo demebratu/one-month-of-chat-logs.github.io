@@ -1,0 +1,1 @@
+Thanks, pjax looks easy to integrate. I have to try this once I have time to do so.

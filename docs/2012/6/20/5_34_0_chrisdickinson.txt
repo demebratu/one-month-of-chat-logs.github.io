@@ -1,0 +1,1 @@
+the thing that the define call gets around is the fact that you (potentially) can't get the source code you're attempting to require as text in javascript.

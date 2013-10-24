@@ -1,0 +1,1 @@
+pksunkara_: also, what about things that have no protocl?  that's anotehr tricky one.  like:  git@github.com:isaacs/npm

@@ -1,0 +1,1 @@
+using a for loop would probably be faster than breaking it up into an array

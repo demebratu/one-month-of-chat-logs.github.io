@@ -1,0 +1,1 @@
+but client-side (in the callback of my $.post call), Response is { reveal: { '2': {} } }

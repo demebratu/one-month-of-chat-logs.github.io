@@ -1,0 +1,1 @@
+Dieterbe: it is indeed a coffeescript issue. you need to put empty parens at the end of it

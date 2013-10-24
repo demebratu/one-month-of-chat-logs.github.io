@@ -1,0 +1,1 @@
+DougReeder: Yes, probably the middleware would work, I was considering it already but I'd prefer something more "lightweight" in the sense that a new function wouldn't have to be called for every request. I'd just prefer to "extend" the base object if possible

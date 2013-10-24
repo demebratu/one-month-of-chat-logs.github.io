@@ -1,0 +1,1 @@
+event emitters are good for handling things like db connections

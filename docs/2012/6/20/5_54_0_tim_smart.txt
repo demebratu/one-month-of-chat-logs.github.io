@@ -1,0 +1,1 @@
+isaacs: It is useful for things like ctags completion in insert mode

@@ -1,0 +1,1 @@
+you can also try lighttpd or lighttpd 2... same thing as nginx

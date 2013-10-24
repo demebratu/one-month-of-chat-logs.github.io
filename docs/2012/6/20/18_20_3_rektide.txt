@@ -1,0 +1,1 @@
+isaacs: /usr/local/bin/npm is symlinked to /opt/node/bin/npm

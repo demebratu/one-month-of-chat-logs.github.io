@@ -1,0 +1,1 @@
+so, reading wikipedia, I see that REST is about resources that are uniquely id by urls

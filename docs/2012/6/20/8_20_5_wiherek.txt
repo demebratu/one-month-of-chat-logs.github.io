@@ -1,0 +1,1 @@
+timoxley: I see that ember is an MVC model. I think now I have my own MVC model (mongo, jquery, node)

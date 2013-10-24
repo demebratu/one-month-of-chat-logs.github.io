@@ -1,0 +1,1 @@
+circlicious: some servers don't recognize the http upgrade / won't allow WebSocket traffic to flow

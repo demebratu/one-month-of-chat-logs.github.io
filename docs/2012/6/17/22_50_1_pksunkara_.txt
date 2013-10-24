@@ -1,0 +1,1 @@
+so, having some protocols which don't use color at the beginning of pathname is better

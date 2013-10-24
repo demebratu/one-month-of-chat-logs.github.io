@@ -1,0 +1,1 @@
+what diff tool do you use for git merging in linux (ubuntu)? (not a pool)

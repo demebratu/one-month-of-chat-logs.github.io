@@ -1,0 +1,1 @@
+circlicious: chrome dev console network tab will show an open connection. if you're using chrome they may or may not be pushing data to you through spdy, though (I really haven't looked into how their app works)

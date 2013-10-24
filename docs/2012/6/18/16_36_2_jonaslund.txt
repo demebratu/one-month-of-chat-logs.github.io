@@ -1,0 +1,1 @@
+granted jitter on jitter would create problems but like you said.. shouldn't the buffers in mediaplayers hide it?

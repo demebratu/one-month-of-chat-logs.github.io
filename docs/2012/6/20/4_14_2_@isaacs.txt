@@ -1,0 +1,1 @@
+konobi: yeah, plus we build the OS.  so we have a lot of insight into all parts of the stack.

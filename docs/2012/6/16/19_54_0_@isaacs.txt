@@ -1,0 +1,1 @@
+siddMahen: in v0.8, SlowBuffer inherits from Buffer.

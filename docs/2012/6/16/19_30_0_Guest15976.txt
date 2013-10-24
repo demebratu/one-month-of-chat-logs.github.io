@@ -1,0 +1,1 @@
+i have no shell command "node-gyp" if you mean that

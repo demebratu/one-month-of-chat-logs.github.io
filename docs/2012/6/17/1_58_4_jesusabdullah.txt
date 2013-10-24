@@ -1,0 +1,1 @@
+I agree that writing your port assignment stuff in node is non-hacky.

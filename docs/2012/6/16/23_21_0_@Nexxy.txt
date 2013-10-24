@@ -1,0 +1,1 @@
+Jckf, like for example if you have var x = "ohai" in one module, and you require('lulz')

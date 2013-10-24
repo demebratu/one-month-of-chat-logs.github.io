@@ -1,0 +1,1 @@
+rektide: look in the "registry" portion.  views, shows, etc.  all in there

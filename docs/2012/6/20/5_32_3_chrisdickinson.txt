@@ -1,0 +1,1 @@
+isaacs: as i understand it, the whole reason for the `define` call is because of CORS.

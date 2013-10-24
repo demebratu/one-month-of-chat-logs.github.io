@@ -1,0 +1,1 @@
+yeah I agree, it'll be pretty 1:1 with node APIs, won't be looking at commonjs specs

@@ -1,0 +1,1 @@
+the built-in HTTP client obviously allows for all of this, except for the arrow shape part :)

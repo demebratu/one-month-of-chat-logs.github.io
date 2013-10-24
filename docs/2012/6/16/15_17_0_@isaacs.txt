@@ -1,0 +1,1 @@
+couchdb's sorting semantics are really interesting, once you realize that a key can be an array

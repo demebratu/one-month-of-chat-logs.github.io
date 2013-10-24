@@ -1,0 +1,1 @@
+it is persistant right ? with apache persistent connection i faced memory issues with lots of connections

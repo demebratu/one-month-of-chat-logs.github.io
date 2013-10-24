@@ -1,0 +1,1 @@
+in setTimeout you pass a function, i.e. just the function name. if you add parentheses you execute the function immediately and pass the return value

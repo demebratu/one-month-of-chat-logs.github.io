@@ -1,0 +1,1 @@
+Is there a way to measure the busyness of the event loop? Or how long one single tick took to process?

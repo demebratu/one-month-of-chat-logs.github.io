@@ -1,0 +1,1 @@
+Hey guys. Anyone familiar with partials in expressjs? I have a jade template doing !=partial('foo/bar', foos), but the foos object in the foo/bar.jade view is just the original array rather than a single entry from the array

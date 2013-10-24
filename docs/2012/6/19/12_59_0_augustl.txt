@@ -1,0 +1,1 @@
+einaros: the only described API seems to be passing it to http.createServer(middlewaresHere)

@@ -1,0 +1,1 @@
+well first of all, there is no point in using an environment variable if you're setting it internally.

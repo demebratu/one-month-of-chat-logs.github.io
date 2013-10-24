@@ -1,0 +1,1 @@
+after the http.request, the connection is made. then when you do a .end the request is made. after the response, the connection stays open. this is perfect so i am not wasting TCP sockets in the WAIT state. but i can't figure out how to tell node to do a second request.

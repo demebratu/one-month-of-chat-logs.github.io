@@ -1,0 +1,1 @@
+I have designed a prototype of structural programming editor

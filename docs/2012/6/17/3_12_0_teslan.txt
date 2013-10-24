@@ -1,0 +1,1 @@
+and where would i beest ask about ETag: on responses and then using then on subsequent requests ("If-None-Match" ?) to respond with 200 or 304?

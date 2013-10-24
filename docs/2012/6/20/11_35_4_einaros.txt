@@ -1,0 +1,1 @@
+session as in the period between a connection and a disconnection: yes

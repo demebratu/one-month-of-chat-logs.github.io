@@ -1,0 +1,1 @@
+oh, wait. services.blog.get('2012', '03', '05'). I wasn't yet clever enough to define the rest. :x

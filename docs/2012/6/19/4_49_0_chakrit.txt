@@ -1,0 +1,1 @@
+Jake tasks for bumping version number: https://gist.github.com/2952320 .. incase anyone's interested :)

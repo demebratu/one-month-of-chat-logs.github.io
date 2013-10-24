@@ -1,0 +1,1 @@
+between capslock=esc, ctrl, cmd, alt, and fn, it sometimes seems like the whole lower-left corner is control keys

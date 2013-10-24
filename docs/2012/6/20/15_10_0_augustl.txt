@@ -1,0 +1,1 @@
+are there any  HTTP client libraries for nodejs  that lets me do successive HTTP requests where the next one gets access to the response from the previous one, and at the same time avoiding arrow shaped code?

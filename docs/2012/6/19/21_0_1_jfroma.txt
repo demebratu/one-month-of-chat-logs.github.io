@@ -1,0 +1,1 @@
+munro, i just "invented" this inspired in the stackoverflow answer, is in the npm... suggestions are welcome  :) https://github.com/jfromaniello/mockuire

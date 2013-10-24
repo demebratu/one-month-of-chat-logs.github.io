@@ -1,0 +1,1 @@
+I have 6 express apps running as services and 1 main entry that would want to proxy all the services

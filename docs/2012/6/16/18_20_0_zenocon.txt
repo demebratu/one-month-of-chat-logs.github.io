@@ -1,0 +1,1 @@
+hi, i want use sinon to stub net.Socket, but am having trouble.  var socket = new net.Socket({}); var stub = sinon.stub(socket);  socket.setEncoding('ascii');  Error Object has no method 'setEncoding' - why? 

@@ -1,0 +1,1 @@
+SubStack: THERE's your browserify'ed fs

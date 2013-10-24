@@ -1,0 +1,1 @@
+im on a micro and never see any problems, can you identify whats taking the CPU ?  node-inspector maybe ?

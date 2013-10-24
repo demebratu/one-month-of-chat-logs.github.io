@@ -1,0 +1,1 @@
+no, and it doesnt happen locally. it only happens when it is deployed (ubuntu 12.04) both in node 0.6 and 0.7. I cannot debug it because curl always returns the file. chrome or firefox will return an error and chrome dev tools will show that the response has no body

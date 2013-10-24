@@ -1,0 +1,1 @@
+Nexxy: right, but if you wanted to run it through another server like (say nginx), you'd have to use something like nginx but you can't use apache

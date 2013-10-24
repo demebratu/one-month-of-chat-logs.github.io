@@ -1,0 +1,1 @@
+that is an nginx instance that serves things like clientside bundles of css and js

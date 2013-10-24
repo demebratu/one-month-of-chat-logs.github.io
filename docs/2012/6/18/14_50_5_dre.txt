@@ -1,0 +1,1 @@
+I'd like to have a .1ms timer, even if it wastes 10% of the CPU just on the loop

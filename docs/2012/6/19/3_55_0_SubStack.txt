@@ -1,0 +1,1 @@
+well node can do it but you've got to re-create the dom if you want to run the code directly

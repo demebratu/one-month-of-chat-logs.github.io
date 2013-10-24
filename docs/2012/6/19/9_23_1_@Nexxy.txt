@@ -1,0 +1,1 @@
+SubStack, can you just wrap the data in an object that's keyed to the data type?

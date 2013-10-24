@@ -1,0 +1,1 @@
+and you can dnode(cons, { emit : 'object' }) to emit raw objects

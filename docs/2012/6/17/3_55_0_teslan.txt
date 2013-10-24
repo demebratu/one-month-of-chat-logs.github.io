@@ -1,0 +1,1 @@
+DougReeder: what is the story with these header names, so much literature with "If-None-Match" and it turns out to be == "if-none-match" ?

@@ -1,0 +1,1 @@
+i have a direct carrier lookup but i want to know if i might be able to use only the host

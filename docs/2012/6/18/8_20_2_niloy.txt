@@ -1,0 +1,1 @@
+jesusabdullah, that library modifies native string :(

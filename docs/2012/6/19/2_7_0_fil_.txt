@@ -1,0 +1,1 @@
+I've been debugging by binary chopping, but surely there is scope for a debug tool to tell you all the outstanding event sinks

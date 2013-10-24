@@ -1,0 +1,1 @@
+and it would be nice if that work could be skipped over completely if there aren't any listeners

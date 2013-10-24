@@ -1,0 +1,1 @@
+Having the front end and back end the same language is a bigger win when you want to share code between the two.

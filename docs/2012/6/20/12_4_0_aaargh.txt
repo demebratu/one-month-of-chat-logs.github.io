@@ -1,0 +1,1 @@
+einaros: yes, and stopped firing timeout and interval events too

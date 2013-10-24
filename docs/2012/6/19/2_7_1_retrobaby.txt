@@ -1,0 +1,1 @@
+as a beginner in node, do you advice reading the node source or hacking on some small open source project to begin with? i usually read the source, but i also usually dont do back end

@@ -1,0 +1,1 @@
+Looks good, but too big for my needs. What I need is something really simple and lightweight. But looks like I found a thread with that same question: http://stackoverflow.com/questions/421419/good-choice-for-a-lightweight-checksum-algorithm

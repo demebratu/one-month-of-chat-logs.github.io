@@ -1,0 +1,1 @@
+SOO many modules that build with waf have targets build flags specific to intel/amd x86 hardware, like nothing else exists

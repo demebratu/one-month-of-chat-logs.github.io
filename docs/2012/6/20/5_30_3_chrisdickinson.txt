@@ -1,0 +1,1 @@
+more emphasis on the client, less emphasis on the server.

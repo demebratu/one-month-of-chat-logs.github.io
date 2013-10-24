@@ -1,0 +1,1 @@
+owen1: looks like your payload is being passed to the BSON serializer as a Buffer instead of an object literal

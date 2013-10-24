@@ -1,0 +1,1 @@
+SubStack: the first rule of REST: use http rather than your own application specific crap, including status codes and content negotiation

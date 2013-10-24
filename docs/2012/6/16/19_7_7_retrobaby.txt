@@ -1,0 +1,1 @@
+cant we just force the environment at the top of the app.js file? i mean i force it to process.env.NODe_ENV = 'test' in my app.test.js

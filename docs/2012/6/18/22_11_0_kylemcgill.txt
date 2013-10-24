@@ -1,0 +1,1 @@
+Hi NodeJS, im having a retarded moment, for some reason im having serious trouble catching stdout and processing it as a JSON object, any tips ideas, or even better a place i can look to and learn? Ta! https://gist.github.com/54b1bb8c40fa7783bfbb

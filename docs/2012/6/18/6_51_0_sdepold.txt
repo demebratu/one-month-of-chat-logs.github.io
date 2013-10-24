@@ -1,0 +1,1 @@
+and u might also want to check the ram and cpu usage of the app over time

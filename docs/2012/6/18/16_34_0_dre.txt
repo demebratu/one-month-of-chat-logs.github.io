@@ -1,0 +1,1 @@
+yea, I have timestamps, but I need to actually de-jitter the packets and make sure the stream is consistent

@@ -1,0 +1,1 @@
+wiherek either way, http/websockets, sounds like your app is quite complex… you want a clientside framework to handle code organisation and view rendering

@@ -1,0 +1,1 @@
+(since i'm using trunk node, v0.8.0, and npm registry has no block-stream compatible with it.) i still haven't found any way to give preference to the locally installed block-stream, to get this node-gyp build to commence with my own block-stream which is v0.8 compaitlbe

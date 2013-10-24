@@ -1,0 +1,1 @@
+whats up with express.compress()/connect.compress() in 0.7, im getting ERR_CONTENT_DECODING_FAILED in chrome

@@ -1,0 +1,1 @@
+Or write / use some library and forget about it.

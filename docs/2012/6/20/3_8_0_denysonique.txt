@@ -1,0 +1,1 @@
+After withdrawing for some time from CoffeeScript I don't understand how one can still write in pure JS

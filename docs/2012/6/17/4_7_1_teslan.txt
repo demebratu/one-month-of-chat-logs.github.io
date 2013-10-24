@@ -1,0 +1,1 @@
+DoughReeder, in my case i have an md5 for each doc and an etag for the whole set and am going to use md5 ... so could you?

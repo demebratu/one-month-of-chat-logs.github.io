@@ -1,0 +1,1 @@
+I've written a node script that sets up a debugging instance. in the short term I use it to kick off everything (app, inspector, and debugger UI) and then terminate all the instances after the app closes. is there anything existing out there - just interested in how ppl debug as I found it very labour intensive initially

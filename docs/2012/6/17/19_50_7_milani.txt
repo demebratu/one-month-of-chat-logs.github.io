@@ -1,0 +1,1 @@
+and a simple initializer which goes throw directories

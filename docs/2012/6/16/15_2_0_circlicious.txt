@@ -1,0 +1,1 @@
+SubStack: i can just cp cmd.js from bin dir and then use it to exec smth like $ ./cmd.js foobar -o lol.js righ t?

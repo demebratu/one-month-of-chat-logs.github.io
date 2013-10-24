@@ -1,0 +1,1 @@
+Define th enew function in a closure, and just assign it every time.

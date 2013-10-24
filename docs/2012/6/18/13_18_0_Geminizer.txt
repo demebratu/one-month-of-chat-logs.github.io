@@ -1,0 +1,1 @@
+hello everyone.  I'm using the cluster API along with http.createServer... does anyone know how I can determine which server instance is handling a particular request?  That is, what can I pass to the request callback such that I can use worker.pid?

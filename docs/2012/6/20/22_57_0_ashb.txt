@@ -1,0 +1,1 @@
+owen1: not quite notifies, bot says 'yes it finished' when asked

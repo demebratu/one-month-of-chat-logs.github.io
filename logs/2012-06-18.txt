@@ -1,0 +1,1155 @@
+--- Log opened Mon Jun 18 00:00:31 2012
+00:00 < machty> Tobsn: how does it bring in security and further control?
+00:01 < Tobsn> machty, not security
+00:01 <@isaacs> tonyk: can you write a benchmark that just calculates the time from the fs.ReadStream start to finish?
+00:01 < Tobsn> it just gives you a bit better control i would say
+00:01 <@isaacs> tonyk: and another that tests an arbitrary-chunk-emitting stream that isn't connected to anything?
+00:01 < Tobsn> machty, and control, you can easy set up vhosts etc.
+00:01 <@isaacs> tonyk: or just post that benchmark result as an issue, and we'll look at it,if you're feeling lazy :)
+00:02 < tonyk> isaacs: yeah I will look into it more tomorrow morning
+00:02 <@isaacs> kewl, thanks!
+00:03 < machty> Tobsn: vhosts = virtual hosts,  right? and it's the ability to, say, direct many DNS sites to the same IP address (running nginx) and then split those out to different servers, say, one to node, one to rails, etc?
+00:03 < Tobsn> machty, you could serve static files through nginx, you can be sure that your node instance isnt dying on you and you're running more spread over cpu
+00:03 < Tobsn> right
+00:03 < Tobsn> machty, yep
+00:04 < machty> Tobsn: thank you, you just about doubled my knowledge. is there a good place to read up on this sort of thing? perhaps a book or pdf?
+00:04 < Tobsn> just google it :)
+00:04 < Tobsn> node.js nginx
+00:04 < machty> way ahead of you :)
+00:04 < machty> just, still a major noob
+00:04 < Tobsn> just keep reading & testing
+00:05 < Tobsn> does anyone work with node and wurfl?
+00:06 < machty> Tobsn: though, still wondering why bother putting everything through nginx? if you're hosting a bunch of different websites, why bother putting them all through nginx? why aren't they just on separate servers with separate concerns? i guess, what's a good use case for driving multiple IPs/DNSs to nginx only to split them out again?
+00:07 < Tobsn> sometimes you only have one server with one ip
+00:07 < Tobsn> or sometimes you might not trust node.js enough to run on its own forever
+00:08 <@Nexxy> which is what monit and upstart are for
+00:08 < chapel> Tobsn: wurfl?
+00:08 < Tobsn> yep, true, forever for example is what i use
+00:08 < machty> the first one sounds like an overuse of nginx, no?
+00:08 < Tobsn> but i can see how nginx can be helpful for some
+00:09 <@Nexxy> I use nginx to serve static files
+00:09 < machty> Nexxy: why's that? why's it better than the alternatives? and why specifically static files over dynamic server content?
+00:09 < chapel> we have been using only node for static files and it has been fine
+00:09 < Tobsn> machty, it always depends on your app
+00:10 <@Nexxy> machty, because node.js handles 'dynamic content'
+00:10 < Tobsn> yep
+00:10 <@Nexxy> it's not necessarily 'better'
+00:10 <@Nexxy> it's just easier to let nginx do the caching and what not
+00:10 < Tobsn> like php would parse .php but not .gif ;)
+00:10 <@Nexxy> of assets I don't need to control
+00:10 < machty> Nexxy: ahhh ok, so you use nginx as a front to a node app and to bypass node for serving static content?
+00:11 <@Nexxy> it's not a front end
+00:11 < machty> and, i just realized, after 10 minutes of your guys' wonderful help, that i'd meant to ask this stuff on #nginx. but thank you for generously answering some of these out of place questions
+00:11 <@Nexxy> I basically have
+00:11 <@Nexxy> static.myappsurl.com
+00:11 <@Nexxy> that is an nginx instance that serves things like clientside bundles of css and js
+00:11 <@Nexxy> and images of course
+00:12 < tonyk> you need 2 IPs for that
+00:12 < tonyk> screw nginx!
+00:13 <@Nexxy> lol
+00:13 < machty> very cool. man. all documentation for ngnix, node, and all sorts of different combinations of technology should immediately start with use cases that demonstrate the relative benefits over the alternatives
+00:13 < tonyk> join the I serve static files on node crew
+00:13 <@Nexxy> tonyk, not if you use something like bouncy or node-http-proxy
+00:14 < machty> why do you need two IPs? can't you link both DNSs to the single nginx app and then nginx splits on teh requested domain?
+00:14 <@Nexxy> you can use a lot of things
+00:14 < tonyk> if you want to have nginx talk to node yes
+00:14 <@Nexxy> nginx proxypass, haproxy, node proxying
+00:19 < machty> Nexxy: so, node can do a lot of things nginx can do? then, why use nginx, again? because nginx is better at making sure your node app is alive rather than just running node "naked"? what about making sure nginx is alive? 
+00:19 <@Nexxy> machty, I just like eliminating single points of failure
+00:20 <@Nexxy> machty, letting nginx do what it already does really well lets me write code in Node that just focuses on business logic
+00:21 <@Nexxy> machty, also nginx also has facilities such as upstart and monit available to it to ensure its livelihood
+00:22 < machty> cool. thank you. aaaand finalmente, the reason apache is incompatible with node is that apache is blocking and each request hogs a thread until it runs to completion, yes? so event-based servers like node and anything else that supports long-polling (in a practical manner) can only be run on something like nginx and not apache, but that blocking servers (like rails) can still run on event-based nginx?
+00:22 < Tobsn> i use monit with forever, works just fine
+00:22 <@Nexxy> machty, you're not running node "on" anything other than the host system
+00:22 <@Nexxy> it's not a mod plugin or anything
+00:23 < Tobsn> just never use apache... that's all you need to know
+00:23 < machty> Nexxy: right, but if you wanted to run it through another server like (say nginx), you'd have to use something like nginx but you can't use apache
+00:23 < machty> haha
+00:23 <@Nexxy> I think you could use apache if you really wanted to for some bizarre reason
+00:23 < Tobsn> mod_proxy in apache should do yes
+00:23 < machty> right, but you'd cut out a lot of the possibilities available to node
+00:24 <@Nexxy> things like websockets would be unavailable I believe, yes
+00:24 < machty> you'd cut out long polling, non-blocking calls, etc
+00:24 <@Nexxy> not necessarily
+00:24 < machty> nginx can handle tcp, then?
+00:24 < Tobsn> im sure you could get it working somehow
+00:24 <@Nexxy> Node will still handle thigns internally the same way
+00:24 <@Nexxy> it just seems like a bigger hassle
+00:24 <@Nexxy> nginx is more performant anyway
+00:25 < Tobsn> you can also try lighttpd or lighttpd 2... same thing as nginx
+00:25 <@Nexxy> or just node
+00:27 < machty> thanks guys, quadrupled my server knowledge
+00:28 < tonyk> node can saturate a 1gbit connection serving static files on 1 core, that's less of a hack than getting nginx to talk to node imo
+00:28 < tonyk> (unless your files are really small ofc)
+00:29 < Tobsn> machty, http://jacobmumm.com/2011/08/29/node-as-a-service-in-ubuntu-11-04-with-upstart-monit-and-forever-js/
+00:30 < machty> Tobsn: thanks
+00:35 < machty> so, one way to think about nginx is that there's no way to write application logic on it, right? you can set up a lot of rules for proxying, asset hosting, etc., but you can't write out JS or whatever code to handle requests from, say, a web app, right? you'd need to pass it off to something like Node, or RoR, etc., to do something like that?
+00:36 <@Nexxy> yes
+00:36 <@Nexxy> you can add things like PHP or python to nginx
+00:36 <@Nexxy> or any cgi
+00:36 <@Nexxy> but that's why you're looking @ node
+00:37 < machty> Nexxy: i'd like to pay you some karma
+00:37 <@Nexxy> machty, thanks! :)
+00:37 < machty> can i teach you emberjs?
+00:37 <@Nexxy> ok!
+00:38 < machty> heh, dunno if that's legit interest or not, but the dudes at #emberjs are quite helpful and I try to answer stuff as much as you do on this channel
+00:39 < Tobsn> not really
+00:39 < Tobsn> with lighttpd you can use mod_magnet to include lua scripts
+00:39 < Tobsn> they get read in, compiled and run as part of the runtime
+00:40 < Tobsn> can intercept in between etc.
+00:40 < machty> Tobsn: sorry, what question was that an answer to? app logic on nginx?
+00:40 < Tobsn> no way to write application logic in nginx
+00:41 < Tobsn> and nginx has similar capabilities. they have a powerful rewrite, header modification and also lua module
+00:42 < Tobsn> http://wiki.nginx.org/HttpLuaModule
+01:17 < other_guy> I'm seeing some strange behavior with the Mac OS X package.
+01:17 < other_guy> node no longer seems to notice my globally installed modules
+01:17 < other_guy> despite that I've set NODE_PATH=/usr/local/bin 
+01:21 < TomWij> other_guy: NODE_PATH should be set to the node_modules subfolder, as far as I am aware of. See http://nodejs.org/api/modules.html#modules_loading_from_the_global_folders
+01:22 < other_guy> TomWij, there is no such folder on OS X when you use npm install -g
+01:23 < TomWij> other_guy: What does this tell you: npm ls -g
+01:24 < other_guy> "/usr/local/lib" and then all the modules therein
+01:24 < other_guy> my NODE_PATH is set to /usr/local/lib
+01:24 < other_guy> I typoed when I wrote it here earlier
+01:25 < other_guy> oh damn it.
+01:25 < other_guy> you're right
+01:25 < other_guy> I had an old shell alias throwing me off
+02:08 < natasha1> hello. looking for a node developer for a new startup, could possibly turn into CTO role. please contact me if interested
+02:30 <@Nexxy> natasha1, but are there catered lunches?!
+02:30 < Lorentz> that's a critical requirement
+02:30 <@Nexxy> seriously.
+02:30 <@Nexxy> also, all the redbull I can guzzle?
+02:31 < natasha1> haha when beta launches then nexxy you could pick where lunch was brought in each day of the week
+02:32 < natasha1> ;)
+02:32 <@Nexxy> vegan bacon cheeseburgers every day!
+02:32 <@Nexxy> (or tofurkey on organic rye)
+02:33 < natasha1> i will pick it up and personally deliver it to you in the office
+02:33 < natasha1> haha
+02:33 < zomg> natasha1: how's remoting?
+02:33 <@Nexxy> natasha1, ok I'm in.
+02:33 < zomg> I may actually be out of a job in a few weeks
+02:34 < stan_man_can> I've never written any type of websocket app but I need to now... I develop primarily in PHP. Is node.js the best option? Or are there other choices? I'm really not too familiar with the technology other than I know it will let me push from the server to client which is what i need
+02:34 < zomg> But mainly interested only if it's a position where I can telecommute, as I'm not very interested in moving at this point
+02:34 < zomg> stan_man_can: if you need realtime messaging over websockets or something like that, node fits the bill quite nicely
+02:35 < stan_man_can> i need to send files from server to client
+02:35 < stan_man_can> realtime
+02:35 < zomg> To the browser?
+02:35 < natasha1> remoting could be an option
+02:35 < stan_man_can> zomg: client A sends files to the server through a phone app, then the server pushes said files to a browser
+02:36 < stan_man_can> to client B on the browser*
+02:37 < zomg> What sort of files are we talking about?
+02:37 < zomg> It may be a bit problematic
+02:37 < stan_man_can> images
+02:38 < zomg> Yeah you could do that with node, although the approach would probably be to store the image on your server, and then simply send the URL to it to the browser instead of the entire file
+02:38 < stan_man_can> ah yeah, sorry
+02:38 < stan_man_can> thats what was going on in my head
+02:38 < stan_man_can> did a terrible job at explaining it
+02:38 < zomg> hehe :)
+02:39 < stan_man_can> is it possible for you to enlighten me a little bit on the technology? Does node have it's own server software? or does it run behind my current webserver? (nginx)
+02:40 < zomg> natasha1: I might be interested if telecommuting is an option then :) Maybe you can PM me some more details about this?
+02:41 < haharealfunny> stan_man_can: here's an example of a guide on running nodejs with nginx
+02:41 < haharealfunny> http://wellconsidered.be/post/10519707671/node-js-on-nginx
+02:42 < haharealfunny> it runs its own http server
+02:44 < stan_man_can> so you don't even need to install anything
+02:44 < stan_man_can> you just have some javascript files on the server?
+02:45 < haharealfunny> no, just node. you can use npm to install various other tools.
+02:45 < haharealfunny> Yes, for the most part.
+02:46 < retrobaby> ..
+02:47 < haharealfunny> haha
+03:00 < jamescarr> out of curiosity, anyone releasing npm modules via travis CI?
+03:46 < Tobsn> anyone ever ran stats on mongohq?
+03:46 < Tobsn> response times etc.
+04:01 < hichaelmart> hey all
+04:01 < hichaelmart> question about dgram
+04:01 < jamescarr> JSON.stringify(new ReferenceError('test'));
+04:02 < hichaelmart> do you *have* to close the dgram client after sending? http://nodejs.org/api/dgram.html#dgram_dgram_send_buf_offset_length_port_address_callback
+04:02 < jamescarr> trying to understand why that simply returns '{}' ?
+04:02 < hichaelmart> it seems to work fine if you don't close it - at least in my limited tests on localhost
+04:02 < hichaelmart> but not sure if I'm gonna run into troubles elsewhere
+04:03 < hichaelmart> anyone have any idea?
+04:09 < hichaelmart> @jamescarr https://gist.github.com/1553662
+04:11 < hichaelmart> jamescarr: perhaps related to http://code.google.com/p/v8/issues/detail?id=1595 ?
+04:12 < hichaelmart> jamescarr: https://groups.google.com/d/msg/nodejs/ZTayKtfZ8rk/AvPEtKu8uFoJ
+04:13 < ccowan> Has anyone seen an issue where IE9 can't post multipart form posts?
+04:26 < jamescarr> hichaelmart, thank you
+04:30 < gblock> OK fanboy moment, but been playing with piping streams. Frakking awesome! Thank you core team!
+04:35 < jamescarr> gblock, yep
+04:35 < jamescarr> the streaming API is pretty sweet
+04:35 < jamescarr> especially when third party modules implement them, allowing you to easily pipe stuff all over
+04:35 < gblock> yeah definitely. Especially that you can pipe to multiple output streams simultaneously
+04:35 < jamescarr> mongoose is a good example of this imho 
+04:35 < gblock> ok we both said especially
+04:36 < gblock> yeah, very simple to just wire things up like yahoo pipes
+04:37 < gblock> jamescarr: Seems like perfect for middleware, like having transformer streams that transform the content before it's piped out.
+04:37 < gblock> jamescar: I haven't looked deeply into Connect, does it use piping nowadays?
+04:41 < jamescarr> gblock, hmmm... I should look
+04:41 < jamescarr> I've never dug under the covers in connect
+04:42 < gblock>  you and I both
+04:42 < gblock> :-)
+04:42 < jamescarr> but I think I remember piping to res before
+04:42 < gblock> well yes you can pipe to res because it's a stream
+04:42 < gblock> but...I mean having middleware that itself is a stream
+04:42 < jamescarr> ah
+04:42 < gblock> so that you could just assemble a pipeline and pipe all the way through
+04:42 < gblock> might be a bad idea
+04:43 < gblock> but pattern wise seems reasonable
+04:43 < gblock> based on my limited understanding :-)
+04:43 < gblock> imagine I have an encoded stream and I want to decode it
+04:43 < gblock> wouldn't it be cool if i could just pipe the encoded stream into a decoder and then keep piping
+04:43 < gblock> or the reverse
+04:46 < jamescarr> yep
+04:51 < justinfr> anyone know of a disk-centric nosql db? something of similar ilk to sqlite but without the sql, so just the ite :/
+04:52 < zomg> People ask for something like that from time to time and it seems the answer is generally "no idea"
+04:52 < zomg> And that you probably should look at something like Redis or such instead =)
+04:52 < jesusabdullah> justinfr: flat files :)
+04:53 < jesusabdullah> justinfr: Also if you like the idea of redis look at eventvat
+04:53 < justinfr> no no, can't be in-memory
+04:53 < jesusabdullah> https://github.com/hij1nx/eventvat linking it ANYWAY
+04:53 < jesusabdullah> but like I said, flat files :)
+04:53 < zomg> MongoDB? :P
+04:55 < jamescarr> pouchDB?
+04:55 < jesusabdullah> ooh ^^
+04:55 < justinfr> yep basically a nice lil wrapper around a flat file is what im after
+04:58 < jamescarr> justicefries, heh, here ya go :-P
+04:58 < jamescarr> http://sourceforge.net/projects/flatfiledb/
+04:58 < justicefries> thanks?
+04:58 < justicefries> that was for justinfr 
+04:58 < justicefries> also isn't there node-dirty?
+04:58 < justicefries> https://github.com/felixge/node-dirty
+04:59 < justinfr> dirty is in memory
+04:59 < jesusabdullah> NO justicefries POUCHDB IS FOR YOU
+04:59 < justinfr> BerkeleyDB might be the thing for me
+04:59 < justicefries> ME!?
+05:00 < jesusabdullah> THAT'S RIGHT!
+05:05 < justinfr> strike that, leveldb FTW
+05:09 < jesusabdullah> what is leveldb
+05:09 < justicefries> tokyo cabinet
+05:09 < jesusabdullah> nuh uh that's tokyo cabinet
+05:09 < jesusabdullah> also did people actually use tokyo cabinet? I don't remember it gaining much traction, mostly seemed to be something with a sweet name to me
+05:10 < justicefries> i think it has some diehards.
+05:11 < jesusabdullah> plausible
+05:16 <@konobi> it's GPL3, so most folks pass on it
+05:21 < haharealfunny> justinfr: https://github.com/mikeal/jsonfiles
+05:24 < haharealfunny> justinfr: http://toolbox.no.de/categories/Database
+06:06 < farhad2161> my nodeserver stop responding after aabout 4~5 hour without any error log  :(  how can i find the reason 
+06:07 < Codedninja> Just wondering is forEach ansync?
+06:14 < farhad2161|2> my nodeserver stop responding after aabout 4~5 hour without any error log  :(  how can i find the reason 
+06:34 < justinfr> current state of leveldb modules....fubar.
+06:37 < justinfr> new thumb rule. if a module hasn't seen any activity within a month and you aren't prepared to maintain it, then seek alternative transport.
+06:38 < sdepold> hmm wouldn't go for that. one month of inactivity is not sooo bad
+06:39 < sdepold> one year however and no npm compatibility is more awkward ;D
+06:39 < farhad2161|2> my nodeserver stop responding after aabout 4~5 hour without any error log  :(  how can i find the reason 
+06:39 < sdepold> start it in dev mode, so you get proper logs
+06:40 < farhad2161|2> how
+06:40 < farhad2161|2> sdepold: link plz
+06:40 < sdepold> farhad2161|2 what app is it and how do u start it?
+06:41 < farhad2161|2> sdepold: i am using socket.io
+06:41 < sdepold> so, no express?
+06:42 < farhad2161|2> sdepold: yes.no espress
+06:42 < sdepold> so just http.createServer?
+06:42 < sdepold> or only a socket ?
+06:43 <@Nexxy> sockets still need something to upgrade from ;P
+06:44 < farhad2161|2> sdepold: http://pastebin.com/MP4fr3r6
+06:45 < sdepold> farhad2161|2 what is fu ^^ ?
+06:45 < michael> asdsa
+06:45 < michael> hello
+06:45 < michael> anyone?
+06:45 < michael> hmmm
+06:45 < sdepold> lol?
+06:45 < farhad2161|2> sdepold: this is fu http://pastebin.com/XZQn8r7p
+06:46 < Guest83366> hi
+06:46 < Guest83366> ]hey
+06:46 < Guest83366> wazzap
+06:46 < sdepold> farhad2161|2 is your socket breaking or the http server?
+06:47 < farhad2161|2> sdepold: nodejs stop responding and crash!
+06:47 < sdepold> so the process crashes?
+06:47 < farhad2161|2> sdepold: it occurs after about 5~6 hour
+06:48 < farhad2161|2> sdepold: yes,at first it do not respond and after a few minutes it stop
+06:48 < sdepold> is the server probably running out of ram? as u store all the data inside the clients array, this might be a prob?
+06:49 < farhad2161|2> sdepold: how much 150 online user take RAM?
+06:50 < sdepold> farhad2161|2 shouldn't be that much ;)
+06:50 < farhad2161|2> farhad2161|2: i am using dedicate server ,ubuntu 10.10 ,6GB ram
+06:50 < sdepold> u could check if the number of entries inside clients is actually what u expect
+06:50 < farhad2161|2> sdepold:  i am using dedicate server ,ubuntu 10.10 ,6GB ram
+06:51 < sdepold> and u might also want to check the ram and cpu usage of the app over time
+06:51 < sdepold> but from what i see it looks kinda ok
+06:51 < farhad2161|2> sdepold: why node show no error log
+06:51 < sdepold> u have to add this on your own
+06:52 < farhad2161|2> sdepold: how?
+06:52 < sdepold> e.g. express is doing that by default
+06:52 <@Nexxy> farhad2161|2, 10.04 > 10.10
+06:52 < sdepold> for the http server you could log smth for every request you get
+06:52 < sdepold> for the socket the same
+06:52 < sdepold> do u have any kind of logfile
+06:52 < sdepold> ?
+06:53 < sdepold> or log in stdout
+06:53 < farhad2161|2> y
+06:53 <@Nexxy> LTS release
+06:53 < sdepold> farhad2161|2 how do u start the app on the server?
+06:54 < farhad2161|2> sdepold: nodejs server.js > log.log
+06:54 < farhad2161|2> sdepold: nodejs server.js > log.log &
+06:54 < sdepold> k so this won't log the output of std err afaik
+06:54 < sdepold> stderr*
+06:55 < sdepold> you could just start a screen session and run it without the log
+06:55 < farhad2161|2> sdepold: so how shuld i start
+06:55 < sdepold> or ... wait a sec
+06:57 < sdepold> node server.js &> log.txt &
+06:57 < sdepold> or on ubuntu nodejs server....
+06:57 < sdepold> "nodejs server.js &> log.txt &"
+06:57 < farhad2161|2> sdepold: so this will log the error?
+06:58 < farhad2161|2> sdepold: and i can find the problem
+07:00 <@Nexxy> 2>&1
+07:00 < sdepold> farhad2161|2 according to my sysop friend yes ^^
+07:01 < farhad2161|2> sdepold: ok
+07:01 < sdepold> 2>&1 seems to do smth similar 
+07:02 < sdepold> farhad2161|2 good lucking with that
+07:02 < sdepold> -ing
+07:05 < huangjs> I got the following error installing ws, any hint to the problem? ERR! Error: EACCES, mkdir '/home/huangjs/.node-gyp'
+07:07 < einaros> huangjs: which version of ws?
+07:07 < einaros> huangjs: also, do you actually have permissions to create stuff in /home/huangjs ?
+07:16 < circlicious> hi
+07:16 < farhad2161|2> sdepold: this the log but it does not crash yet http://pastebin.com/th8RDnkE
+07:16 < sdepold> so everything is fine until now he?
+07:17 < sdepold> -he +right
+07:17 < Tobsn> hmm anyone an idea what the best way would be to exec a php script from node?
+07:17 < farhad2161|2> sdepold: yes but i am sure it will crash about 3~4 hour later
+07:17 < sdepold> so let's see :)
+07:18 < sdepold> Tobsn i have no clue about this but there was this project https://github.com/davidcoallier/node-php
+07:18 < sdepold> Tobsn you could probably run the server exec the script and close it afterwards?
+07:18 < Tobsn> nah
+07:18 < Tobsn> yeah whats what im thinking
+07:18 < Tobsn> but that kinda sucks
+07:19 < Tobsn> because php does a mongodb connect
+07:19 < Tobsn> its better to keep php running
+07:19 < Tobsn> im looking at phphiphop right now
+07:19 < Tobsn> but from past experience thats a fucking shitshow to compile it
+07:22 < sdepold> Tobsn you should probably just run an apache with php and don't touch php inside node ^^
+07:22 < sdepold> Tobsn but i guess that's no option for you ?
+07:22 < Tobsn> apache? you crazy? ;)
+07:23 < Tobsn> php hiphop is the option
+07:23 < sdepold> Tobsn :D
+07:23 < Tobsn> or exec
+07:23 < Tobsn> or that other thing
+07:23 < Tobsn> phpsomething
+07:23 < Tobsn> cant remember
+07:23 < sdepold> Tobsn phpInsertNameHere
+07:24 < sdepold> Tobsn @phphiphop do you mean hiphop-php from Facebook?
+07:24 < Tobsn> yep
+07:24 < Tobsn> what else?
+07:25 < sdepold> Tobsn never heard of it, so i just wanted to make it clear
+07:25 < Tobsn> i dont think there are many more projects called phphiphop :P
+07:25 < Tobsn> its kinda neat
+07:25 < Tobsn> but you cant compile it on osx
+07:25 < Tobsn> and even on any newer distro its a pain in the ass
+07:25 < Tobsn> you end up fucking up half your libs
+07:25 < sdepold> what kinda script do u want to run :-O
+07:27 < circlicious> with node, if i make a persistent connection with long tiemouts, it wont consume a lot of memory under jigh load ?
+07:27 < Tobsn> fetches some stuff from mongodb
+07:30 < Tobsn> AHA!
+07:30 < Tobsn> found it
+07:30 < Tobsn> http://nodephp.org/
+07:31 < gblock> shameless_plug:  my post on how we're making nodejs better in Windows Azure: http://codebetter.com/glennblock/2012/06/07/windowsazure-just-got-a-lot-friendlier-to-node-js-developers/
+07:43 < haharealfunny> is that the link that's been on hacker news?
+07:44 < gblock> not sure
+07:44 < gblock> you mean the one I just posted?
+07:45 < haharealfunny> yeah ;)
+07:45 < gblock> might have been..haven't checked
+07:45 < haharealfunny> hmmm maybe i saw it in another channel
+07:45 < haharealfunny> you should post it there if not
+07:48 < gblock> I forgot my stupid login
+07:48 < gblock> doesn't seem to have a recovery
+07:49 < haharealfunny> ;)
+07:49 < haharealfunny> time for gblock2
+07:50 < sdepold> :D
+07:50 < gblock> just remembered it
+07:50 < gblock> glenn_block
+07:50 < ningu> how do I get npm to produce the debug log?
+07:50 < gblock> http://news.ycombinator.com/item?id=4125462
+07:51 < ningu> or the silly-level log
+07:51 < ningu> ah, -dd
+07:52 < gblock> haharealfunny: Turns out I remembered after multiple tries. Not having a password is really lame I have to say.
+07:54 < haharealfunny> lastpass dude
+07:54 < gblock> ? for the passwrod?
+07:54 < haharealfunny> password manager
+07:54 < gblock> haharealfunny: I mean password reset
+07:55 < haharealfunny> it's funny hearing you say "not having a password is really lame" conjured up this image of passports and IDs as passwords
+07:55 < gblock> haharealfunny: I didn't see a link to reset it.
+07:55 < haharealfunny> ah ;0
+07:55 < haharealfunny> yeah
+07:55 < gblock> hahrealfunny: I meant reset...that was a typo :-)
+07:55 < haharealfunny> oh well, we created art
+07:55 < haharealfunny> i'm in the process of getting apache to run behind nginx
+07:56 < haharealfunny> my node is already up
+07:56 < haharealfunny> though very lackluster http://jasoncromero.com/
+07:56 < gblock> haharealfunny: running node on apache?
+07:58 < jesusabdullah> gblock: Getting the most out of your golden internet?
+07:58 < gblock> ha ha
+07:58 < gblock> well I do have a corp card ;-)
+07:58 < jesusabdullah> haharealfunny: Turtles all the way down?
+07:59 < jesusabdullah> gblock: Yeah, I bet that helps
+07:59 < huangjs> einaros: ws@0.4.18, it's successful now after some permission hack
+07:59 < jesusabdullah> Probably why they can charge so much
+07:59 < gblock> jesusabdullah: they didn't know before I logged in :-)
+07:59 < einaros> huangjs: strange stuff. nothing I can do in my module to prevent that error, though, given the borked permissions.
+07:59 < gblock> jesusabdullah: but yeah I am sure the avg person is not wasting their money.
+08:00 < gblock> jesusabdullah: I am prepping for my QCon tutorial so I can afford it.
+08:00 < gblock> jesusabdullah: giving a full day tutorial on node.js and Azure. First half is pure node.
+08:00 < jesusabdullah> qcon? Not familiar
+08:00 < huangjs> einaros: yeah, i'm also confused. but only happened once in global installation
+08:00 < jesusabdullah> oh dang, sounds fun
+08:00 < gblock> http://qconnewyork.com/
+08:01 < gblock> http://qconnewyork.com/qcon-nyc-2012/speaker/Glenn+Block
+08:01 < gblock> jesusabdullah: hope so. This is the first year they've had it in nyc. Not a lot of node talks.
+08:01 < jesusabdullah> What's the Q stand for?
+08:01 < gblock> InfoQ
+08:01 < gblock> They sponsor i
+08:03 < jesusabdullah> I see!
+08:03 < gblock> jesusabdullah: I am going to be hanging out with some of your mates while there.
+08:04 < gblock> jesusabdullah: supposed to go see the office
+08:04 < jesusabdullah> gblock: Yeah, I was gonna say: Say hey to Charlie for me
+08:04 < gblock> jesusabdullah: will do!
+08:04 < jesusabdullah> Cool! I actually haven't been to NYC yet
+08:06 < gblock> jesusabdullah: really? I thought that was like automatic. When are you going?
+08:06 < circlicious> is websockets something that has to be supported by the http sertver or by the programming language ?
+08:06 < gblock> circlicious: by both
+08:07 < gblock> circlicious: some servers don't recognize the http upgrade / won't allow WebSocket traffic to flow
+08:07 < circlicious> i see
+08:07 < gblock> circlicious: node however does handle WebSocket traffic easily
+08:07 < gblock> circlicious: buy your browser/client might or might not depending.
+08:07 < jesusabdullah> gblock: no idea
+08:07 < circlicious> ya i was wondering whether it could be done with php/apache or not
+08:07 < circlicious> if not then maybe i'll have to use socket.io+node?
+08:08 < gblock> circlicious: I don't' think apache supports it yet, but I am not the expert there.
+08:08 < jesusabdullah> I don't think it does
+08:08 < gblock> circlicious: Not sure on PHP either, but potentially you could if you ran PHP standalone
+08:09 < gblock> circlicious: but yes, run node.exe + socket.io and you have WebSockets easily. 
+08:09 < gblock> circlicious: also you can use other modules for pure WebSockets
+08:09 < einaros> such as ws!
+08:09 < einaros> npm install ws, good to go
+08:09 < circlicious> what are the benefits of websoickets actually?
+08:09 < gblock> einaros: exactly
+08:09 < jesusabdullah> I may not actually make it out since I'm moving back to Alaska at the end of the summer
+08:10 < gblock> circlicious: real time bi-directional communication
+08:10 < gblock> circlicious: in the browser. persistent, not like HTTP long polling.
+08:10 < jesusabdullah> then again those Portuguese guys get to fly all over
+08:10 < gblock> circlicious: so true server push
+08:10 < gblock> jesusabdullah: alaska, woah that's deep.
+08:10 < circlicious> gblock: i mean, i could achieve something similar with ajax request every second. but i guess then i would need to create connections and drop them everytime. so thats the only benefit with websockets ? you dont have to create/drop connections
+08:11 < gblock> well no 
+08:11 < gblock> circlicious: "similar" but not the same
+08:11 < gblock> circlicious: with ajax you won't have a persistent connection and it's much heavier weight
+08:11 < gblock> circlicious: WebSockets uses a completely different framing. It's not just an HTTP request/response.
+08:11 < gblock> circlicious: But einaros can tell it much better than I can
+08:12 < circlicious> gblock: i actually get it, so ok :D
+08:12 < circlicious> the only thing i am thinking about is that
+08:13 < gblock> circlicious: WebSockets is perfect for real time communication with server push
+08:13 < gblock> jesusabdullah: protest :-)
+08:14 < circlicious> it is persistant right ? with apache persistent connection i faced memory issues with lots of connections
+08:14 < circlicious> is the same going to happen with socket.io+node :(
+08:15 < gblock> circlicious: well of course there is a cost of keeping connections open.
+08:15 < gblock> circlicious: because the server tracks each one.
+08:16 < gblock> circlicious: but connections are very cheap in node/V8
+08:16 < jesusabdullah> gblock: haha, maybe. But in the end, they just haven't had a reason to fly me anywhere
+08:16 < gblock> circlicious: and you can easily scale across multiple servers
+08:16 < jesusabdullah> the downside to having a job you can do anywhere
+08:16 < gblock> jesusabdullah: I hear you. 
+08:16 < gblock> jesusabdullah: the plus side is you can do it anywhere ;-)
+08:16 < circlicious> when i tried with apache, i was dead in 10 active visitors (keepalive - 15s), 512mb ram, swap full, cpu completely used, i had to reboot :D
+08:16 < jesusabdullah> Hell yeah
+08:16 < gblock> jesusabdullah: was great to meet you btw
+08:16 < circlicious> so i simply set off keepalive (persistent connections)
+08:16 < jesusabdullah> Yeah, totes
+08:17 < gblock> jesusabdullah: glad you made it
+08:17 < jesusabdullah> :)
+08:17 < circlicious> gblock: ok, got you. thanks, i will try it :)
+08:17 < gblock> circlicious: it's going to be much cheaper than that. 
+08:17 < gblock> circlicious: don't judge by your apache experience.
+08:17 < gblock> circlicious: folks are building real time apps with thousands of connections on a server in node.
+08:17 < gblock> circlicious: it scales _very_ well
+08:17 < jesusabdullah> lulz
+08:17 < jesusabdullah> 10 active visitors
+08:18 < gblock> jesusabdullah: time to retire that server
+08:18 < niloy> how do I displayed coloured output on the terminal?
+08:18 < gblock> (turbulence)
+08:19 < jesusabdullah> turbulence?
+08:19 < gblock> jesusabdullah: at 35000 feet ;-)
+08:19 < jesusabdullah> niloy: https://github.com/marak/colors.js
+08:19 < jesusabdullah> ohhh
+08:19 < niloy> jesusabdullah, thanks
+08:19 < circlicious> oh , ok: D
+08:19 < jesusabdullah> niloy: In the background, it's ANSI codes
+08:19 < circlicious> sounds great
+08:19 < gblock> circlicious: it is
+08:20 < gblock> circlicious: go here, we can chat over WebSockets: gblock-chat.cloudapp.net
+08:20 < jesusabdullah> That's on azure?
+08:20 < niloy> jesusabdullah, that library modifies native string :(
+08:21 < gblock> jesusabdullah: yep. WebSockets
+08:21 < einaros> circlicious / gblock: or here to draw via websockets, http://draw.2x.io/
+08:21 < dr0id> he's right :P with improper keepalive and maxclients, apache can't handle 30-50 active vistors :P
+08:21 < jesusabdullah> niloy: I know :)
+08:21 < jesusabdullah> niloy: https://github.com/substack/node-charm
+08:21 < gblock> jesusabdullah: though not working for me up here
+08:21 < circlicious> gblock: cant see you there
+08:21 < gblock> jesusabdullah: does it work for you?
+08:21 < jesusabdullah> gblock: Yup!
+08:22 < gblock> circlicious: trying, I am at 35000 feet and a crappy internet
+08:22 < einaros> considering I built a websocket library this may be controversial, but I don't actually find chat applications valid uses of websockets
+08:22 < niloy> jesusabdullah, thanks
+08:23 < gblock> jesusabdullah: just not working for me. I see "connecting"
+08:23 < gblock> jesusabdullah: maybe the plane's wifi blocks WebSocket traffic
+08:23 < gblock> jesusabdullah: but yeah this is the nice thing about worker role. It fully supports WebSockets.
+08:23 < einaros> gblock: try http://draw.2x.io
+08:24 < circlicious> gblock: haha nice
+08:24 < gblock> einaros: I am there. Is this SSE?
+08:24 < gblock> einaros: Stuck loading
+08:24 < einaros> loading will probably take some time on that connection
+08:24 < gblock> einaros: is that WebSockets?
+08:25 < gblock> einaros: Wonder why this would be failing for me
+08:25 < einaros> gblock: well probably as you were saying some proxy is blocking it
+08:25 < gblock> einaros: should fall back to long polling though
+08:26 < gblock> einaros: with feature detection no?
+08:26 < gblock> anyway...well enjoy without me :-)
+08:26 < circlicious> i am not very good at networking concepts, but when a websocket connection is made, 2 tcp sockets are created right ? 1 on my computer by browsder and another on the server, or am i wrong ?
+08:26 < wingie> are you guys using a API proxy like Apigee?
+08:26 < wingie> for you Restful API
+08:26 < circlicious> i ask this because one of the articles mention it occurs via 1 tcp socket
+08:26 < einaros> gblock: well socket.io hasn't been updated to handle the fallback from websockets too well
+08:26 < gblock> einaros: aah.
+08:26 < gblock> circlicious: single socket
+08:27 < gblock> circlicious: it allows bi-directional communication
+08:27 < circlicious> gblock: single socket on both ends right ? i mean each end needs to have 1 socket open
+08:27 < circlicious> tcp socket i mean
+08:27 < gblock> circlicious: well yeah the socket has to be open on both ends :-)
+08:27 < gblock> circlicious: is there some other way to communicate across a TCP channel?
+08:29 < circlicious> gblock: i am really a noob when it comes to networking. so just making sure :P
+08:29 < gblock> circlicious: sorry...just playing with you.
+08:29 < jhsto> hey guys, any idea how i could output a string contained in a variable on express?
+08:29 < gblock> circlicious: yes you need to have a socket open on either side
+08:30 < circlicious> gblock: its fine :) you have been really helpful so far, so thanks for that.
+08:30 < gblock> glad to help
+08:30 < jesusabdullah> circlicious: You said you were looking to build real-time charting?
+08:30 < gblock> like I said, einaros is the socket guru. He implemented it for socket.io.
+08:30 < jesusabdullah> circlicious: http://wsping.jit.su/
+08:31 < jesusabdullah> Used to hotlink to bootstrap 1.0, that's why it looks like balls
+08:31 < jesusabdullah> but you get the idea
+08:31 < jhsto> im trying to use jquery inside a server-side function, but it seems not to work
+08:31 < jhsto> any idea how i could get it done?
+08:32 < jesusabdullah> Why are you trying to do that?
+08:32 < jhsto> the function is later on called to client side, which has jquery source linked
+08:32 < jesusabdullah> What?
+08:32 < jhsto> um
+08:33 < jesusabdullah> I know how to do it, but there's a good chance there's a better way to do what you're trying to do
+08:33 < jesusabdullah> that doesn't involve jquery on the server
+08:33 < jesusabdullah> ie, server-side dom
+08:33 < jhsto> i have this function on my server side, which parses a website content. I would like to write this parsed data to my index page, but I have no idea how to do that.
+08:34 < jesusabdullah> jhsto: Expose the data as JSON on a route, grab it with AJAX and jquery client side
+08:34 < jesusabdullah> jhsto: Or, use a templating engine to format the data as html and serve that
+08:34 < jhsto> well, im using jade
+08:34 < jhsto> ill try to do it with that
+08:34 < jesusabdullah> jhsto: well there you go
+08:34 < jesusabdullah> yes
+08:34 < jhsto> thanks
+08:34 < jesusabdullah> Anytime
+08:34 < jhsto> :)
+08:34 < jesusabdullah> jhsto: ftr you can do it with jsdom, and there's a pseudoselector project that doesn't use the dom called cheerio
+08:35 < jhsto> ill have a look at that too
+08:35 < circlicious> jesusabdullah: i am building a realtime widget like the google analytics ones
+08:35 < circlicious> for our application
+08:35 < jesusabdullah> circlicious: so kinda like that wsping guy?
+08:36 < circlicious> so it shows the visitors counts to shops every second
+08:36 < circlicious> and changes the counbt in realtime
+08:36 < jesusabdullah> sure, yeah, that's classic socket.io
+08:36 < circlicious> and they view it on a big screen
+08:36 < circlicious> cool,thanks
+08:36 < circlicious> i hope i can ship it by today, customers will be happy lol
+08:41 < circlicious> gblock: jesusabdullah : one more question, for apps like gmail chat, i dont see any ajax request being made. so how can i know what they are going actually?
+08:42 < jesusabdullah> fuck around with the developer console maybe
+08:42 < gblock> circlicious: yeah, use the console. What browser?
+08:43 < gblock> circlicious: if it's WebSocket traffic you may not see much, like in Chrome you'll see the 101 switching protocols and nothing else after.
+08:43 < circlicious> gblock: i checked the Network tab of chrome dev tools, and i see no ajax requests there
+08:43 < einaros> google chat doesn't use websockets
+08:44 < gblock> einaros: true.
+08:44 < circlicious> einaros: then what does it use ? and how can you say it doesnt use websockets when there's no ajax request shown. just curious
+08:45 < jhsto> can i do res.send to add content under a html class?
+08:46 < einaros> circlicious: hm? it's doing regular http posts
+08:50 < circlicious> einaros: hm
+08:50 < Guest44988> Hi. When I do a http.request with agent:false and connection:keep-alive, i do notice that the request is made and the connection stays open. But how can I do a second request on that same connection? Can't find anything in the documentation about this.
+08:51 < circlicious> how do you notice that the connection stays open?
+08:52 < Guest44988> i can see that the connection stays open using ngrep (something like tcpdump).
+08:53 < einaros> circlicious: chrome dev console network tab will show an open connection. if you're using chrome they may or may not be pushing data to you through spdy, though (I really haven't looked into how their app works)
+08:53 < einaros> circlicious: but it seems to just do long polling
+08:56 < Guest44988> after the http.request, the connection is made. then when you do a .end the request is made. after the response, the connection stays open. this is perfect so i am not wasting TCP sockets in the WAIT state. but i can't figure out how to tell node to do a second request.
+08:57 < circlicious> einaros: ok
+09:03 < jhsto> what was the name of the module which automatically restarted node.js on file change?
+09:04 < dr0id> nodemon :) npm install -g nodemon
+09:05 < jhsto> cheers :)
+09:11 < radiodario> i use supervisor
+09:11 < radiodario> is there a significant difference between them two?
+09:14 < farhad2161|2> sdepold: mynode server crashed,are u there?
+09:14 < sdepold> farhad2161|2 kinda
+09:14 < farhad2161|2> sdepold: this is my log file http://www.speedup.ir/log.tar.gz
+09:15 < farhad2161|2> sdepold: :(
+09:16 < SomeoneWeird> restart it?
+09:16 < sdepold> farhad2161|2 hmm don't see any error ... interesting
+09:17 < sdepold> farhad2161|2 you should probably really spawn a screen session and run the server within it without logging into a file
+09:20 < farhad2161|2> sdepold: this is the last solution?
+09:20 < sdepold> farhad2161|2 well it's no solution, so hopefully not ;D
+09:20 < dr0id> :D
+09:21 <@Nexxy> final solution?
+09:21 < farhad2161|2> Nexxy: yep
+09:23 <@Nexxy> ;<
+09:29 < [sumo]> anyone here use php to post data to their node api?
+09:31 < SomeoneWeird> i have before, yes
+10:22 < SomeoneWeird> whats the best way to seperate express routes into multiple files?
+10:24 < radiodario> SomeoneWeird: just require them from the index.js file inside routes?
+10:25 < radiodario> the best way is the way that anyone could understand if you comment it decently any way is a good way!
+10:26 < SomeoneWeird> mm
+10:46 < hichaelmart> hi all - I asked about reusing a dgram client earlier and didn't get very far - I've posted on stackoverflow (http://stackoverflow.com/questions/11081189) - if anyone's got any ideas, please chime in
+10:48 < upb> hai. what am i doing wrong in installing pg module on windows? http://pastebin.com/61Fndi9a
+10:48 < upb> why is this node-waf required?
+10:48 < SomeoneWeird> because its native
+10:48 < SomeoneWeird> try find a js only modul
+10:48 < SomeoneWeird> e
+10:50 < upb> what do you mean by 'native'
+10:50 < upb> it contains some dll that binds to libpg ?
+10:51 < upb> and its trying to compile that dll on a production box ?:P
+10:51 < upb> haha
+11:01 < przemoc> hi, are there any nodejs-based commenting solutions for use in static pages?  -  http://news.ycombinator.com/item?id=4125787
+11:03 < Guest44988> Hi. When I do a http.request with agent:false and connection:keep-alive, i do notice that the request is made and the connection stays open. But how can I do a second request on that same connection? Can't find anything in the documentation about this.
+11:27 < deadlyDev> hi
+11:27 < deadlyDev> any1 know what could be causing CHECK(thread_local_top()->TryCatchHandler() == that)  from v8::Function->Call ?
+11:35 < wiherek> hi
+11:39 < wiherek> I have a node.js app working through socket.io client-server connection. I now need to send / gather data from a REST server. How can I do that?
+11:57 < deadlyDev> @wiherek Check out http://nodejs.org/api/http.html#http_class_http_clientrequest
+11:59 < wiherek> thanks :) I think I got it wrong, guess the socket.io server doesn't connect to anything else than socket.io clients
+12:05 < codejunky_> hello guys ;i  have a problem .i am trying to connect  to  create an auto connect script for an application i have .
+12:05 < codejunky_> i want the app to continoulsy try to connect to a server even if  the socekt server is off
+12:05 < codejunky_> the app is suppossed to stop tryng to connect as soon  as the server comes online.
+12:06 < codejunky_> after that auto cnnection is handled by hte socekt.io library.
+12:06 < codejunky_> this is my code 
+12:06 < codejunky_> http://pastebin.com/GziA4vAu
+12:07 < codejunky_> i seem to be creating duplicate connections and so many connection are made althought when i try to coonect and it deosnt go through i  close the connection.
+12:25 < dr0id1> przemoc: I don't think so, not even php/ruby/py based :P
+12:26 < dr0id1> for my site, I wrote a custom commenting system, its crappy but works gr8. has markdown support, does gr8 html filtering, cleaning, etc. etc. etc.
+12:26 < dr0id1> had to use some 3rd party scripts though, for various parts.
+12:41 < phawk> hey guys, wee question on require();
+12:41 < phawk> using mocha running on node to unit test backbone.js frontend code
+12:41 < phawk> wandering can I push some variables into the require
+12:42 < phawk> so all the JS in the backbone views is namespace like 'app.views.home'
+12:42 < phawk> so obviously when I pull in my JS file with a require in node I get app is not defined
+12:42 < phawk> is there a better way to pull in these files for testing, or can I somehow polute their require to give them the variable dependencies needed to resolve?
+13:07 < Tobsn> process.dlopen(filename, module.exports);
+13:07 < Tobsn>           ^
+13:07 < Tobsn> Error: Unable to load shared library
+13:07 < Tobsn> anyone know what that is?
+13:11 < radiodario> Tobsn: hard to say without seeing all your code - can you make a gist/pastebin?
+13:12 < Tobsn> var ..., geoip  = require('geoip'), geo = new geoip.City('./GeoIPCity.dat');
+13:12 < Tobsn> thats it.
+13:13 < radiodario> well your geoip module might be causing it
+13:13 < radiodario> update node, update geoip?
+13:13 < radiodario> get the latest from whomevers github 
+13:14 < Tobsn> npm update all done
+13:14 < Tobsn> node is latest
+13:14 < SomeoneWeird> Tobsn, pretty sure you need the latest maxima geoip libraries n stuff, or whatever it is
+13:14 < Tobsn> it works on the server
+13:14 < Tobsn> its the ltest
+13:14 < Tobsn> like i said, its working on the server
+13:15 < Tobsn> thats the bought licensed version
+13:15 < SomeoneWeird> hm, weird
+13:16 < Tobsn> ah nevermind
+13:16 < Tobsn> npm remove geoip; npm install geoip did it
+13:16 < Tobsn> ...
+13:17 < NodeX> does anyone use http-digest in thier node app ?
+13:18 < Geminizer> hello everyone.  I'm using the cluster API along with http.createServer... does anyone know how I can determine which server instance is handling a particular request?  That is, what can I pass to the request callback such that I can use worker.pid?
+13:18 < Tobsn> nice
+13:18 < Tobsn> http://pastebin.com/raw.php?i=1Jdj9VAw
+13:18 < Tobsn> now im getting this
+13:18 < NodeX> I am getting this error when I try to run an app ... http://pastebin.com/FDZLsPmi
+13:19 < Tobsn> seems like thats from cluster
+13:19 < upb> i'm wondering whether this jugglingdb is production quality at all
+13:20 < milani> Geminizer, as I know, it is decided by OS
+13:20 < milani> Geminizer, I'm not sure I just hear that.
+13:20 < upb> getting some pretty incredible statements such as STATEMENT:  ALTER TABLE "invoices" ADD COLUMN "test" INTEGER NULL,       DROP COLUMN "undefined",       DROP COLUMN "undefined"
+13:25 < dec> so - passing an array to a function, can I somehow 'dereference' that array and pass all of it's elements as separate arguments to that function?
+13:25 < dec> (rather than passing the array reference itself?)
+13:27 < Tobsn> ah im an idiot... port was set to 80
+13:27 < Tobsn> osx doesnt like that
+13:33 < jhsto> does anyone know a good module to handle strings?
+13:33 < jhsto> like trim, split and that kind of stuff
+13:34 < jocafa> ... plain String? heh
+13:34 < jocafa> also handy: http://epeli.github.com/underscore.string/
+13:34 < pickels> jocafa, http://packagefinder1-enome.dotcloud.com/search?q=string the first result might have what you need.
+13:34  * jocafa forwards
+13:35 < jocafa> hehe
+13:37 < jhsto> thanks guys for these
+13:38 < pickels> jocafa, i just now get your why you said forwards haha
+13:38 < pickels> -your*
+13:39 < pickels> jocafa, guess I am slow today.
+13:39 < jocafa> need caffeine, too?
+13:39 < jocafa> :)
+13:39 < wingie> do you guys prefer working with a SDK for your lang or raw make raw HTTP requests?
+13:39 < pickels> yeah but not a coffee drinker
+13:40 < tonyk> check out my first node.js project! http://pile.io
+13:40 < cianclarke> @tonyk that's really nice man
+13:41 < cianclarke> I love drag-drop evented stuff...
+13:41 < tonyk> ty
+13:42 < milani> interesting http://harthur.github.com/kittydar/
+13:42 < pickels> very nice tonyk 
+13:42 < milani> Cat detection with javascript:D
+13:42 < milani> http://harthur.github.com/txjs-slides/
+13:43 < pickels> tried it with a cow and didn't work milani. What's that about!
+13:43 < milani> pickels, because it is cat detection not cow detection:))
+13:44 < milani> pickles it detects face of a cat. 
+13:44 < pickels> yeah was kidding
+13:44 < pickels> or kitting!
+13:44 < jocafa> good domain. they're hard to come by these days.
+13:44 < sdepold> kitting :D lulz
+13:44  * jocafa pets his domain fig.gy
+13:44 < astropirate> I'm not trying to start anything... but could anyone point me to a resource for NodeJS vs Go? Benchmarks, pros/cons etc  i'm trying to make up my mind on which one to move forward with
+13:45 < pickels> astropirate, I saw this one last week. Not sure how useful it is: https://github.com/ericmoritz/wsdemo/blob/results-v1/results.md
+13:47 < timoxley> astropirate how well do you know JS?
+13:48 < jocafa> http://attractivechaos.github.com/plb/   <- one of the few i know of
+13:49 < astropirate> thanks pickels jocafa 
+13:49 < astropirate> timoxley, i know JS very well,
+13:49 < jocafa> pickled me would not taste very good. just sayin'.
+13:49 < astropirate> but I also dont mind learning new things
+13:49 < astropirate> its exiting i think
+13:50 < dj3u> is it possible to require('file') inside jade tempalte? 
+13:51 < astropirate> jocafa, unfortunately that one doesn't have go :(
+13:51 < astropirate> ohh wait i'm blinde
+13:51 < astropirate> blind
+13:51 < timoxley> dj3u that smells
+13:51 < timoxley> dj3u you probably want a partial
+13:52 < dj3u> i want to have a cacheBust.js that i require for builds etc, but i prefer to also require it inside the tempalte vs passing it to every render call. am i doing it wrong?
+13:55 < timoxley> dj3u I just flush all my caches in the build script
+13:55 < timoxley> when it rebuilds it gets a new id
+13:56 < dj3u> timoxley how do you keep track of the id?
+13:57 < timoxley> dj3u https://github.com/niftylettuce/express-cachebuster
+14:01 < dj3u> timoxley i am trying to cache bust in production, not dev. and by using name_$_name.js and not file_name?v=$ becasue the interwebs claim some proxy server like it better ;p so i need to be able to track with what id i am building my files etc. thanks though
+14:04 < dj3u> ha looks like helpers are what i need @ http://stackoverflow.com/questions/10420990/how-to-include-javascript-objects-in-a-jade-template-before-jade-compilation
+14:07 < Nicky> hi
+14:08 < Nicky> I'm trying to use libtorrent in a node.js extension but can not get it to compile, has anybody tried it?
+14:11 < milani> Nicky, what is the error
+14:11 < Nicky> libtorrent requires a set of defines ... is there a way to set them with waf?
+14:11 < Nicky> milani: "#error you must define either BOOST_ASIO_SEPARATE_COMPILATION or BOOST_ASIO_DYN_LINK in your project in order for asio's declarations to be correct..."
+14:13 < Industrial> I have a string that stylus can't parse
+14:14 < Industrial> that I think is correct
+14:14 < Industrial> ".one.column, .two.columns, .three.columns, .four.columns, ..."
+14:14 < Industrial> (took this directly from Skeleton css (getskeleton.com))
+14:15 < milani> Nicky, use node-gyp and gyp files.
+14:15 < milani> Nicky, node is releasing v0.8 which does not use waf. 
+14:15 < milani> using gyp file, you can set defines easily.
+14:16 < Nicky> milani: I'm using 0.6.12
+14:16 < milani> Nicky, https://github.com/milani/appjs/blob/master/binding.gyp#L36
+14:16 < milani> Nicky, yeah but you may want to update later and then you will have problem:) so its better to use gyp
+14:18 < milani> Nicky, you can find it here: https://github.com/TooTallNate/node-gyp
+14:18 < Nicky> milani: oh well, but it may be hard to find documentation if it's only going to be released I guess, but I'll try
+14:18 < milani> Nicky, no no. It's in use. But in v0.8 waf will be removed.
+14:20 < milani> Nicky, and it is well documented because Google is using it long ago.
+14:21 < deadlyDev> @Nicky, really easy to get going, spent 20 mins converting a project of mine
+14:21 < deadlyDev> from waf to gyp
+14:21 < Nicky> yeah, I'm getting into it
+14:21 < Nicky> already installed, now going to write binding.gyp file :)
+14:22 < deadlyDev> if anyone could shed light on http://stackoverflow.com/questions/11081182/difficult-node-js-libuv-v8-error it would be much appreciated. I have a workaround for the moment, but am trying to gain some insight into why I received the error.
+14:23 < aroman> what's the standard way of benchmarking the throughput/concurrency of a node.js app I've built?
+14:23 < aroman> (I want to see how well it performs on various stacks, such as Heroku)
+14:23 < Nicky> arrr, the JSON format is ugly ...
+14:27 < NodeX> anyone familiar with socket.io ?
+14:27 < aroman> NodeX: yes
+14:28 < milani> Nicky, it's not json:) 
+14:28 < NodeX> I have an app which I copied from a working application and now it wont work on the client - the client is listning it seems but it will not react to messages
+14:28 < NodeX> I don't have a clue where to start debugging
+14:30 < NodeX> I do know the serverside messages are arriving at the app but I cannot confirm if they are being emitted to the socket or not
+14:31 < upb> how could they be arriving at the app if they arent emitted ?:P
+14:32 < NodeX> the backend of the app
+14:33 < dj3u> help: app.helpers({foo : function(){return "bar"}}); how do i access it now from jade?
+14:35 < upb> NodeX: you could try checking the websocket traffic
+14:36 < NodeX> how can I do that ?
+14:37 < NodeX> I have hearbeats from the connected client as I can see them on the console
+14:37 < upb> wireshark?
+14:37 < upb> or fiddler?
+14:38 < NodeX> I also can see traffic coming in from (curl) but not getting emmited
+14:40 < NodeX> it seems . socket.on('ready', function () { .. is never fired :/
+14:45 < dre> hello, is it reasonable to modify the NodeJS source (or expect an official update in the near future) that would be able to provide sub-millisecond timers and intervals?  Or is there a limitation within V8 or some other component that makes this not feasible?
+14:45 < SomeoneWeird> what would the usecase be for that dre?
+14:47 < tonyk> dre: 0.8 has process.hrtimer()
+14:47 < dre> SomeoneWeird, For brief periods of time, I need a small amount of data to be processed every 300-500 usec.. and I can't just do it in batches of 2 or 3.. they need to be evenly spaced
+14:48 < tonyk> that would hrtime() sorry
+14:48 < tonyk> would be*
+14:48 < tonyk> fuck this keyboard
+14:49  * jocafa forgot about dre.
+14:49  * jocafa is sorry
+14:49 < dre> I did see that, but I was hoping to use that as a timeout/interval
+14:49 < dre> hahahah
+14:49 < jfroma> what diff tool do you use for git merging in linux (ubuntu)? (not a pool)
+14:49 < tonyk> yeah its not a timer
+14:49 < jfroma> because i asked something like that in another irc channel and they say "ey! dont make stupid poolssss"
+14:49 < tonyk> I dont know how you can effectively use it as a timer
+14:50 < tonyk> maybe with nextTick() ?
+14:50 < jocafa> oh you want like a high res interrupt eh?
+14:50 < tonyk> 100% cpu here we go
+14:50 < dre> surprisingly, having a 1ms interval uses almost 0% cpu
+14:50 < Tobsn> hmm if i do this var x = { y: data.z || false }; - why would it die with TypeError: Cannot read property 'z' of null
+14:50 < dre> I'd like to have a .1ms timer, even if it wastes 10% of the CPU just on the loop
+14:51 < jocafa> what are you processing, audio?
+14:51 < dre> the work I need to do is minimal, but the timing actually matters... I'm hoping to avoid a native module, but it looks like that may be my only option
+14:51 < dre> yea, media
+14:52 < jocafa> Tobsn:  data is null
+14:52 < Tobsn> oh
+14:52 < Tobsn> dah
+14:52 < jocafa> silly
+14:52 < jocafa> :)
+14:53 < Tobsn> yep, that was it
+14:53 < Tobsn> :P
+14:53 < Tobsn> thanks
+14:55 < context> the timing matters by tenths of a millisecond ?
+14:56 < context> mmm nm
+14:56 < jocafa> dre: what are you writing?
+14:58 < tonyk> dre: this is very ugly but what about having a pool of say 30 setInterval(1) which will check the high res timer for a certain threshold
+14:58 < tonyk> and you might have to start them all with an equally ugly sync loop
+14:59 < tonyk> this of course implies that multiple settimeouts arent granular on the ms level
+14:59 < tonyk> ;p
+15:00 < tonyk> s/implies/requires
+15:02 < dre> ooooo it is ugly, but creative... going to try it out.. will post an update if I can get it to work better than what I have
+15:02 < dre> it's a de-jitter module
+15:05 < NodeX> Loving this socket.io documentation </sarcasm>
+15:06 < [sumo]> any php-wiz's about?
+15:07 < NodeX> yer, wassup
+15:08 < NodeX> [sumo] ?
+15:19 < dre> tonyk that was an awesome suggestion! works like a charm
+15:24 < jhsto> How am I supposed to define my modules inside a function? All attempts to call something which requires the module gives me reference error.
+15:25 < tonyk> dre: will it work over extended periods of time? I can think of a case where intervals slowing drifting will cause it to be inaccurate
+15:25 < tonyk> slowly*
+15:28 < dre> yea, I don't doubt it's going to be less accurate than doing it "properly" in C, but for now, this should be plenty for what I'm trying to do..  with a handful of timers, it'll end up being sub-ms resolution
+15:28 < dre> and it definitely drifts..
+15:29 < dre> and not even all that slowly
+15:44 < NodeX> Good to finaly find out that in socket.io cross domains map back to IP's  too ... nicely documented ... NOT!
+15:46 < jonaslund>  what kind of media are you handling that requies that kind of precision ?
+15:49 < strk> (how) can I put comments in package.json ?
+15:50 < dre> a live data stream... if you consider how much data an audio/video stream contains, 1ms is not even that precise... the reason you don't normally need to deal with it on that level is because your media player buffers it and deals with it for you
+15:51 < stymo> hi, has anyone here used the memcache module from overclocked?
+15:51 < dre> I think I was a bit hasty in my evaluation of the multi-timer solution... seems like the multiple timers do fire within microseconds of each other, but there's still a delay after they fire, presumably when the next tick happens
+16:01 < jonaslund> depends on your capture source
+16:01 < jonaslund> are you encoding it aswell ?
+16:04 < NodeX> any chance anyone can take a look at http://paste2.org/p/2055466 and tell me what's wrong .. 6 hours I've been trying to get this working and nothing
+16:10 < dscape> NodeX: io.connect('http://example.org:1234');  /
+16:10 < dscape> >
+16:10 < dscape> ?
+16:10 < dscape> never saw that before
+16:10 < dscape> take a peek at https://github.com/dscape/jsday12/tree/master/socketio_helloworld
+16:11 < dscape> that might help you get started
+16:11 < NodeX> it works fine on a different IP address lol
+16:11 < NodeX> the "root" ip / eth:0 of the server running it
+16:12 < NodeX> http://socket.io/ <---- first example it has io.connect()......
+16:16 < dre> jonaslund I'm just trying to remove the jitter with this module
+16:17 < dre> it's really data agnostic, but the jitter becomes pretty apparent in any streaming media
+16:17 < jonaslund> what's the source of the jitter ?
+16:17 < dre> the data comes in inconsistently
+16:17 < jonaslund> raw frames ?
+16:18 < dre> the entire thing is a bit complicated, but the source of the data is not reliable
+16:19 < dre> and I need to have something compensate for that
+16:20 < jonaslund> why not make a small C program that handles the data that you open a pipe to ?
+16:21 < dre> yea, I'm thinking I don't really have a choice.. since other parts are written in Node, I wanted to see if I could avoid any native code
+16:22 < dre> seems like it's not really worth the effort though
+16:23 < jonaslund> I'm still a bit wondering about what kind of input source can be that inaccurate and still be accessible w/o a driver?
+16:24 < stan_man_can> Is there any really good "I know nothing about node and little about javascript" Node tutorials?
+16:26 < dre> the internets are very inaccurate
+16:26 < dre> any sort of network that doesn't have guarantees, really
+16:27 < dre> depending on how you use it, USB is in that category.. though 1.x is probably the only one that's noticeable in
+16:29 < jonaslund> still, isn't there ANY timestamps ?
+16:30 < jonaslund> a mpeg stream has them, a raw stream usually atleast signals frame starts or similiar
+16:34 < dre> yea, I have timestamps, but I need to actually de-jitter the packets and make sure the stream is consistent
+16:35 < dre> and that's the problem.. the timestamps have a finer resolution that NodeJS can handle
+16:36 < jonaslund> ok now i'm following
+16:36 < jonaslund> is it that big of a problem in practice?
+16:36 < jonaslund> granted jitter on jitter would create problems but like you said.. shouldn't the buffers in mediaplayers hide it?
+16:48 < dre> they do (at least to a degree), but I have some limitations I can't really get around and can't use a standard media player, so I need to control the jitter manually
+16:48 < dre> I keep getting my hopes up that there may be a JS solution, but it's really just the wrong tool for the job
+16:57 < jhsto> I have a string which is all numbers, but I need to multiply that. How I can convert it so that I could multiply it?
+16:57 < jhsto> I mean, mathematically multiply.
+16:59 < haharealfunny> i think you can do int(str)
+16:59 < haharealfunny> http://docs.python.org/library/functions.html#int
+17:00 < jhsto> thanks, ill try that out
+17:00 < siddMahen> jhsto: Inefficient, but it works: JSON.parse("123") * 10
+17:00 < zomg> o_O
+17:01 < jhsto> luckily, its only two things i have to count
+17:01 < zomg> You can just do "123" * 10
+17:01 < jhsto> seems to give the multiplier only
+17:01 < haharealfunny> that will do "123123123123..."
+17:01 < zomg> haharealfunny: no it won't
+17:01 < haharealfunny> try it
+17:01 < tar_> Do you think you're in #python?
+17:01 < siddMahen> zomg is right, it works!
+17:01 < haharealfunny> oh shit
+17:01 < jhsto> lol i screwed up, it was an objecty
+17:01 < haharealfunny> yep thought i was in python ;)
+17:01 < zomg> :D
+17:02 < tar_> :D
+17:02 < zomg> Yeah I was wondering why you linked the python docs just now...
+17:02 < zomg> :P
+17:02 < haharealfunny> haha too funny
+17:02 < haharealfunny> well that's a good way to learn that difference
+17:03 < haharealfunny> lazy question -- how do you page down in vi?
+17:04 < haharealfunny> ugh ctrl f
+17:04 < jfroma> using pgup pgdown keys?
+17:05 < haharealfunny> hmmm didn't seem to work before...
+17:05 < stymo> does anyone out there have a recommendation of a good memcache module for node?
+17:06 < jhsto> lol
+17:06 < jhsto> i wonder how the string did not count itself earlier
+17:06 < jhsto> anyways, thanks folks
+17:14 < quiznilo> haharealfunny: page-down and page-up should work fine in vim too
+17:42 < ill1cit> yoh node is sooooooooooo awesome!!!!!!!!!!!!!!!!!!!!!!
+17:46 < stan_man_can> https://gist.github.com/2949652
+17:46 < stan_man_can> When I hit the page it's putting two .'s down in the console. Is that expected? Why would it be hit twice?
+17:48 < staar2> stan_man_can, the call for favicon also
+17:48 < stan_man_can> oh wow
+17:49 < stan_man_can> thanks
+17:49 < staar2> some of the browsers does not make that extra request
+18:19 < staar2> is there coffe chat room also ?
+18:19 < staar2> coffescript
+18:20 < staar2> when user has created the class in coffescript, can it be created in JS with new Person('mikk') ?
+18:26 < RLa> staar2, i assume it is
+18:29 < AAA_awright> Beginning with v0.7.6 --shared-v8 fails to work on my system
+18:30 < qubit[01]> isaacs ^
+18:31 < AAA_awright> (gimme a sec to git-bisect this)
+18:31 < AAA_awright> KeyError: 'Undefined variable node_shared_v8_includes in .../node.gyp while trying to load .../node.gyp'
+18:46 < AAA_awright> Also, node-inspector gets a stack overflow in master and versions as early as v0.7.7?
+18:56 < haharealfunny> sexy terminal emulator http://www.secretgeometry.com/apps/cathode/
+19:06 < b_> hello :)
+19:07 < b_> I actualy trying to create a small responder on a multi-cpu host with node.js (his only job is to respond 404 with an asci-art html page :))
+19:07 < b_> Can I juste load the html file in a synchronous way and  use it to respond with my whole cluster or there is any better paterns ?
+19:10 < context> stop using node for static assets ?
+19:10 <@isaacs> AAA_awright: probably because you're using a different version of v8
+19:11 < AAA_awright> isaacs: Perhaps, but I'd think it should print a friendly error and not throw "variable undefined"
+19:11 < AAA_awright> I looked into it but I'm not sure which version it's expecting
+19:11 < TimeTurner> isaacs: will node cluster be considered production-ready in v0.8 ?
+19:12 <@isaacs> AAA_awright: we're on 3.11.10 now
+19:12 <@isaacs> AAA_awright: post an issue, please
+19:12 <@isaacs> TimeTurner: cluster is experimental, and will remain so until it's not.
+19:13 <@isaacs> TimeTurner: experiment with it, please :)
+19:13 <@isaacs> TimeTurner: it may change dramatically in 0.9 (or later) based on user feedback
+19:13 <@isaacs> TimeTurner: we usually opt to try something out quickly and go basedon results, than spend a lot of time designing the perfect abstraction.
+19:13 <@isaacs> TimeTurner: development driven development :)
+19:14 < TimeTurner> haha :)
+19:14 < b_> so .. I should not use cluster to build my simple responder ?
+19:14 < TimeTurner> thanks! going to hack with it then
+19:14 <@isaacs> AAA_awright: oh, i see.  that looks like it might've been broken in the build script itself
+19:14 <@isaacs> TimeTurner: it's not going to change *before* 0.8, if that's what you're asking
+19:22 < augustl> I want to index stuff with solr. Do you peeps think it should be done via a queue? In my node app, I'll store the record in postgres, then enqueue the solr indexing request in activemq or something.
+19:23 < augustl> I'm thinking that if for some reason indexing fails I'll have unindexed data. With a queue, I can requeue failed indexings etc.
+19:24 <@konobi> i use used the REST api
+19:25 < augustl> I guess the only real example of failed indexings are if my app crashes, but then it won't reach activemq either..
+19:25 < augustl> so I guess my real problem is how I discover unindexed records.
+19:46 < staar2> where could i found example how to run expressjs in cluster ?
+19:47 < RLa> from current cluster module docs it should be quite easy to see
+19:48 < RLa> just call server.listen in workers
+19:48 < RLa> sockets are shared so you have to do nothing else
+19:48 < RLa> btw, which version of node?
+19:49 < RLa> cluster api has been changed quite a bit in 0.7.x
+19:56 < staar2> well 6.*
+19:56 < staar2> yeah used the doc example
+19:56 < tonyk> whats up with express.compress()/connect.compress() in 0.7, im getting ERR_CONTENT_DECODING_FAILED in chrome
+19:56 < tonyk> then after I refresh its ok
+19:57 < staar2> how should i benchmark the difference using cluster ab tool ?
+19:58 < RLa> on a multicore machine
+19:58 < staar2> yeah 4 cores should do
+19:58 < RLa> it should utilize multiple cores
+19:58 < RLa> if you use 4 workers
+19:59 < staar2> well would it be better to use core * 1 or core * 2 workers ?
+20:01 < RLa> hm, no idea, haven't done that kind of experiments
+20:01 < context> staar2: personally id try something like N cores + 1 instead of N cores * 2
+20:01 < context> or just N cores
+20:01 < RLa> since node is not blocking, using more than one per core might not matter
+20:02 < context> well you have the overhead of process switching
+20:02 < context> whats the point of running 2 per core when one will do
+20:02 < staar2> has anyone tried the node in production ?
+20:02 < RLa> it might matter with blocking workers where single worker can only serve one user at a time
+20:02 < context> stop blocking.
+20:03 < context> and if you are blocking its prolly on the cpu... so running a secondary process doesnt help
+20:03 < RLa> in node yes
+20:03 < chapel> staar2: production? lots of companies
+20:03 < RLa> but in some other technology having more than one worker per core might be good
+20:03 < staar2> what stack or setup do use for simple express project ?
+20:04 < chapel> custom stack
+20:04 < chapel> mvc separation as much as possible
+20:05 < staar2> i have thought to use some node proxy(port forward from 80 -> to some 3000) and then the express app with cluster implementation
+20:06 < staar2> one option is to use nginx front proxy and use the static content serving also
+20:06 < context> i imagine thats what most people do .
+20:07 < ashnur> morning
+20:08 <@isaacs> ashnur: good morning
+20:09 < ashnur> now I am afraid to ask :P
+20:09 <@isaacs> ashnur: where are you?  in the pacific somewhere?
+20:09 < ashnur> eh, I am sorry, but I am just on of those crazy idiots who use morning all the time
+20:09 < ashnur> its 22:09
+20:10 <@isaacs> utc ftw!
+20:10 < ashnur> it's or its?
+20:10 < listerined> hey all, this is not really a node specific question but.. is there anything i need to be aware of if i rebuild node in order to get a freher version?
+20:10 < ashnur> anyway. should I use browserid or should I use something else?
+20:10  * isaacs is trying to detach from US/Pacific time
+20:10 <@isaacs> it's hard, because of the sun
+20:10 < LibreNick> hi guys, anyone in the mood to help me make libtorrent library work as a node.js extension? ;)
+20:10 < ashnur> I would very much like to be attached to US/Pacific
+20:11 <@isaacs> ashnur: you're wrong, though, it's 20:11
+20:11 <@isaacs> not 22:11
+20:11 < ashnur> isaacs: :)) I am in CET+DST
+20:11 <@isaacs> i se
+20:11 <@isaacs> *i see
+20:12 < ashnur> so browserid is ok?
+20:13 < tuhoojabotti> it's == it is
+20:13 < ashnur> so I missed at first. thanks
+20:13 < tuhoojabotti> np.
+20:14 < tuhoojabotti> utc+2+dst<3
+20:14 < ashnur> hmm. that's a strange timezone. 
+20:14 < tuhoojabotti> Finland o/
+20:14 < ashnur> ah. it's mine. that's why it's strange. :P
+20:15 < tuhoojabotti> yes
+20:15 < ashnur> hungary is a fairly stupid place. we should be in EET. even at summer, the sun sets too early :(
+20:15 < tuhoojabotti> no sunset here
+20:15 < tuhoojabotti> beat that ;)
+20:16 < b_> is it preferable to run multiple instance of node on a host or use cluster ?
+20:16 < ashnur> hmm. I am not sure I wish to compete. but I can point out another difference. here is around 30 degress Celsius even at night
+20:16 < b_> hello again :)
+20:17 < tuhoojabotti> b_: cluster is a tool to make it easy
+20:17 < tuhoojabotti> why not use it
+20:18 < b_> don't know is for taht I' asking :)
+20:19 < tuhoojabotti> sleep ->
+20:19 < b_> ok :)
+20:20 < LibreNick> how do I find out the reason a load of shared library failed using gyp? ("Error: Unable to load shared library...")
+20:20 < b_> tuhoojabotti, thank :)
+20:20 < TooTallNate> LibreNick: use 0.7.11
+20:22 < AviMarcus> i'm looking at salt for configuration management, and it seems pretty darn cool. Any particular downside to chef/puppet that I should beware of before diving into it?
+20:22 < LibreNick> TooTallNate: node.js ?
+20:22 < TooTallNate> LibreNick: yes
+20:22 < TooTallNate> it gives better error messages when loading native addons
+20:23 < LibreNick> TooTallNate: ah, ok ... I hoped to use packaged version, should I use 0.8 when I'm at it?
+20:24 < TooTallNate> LibreNick: yes indeed, when it comes out in the next week or two
+20:25 < LibreNick> TooTallNate: so 0.8 is not available yet to try?
+20:26 < LibreNick> TooTallNate: or just not recommended?
+20:26 < TooTallNate> LibreNick: it's not released quite yet, but v0.7.11 will become v0.8.0 once it is ready
+20:26 < TooTallNate> there might be a v0.7.12 in between, i'm not sure
+20:27 < TooTallNate> LibreNick: so use v0.7.11 and make sure your stuff works there, so that you'll be ready for v0.8 when it gets here
+20:28 < LibreNick> TooTallNate: is there a tutorial on how to build it and make it work? I assume all packaged versions of dependencies are too old to use ...
+20:29 < TooTallNate> LibreNick: what os are you on? the easiest way is to use one of the installers if you're on windows or OS X
+20:29 < LibreNick> TooTallNate: Kubuntu
+20:30 < LibreNick> TooTallNate: so no installer for me I guess :)
+20:30 < TooTallNate> LibreNick: in that case I just use `n` (or one of the other version managers)
+20:30 < TooTallNate> https://github.com/visionmedia/n
+20:30 < TooTallNate> you can just `npm install -g n`
+20:30 < wingie> SubStack: hey .. i wonder why one would choose using dnode over socket.io?
+20:30 < TooTallNate> if you already have node+npm installed
+20:31 < wingie> socket.io seems to do what dnode is doing with passing callbacks now .. is there something i have missed that dnode is better suited for
+20:33 < addisonj> the docs are failing me at the moment, how does one duplicate a stream (i.e dup2())
+20:36 < wingie> cross process for one
+20:36 < addisonj> hrm?
+20:43 < tonyk> tjholowaychuk: do you know why connect.compress() would result in an ERR_CONTENT_DECODING_FAILED on chrome? (and randomly too)
+20:44 < tjholowaychuk> tonyk hmm seeing any pattern?
+20:46 < wingie> tjholowaychuk: knox is abandoned?
+20:47 < tjholowaychuk> wingie we dont need it ATM
+20:47 < tjholowaychuk> so abandoned == not maintained by us yeah
+20:47 < wingie> ok
+20:47 < tjholowaychuk> for now at least
+20:47 < tonyk> no, and it doesnt happen locally. it only happens when it is deployed (ubuntu 12.04) both in node 0.6 and 0.7. I cannot debug it because curl always returns the file. chrome or firefox will return an error and chrome dev tools will show that the response has no body
+20:47 < wingie> good to know
+20:47 < tjholowaychuk> wingie im sure we can add a maintainer
+20:47 < tonyk> so maybe it has something to do with if-modified-since
+20:48 < tonyk> I will dig deeper
+20:48 < tjholowaychuk> tonyk are you using staticCache?
+20:48 < tjholowaychuk> it doesn't respect Vary tet
+20:48 < tjholowaychuk> yet*
+20:48 < tonyk> i am
+20:48 < tjholowaychuk> ah that's probably why
+20:48 < tjholowaychuk> it's kinda stupid, I want to remove it haha caching in node is a bad idea
+20:48 < tonyk> so you;re saying that it sends a deflate where is should have sent a gzip or something like that?
+20:48 < tonyk> it*
+20:49 < wingie> could someone start a company making SDKs for the customers
+20:49 < tjholowaychuk> yeah, node-static does the same but even worse since it just bindly caches
+20:49 < tjholowaychuk> but until Vary is implemented it's not super useful
+20:49 < tjholowaychuk> just use varnish
+20:49 < wingie> i think a lot of people would pay for good up-to-date/well maintained SDKs
+20:50 < jocafa> french polish with real shellac like a boss.'
+20:55 < Karmaon> Hi, why doesn't forever work when executed via a script?
+20:56 < Karmaon> I guess my enviornment variables aren't correct, but which ones?
+20:56 < Karmaon> starting forever through ssh works, however
+20:58 < AvianFlu> Karmaon, I've started forever with bash scripts quite a few times
+20:58 < AvianFlu> what kind of failure are you seeing?
+20:58 < Karmaon> AvianFlu: I have a git post-receive hook, and on my local terminal, forever even reports succesfully stopping and starting.
+20:59 < Karmaon> However when accessing the site, it I get an error from nginx, which means node isn't listening.
+20:59 < listerined> what's the most popular/stablished 'embedable' database in the node exossystem
+20:59 < listerined> ecosystem
+20:59 < Karmaon> Repeating the steps through ssh works as expected.
+20:59 < AvianFlu> Karmaon, probably an issue on the remote host? check for errors tehre
+20:59 < AvianFlu> check the forever log files
+20:59 < AvianFlu> check ~/.bash_history
+21:00 < AvianFlu> actually, that probably won't help
+21:00 < tonyk> listerined: sqlite works great
+21:00 < wingie> listerined: what do you mean by embedded?
+21:01 < listerined> i mean something that doesn't need an external service
+21:01 < listerined> wingie: something that accesses the fs directly
+21:01 < Karmaon> AvianFlu: I see the problem, on my terminal `forever stop 0` reports no processes stopped.
+21:02 < wingie> why do you want that?
+21:02 < Karmaon> AvianFlu: nevermind, it was on a different line.
+21:02 < AvianFlu> Karmaon, if you're using forever@0.9.2, you can stop with the uid
+21:03 < AvianFlu> like, forever stop b9f2 or whatever
+21:04 < marlun> Is there a recommended way of having different API versions with express.js?
+21:05 < Karmaon> AvianFlu: alright, i found the issue
+21:06 < Karmaon> apparently 'config/database.json' means '../config/database.json' locally, but not while being executed in a script
+21:07 < Karmaon> If i change my local files to access '../config/database.json', it errors
+21:07 < LibreNick> TooTallNate: ok, so 0.7.11 gives the error "undefined symbol: _ZN5boost6system16generic_categoryEv"
+21:07 < TooTallNate> LibreNick: looks like boost isn't getting linked properly
+21:08 < Karmaon> Ah, i didn't set the environmental variables in nconf.
+21:08 < LibreNick> TooTallNate: that's interesting because I compiled and run the hello example addon just fine
+21:09 < LibreNick> TooTallNate: ah ... boost is not part of vanilla hello addon, I see :)
+21:09 < TooTallNate> LibreNick: correct
+21:09 < TooTallNate> LibreNick: you'll probably need to add a "libraries" section to your gyp file
+21:10 < janmower> hi everyone i have a question re: nodejs + dtrace on linux.  i have most things working but InitDTrace isn't being called by any of my systemtap support.  i think i just need to call InitDTrace in startup somewhere.  Any advice?
+21:16 < Tobsn> http://pastebin.com/raw.php?i=q1hArFFq
+21:22 < LibreNick> TooTallNate: the regular way of including the lib would be -lboost_system-mt
+21:27 < janmower> http://pastebin.com/B0gQvmVu
+21:34 < wingie> why are people always releasing SDKs for PHP, Ruby and Python first
+21:34 < wingie> Node.js ffs!
+21:34 < wingie> it's mature and big
+21:36 < Sam4242> Hi guys... Question about Node JS and sockets: Have any of you used serialization or compression for stuff leaving your server? I'm currently sending raw JSON, but I've been informed that's not such a good idea network performance wise. I'm interested in two options: protobufs, and gzip... an anything else that could be cross platform. Advantages or disadvantages of protobufs, vs gzip byte compression, etc?
+21:38 < tjholowaychuk> Sam4242 depends on what you really need, I would start by assuming json is ok
+21:38 < tjholowaychuk> AFAIK voxer still uses json over http
+21:39 < MitchW> Sam4242: json is relatively compact as is, the best you're gonna do is maybe compress it an extra 10% or so w/ something as simple as gzip - but the best way to know for sure is just to test it (whip up a few typical JSON statements you'd send, and gzip them! :P)
+21:39 < tjholowaychuk> if you have lots of binary check out msgpack or multipart over zmq
+21:39 < TimeTurner> what's the deal with http://msgpack.org/
+21:39 < TimeTurner> ye[
+21:39 < TimeTurner> yep*
+21:41 < Sam4242> ok, cool. Yea, I was thinking about it, I probably have something like up to 60 kb/s per client outgoing. (worst case scenario)
+21:41 < TimeTurner> why isn't msgpack the standard though
+21:41 < Sam4242> because it is a real time, multiplayer 2D action game I am building in Node JS
+21:41 < TimeTurner> it looks much more performant
+21:42 < Sam4242> Can you run msgpack on iOs/objective c?
+21:42 < TimeTurner> sweet https://github.com/msgpack/msgpack-javascript
+21:53 <@Nexxy> TimeTurner, lol
+22:07 < tilleps> this might be the wrong channel, but what's the difference between mongo node driver's "mongo.grid" and "mongo.gridstore" ?
+22:11 < kylemcgill> Hi NodeJS, im having a retarded moment, for some reason im having serious trouble catching stdout and processing it as a JSON object, any tips ideas, or even better a place i can look to and learn? Ta! https://gist.github.com/54b1bb8c40fa7783bfbb
+22:21 < AAA_awright> tilleps: Do you have a URL to the module? There's a number of them
+22:21 < Fabryz> anyone here tried using oauth to authenticate on twitter and interact with the streaming api?
+22:21 < Fabryz> i'm just using a simple https client for now
+22:22 <@isaacs> kylemcgill: maybe you meant something like this? https://gist.github.com/5ed7503b1522fc293043
+22:25 < kylemcgill> isaacs: your a legend
+22:26 <@isaacs> my a legend.  indeed ;P
+22:26 < kylemcgill> lol :D so from that example, im guessing my logic wasnt quite correct? think i need to scrub up on some more Node tuts :)
+22:28 <@isaacs> kylemcgill: yeah.  the results are provided in the callback.  you can't just return them.  functions are not simple blocks like while or if
+22:29 <@isaacs> kylemcgill: it's functional
+22:29 <@isaacs> the function gets called some time in the future
+22:29 < kylemcgill> awesome, i understand that, thanks for your help and insight :)
+22:35 < tilleps> to answer my own question, seems like GridStore is Grid but with more features: http://mongodb.github.com/node-mongodb-native/api-generated/gridstore.html#puts
+22:43 < Karmaon> anyone use nconf?
+22:43 < Karmaon> is the memory storage engine the default?
+23:46 < Karmaon> Executing forever from a script makes node unable to require relative files.
+23:46 < Karmaon> Or is it nconf's fault?
+23:47 < zomg> iirc it does that when you start it from a wrong dir
+23:47 < zomg> Try having your script first 'cd' into the directory where your app is
+23:47 < Karmaon> zomg: thanks, will try.
+23:47 < Karmaon> zomg: however i have tried starting the app from my home directory, and i get no problems
+23:48 < Karmaon> NODE_ENV=production forever start app/server.js
+23:48 < Karmaon> but i will try what you said
+23:48 < zomg> Yeah been a while since I had a similar issue, but cd'ing solved it for me
+23:48 < zomg> Can't really recall the details besides that
+23:49 < Karmaon> zomg: works for me
+23:49 < Karmaon> thanks
+23:49 < zomg> heh, nice :)
+23:56 < CarlosC> What's a good node book that goes over libuv?  Looking for a textbook to go with a class that is being planned to be offered
+--- Log closed Tue Jun 19 00:00:20 2012

@@ -1,0 +1,1 @@
+makefiles are pretty to understand, it's all the cross-platform bullshit

@@ -1,0 +1,1 @@
+and in the file where you are requiring that file, use ext.myFunction();

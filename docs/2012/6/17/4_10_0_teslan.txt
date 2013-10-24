@@ -1,0 +1,1 @@
+so besides status 304 what else do i send back in response ... no body, what about other headers, none ?

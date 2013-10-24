@@ -1,0 +1,1 @@
+when i tried with apache, i was dead in 10 active visitors (keepalive - 15s), 512mb ram, swap full, cpu completely used, i had to reboot :D

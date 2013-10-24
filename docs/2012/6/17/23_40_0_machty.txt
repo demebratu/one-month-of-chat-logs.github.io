@@ -1,0 +1,1 @@
+why use nginx? what does it offer over just exposing node as the server on port 80? 

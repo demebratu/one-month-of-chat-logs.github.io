@@ -1,0 +1,1 @@
+AFAIK voxer still uses json over http

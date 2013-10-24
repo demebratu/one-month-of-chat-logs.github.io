@@ -1,0 +1,1 @@
+they're mainly for installing executables into your $PATH

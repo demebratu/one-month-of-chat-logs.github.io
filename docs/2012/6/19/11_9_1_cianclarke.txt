@@ -1,0 +1,1 @@
+Ability to display ASCIIArt horse.. *very* important in a mobile client, tbh.

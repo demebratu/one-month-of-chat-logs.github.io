@@ -1,0 +1,1 @@
+TimeTurner: we usually opt to try something out quickly and go basedon results, than spend a lot of time designing the perfect abstraction.

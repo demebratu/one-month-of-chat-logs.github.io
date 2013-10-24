@@ -1,0 +1,1 @@
+is websockets something that has to be supported by the http sertver or by the programming language ?

@@ -1,0 +1,1520 @@
+--- Log opened Sun Jun 17 00:00:00 2012
+--- Day changed Sun Jun 17 2012
+00:00 <@isaacs> dscape: so you want like res.end('Please reconnect') or something
+00:00 < dscape> isaacs: yes
+00:00 < dscape> except that doesnt work
+00:00 < dscape> cause the timeout closes the response
+00:00 < dscape> so you cant write anymore
+00:01 <@isaacs> right
+00:01 <@isaacs> that seems like a suboptimal api
+00:01 <@isaacs> dscape: node's, i mean, not yours
+00:01 < dscape> yeah, i mean im removing event listeners
+00:01 <@isaacs> i've already bitched about flatiron ;)
+00:01 < dscape> rofl
+00:01 <@isaacs> dscape: right, just so that you can get in front
+00:01 < dscape> exactly
+00:01 <@isaacs> this is actually a GREAT case for nextTick
+00:02 <@isaacs> the built-in http timeout handler should process.nextTick(function(){socket.close()})
+00:02 < dscape> that would work
+00:02 <@isaacs> dscape: can you post an issue?  tell them i sent you?
+00:02 <@isaacs> we cannot make any changes to http semantics without serious un-work-around-able bugs, but this is a good candidate for v0.9
+00:10 < augustl> is there a way to specify a separate "this" and globals for vm.runInNewContext?
+00:10 < augustl> seems the context is both this and globals.
+00:10 < augustl> in node itself, "require" is a global that is not available on the top level "this" for example
+00:11 <@isaacs> augustl: require is not a global.
+00:11 <@isaacs> augustl: require is a free var
+00:12 < augustl> isaacs: ah, never heard about those before, looking it up
+00:12 <@isaacs> augustl: "free var" just basically is "local var you don't have to 'var' yourself"
+00:12 < augustl> is it possible to define them other than poking into V8 with C++?
+00:15 < augustl> isaacs: basically trying to implement commonjs with vm :)
+00:15 <@isaacs> augustl: you can just run node with NODE_MODULE_CONTEXT=1
+00:16 <@isaacs> augustl: er, maybe it's NODE_MODULE_CONTEXTS=1? i forget
+00:16 < augustl> interesting, thanks
+00:16 <@isaacs> augustl: warning: it's CRAZY slow, and for obvious reasons, globals are not shared between modules.
+00:16 <@isaacs> augustl: the reason it's so slow, in my experience, is that accessing global vars is way slower than accessing vars that are local to a function
+00:17 <@isaacs> augustl: so, in the top of your module if you do `var foo = require('foo')`, then with NODE_MODULE_CONTEXTS, that's a global
+00:17 <@isaacs> and accessing it is slower.
+00:17 < augustl> hmm I see
+00:17 <@isaacs> also, we never ever test in that mode.
+00:17 <@isaacs> no one does.
+00:17 < augustl> don't see how that helps me in implementing commonjs though
+00:17 <@isaacs> the feature is basically forgotten.
+00:18 <@isaacs> oh, wait, you mean, not in node?
+00:18 < augustl> in node, using vm.runInNewContext
+00:18 <@isaacs> k...
+00:18 <@isaacs> why not just... use node?
+00:18  * isaacs confused
+00:18 <@isaacs> commonjs is just a module system and a bunch of stuff that doesn'tmatter.
+00:18 < jesusabdullah> exposing require and sandboxing seem mutually exclusive to me
+00:18 <@isaacs> and we have the module system already ;)
+00:18 < jesusabdullah> does that make me crazy?
+00:19 < augustl> isaacs: my actual use case probably sounds more sensible :)
+00:19 <@isaacs> jesusabdullah: it's a sandbox, not a prison
+00:19 <@isaacs> jesusabdullah: if you want that, you need stronger magic :)
+00:19 < augustl> isaacs: I want to create a sandboxed runtime where some modules are my own, so that the "fs" module is my own, for example
+00:19 < augustl> the API is the same, but you don't get access to the entire file system
+00:19 <@isaacs> augustl: you should read lib/module.js
+00:20 < augustl> so basically just a wrapper
+00:20 < augustl> isaacs: will do, thanks
+00:20 <@isaacs> it's not super complicated if you sort of know how it works anyway
+00:20 <@isaacs> augustl: just be warned, some stuff in there is not ideal, but we are under no circumstances touching it, ever.
+00:20 <@isaacs> augustl: maybe if there's some serious SERIOUS bug
+00:20 <@isaacs> but it'd take basically an act of god.
+00:20 < augustl> isaacs: looks like it contains a lot of private stuff too
+00:20 < augustl> but I suppose it's not likely to change?
+00:21 <@isaacs> well, i mean, the private stuff is private because it's sort of like "You better know what youe' doing if you use this"
+00:21 <@isaacs> but no, it won't change.
+00:21 <@isaacs> and it's worth reading.  it's a good read :)
+00:21 < augustl> isaacs: feel free to comment on my goal btw :)
+00:22 < augustl> perhaps there are different/better ways of creating a sandboxed nodejs environment
+00:22 <@isaacs> augustl: i've heard crazier things :)
+00:22 <@isaacs> augustl: i wouldn't call it "commonjs", though.  call it 'sandboxed nodejs'
+00:22 <@isaacs> that's what it really is
+00:22 <@isaacs> 'commonjs' went off the deep end and never came back to relevance
+00:22 < augustl> yeah I agree, it'll be pretty 1:1 with node APIs, won't be looking at commonjs specs
+00:23 <@isaacs> you can use that module.js to do a lot of very common tasks, or at least see how best to ape the interface
+00:23 < augustl> thanks for the pointer, it looks like exactly what I want
+00:23 <@isaacs> np
+00:23 <@isaacs> maxogden: !!!
+00:23 < augustl> isaacs: hmm, require('native_module') doesn't work, is it hidden?
+00:23 <@isaacs> maxogden: i can use this now??
+00:23 < augustl> not sure if I actually need it
+00:24 <@isaacs> augustl: yes, it's hidden...
+00:24 <@isaacs> augustl: basically, that's the thing that is used to bootstrap the module system
+00:24 <@isaacs> augustl: it wraps the internal modules
+00:24 < augustl> I see
+00:25 <@maxogden> isaacs: yep i wrote tests on the plane
+00:25 <@isaacs> augustl: we considered exposing it, and it's like a 3 line addition to module.js, but that's just how serious we are about module.js never changing.
+00:25 <@isaacs> maxogden: ftw!
+00:26 <@isaacs> maxogden: that's going to be a fun mad science experiment
+00:26 <@isaacs> you know what's fucking awesome?
+00:26 <@maxogden> isaacs: that replication works?!?!? cause it does
+00:26 <@isaacs> at this point, master has more passing tests and fewer bugs that v0.6
+00:26 <@isaacs> maxogden: THAT TOO!!
+00:26 <@maxogden> isaacs: ooh nice
+00:26 <@isaacs> but about node.
+00:26 <@maxogden> haha
+00:26 <@isaacs> master is already stabler than 0.6
+00:26 <@isaacs> except for the ev_io breakage.
+00:27 <@isaacs> but that'll be fixed really soon
+00:30 < jesusabdullah> I should upgrade
+00:30 < jesusabdullah> How bad can it be? Plus, the new repl api is sooooo much better
+00:31 < augustl> isaacs: what's the 4th argument being used for runInNewContext?
+00:31 < augustl> it's not documented, and seems to always be `true`
+00:34 <@isaacs> augustl: probably deprecated legacy :)
+00:34 < augustl> :D
+00:41 <@Nexxy> I hope to become deprecated legacy one day
+00:43 < augustl> isaacs: where is the native_module defined?
+00:43 <@isaacs> augustl: in src/node.js
+00:44 < augustl> ty
+00:45 < augustl> ah, it's wrapped in a function, clever :)
+00:46 < augustl> should've thought of that..
+01:08 < polotek> anybody know a good csv lib?
+01:08 < polotek> the couple I've tried are all weird
+01:08 < polotek> I just wanna pass a file and get a stream of rows
+01:25 < dscape> SubStack: what's -sSNT. ?
+01:30 < SubStack> dscape: man curl
+01:30 < dscape> SubStack: just did
+01:30 < dscape> smart
+01:30 < dscape> i tried to do something similar for a while
+01:30 < dscape> but never cracked the curl
+01:30 < dscape> when i saw this working on jesusabdullah's gist
+01:30 < dscape> i was like interesting
+01:30 < dscape> -T. is really cool
+01:31 < SubStack> -T- might also work depending
+01:31 < SubStack> the semantics are a little different
+01:31 < dscape> this is awesome sauce
+01:31 < dscape> cause it shows something only node can do :)
+01:31 < dscape> do that with ruby :P good luck friend
+01:33 < augustl> is there a way to get ports for sockets assigned by the OS with node? Or do I always have to specify the port?
+01:34 < augustl> all I really care about is that my http server starts on _some_ unused port, and that I can read out which port that was assigned
+01:36 < jesusabdullah> augustl: Use a Math.random() scaled to the port range you're interested in, Math.floor it so it's an integer
+01:37 < jesusabdullah> augustl: use server.address() to get the port and host information
+01:38 < augustl> jesusabdullah: that would require me to do retries though, but that'll work I guess
+01:38 < jesusabdullah> augustl: Wrap it in a module :)
+01:39 < augustl> afaik there are low level syscalls to open tcp sockets and have the OS assign a port though
+01:39 < augustl> or rather start tcp servers
+01:39 < jesusabdullah> I see
+01:39 < jesusabdullah> I'm not aware of them but, like, why would I be? :)
+01:39 < jesusabdullah> You may be right
+01:39 < augustl> the OS already knows what ports are taken, so it would be nice to not have to do retries by hand
+01:40 < augustl> not sure if I'm actually right in the existence of these syscalls though..
+01:42 < augustl> could use /etc/services on *nix
+01:42 < TomWij> Well, you always want to retry, you aren't guaranteed of the port when you plan to take it.
+01:42 <@Nexxy> unless you're planning on running many thousands of daemons I doubt you'll get more than an occasional single collision
+01:43 < cblage> hi guys 
+01:43 < augustl> Nexxy: it's just annoying to have to write the code for it if the OS can handle it
+01:43 < cblage> anyone here familiar with using the connect middleware?
+01:43 < augustl> TomWij: not if I never specify the port and have the OS assign it :)
+01:44 < TomWij> By the way, if it are dynamic or private ports, you need to take them from 49152 - 65535
+01:44 < cblage> cause im running a comparative benchmark and I see no difference between running it with the cache turned on or turned off
+01:44 < cblage> and i mean the static Cache
+01:44 < augustl> TomWij: nice, didn't know that, tnx
+01:45 < TomWij> augustl: Still, no guarantee.
+01:45 < augustl> sure
+01:45 < augustl> s/sure/ack/
+01:45 < augustl> :)
+01:45 < cblage> it sometimes even results in lower RPS when the staticCache is turned on
+01:46 < cblage> this is what Im using https://gist.github.com/4777f9a61728083a9012
+01:46 < augustl> "When listen(2) or connect(2) are called on an unbound socket, it is automatically bound to a random free port with the local address set to INADDR_ANY."
+01:46 < augustl> yay
+01:46 < cblage> with the staticCache line commented out, I get Throughput:           2673.161 requests/second
+01:46 < cblage> with the staticCache enabled, I get Throughput:           2585.695 requests/second
+01:46 < cblage> this is serving a 389B file
+01:46 < TomWij> augustl: And is that how Node.js implements it?
+01:47 < cblage> (tiny as shit)
+01:47 < augustl> TomWij: don't think so, docs say port is required
+01:47 < TomWij> An alternative way is binding on port 0.
+01:47 < dscape> isaacs: https://github.com/joyent/node/issues/3460
+01:47 < TomWij> Although that doesn't adhere to the port ranges...
+01:48 < TomWij> But well, best way is poking random posts between 49152 - 65535
+01:48 < TomWij> ports*
+01:48 < augustl> hey, it seems to work actually
+01:48 < TomWij> Or write / use some library and forget about it.
+01:48 < augustl> didn't specify the port, address() says port is 46460,
+01:48 < jesusabdullah> word
+01:48 < augustl> I wonder why it's not a port between 49152 - 65535
+01:49 < TomWij> Many applications do not adhere to IANAs assignments, it's a plague... :(
+01:49 < augustl> TomWij: I'm too idealist to write a library if it's The Wrong Way :P
+01:50 < TomWij> Just because you can type it short doesn't make it right...
+01:50 < jesusabdullah> Nothing wrong about doing it the "wrong way" if it's self-contained
+01:50 < cblage> anyone?
+01:50 < jesusabdullah> you sequester the "wrong way" into its own module
+01:50 < jesusabdullah> anyone what cblage ?
+01:50 < augustl> jesusabdullah: completely disagree :P
+01:51 < jesusabdullah> why?
+01:51 < augustl> it's still shit even if it's hidden away
+01:51 < jesusabdullah> ah, but it works, and all the nasty stuff is handled and wrapped in a nice api
+01:51 < cblage> im trying to figure out why using staticCache reduces throughput 
+01:51 < cblage> https://gist.github.com/4777f9a61728083a9012
+01:51 < TomWij> How is choosing ports from the right range the wrong way? o_O
+01:51 < jesusabdullah> If your library has a bunch of corner cases and breaks all the time, then maybe that's a bad idea
+01:52 < cblage> if I comment out the staticCache line I get a slightly higher throughput than with it turned on
+01:52 < augustl> jesusabdullah: yeah it solves the problem of not facing the shit all the time
+01:52 < jesusabdullah> but the goal here is to be like, "okay, all ugliness is in this box"
+01:52 < augustl> jesusabdullah: but it's still shit :)
+01:52 < TomWij> That's supposing the library would be bad in some way.
+01:52 < cblage> which I find absurd 
+01:52 < jesusabdullah> what do you mean by "shit" though augustl?
+01:52 < cblage> it's serving a 389B file
+01:52 < cblage> really small
+01:52 < jesusabdullah> "shit" to me means "breaks in cryptic ways"
+01:52 < augustl> jesusabdullah, TomWij: reimplementing kernel features
+01:52 < augustl> that's shit in my book
+01:52 < cblage> maybe Im doing something retardedly wrong
+01:52 < TomWij> jesusabdullah: I don't understand that. You are mainly promoting reuse by putting it in a library.
+01:52 < cblage> but I dont think so
+01:52 < qubit[01]> TypeError: Cannot read property 'connect.sid' of undefined ?
+01:53 < jesusabdullah> reuse, yes, also abstraction
+01:53 < jesusabdullah> you wrap a nasty algorithm in a clean abstraction
+01:53 < augustl> jesusabdullah: so we seem to have different ideas of shit :)
+01:53 < jesusabdullah> Good thing mine's right
+01:53 < TomWij> augustl: That's what they've done with Linux, right? :D
+01:53 < augustl> jesusabdullah: that's not very nice is it
+01:53 < TomWij> jesusabdullah: Why is it nasty?
+01:54 < qubit[01]> nm, needed cookieParser 
+01:54 < jesusabdullah> Why's what nasty?
+01:54 < augustl> TomWij: :D
+01:54 < TomWij> <TomWij> That's supposing the library would be bad in some way.
+01:54 < TomWij> So, you're just making assumptions here, whatever... :)
+01:55 < jesusabdullah> well, assuming that you want to do a thing that's somewhat hacky
+01:56 < TomWij> jesusabdullah: Why's what hacky?
+01:56 < jesusabdullah> TomWij: well, that was augustl's worry, right, that a given approach for doing something was too hacky
+01:57 < jesusabdullah> TomWij: and I'm saying you can mitigate that by sequestering the nasty inside of a module
+01:57 < jesusabdullah> TomWij: I don't actually know if any given thing is actually nasty
+01:57 < TomWij> o_O
+01:57 < TomWij> It's not hacky in any way, because it's the right approach.
+01:58 < TomWij> Whereas he was suggesting the shortest wrong approach, because it didn't comply with the IANA recommendations.
+01:58 < augustl> TomWij: why would you say that me writing a program to pool ports more right than using the kernels automatic port assignment?
+01:58 < jesusabdullah> which approaches are we discussing again?
+01:58 < augustl> s/more right/is more right/
+01:58 < jesusabdullah> I agree that writing your port assignment stuff in node is non-hacky.
+01:59 < jesusabdullah> and a reasonable thing to do.
+01:59 < TomWij> augustl: Because the kernels automatic port assignment is not necessarily meant to be used towards the internet.
+01:59 < augustl> you're assuming my servers will be facing the internet :)
+01:59 < TomWij> Giving 0 or NULL to a low-level API and claiming that it gives you the right ports back, that's barely a guarantee that it's the right way to do it.
+02:00 < TomWij> If your automatic port assignment takes away a port of another important service that's yet to start, that important service will fail to do so.
+02:00 < TomWij> It won't if you use the dynamic ports service instead; that's why those recommendations were made, that's what the right way is.
+02:01 < TomWij> If you don't give a single; that's another story, but that doesn't make it the recommended way.
+02:01 < jesusabdullah> TomWij++
+02:01 < augustl> TomWij: I'm looking at the code now, it doesn't do anything special. The value you pass to .listen is passed directly to the system calls, as far as I can tell
+02:02 < augustl> and according to the man page of the kernels IP stack: "When listen(2) or connect(2) are called on an unbound socket, it is automatically bound to a random free port with the local address set to INADDR_ANY. "
+02:02 < augustl> so for now I'm assuming an unbound socket is the same as not specifying a port ;)
+02:02 < jesusabdullah> We know all this augustl, you are missing the point
+02:02 < augustl> jesusabdullah: ah, what's the point I'm missing?
+02:02 < jesusabdullah> That you shouldn't rely on that behavior
+02:03 < augustl> why shouldn't I rely on it?
+02:03 < jesusabdullah> Read up, TomWij already explained it quite well
+02:03 < augustl> you mean on the node level?
+02:03 < augustl> good point, not passing a port to the node .listen() call is unspecified behaviour
+02:03 < TomWij> Quite surprised that this is even built into Windows' netsh: https://gist.github.com/2943143
+02:04 < TomWij> For TCP/IP, if the port is specified as zero, the service provider assigns a unique port to the application from the dynamic client port range. On Windows Vista and later, the dynamic client port range is a value between 49152 and 65535. This is a change from Windows Server 2003 and earlier where the dynamic client port range was a value between 1025 and 5000.
+02:04 < TomWij> http://msdn.microsoft.com/en-us/library/windows/desktop/ms737550(v=vs.85).aspx
+02:05 < TomWij> Someone should actually fix this in the Linux kernel.
+02:05 < augustl> not sure if it's in libuv or node or the kernel yet
+02:05 < augustl> best way to find out is to write a c program I guess
+02:06 < TomWij> But well, given it's randomness it's not of a really big issue. But it can very infrequently cause a port drive-by where a reserved port can't be taken because an application polluted it with a dynamic port...
+02:08 < TomWij> Maybe it's possible that Linux has some lower limit though, above the typical reserved ports.
+02:08 < TomWij> Guess making a node program that quickly takes up all ports and on each iteration prints out the lowest and highest port could quickly tell where the limits are at...
+02:09 < TomWij> (each iteration where one of those ports changes, though)
+02:11 < augustl> TomWij: just got one for 46401
+02:11 < augustl> using a small C program
+02:11 < augustl> so apparently the kernel assigns this
+02:13 < inimino> hm...
+02:14 < inimino> augustl, why do you not care about the port you listen on?
+02:15 < augustl> inimino: it's for a system where many http servers are proxied through one top level http server
+02:15 < augustl> inimino: the programmers writing the internal http servers shouldn't have to care which port they should listen to, in order to not conflict with the other http servers, etc
+02:15 < augustl> TomWij: cat /proc/sys/net/ipv4/ip_local_port_range  :)
+02:16 < augustl> TomWij: apparently Linux does this since someone somewhere believes that the IANA port range is too small
+02:16 < augustl> from http://stackoverflow.com/questions/913501
+02:16 < TomWij> 32768 61000
+02:16 < Jacky> <3
+02:17 < Jacky> Node's the future.
+02:17 < TomWij> These are the defaults, right?
+02:17 < augustl> TomWij: I'm on Ubuntu at the moment, and haven't changed them
+02:17 < augustl> I'll check Arch Linux, sec
+02:18 < augustl> TomWij: same values on Arch Linux, so they're probably defaults since Arch doesn't typically change any defaults
+02:18 < TomWij> I see.
+02:19 < TomWij> Hmm, 16383 ports not being enough... :(
+02:20 < Jacky> O_O
+02:20 < Jacky> 16384 isn't enough?
+02:20 < augustl> "for some busy servers"
+02:20 < Jacky> you want 65335?
+02:21 < augustl> kind of strange to change the defaults and violate specs "for some busy servers"
+02:22 < augustl> some more info here https://en.wikipedia.org/wiki/Ephemeral_port
+02:22 < augustl> TIL :)
+02:54 < teslan> for a givne file, where in the incoming request do i find the ETag: that i placed into the header of the last response?
+02:58 < bingomanatee> evening all. 
+02:58 < bingomanatee> Does anyone have a working use of geospatial indexing using mongoose.js?
+03:03 < bingomanatee> specifically - I need to set min and max so the documented index ({type: Array, index: "2d"}) 
+03:03 < bingomanatee> isn't quite the solution I need. 
+03:03 < btipling> where is a good place to talk about require.js
+03:04 < bingomanatee> this is as good as any 
+03:04 < bingomanatee> though if you don't get satisfaction there is a general purpose javascript IRC channel. I think its just "#javascript"
+03:05 < btipling> I can either put a path to jquery in my app's require or put one in my app.build.js but not both
+03:06 < btipling> and the former only works when I load the page directly and the latter only works with require.js
+03:06 < btipling> I don't understand why whatever I have working for the browser can't just work for r.js
+03:07 < btipling> it treats a jquery file as special or something
+03:12 < teslan> and where would i beest ask about ETag: on responses and then using then on subsequent requests ("If-None-Match" ?) to respond with 200 or 304?
+03:14 < dec> maybe a naive question... but I see debug() statements littered all through the node js source code; how do I capture the output from these?
+03:17 < btipling> ok I got it working, had to put the config path in the app
+03:24  * DougReeder waves hello
+03:24 < coderarity> hi
+03:25 < DougReeder> What elegant and subversive topic is under discussion tonight?
+03:27 < teslan> kind of quiet but meanwhile i could use help with Etag: response headers and If-None-Match request headers and 304 statuses ;)
+03:27 < teslan> DougReeder: ^;)
+03:28 < DougReeder> Oh, hey, I've been working on that
+03:31 < teslan> so if for a file i set Etag: whatevervalue in response heasers, why would the client not be sending me back an if-none-match header in subsequent request for the same file?
+03:31 < DougReeder> Bad client?
+03:31 < teslan> DougReeder: ^ what else beside the ETag: should i be setting in responses or is it good enough?
+03:31 < teslan> nah
+03:32 < teslan> chrome
+03:32 < DougReeder> ETag should be enough, as I read the spec.
+03:32 < DougReeder> ... but clients have optimizations
+03:32 < DougReeder> Are you setting Expires?  That takes precedence.
+03:34 < DougReeder> And clients are free to assume some value for expires if you don't set it.
+03:34 < teslan> DougReeder: yes but is expires not for whether client should yet make another request or use what it has ... where ETag is for determening if client already has exact copy, regardles if it's too old and expired ?
+03:34 < DougReeder> Right.
+03:35 < DougReeder> Within the Expires period,the client shouln't need to makeany request at all.
+03:35 < DougReeder> ...
+03:35 < teslan> that's right
+03:35 < jamescarr> argh
+03:35 < teslan> unless you hit refresh ?
+03:36 < DougReeder> I've actually only implemented Last-modified and If-Modified Since.
+03:37 < DougReeder> If you request a page again, by typing the URL, doesn't send If-None-Match.
+03:37 < DougReeder> ... that is, Safari doesn't send...
+03:38 < DougReeder> If you hit refresh, Safari unconditionally requests that page...
+03:39 < DougReeder> ... but does a conditional request for it's resouces.
+03:39 < teslan> DougReeder: good you asking that so i can confirm my Chrome observation with you as follows ... if i enter a URL and press "ENTER" key then no request is sent to server, if a cached copy exists ... but pressing F5 or clicking on REFRESH button causes a request to go to server ... is this what should be happening?
+03:40 < DougReeder> Well, that's what Safari _does_.  Whether it _should_ is another question.
+03:41 < DougReeder> Clients do all sorts of ad-hoc stuff. I wouldn't woryy if they don't do what you expect.
+03:41 < DougReeder> It's a shame the W3C doen't publish test suites.
+03:42 < teslan> except that i am not getting anything in request.header["If-None-Match"] ... first, is that the right place where these conditionals are located?
+03:42 < circlicious> you guys use Jake?
+03:42 < DougReeder> I would check that your server correctly sends ETag, and responds to If-None-Match
+03:43 < jamescarr> circlicious, nope
+03:43 < jamescarr> circlicious, I use cake and capistrano for deployments
+03:44 < DougReeder> The client MAY, but is not obligated to send and If-None-Match header in the request, if it has a variant in the cache.
+03:45 < circlicious> cake, hmm. i think i wanted something like rake for my job, so came across jake. seems good. will take a look at cake too.
+03:46 < circlicious> well, how do you execute cli commands in node ?
+03:46 < teslan> DougReeder: is presence of ETag: on responses not a hint to client to loop it back as an if-none-match condition the next time it makes a request
+03:47 < DougReeder> Oh, definite it's a hint.
+03:51 < circlicious> wow, so much code to execute a shell command - http://snipplr.com/view/39105/ ? :P
+03:52 < DougReeder> Firefox 11 appears to use conditional requests when you retype the URL.
+03:54 < DougReeder> Yeah, FF appears to be much more predictable.
+03:55 < teslan> DougReeder: what is the story with these header names, so much literature with "If-None-Match" and it turns out to be == "if-none-match" ?
+03:55 < trco> Greetings. I am currently trying to make node from the git master. It fails each time with "Error: ENOENT, no such file or directory '~/local/lib/node_modules/npm/bin/npm-cli.js'" any thoughts on how to resolve this?
+03:56 < DougReeder> Headers are case insensive IIRC.
+03:56 < DougReeder> I presume Node is lowercasing them to make them easier to compare.
+03:57 < DougReeder> I think one should not check that if-none-match is identical to the ETag -- one should check that the ETag is _in_ the if-none-matched.
+03:58 < DougReeder> Sorry, I've never compiled Node.
+04:01 < DougReeder> Alas, all these headers still don't allow me to express the tru situation.
+04:01 < DougReeder> My app delivers photos variously resized.
+04:02 < DougReeder> HTTP doesn't allow me to say, 'use the version you've got,though if you were asking the first time, I'd give you a different picture'.
+04:05 < teslan> DougReeder is that not practically the same as saying ... use whatever you have and if you have none, here is one?
+04:05 < DougReeder> Hmmm
+04:06 < DougReeder> My bad.  I could express that using HTTP, I'd just need to have the Etag for every size of a photo on hand.
+04:07  * DougReeder thinks about how to implement that.
+04:07 < teslan> DoughReeder, in my case i have an md5 for each doc and an etag for the whole set and am going to use md5 ... so could you?
+04:08 < teslan> then if if-none-match is missing you send it else you 304 it
+04:08 < eocampos> trco, you should have npm installed on that path ~/local/lib/node_modules/
+04:08 < DougReeder> I think I have a data structure where they could go, but I don't want to stat every file when starting up.
+04:09 < teslan> stat?
+04:09 < DougReeder> fs.stat
+04:10 < teslan> so besides status 304 what else do i send back in response ... no body, what about other headers, none ?
+04:11 < DougReeder> Date. You always send that.
+04:12 < DougReeder> You shouln't send other entity headers like Allow, Content-*, Expires and Last-Modified.
+04:12 < teslan> where do i send Date and why?
+04:13 < DougReeder> I think it's useful to caches.
+04:15 < DougReeder> http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html#sec10.3.5$
+04:15 < DougReeder> http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html#sec10.3.5
+04:24 < teslan> DougReeder so in response header i set ... Date: new Date() ...
+04:25 < teslan> DougReeder: should i send Date: on 200's as well?
+04:27 < circlicious> you guys use coffeescript?
+04:27 < DougReeder> I think you're supposed to send date in every response of 200 or more.
+04:28 < mmalecki> node sends date header automatically
+04:28 < DougReeder> And actually, you nee (new Date()).toUTCString()
+04:30 < DougReeder> Is that Node proper, or some modules?
+04:30 < zackattack> my page is taking forever to load.
+04:31 < zackattack> should i use varnish to speed it up?
+04:31 < DougReeder> zackattack: First, find out why it's slow
+04:32 < zackattack> DougReeder:  I have no friggin clue.  Mem usage is reasonable, as is CPU.
+04:33 < zackattack> DougReeder:  How do I start the investigation?  :-)
+04:33 < DougReeder> My tests show that Node doesn't add the Date header, at least in v4.3
+04:34 < DougReeder> I can guess most static file serving modules add it for you.
+04:35 < DougReeder> I'm not sure how to look for what's slow. You could start by looking at how it loads using Chrome.
+04:35 < DougReeder> Is the slowneess latency, download, JAVASCRIPT run time?
+04:35 < circlicious> hi SubStack, you there?
+04:36 < zackattack> if i run apache benchmark, 95% are within 5.5s
+04:37 < DougReeder> Chrome has dev tools, the Net pane tells you how the page load went.
+04:38 < zackattack> DougReeder:  can i send you a ss for your opinion?
+04:38 < DougReeder> zackattack: ss?
+04:39 < zackattack> scrshot
+04:39 < DougReeder> I suppose
+04:39 < zackattack> or, would you mind taking a look?
+04:39 < zackattack> www.compassionpit.com
+04:39 < mmalecki> DougReeder: node itself adds it
+04:40 < mmalecki> DougReeder: it can be master only tho
+04:41 < DougReeder> I can't as easily chck if later versions of node setd the date header automatically.
+04:42 < DougReeder> compassionpit looks normal, at a fisrt glance.
+04:42 < DougReeder> The page reloads in abotu 2s.
+04:43 < DougReeder> The "counts" fiel gets requested after 11sec, but page load has already fired.
+04:44 < DougReeder> 3sec on an empy cache, that's not unusual.
+04:44 < DougReeder> I'm really not an expert on page speed.
+04:50 < circlicious1> got dc
+04:52 < zackattack> thanks doug
+04:52 < DougReeder> I'm new to a lot of this.
+04:53 < DougReeder> My main speedup technique was to serve pictures sized for the receiving device.
+04:54 < DougReeder> Adding gzip middleware is on my To-do list.
+05:13 < Howe> Hello, anyone versed in the Express framework here ? Actually I come from Python/jQuery  and I'm still kinda young with Node.js. My problem: I'd like to "extend" the Express "Request/Response" objects by adding new methods - for instance, as there is res.json(), I could want to implement res.xml(). What's the recommended way to do it, other then obviously editing the source files ?
+05:15 < DougReeder> Sorry, I'm only familiar with Stack/Connect.
+05:16 < Howe> Well perhaps the mechanism is similar since Express is built over connect...
+05:16 < DougReeder> Oh, I'd forgotten that
+05:18 < DougReeder> The response object is an http.ServerRequest object.  You don't have acess to the sonstructior.
+05:18 < DougReeder> But you can add whtever you like to the response object on the fly.
+05:18 < Howe> I think I do not, but might have, I'm just not that used to Express/Node.js
+05:19 < SomeoneWeird> you can edit express
+05:19 < DougReeder> Connect passes the same request and response objects as a "raw" http server, possibly with a few ne methods added.
+05:19 < SomeoneWeird> (by editing node_modules/express/index.js or whatever) and add prototypes
+05:20 < DougReeder> I think you can just write a new middleware module that sets properties of the response.
+05:22 < Howe> DougReeder: Yes, probably the middleware would work, I was considering it already but I'd prefer something more "lightweight" in the sense that a new function wouldn't have to be called for every request. I'd just prefer to "extend" the base object if possible
+05:23 < Howe> SomeoneWeird: thanks but that's just what I'm trying to avoid from the beginning
+05:23 < SomeoneWeird> what is?
+05:23 < DougReeder> Define th enew function in a closure, and just assign it every time.
+05:24 < Howe> SomeoneWeird: was I mentioned, I don't want to patch the source files. New versions are released often and I'd have to patch it all over again. Silly thing to do.
+05:25 < SomeoneWeird> oh sorry, didnt see you say that
+05:25 < Howe> DougReeder: yes, that would work, but would degrade performance due to the extra call. I'd only do that way if there is no else
+05:25 < Howe> SomeoneWeird: thnaks buddy
+05:25 < DougReeder> A single assignment per request is cheap.
+05:26 < DougReeder> See how the example middleware modules use a closure to hold configuration info.
+05:27 < jamescarr> res.xml()
+05:27 < jamescarr> heh
+05:27 < DougReeder> There's just one closure, when the module is initialized.
+05:27 < jamescarr> when working with XML, I like to put on some Nirvana, Smashing Pumpkins, and other 90s bands
+05:27 < jamescarr> brings me back to the era
+05:27 < Howe> DougReeder: the assignment is, however the extra function call and overhead of calling a new middleware isn't so cheap, I now would loose just a bit but if I can avoid it, better
+05:27  * DougReeder snorts
+05:28 < SomeoneWeird> lmao jamescarr 
+05:28 < Howe> DougReeder: isn't middleare a callable function ? I mean, for each middleware, each function will be called.
+05:29 < DougReeder> Well, yeah, you do have a function call per middleware.  Maybe others, hidden.
+05:30 < DougReeder> If you're that concerned, make xml() a global function.
+05:30 < Howe> function calls are somewaht expensive. I've benchmarked frameworks in every way you can imagine and I'm sure another function call will degrade performance somewhat. I some there is a way to pacth it hmmm 
+05:31 < Howe> I'd prefer make it a method, more OOP-like.
+05:32  * DougReeder nods
+05:33 < SomeoneWeird> i think the only way your gunna be able todo that is add the functions as prototypes
+05:33 < stagas> Howe: function calls are super fast
+05:33 < SomeoneWeird> ^
+05:34 < Howe> they are, but they cost something, and it's kinda stupid to add overhead without needing it, right ? :( there must be a way to patch the original object.
+05:36 < SomeoneWeird> dunno, but can you prototype objects from outside the module?
+05:37 < jamescarr> doh... got lots of cool code done, great test coverage
+05:37 < jamescarr> now time to write documentation :S
+05:38 < Howe> SomeoneWeird: that's what I want to find out
+05:38 < SomeoneWeird> try then
+05:38 < DougReeder> If the speed of JavaScript execution is what's slowing down your server, Node may not be the best solution.
+05:41 < Howe> DougReeder: no matter the language is, an extra function call will degrade performance.
+05:42 < DougReeder> Not if you're IO-limited.
+05:42 < Tobsn> what is it called if you load images low res first, kinda like google maps does it
+05:42 < Tobsn> i think there was a term for that
+05:45 < Howe> DougReeder: benchmark it and you'll see what I mean. I've written 3 python frameworks and I'm pretty sure it will degrade the performance. I know of course that if youre doing file i/o, DB i/o etc. it will be neglectable but I'm still wanting to avoid it.
+05:45 < Howe> I think I'll write to their list or something, thanks.
+05:46  * DougReeder nods
+05:46 < Cheery> hi
+05:46 < Cheery> I actually have a python project here, but it's too advanced that I'd get any kind of help at #python.
+05:48 < Howe> Cheery: I'm very versed in Python, private msg me if you want, since it's off-topic
+05:48 < Cheery> I have designed a prototype of structural programming editor
+05:49 < Cheery> and I feel I've got problems in the core trio: (document, input, layout)
+05:51 < Cheery> feeling like tired and frustrated, but what I've got actually works.. as in. if I make an interpreter today, the documents it produces can be evaluated
+05:52 < Cheery> Howe: okay
+06:00 < coderarity> dude
+06:00 < coderarity> Howe, why am I typing my own last name to talk to you?
+06:00 < coderarity> :S
+06:01 < Tobsn> what is it called if you load images low res first, kinda like google maps does it - wasnt there a term for that?
+06:01 <@Nexxy> progressive?
+06:01 < circlicious1> lazy loading i guess, but i don't know how it's done
+06:01 < Tobsn> well lazy loaded would be only if the image is visible i think
+06:02 < Tobsn> progressive maybe
+06:02 < Tobsn> yep its progressive
+06:02 < Tobsn> thanks nexxy :)
+06:03 <@Nexxy> Tobsn, :)
+06:03  * DougReeder waves goodnight
+06:04 < Codedninja> \o\
+06:05 < SomeoneWeird> /o/
+06:05 < Codedninja> \o/
+06:13 < circlicious1> _o_
+06:13 < circlicious1>  /o\
+06:15 < Tobsn> _o/
+06:15 < circlicious1> |o| \o/ /o\ /o/ \o\ _o_ .o. \o__o/ /o__o\ _o__o_ ooooo
+06:15 < Tobsn> *yello
+06:15 < Tobsn> \o.
+06:15 < Tobsn> thats a nazi
+06:15 < circlicious1> _o/ \o_ _o/\o_ \o/\o/
+06:15 < Tobsn> ~;=;?
+06:17 < circlicious1> ~!@#$%^&*()_+`-={}|:"<>?[]\;',./
+06:17 < mmalecki> oh, are we holding a dance party?
+06:17 < mmalecki> drinks on me!
+06:18 < Tobsn> ?_?
+06:18 <@Nexxy> > underage
+06:18 < mmalecki> Nexxy: :>
+06:18 <@Nexxy> mmalecki, !
+06:18 < Tobsn> (????)?? ???
+06:18 < Tobsn> haha
+06:19 <@Nexxy> this is why we can't have nice things
+06:19 < Tobsn> ??? ??(`??)?? ???
+06:19 < Tobsn> +-+?( ? _ ??)
+06:19 <@Nexxy> thank you
+06:20 < Tobsn> :)
+06:27 < Tobsn> whats a good image resize module for node? anyone a recommendation?
+06:35 < Tobsn> hmm https://github.com/dosx/node-vips anyone know how to install this?
+06:38 < ccowan> Anyone have experience with Nginx and IE large posts not completing?
+06:48 < SomeoneWeird> Tobsn, git clone the repo into node_modules
+06:49 < jergason> Tobsn: https://github.com/rsms/node-imagemagick is decent.
+06:49 < jergason> You can always just shell out to imagagemagick as well.
+06:49 < Tobsn> SomeoneWeird?
+06:49 < Tobsn> jergason, i think im gonna use vips
+06:49 < Tobsn> imagemagick is slow
+06:49 < SomeoneWeird> Tobsn, go into node_modules, then type git clone git://github.com/dosx/node-vips.git
+06:49 < Tobsn> problem is idk how to get node-vips working
+06:50 < Tobsn> SomeoneWeird, seems like you need to compile it? its C
+06:50 < SomeoneWeird> yes, then go into it, and type node-waf configure build
+06:50 < Tobsn> or is node able to load C native code as module?
+06:50 < Tobsn> k
+06:50 < Tobsn> just looking for a domain name... how does lazy.gd sound? ;)
+06:50 < SomeoneWeird> heh
+06:50 < Tobsn> gd?
+06:50 < Tobsn> or bd?
+06:51 < SomeoneWeird> -.-
+06:51 < SomeoneWeird> lol
+06:51 < Tobsn> ya know... i have node.gd
+06:51 < Tobsn> and a bunch of others... like minecraft.gd etc.
+06:51 < SomeoneWeird> ya
+06:51 < Tobsn> i redirected node.gd to the node.js page... nobody ever saw it hehe
+06:52 < Tobsn> i think i did that like 2 years ago
+06:53 < jergason> no.gd would be sweet
+06:53 < Tobsn> i have plenty of those...
+06:53 < Tobsn> how about style.gd ?
+06:53 < Tobsn> things.gd
+06:54 < Tobsn> youre.gd
+06:54 < Tobsn> under .gd a shit load of single words is available
+06:54 < Tobsn> water.gd etc.
+06:54 < SomeoneWeird> does node run on powerpc?
+06:54 < jergason> Whoa, Peter Cooper owns no.gd
+06:54 < jergason> weird
+06:55 < plato> thereisno.gd
+06:56 < plato> it.damn.gd
+06:56 < plato> is.damn.gd
+06:56 < Tobsn> wanna hear a funny tld story?
+06:56 < SomeoneWeird> wtf
+06:56 < Tobsn> i wanted to buy da.mn
+06:56 < SomeoneWeird> .gd is shit expensive
+06:56 < Tobsn> but mn has a 3 letter min rule
+06:56 < Tobsn> you cant go lower
+06:56 < Tobsn> BUT
+06:57 < Tobsn> http://da.mn
+06:57 < Tobsn> this exists
+06:57 < Tobsn> so i was confused
+06:57 < plato> day.mn
+06:57 < Tobsn> turns out the owner of da.mn is the sys admin of the .mn NIC servers
+06:57 < SomeoneWeird> lol
+06:57 < SomeoneWeird> nowonder
+06:57 < plato> H
+06:57 < plato> hA
+06:57 < Tobsn> i have a 30 mail long thread with the guy about for how much hes gonna sell it to me
+06:57 < Tobsn> went up to 30k, but no go
+06:57 < Tobsn> hehe
+06:58 < SomeoneWeird> lmao
+06:58 < SomeoneWeird> i want
+06:58 < SomeoneWeird> illstealyour.cc
+06:58 < plato> n1
+06:58 < SomeoneWeird> illstealyour.tv
+06:58 < SomeoneWeird> lol
+06:58 < Tobsn> btw. two tld's that are fairly cheap and nothing is taken: .gd AND .cm
+06:58 < Tobsn> i have cdn.cm root.cm etc.
+06:58 < Tobsn> its crazy
+06:58 < Tobsn> nothing is taken with .cm at all
+06:58 < Tobsn> BUT they cost 120 bucks a pop
+06:58 < plato> five.cm
+06:59 < plato> drink.cm
+06:59 < SomeoneWeird> how much do domains cost
+06:59 < Tobsn> .cm is 120 bucks and .gd i get from inwx.de for 25 euro a pop
+06:59 < Tobsn> inwx.de has EVERY fucking country domain, its insane
+06:59 < SomeoneWeird> wtf thats expensive
+06:59 < Tobsn> sortof
+06:59 < SomeoneWeird> howd you afford it all?
+06:59 < Tobsn> i have monies
+07:00 < SomeoneWeird> i don't :(
+07:00  * SomeoneWeird needs to get SaaS off the ground and get investors lol
+07:00 < Tobsn> lol
+07:00 < Tobsn> damn.ie is avail
+07:00 < Tobsn> just saying... ;)
+07:00 < Tobsn> 37 euro for .ie
+07:00 < SomeoneWeird> get that
+07:00 < Tobsn> damn.ly
+07:00 < plato> lickmy.ie
+07:01 < SomeoneWeird> and 'redirect' to ms.com
+07:01 < Tobsn> damn.mn
+07:01 < Tobsn> good idea
+07:01 < jesusabdullah> starm.ie
+07:01 < jesusabdullah> IT'S A POKEMON
+07:01 < SomeoneWeird> then after 5 seconds have a popup come up saying "LOL jokes."
+07:01 < SomeoneWeird> lol
+07:01 < Tobsn> lol
+07:01 < circlicious1> lol
+07:01 < Tobsn> just kidding and JS redirecting to chrome
+07:01 < SomeoneWeird> yep
+07:01 < circlicious1> meh, i was expecting moar
+07:01 < circlicious1> but u broke the chain
+07:02 < Tobsn> lol
+07:02 < circlicious1> lol
+07:02 < SomeoneWeird> lol
+07:02 < circlicious1> lol
+07:02 < Tobsn> |o|
+07:03 < circlicious1> l0l
+07:03 < Tobsn> \ol
+07:03 < circlicious1> lo/
+07:03 < SomeoneWeird> !0!
+07:03 < Tobsn> \o\
+07:03 < plato> o.?
+07:03 < circlicious1> !o!
+07:03 < SomeoneWeird> !O!
+07:04 < Tobsn> l?l
+07:04 <@Nexxy> and they say *I'm* a spammer
+07:04 < SomeoneWeird> U BROKEZ IT
+07:04 < SomeoneWeird> :(
+07:04 < jesusabdullah> BRO
+07:04 < Tobsn> god.ax is the cheapest and available for 45 bucks
+07:04 < SomeoneWeird> can i have 45 bucks
+07:05 < Tobsn> bacon.gd i own that one too
+07:05 < Tobsn> obviously.
+07:05 < plato> nice
+07:05 < Codedninja> Nexxy is a spammer! She spams me all day long
+07:05 <@Nexxy> Codedninja, please.
+07:05 < Codedninja> XD
+07:05 < Tobsn> SomeoneWeird, just make some money?
+07:05 < Codedninja> Just playing
+07:05 < Tobsn> you know how to code right?
+07:06 < SomeoneWeird> lol i do
+07:06 <@Nexxy> I hear everyone should know how
+07:06 < yhpark> lol
+07:06 < Tobsn> and you do know math right?
+07:06 < SomeoneWeird> kinda
+07:07 < Tobsn> what about html?
+07:07 < SomeoneWeird> yar
+07:07 < Tobsn> and you live where?
+07:07 < SomeoneWeird> aus
+07:07 < Tobsn> tralia or tria?
+07:07 < SomeoneWeird> tralia
+07:07 < Tobsn> perfect
+07:07 < Tobsn> you should at least get in a couple thousand a month
+07:08 < SomeoneWeird> heh
+07:08 < Tobsn> seriously
+07:08 < SomeoneWeird> doing?
+07:08 < Tobsn> how much money can you spend a day
+07:08 < Tobsn> without worrying about it
+07:08 < SomeoneWeird> $0
+07:08 < Tobsn> if you'd try
+07:08  * SomeoneWeird is a student
+07:08 < Tobsn> doesnt matter
+07:08 < circlicious1> well
+07:09 < circlicious1> do nany of you use browserify?
+07:09 < SomeoneWeird> also i don't have a job
+07:09 < circlicious1> any
+07:09 < Tobsn> but you dont pay 50k a year for uni right?
+07:09 < Tobsn> like in the US
+07:09 < SomeoneWeird> parents are paying, lol
+07:09 < SomeoneWeird> and no
+07:10 < Tobsn> well you need at least like 5-10 bucks a day
+07:10 < SomeoneWeird> i'd love to have that, haha
+07:10 < circlicious1> try freelancing
+07:11 < SomeoneWeird> mm
+07:11 < plato> advertise on the bitcoin ad networks
+07:11 < SomeoneWeird> maybe
+07:11 < Tobsn> perfect
+07:12 < Tobsn> use bitcoins
+07:12 < plato> yup
+07:12 < plato> code small projects for ppl
+07:12 < SomeoneWeird> but who
+07:12 < Tobsn> no
+07:12 < Tobsn> you start advetising
+07:12 < Tobsn> go to an affiliate network
+07:12 < Tobsn> get some ads
+07:12 < circlicious1> SomeoneWeird: u have to find them
+07:13 < Tobsn> put them on a bitcoin ad platform
+07:13 < circlicious1> wat Tobsn  is recommending is bullshit :
+07:13 < circlicious1> :P
+07:13 < Tobsn> ookay ;)
+07:13 < circlicious1> lol
+07:13 < Tobsn> ads4dough.com
+07:13 < Tobsn> sign up there
+07:13 < circlicious1> heh, noooooooo
+07:13 < SomeoneWeird> lol.
+07:13 < Tobsn> ...
+07:13 < circlicious1> get some decent freelancing projects, do them make cash have fun ;)
+07:14 < Tobsn> ask for arthur as AM
+07:14 < SomeoneWeird> ?
+07:14 < Tobsn> affilite manager
+07:14 < Tobsn> *affiliate
+07:15 < SomeoneWeird> eh
+07:15 < Tobsn> everyone with two brain cells can get rich with it
+07:15 < Tobsn> i know people earning 10k+ a day and dont even know what FTP is...
+07:15 < SomeoneWeird> wow
+07:16 < SomeoneWeird> wouldn't know where to start thought, really
+07:16 < Tobsn> you sign up, you ask your AM which offers work the best right now
+07:16 < Tobsn> you advertise for it
+07:17 < SomeoneWeird> where?
+07:17 < Tobsn> facebook if you have a few bucks
+07:17  * SomeoneWeird literally has $0 to spend
+07:17 < Tobsn> bitcoin ad networks
+07:17 < Tobsn> http://bitcoinadvertisers.com/
+07:18 < Tobsn> http://bitcoinadvertisers.com/startadc.php
+07:18 < Tobsn> or you build sites
+07:18 < SomeoneWeird> mm
+07:18 < Tobsn> you hate those content stealing pages like those who copy stackoverflow or other forums?
+07:19 < Tobsn> those guys rake in probably more in a day than the avg worker in a month
+07:19 < SomeoneWeird> yeah
+07:19 < Tobsn> question is on which side you want to be ;)
+07:19 < Tobsn> or make a facebook app
+07:19 < Tobsn> daily horoskope app
+07:20 < Tobsn> that should cost you a weekend of fucking around with the SDK and php or any other language
+07:20 < Tobsn> and people love that shit
+07:20 < Tobsn> if you have a fb app you can put ads on it
+07:20 < Tobsn> if you put ads on it you earn money
+07:20 < Tobsn> if you have money you can buy ads yourself and make more
+07:21 < Tobsn> a friend of mine was in the same situation 5 years ago... 20, just started university, no money... now he just moved to monaco
+07:22 < Tobsn> from his album, around the world http://dl.dropbox.com/u/1656816/Screenshots/9nwi.png
+07:22 < Tobsn> he does facebook advertising
+07:22 < SomeoneWeird> hm
+07:22 < templaedhel> Hmm, can anyone help me troubleshoot a very strange issue? http://hastebin.com/xibekopoxi.js
+07:23 < circlicious1> ya so how do  become a millionaire now ?
+07:23 < circlicious1> *do i
+07:23 < circlicious1> :P
+07:23 < Tobsn> affiliate marketing
+07:23 < circlicious1> shit man
+07:23 < circlicious1> do u actually do that?
+07:23 < SomeoneWeird> well, i suppose i could throw a few btc at buying a some ads, no idea what though
+07:23 < Tobsn> i work in that branch for 10 years now
+07:24 < circlicious1> r u a amillionaire ?
+07:24 < Tobsn> SomeoneWeird, just go to a4d.com and talk to the person they assign you as affiliate manager and ask whats best to run on low budget
+07:24 < Tobsn> all you need to do is to find out what type of offer runs best with what type of traffic
+07:25 < SomeoneWeird> as an affiliate of advertiser? 
+07:25 < circlicious1> dont mislead him :P
+07:25 < Tobsn> yep
+07:25 < SomeoneWeird> >.<
+07:25 < circlicious1> if he loves programming he should do something better :D
+07:25 < SomeoneWeird> lol, i do
+07:25 < Tobsn> programming will help him
+07:25 < circlicious1> best way to make money in freelancing is to learn php
+07:25 < Tobsn> because you can do a lot with it
+07:26 < Tobsn> what others cant
+07:26 < circlicious1> well, i am no one, but i have been through everything
+07:26 < circlicious1> and i am probably a young as him
+07:26 < circlicious1> *as young
+07:26 < circlicious1> and there wasnt any quick way to make a lot of money, just saying
+07:26 < SomeoneWeird> i doubt that
+07:26 < circlicious1> and affiliate marketing was shit
+07:26 < circlicious1> 2% make killing
+07:26 < circlicious1> 10% make good
+07:26 < circlicious1> 20% make ok
+07:26 < circlicious1> rest cry
+07:27 < circlicious1> many become liars
+07:27 < Tobsn> hehe
+07:27 < circlicious1> better do something nice and make money and live a graceful life :)
+07:27 < Tobsn> you have to try harder man ;)
+07:27 < circlicious1> i know AM'ers who make a million dollar every month, but kkk :P
+07:27 < Tobsn> affiliate managers make no money
+07:27 < Tobsn> they get a few % of the network earnings
+07:27 < circlicious1> they're not going to become the next stevejobs anyway
+07:27 < Tobsn> of their network earnings
+07:28 < circlicious1> i know how it works, and i dont want to do it anyway
+07:28 < Tobsn> you wont get really rich unless you build your own product
+07:28 < circlicious1> i'll better setup something nice in a few years with my programming skills and live a nice stable/rich life. but not do that freaking affiliate mareting
+07:28 < circlicious1> Tobsn: ya rite
+07:28 < circlicious1> or a service used by tons
+07:28 < Tobsn> not by tons
+07:28 < Tobsn> just by the right people
+07:29 < Tobsn> i have a couple services used by less than 20 people
+07:29 < Tobsn> few cloakers, redirecters... mobile switches, tb detection... lp helper scripts
+07:30 < Tobsn> if youre smart you can make the industry work for you ;)
+07:31 < Tobsn> look at it that way... if i'd tell you to code a redirect script that takes an urls as get parameter and redirects to the same url but replaces one variable in the url you receive with the users ISP... like c1=cox or c1=verizon
+07:31 < Tobsn> simple lookup on ip/host
+07:31 < Tobsn> how long would that take you to code?
+07:32 <@Nexxy> affiliate ID skimming? lol
+07:32 < circlicious1> you actually talk like those AM'ers
+07:32 < Tobsn> (no stats, no counting, nothing, just str replace %ISP% with the isp)
+07:32 <@Nexxy> that's kinda dirty
+07:32 < circlicious1> see whatever you are saying is practical and i agree , but i just odnt like AM personally
+07:33 < SomeoneWeird> heh
+07:33 < circlicious1> i mean, not the dirty part
+07:33 < Tobsn> thing is, this cost you 20 minutes from an empty file to hosted at any provider you want...
+07:33 < circlicious1> and when you say such things, the impression that other people are getting is that, it's a way to become rich quickly, which aint true
+07:33 < Tobsn> and you sell it for 200 bucks a month
+07:33 < Tobsn> to 20 people
+07:33 < circlicious1> ok, PMN me, i will make you the script
+07:33 < Tobsn> who have no idea about coding but need to know where there traffic is working best
+07:33 < circlicious1> send me 505
+07:33 < circlicious1> deal?
+07:33 < circlicious1> 50%
+07:34 < Tobsn> *~their
+07:34 < circlicious1> i can make you any affiliate makreting script you want in PHP/Mysql
+07:34 < Tobsn> hehe
+07:34 < Tobsn> why dont you do it?
+07:34 < Tobsn> there is literally no tracker out there
+07:35 < circlicious1> i have made trackers, surf exchanges and all shits
+07:35 < Tobsn> there is no good affiliate network script out there
+07:35 < Tobsn> build a good one
+07:35 < Tobsn> sell it
+07:35 < circlicious1> and now i want to do something good and not go into that black world again. kthx
+07:35 < Jacky> hey everyone, just a bit curious about the flexibility of socket programming with Node.
+07:35 < Tobsn> no, no blackhat
+07:35 < Tobsn> just a simple statistics script
+07:35 < Tobsn> with maybe a/b testing build in
+07:35 < circlicious1> ya i know. well so you code scripts and sell yourself ? i mean you code yourself?
+07:36 < Tobsn> would i be here if i wouldnt?
+07:36 < circlicious1> just making sure
+07:36 < Tobsn> im here for over 2 years now
+07:36 < Tobsn> because node is a good solution for high traffic stuff
+07:36 < circlicious1> good
+07:36 < Tobsn> i tell you
+07:36 < Tobsn> do it
+07:37 < circlicious1> i am already doing something to make 5-10$ a day(which is what the main topic was, rie?)
+07:37 < SomeoneWeird> yes
+07:37 < SomeoneWeird> lmao
+07:37 < circlicious1> actually
+07:37 < circlicious1> i already started making that with my site
+07:37 < circlicious1> via google adsense
+07:37 < circlicious1> and buysellads makes 1$ a day
+07:37 < circlicious1> i hope more people buy via BSA so i can make 5-10 via BSA /day soon
+07:38 < circlicious1> that will make it 10-20 a day, double of the topic
+07:38 < circlicious1> :)
+07:40 < Tobsn> http://dl.dropbox.com/u/1656816/Screenshots/n~df.png
+07:41 < Tobsn> i'll leave this here and go back coding on a little tool...
+07:41 < SomeoneWeird> wait, wot
+07:41 < SomeoneWeird> 0.o
+07:41 < SomeoneWeird> can i have some
+07:41 < SomeoneWeird> lol
+07:44 < circlicious1> Tobsn: cool, 10 yrs were not wasted if that screenshot is reliable :P
+07:44 < SomeoneWeird> lucky
+07:45 < circlicious1> no, no one is lucky :P
+07:45 < circlicious1> they just did the right thing at the right time
+07:45 < SomeoneWeird> he is
+07:45 < SomeoneWeird> lol
+07:45  * SomeoneWeird makes $0
+07:45 < circlicious1> and they did smart work instead of hard work
+07:45 < SomeoneWeird> yep
+07:45 < circlicious1> most of us (irc'ers) do hard work, thats why we dont make much but know a lot of coding
+07:45 < circlicious1> there are people who do 1 click wordpress, drupal installations and make a killing
+07:45 < circlicious1> now as he said, which sie you wanna be :P
+07:46 < circlicious1> i wanna have a balance
+07:46 < circlicious1> know my coding and work smart to focus on business rather than learning all the time :P
+07:46 < circlicious1> ok, enough said
+07:46 < circlicious1> but at the end, do some freelancing. you';ll make good money soon :)
+07:46 < SomeoneWeird> hopefully
+07:46 < circlicious1> 5-10$ a day is realy easy, cmon dude
+07:47 < circlicious1> there are websites you can get projects frm
+07:47 < circlicious1> elance.com freelancer.com
+07:47 < SomeoneWeird> its just age atm, which is my main problem
+07:47 < circlicious1> there are some irc channels too, ##php-lance #freelance #css-lance
+07:47 < circlicious1> SomeoneWeird: age doesnt matter
+07:47 < circlicious1> you sound like 20
+07:47  * SomeoneWeird < 18
+07:47 < circlicious1> oh really?
+07:47 < circlicious1> what age exactly?
+07:48 < circlicious1> < 18 and in uni ? hm
+07:48 < SomeoneWeird> nah not uni, tafe
+07:48 < SomeoneWeird> but yes, very unusual
+07:48 < SomeoneWeird> doing a double diploma in computer engineering
+07:48 < circlicious1> well, i am also less than <20 and started makin money when i was 15
+07:48 < circlicious1> i dont make a lot though :( :P
+07:48 < SomeoneWeird> heh yeah
+07:49  * SomeoneWeird is 15
+07:49 < circlicious1> but there are others younger than me who make a killing yeh, cuz they did smart work
+07:49 < circlicious1> few months ago i realized i was working hard and not smart, so i changed strategies completely
+07:49 < circlicious1> :)
+07:49 < circlicious1> SomeoneWeird: cool
+07:49 < SomeoneWeird> yerp
+07:49 < circlicious1> 15 is nice
+07:49 < circlicious1> if you work smart, makin a million in the next 3 yrs wont be hard :D
+07:49 < circlicious1> u can even work with that guy, Tobsn 
+07:49 < circlicious1> haha
+07:50 < circlicious1> ya do affiliate marketing if it makes u 6k/day who cares
+07:50 < SomeoneWeird> lmao
+07:50 < SomeoneWeird> yer
+07:50 < circlicious1> its the money that matters
+07:50 < circlicious1> money drives everything
+07:50 < SomeoneWeird> i want 6k a day
+07:50 < zutto> circlicious1: wont be easy since hes ib school
+07:50 < circlicious1> he can always dropout
+07:50 < Tobsn> someone highlighted me ;)
+07:50 < zutto> and creating something that earns you tons of money usually takes time 
+07:50 < circlicious1> 3yrs is enough i guess :)
+07:50 < zutto> thats option, sure.. but not the one i would choose
+07:50 < circlicious1> hehe ok
+07:50 < circlicious1> its alla bout view points :)
+07:51 < Tobsn> takes you two month to create whatever you want to make a shit ton of money
+07:51 < circlicious1> Tobsn: u can say that cuz u got 10yrs of exp. under yer belt ;)
+07:51 < zutto> Tobsn: yes.. but when you have school that you need to focus on too, that 2 months can expand easily
+07:51 < SomeoneWeird> im really not learning anything in school
+07:51 < SomeoneWeird> just parents want me to stay
+07:51 < circlicious1> SomeoneWeird: if u think its not helping u, then i woudl say dropout
+07:51 < circlicious1> thats what i did
+07:52 < Tobsn> former coworker of mine created his own photoshop lib in java to create something like instagram but for android - took him around 2 month. then they put it up on the android market, chained it with a WAP mobile subscription sign up, another 4 month later they made 10 million in profit.
+07:52 < zutto> and you also know that even if you create something in 2 months, you wont be making much money from it for the next year, depending on how you start driving traffic to your product/site/whatever
+07:52 < circlicious1> Tobsn: they sure had a lot of experience from before
+07:52 < circlicious1> one cant make a lot in 12months if he;'s just started
+07:53 < circlicious1> but if i have 20 yrs experience then yeh maybe even i will be able to make 10mil in 6 months
+07:53 < Tobsn> technical fyi: the lib used GPU and rendered the filter 120 times per second, he was able to show you the filter in real time through the camera view... it was neat. much better than instagram
+07:53 < circlicious1> all about my fate :D
+07:53 < SomeoneWeird> coding's not the problem, its the time and ideas and getting money to startup (for servers and stuff)
+07:53  * circlicious1 lecture mode off
+07:53 < Tobsn> dont need money for servers
+07:53 < circlicious1> ya
+07:53 < zutto> SomeoneWeird: servers are actually cheap
+07:53 < Tobsn> phpfog, heroku etc. let you all set up stuff for free
+07:53 < Tobsn> mongohq too
+07:53 < circlicious1> SomeoneWeird: its the idea, execution and marketing really
+07:53 < SomeoneWeird> not for someone who makes $0 zutto 
+07:54 < circlicious1> your parents will always lend u moeny :)
+07:54 < zutto> SomeoneWeird: take a look on OVH's kimsufi's
+07:54 < circlicious1> haha kimsufi
+07:54 < SomeoneWeird> i know
+07:54 < zutto> (kinda assuming you're french/from EU)
+07:54 < circlicious1> r they for realz ? :P
+07:54 < zutto> circlicious1: yeah
+07:54 < circlicious1> hehe
+07:54 < circlicious1> they give too much
+07:54 < SomeoneWeird> lol they are, but im not from eu
+07:54 < circlicious1> btui cuz they had a shitty website i just choose linode
+07:54 < circlicious1> SomeoneWeird: btw
+07:54 < Tobsn> kimsufi?
+07:54 < circlicious1> linode is giving free vps on teusday
+07:54 < circlicious1> u can get 5months for free :D
+07:54 < SomeoneWeird> hmm
+07:54 < SomeoneWeird> link?
+07:55 < circlicious1> linode.com
+07:55 < circlicious1> top banner
+07:55 < zutto> Tobsn: OVH's cheapest dedi's
+07:55 < circlicious1> i am gonna get it, have also asked my friend
+07:55 < Tobsn> ovh?
+07:55 < zutto> ..you're clearly not from EU ;p
+07:55 < Tobsn> i am
+07:55 < zutto> wat
+07:55 < Tobsn> germany
+07:55 < circlicious1> i wonder how kumsifu gives it so cheap
+07:55 < Tobsn> but i live in san fran/diego for 6 years now
+07:55 < circlicious1> bbl
+07:55 < zutto> circlicious1: look at the hardware
+07:56 < SomeoneWeird> " pay first invoice (through July),"
+07:56 < SomeoneWeird> need to pay for a month first
+07:56 < SomeoneWeird> >.<
+07:56 < zutto> Tobsn: http://www.ovh.co.uk/
+07:56 < Tobsn> i use softlayer and rackspace cloud... no idea what ovh is
+07:56 < Tobsn> and for EU we mostly use hetzner
+07:56 < zutto> probably biggest server provider in EU
+07:57 < Tobsn> hmm
+07:57 < ovski> Tobsn: never heard about hetzner before
+07:58 < Tobsn> hetzner is old, big company and super fast connection
+07:58 < Tobsn> also in the recent years they got cheap as shit
+07:58 < Tobsn> buddy of mine needed an EU host and got 64gb ram for like 500 bucks a month
+07:58 < Tobsn> he just took it because he wanted to own a server with 64gb hehe
+07:59 < SomeoneWeird> lol
+07:59 < Tobsn> but with ram it doesnt make sense... look at ovh, 256gb ram are 4k pound a month
+08:00 < SomeoneWeird> so whats the cheapest hosting everyone knows of?
+08:00 < Tobsn> for the price of 3 month i can buy 2 servers with 320gb ram and just host it somewhere
+08:00 < Tobsn> depends on the language
+08:00 < SomeoneWeird> well, anywhere really
+08:00 < Tobsn> nah i mean code
+08:01 < Tobsn> if you want a real dedi/virtual or a paas/sass
+08:01 < SomeoneWeird> ah, i mean't like vps/dedi
+08:01 < Tobsn> *~saas
+08:01 < Tobsn> hmm...
+08:01 < Tobsn> depends
+08:01 < SomeoneWeird> my saas is node
+08:01 < Tobsn> what you want to do with it?
+08:01 < SomeoneWeird> cluster stuff
+08:01 < SomeoneWeird> for my app
+08:01 < Tobsn> cluster stuff?
+08:02 < Tobsn> as in multi servers?
+08:02 < SomeoneWeird> um
+08:02 < SomeoneWeird> like, just run my saas on it
+08:02 < SomeoneWeird> lol
+08:02 < Tobsn> what OS?
+08:03 < SomeoneWeird> nix, anything
+08:03 < Tobsn> favorite OS?
+08:03 < Tobsn> debian?
+08:03 < SomeoneWeird> yea
+08:04 < Tobsn> whats your email?
+08:05 < Tobsn> your email?
+08:05 < SomeoneWeird> adam@volatiletechnology.com
+08:09 < Tobsn> takes a second
+08:12 < Tobsn> check your mails
+08:12 < SomeoneWeird> can't see anything
+08:13 < SomeoneWeird> oh, got it
+08:13 < SomeoneWeird> oh
+08:13 < Tobsn> have fun.
+08:13 < Tobsn> it's 512mb
+08:13 < SomeoneWeird> dude
+08:13 < SomeoneWeird> thanks :)
+08:13 < Tobsn> np
+08:13 < Tobsn> mail me if you need anything changed or dont need it anymore
+08:14 < SomeoneWeird> willdo
+08:15 < Tobsn> if you don't know what to build - go on ifttt.com and set up a recipe that forwards you all new items from betali.st to your email. pick one that is simple and try to copy it.
+08:15 < Tobsn> or just copy ifttt.com
+08:16 < Tobsn> about time that someone creates them some competition
+08:16 < SomeoneWeird> yeah
+08:19 < Tobsn> what did you say how to compile that vips thing?
+08:20 < SomeoneWeird> try node-waf configure build
+08:20 < Tobsn> thanks
+08:42 < owen1> what's a common way to feed my db with data? i know in ruby it's something like rake db:setup or rake db:seed. 
+09:03 < pksunkara> isaacs: Nexxy: can someone take care of this before 0.8 release? https://github.com/joyent/node/pull/3463
+09:03 < pksunkara> Thanks
+09:22 < Fletch> Hey guys, don't suppose anybody uses ArchLinux and knows where I can get a package for NPM?
+09:22 < SomeoneWeird> npm is bundled with node now
+09:23 < Fletch> Haha, I am embarrissed now.  Thanks SomeoneWeird!
+09:52 < pksunkara_> wq
+10:21 < chakrit> anyone using flatiron/resourceful?
+10:23 < pksunkara_> chakrit: I can help you
+10:23 < pksunkara_> join #nodejitsu channel
+10:24 < chakrit> ok
+10:38 < thomaschaaf> Hey I build this really simple script to demonstate that exec seems to be blocking for me: http://pastie.org/4102237 do you guys know why the first 100 calls are just begin and the last 100 are end? Shouldn't it be a mix of both of them. Something like begin, end, begin, end? (the real command I want to run takes 200 ms)
+10:42 < augustl> thomaschaaf: no, because your script is single threaded
+10:43 < tonyk> 100 calls begin and then end is what you would expect if it didnt block
+10:43 < augustl> thomaschaaf: the only synchronous operation for exec is to put an operation on the queue
+10:43 < augustl> it doesn't begin processing the queue until your JS finishes executing
+10:44 < thomaschaaf> I don't understand how I would get the way I would like it to work to happen
+10:44 < pksunkara_> thomaschaaf: try 1000 calls
+10:44 < thomaschaaf> is that not possible?
+10:44 < augustl> thomaschaaf: no, it's not possible
+10:44 < thomaschaaf> pksunkara_: 1000 calls makes it crash with EMFILE
+10:44 < augustl> thomaschaaf: but it doesn't matter, the enqueuing is very fast
+10:44 < tonyk> thomaschaaf: to you want to begin end begin end?
+10:44 < thomaschaaf> tonyk: yes
+10:44 < pksunkara_> basically all 100 calls start before they are finished
+10:44 < augustl> thomaschaaf: but  yeah, this is basically the gist of the blog posts where people say node sucks and use fibonacci as an example
+10:45 < pksunkara_> try with a big number, maybe 300
+10:45 < thomaschaaf> or begin begin end begin end begin end end something like that
+10:45 < thomaschaaf> not begin begin begin begin end end end end
+10:45 < augustl> thomaschaaf: actually, to be more specific, the execs might start immediately, but your _callbacks_ won't be called
+10:45 < augustl> until the for loop finishes
+10:45 < pksunkara_> thomaschaaf: if you want begin end alternatively, you have to use async library
+10:45 < augustl> thomaschaaf: since your JS is single threaded
+10:45 < pksunkara_> thomaschaaf: if you want begin end randomly, try with a big number
+10:46 <@Nexxy> thomaschaaf, if your command takes >200ms to end, and you are launching 100 of them one after another
+10:46 <@Nexxy> what else do you expect other than 100 begins followed by 100 ends?
+10:46 < augustl> thomaschaaf: if you want them to execute one after the other, you have to hold calling exiftool() until the "end" of the previous one triggers
+10:46 < pksunkara_> Nexxy: yo, do you maintain node?
+10:46 < tonyk> thomaschaaf: http://pastie.org/4102269
+10:47 <@Nexxy> pksunkara_, not if you mean source ;P
+10:47 < thomaschaaf> well I don't want begin end begin end and not begin begin end end.. but just rather something that starts the commands and when they are done callback :) 
+10:47 < pksunkara_> oh, you are opped in here, so I thought you maintain source too
+10:47 < tonyk> or use async
+10:47 <@Nexxy> pksunkara_, not yet :)
+10:47 < augustl> thomaschaaf: then your code is working as it should
+10:48 < pksunkara_> yes, thomaschaaf: your code is working
+10:48 < thomaschaaf> just that the callbacks don't get fired until everything is done
+10:48 <@Nexxy> thomaschaaf, 
+10:48 < augustl> thomaschaaf: you need to make a counter of some sort (or use a library for it)
+10:48 <@Nexxy> if your command takes 200ms
+10:48 <@Nexxy> and you aren't still launching new processes 200ms in
+10:49 <@Nexxy> then yes, they will all call back after they'er all done starting
+10:50 < thomaschaaf> Nexxy: I expected it to callback when the command is done and not when all execs in the script have been "launched"
+10:50 <@Nexxy> oh, I must be misunderstanding the problem then ;P
+10:51 < augustl> thomaschaaf: that's what it does. The callbacks are called when the command is done
+10:51 < augustl> thomaschaaf: unless your single JS thread is busy, then it has to wait
+10:51 < augustl> but your JS thread is not busy due to the "exec" calls, but for example other event listeners, http handlers, etc
+10:51 < thomaschaaf> Nexxy: my solution produces begin begin begin end end end, tonyks solutions makes it begin end begin end begin end, I want something along the lines of begin begin end begin end end
+10:52 < augustl> thomaschaaf: so you want the commands to run sequentially?
+10:52 < thomaschaaf> no in parallel
+10:52 < augustl> thomaschaaf: they are doing that now
+10:52 <@Nexxy> ^
+10:52 < augustl> thomaschaaf: begin happens in your JS thread, and child processes are spawned
+10:52 < thomaschaaf> but why would I get the first callback execatly when the loop is done? creating execs?
+10:52 < tonyk> i think he wants a max amount of processes running
+10:52 < augustl> thomaschaaf: because your JS is single threaded
+10:52 < tonyk> at any given time
+10:53 < augustl> thomaschaaf: if you don't understand what that means, then that's why you're confused
+10:53 < thomaschaaf> tonyk: I guess yes because of the EMFILE error I get when to many processes are running
+10:54 < thomaschaaf> *too many
+10:56 < Fletch> sqlite3 install with npm fails on my system..?
+10:57 < augustl> Fletch: is sqlite3 installed on your system?
+10:57 < augustl> sqlite3 itself, that is, not the npm package
+10:59 < Fletch> augustl: That may have been the problem the first time I tried - since then I seem to get EACCES on /root/.node-gyp.  I'm running it as root.
+10:59 < tonyk> thomaschaaf: http://pastie.org/4102314
+10:59 < tonyk> bery hacky tho
+10:59 < augustl> Fletch: so you have sqlite3 installed?
+10:59 < Fletch> augustl: Yep
+10:59 < thomaschaaf> async.forEachLimit maybe my solution
+10:59 < tonyk> oh, how can I mistype very
+11:00 < thomaschaaf> thanks tonyk let me take a look
+11:00 < augustl> thomaschaaf: you probably want a pool of, say, 100, and as soon as one finishes start a new one. Not to start the next 100 when the previous 100 has finished
+11:00 < augustl> not sure what forEachLimit does though :)
+11:03 < thomaschaaf> augustl: execatly that :) But I thought it was the wrong solutions. because of my incorrect understanding :(
+11:05 < augustl> anyone know if there's a sandboxed file system module out there? So that only files/folders in a certain subfolder can be accessed.
+11:05 < tonyk> just simulate an exec by doing setTimeout(function () { etc }, Math.floor(Math.random() * (400 - 100 + 1)) + 100);
+11:06 < tonyk> simulates a random delay between 100 and 400 ms
+11:07 < thomaschaaf> thanks guys :) I'll try and get things to work.
+11:08 < deeprogram> node.js -0.8!!
+11:08 < deeprogram> great!!
+11:10 < tonyk> thomaschaaf: my code will work with it if throttle is granular enough
+11:10 < tonyk> just set it to 100 or 200
+11:11 < tonyk> but if you want to do it efficiently, you have to spawn a X number of processes with cluster and consume a redis queue with BLPOP
+11:12 < tonyk> spawning new processes is expensive
+11:12 < tonyk> then you'd obviously do a synchronous exec
+11:16 < circlicious> hi SubStack 
+11:39 < circlicious> SubStack: got 2mins for lil help ?
+13:27 < glen> hi, how do i install node_modules except root package itself? i.e npm install forever, inside forever dir, but without forever itself.
+13:27  * tonyk brain explodes
+13:28 < tonyk> forever must be inside node_modules, or else it wont be usable
+13:28 < glen> you probably did not understand 
+13:28 < glen> you probably did not understand my question
+13:29 < glen> i'l try other ways, for example i do "npm install forever" rm -rf forever/node_modules, how to refill that node_modules
+13:30 < zomg> glen: why do you want to install dependencies to a library without the library itself? :P
+13:30 < Dieterbe> rm -rf forever && npm install forever
+13:30 < glen> Dieterbe: but your solution removes forever itself!
+13:30 < SomeoneWeird> glen,  go into forever folder and run npm install .
+13:30 < Dieterbe> glen: and then reinstalls it properly
+13:30 < glen> i want to make offline bundle of borever and it's deps
+13:31 < SomeoneWeird> glen,  go into forever folder and run npm install .
+13:31 < glen> ahaa, "npm install ." does it, thanks
+13:31 < SomeoneWeird> :)
+13:31 < SomeoneWeird> np
+13:33 < glen> also, is it possible to make npm install skip deps that are already available as global?
+13:59 < mt> hey guys, anybody around?
+14:03 < Dieterbe> yep
+14:11 < ningu> hey, I'm getting npm errors like this:
+14:11 < ningu> npm ERR! cb() never called!
+14:11 < ningu> does that ring a bell? it never happened before
+14:12 < zomg> It might be useful to tell us what you did that caused the error
+14:12 < ningu> zomg: npm update -g
+14:12 < ningu> it happens whenever I do anything in npm at all
+14:12 < ningu> including when I delete the .npm directory
+14:43 < denysonique> Is there a redis/memcached alternative with an interface/logic like MongoDB?
+15:49 < plato> good morning node
+15:49 < plato> i would like to explore some data from EVE online. CCP games releases a dataset in their toolkit, as a MSSQL dump.bak
+15:50 < plato> can I access the data in this backup without installing and running a MSSQL server to restore the backup?
+15:51 < tonyk> usually an SQL dump is a text file containing sql commands
+15:51 < tonyk> try opening it on a text editor
+15:52 < plato> nope
+15:52 < plato> its 500mb, and running head gives me binary data
+15:52 < plato> TAPE??=??,^qkB?Microsoft SQL ServerRAID ;$qI???=D2<&??SPAD
+15:52 < plato> etc
+15:53 < tonyk> a microsoft innovation(tm)
+15:53 < tonyk> try this
+15:53 < tonyk> http://www.sobolsoft.com/excelmssql/
+15:53 < tonyk> I'd run it in a VM, doesnt look very trustworthy
+15:54 < plato> and it doesn't specify if i can just open a backup
+15:56 < zomg> plato: iirc they release those dumps in non-mssql formats as well
+15:56 < plato> that would be better. i'l look
+15:56 < zomg> Or possibly it was someone from the community who re-dumped them into more standard SQL
+15:57 < zomg> Once upon a time I dabbled a bit with the eve data dumps as well and I don't recall having used MSSQL :)
+15:59 < plato> yeah http://www.fuzzwork.co.uk/dump/ 
+15:59 < plato> mysql
+16:09 < dopa> I hope somebody here can help me. Running into a difficult one. I've been using mongoose-auth/everyauth so people can auth to my app using Twitter. Works great most of the time, but sometimes I start getting this error and my app crashes:
+16:09 < dopa> Error: Step rememberTokenSecret of `twitter` is promising: requestTokenSecret ; however, the step returns nothing. Fix the step by returning the expected values OR by returning a Promise that promises said values.
+16:09 < dopa> https://gist.github.com/2944964
+16:10 < dopa> Googling doesn't turn up much. I've made sure mongoose-auth and everyauth are the latest versions.
+16:13 < wingie> guys .. you know a good way to generate random product names?
+16:13 < wingie> like movie, book, cd, purse etc
+16:19 <@isaacs> pksunkara: sure, but it might be squashed with a larger cleanup or lint commit
+16:19 <@isaacs> pksunkara: i like to not have lots of little 2-character diffs floating around.  it's distracting in the log
+16:20 < pksunkara_> isaacs: :( It was going to my first commit
+16:20 < pksunkara_> *to be my
+16:21 <@isaacs> pksunkara_: oh, ok
+16:21 < pksunkara_> I don't think there are any other lint errors
+16:21 <@isaacs> pksunkara_: there are some more bugs that need fixing :)
+16:21 < pksunkara_> I used make test to identify this error
+16:21 <@isaacs> pksunkara_: https://github.com/joyent/node/issues?milestone=10&state=open
+16:21 < pksunkara_> yeah, was trying to fix the DiffieHellman bug
+16:21 < pksunkara_> but I can't promise
+17:04 < davv3_> hey, how come nodejs performs so bad at this? https://github.com/ericmoritz/wsdemo/blob/results-v1/results.md
+17:04 < chapel> davv3_: because its a terrible benchmark
+17:05 < davv3_> chapel: i thought so, but i cant really refute it.
+17:05 < davv3_> this work friend of mine sent the link :P
+17:06 < chapel> its not even putting each platform on an even footing, or using common settings that people using it would use
+17:06 < chapel> not to mention, there is no work being done, so its not realistic to what you will see in production
+17:07 < chapel> it was also done on ec2, which has unpredictable performance
+18:32 < _elek> Anyone run into an issue with the PATH env. variable on windows where you need to reverse the order in the path of "C:\Users\[username]\AppData\Roaming\npm\;C:\Program Files\nodejs\" to "C:\Program Files\nodejs\;C:\Users\[username]\AppData\Roaming\npm\"
+18:33 < _elek> happens on the stable and on 0.7.11
+18:34 < mego> anybody available here?
+18:35 < Guest14206> ok...
+18:37 < staar2> hello
+18:37 < staar2> nodejsrs :D
+19:00 < owen1> is there a 'rake' equivalent in node? in the ruby world. i used to type rake -T and see all the options i can run.
+19:03 < TimeTurner> what does rake do?
+19:04 < SlexAxton> grunt?
+19:05 <@isaacs> this ^
+19:09 < owen1> TimeTurner: rake let's you defined all kind of tasks. for example - creating / loading you db with seed data.
+19:18 < owen1> SlexAxton: is there any github project that have some tasks i can take a look? is there a convention of tasks folder or scripts folder to store all those tasks?
+19:20 < tjholowaychuk> owen1 makefile ftw
+19:20 < pksunkara_> owen1: look at cake in github.com/jashkenas/coffee-script
+19:20 < pksunkara_> but I don't recommend it
+19:20 < pksunkara_> makefile ftw!
+19:20 < SlexAxton> owen1: jquery uses grunt now
+19:21 < owen1> SlexAxton: is grunt layer on top of makefile? i am not sure what makefile means. googling...
+19:21 < tjholowaychuk> grunt makes no sense
+19:21 < owen1> i prefer to use the basic tools first, and add abstractions later.
+19:22 < SlexAxton> i tend to use make more than grunt, but it grunt can be nice for 'sharing' shell scripts
+19:22 < tjholowaychuk> https://gist.github.com/352d548c4fa5dd988b93
+19:22 < SlexAxton> and avoiding writing a ton of bash
+19:22 < tjholowaychuk> grunt is a bad abstraction, all those things (uglifyjs) etc have CLIs anyway
+19:23 < mrryanjohnston> Hey guys. Anyone familiar with partials in expressjs? I have a jade template doing !=partial('foo/bar', foos), but the foos object in the foo/bar.jade view is just the original array rather than a single entry from the array
+19:23 < owen1> SlexAxton: can you share a link or a repo that use makefile?
+19:23 < SlexAxton> any of tjholowaychuk 's
+19:23 < mrryanjohnston> I'd done it successfully in a previous project, so it's probably something silly
+19:24 < owen1> mrryanjohnston: you can also try #express
+19:24 < mrryanjohnston> owen1: gah. thanks! I was looking for the room. tried #expressjs and #express.js :p
+19:25 < glen> hi, i need to find which of the paths exist from array, how do do that in async mode, i tried with slide-flow-control asyncMap, but i can't get it right
+19:29 < owen1> SlexAxton: looking at the Makefile of express. it looks like i can ran make 'whatever' as long as i define whatever in that file.
+19:29 < SlexAxton> yep, that's makefile
+19:29 < owen1> SlexAxton: how does it work? is it part of node?
+19:29  * jocafa pets make
+19:30 < SlexAxton> that's a 30 year old unix tool
+19:30 < owen1> SlexAxton: oh. sweet
+19:30 < tjholowaychuk> it's the thing people keep re-inventing with more verbose crappy tools :p
+19:30 < owen1> so ruby didn't invent it (:
+19:30 < SlexAxton> rake is a play on words
+19:30 < SlexAxton> ruby make === rake
+19:33 < SlexAxton> make can be pretty hard to understand
+19:33 < SlexAxton> so verbosity for the sake of clarity
+19:33 < SlexAxton> can be good
+19:33 < glen> i mean i don't get the final callback called out: http://sprunge.us/gVFE
+19:33 < SlexAxton> the joke is that only one makefile has ever been written from scratch
+19:33 < SlexAxton> and the rest were just edits on that one and so forth
+19:34 < wookiehangover> 1000 line makefiles ftw
+19:34 < min|dvir|us> Why does require('./routes') work but not require('./feeds')?
+19:34 < tjholowaychuk> makefiles are pretty to understand, it's all the cross-platform bullshit
+19:34 < tjholowaychuk> that gets confusing
+19:34 < milani> tjholowaychuk, I think gyp tried to fix that.
+19:35 < tjholowaychuk> pretty easy*
+19:36 < owen1> is there a way to show all the available make commands (similar to rake -T)?
+19:37 < wookiehangover> lol `cat Makefile`
+19:37 < owen1> (:
+19:38 < RLa> 6.7k loc makefile in my project :)
+19:38 < owen1> can i namespace some make commands? like db:seed db:drop etc?
+19:38 < RLa> makefile generators :P
+19:38 < owen1> RLa: is it on github?
+19:38 < tjholowaychuk> that's where the codesmell begins
+19:39 < tjholowaychuk> when you have to generate your makefiles
+19:39 < RLa> owen1, no, it's from our qt project, generated by qmake
+19:39 < TimeTurner> so you have a makefile to generate your makefile?
+19:39 < TimeTurner> ah
+19:39 < wookiehangover> eventually you'll have generators for your makefile generators
+19:40 < TimeTurner> makefile normalization
+19:40 < pksunkara_> tjholowaychuk: Are you going to improve your router in express?
+19:40 < tjholowaychuk> pksunkara_ that's pretty vague
+19:41 < tjholowaychuk> improve as in ?
+19:41 < pksunkara_> it's kinda difficult to type all the path for every route
+19:41 < tjholowaychuk> no its not
+19:41 < drostie> I should probably stop trying to build my own frameworks and start using other peoples', it would probably be a better way to get stuff done. :<
+19:41 < tjholowaychuk> plus that's what express-namespace or -resource is for
+19:41 < tjholowaychuk> writing the entire path is much more explicit
+19:41 < tjholowaychuk> which is a major win IMO
+19:42 < tjholowaychuk> i dont have to go hunt around for shit
+19:42 < tjholowaychuk> typing is a tiny fraction of the work you do
+19:42 < pksunkara_> yeah I think the same too, but what about complex apps
+19:42 < tjholowaychuk> complex apps remain simple
+19:42 < tjholowaychuk> when you just have a list of paths
+19:42 < pksunkara_> hmm ..
+19:42 < tjholowaychuk> no weird opinionated abstractions
+19:42 < milani> drostie, exactly.
+19:42 < tjholowaychuk> those opinions are fine for basic CRUD
+19:42 < tjholowaychuk> but that's about it
+19:42 < milani> tjholowaychuk, ++
+19:42 < tjholowaychuk> so I prefer to just keep shit simple in a grep-able list
+19:43 < tjholowaychuk> does it take a big longer to write? sure, but it's much easier to grok
+19:43 < owen1> tjholowaychuk: +100
+19:43 < owen1> that's why i stopped using rails and moved to sinatra
+19:43 < TimeTurner> +?
+19:44 < owen1> and now i am toying with the idea of using node.js with some modules instead of express (a la https://github.com/isaacs/npm-www)
+19:45 < glen> hi, i need to fs.lstat bunch of paths, and take first existing, how?
+19:45 < tjholowaychuk> owen1 totally. I spend 0.01% of my day writing route paths
+19:45 < tjholowaychuk> haha
+19:45 < pksunkara_> tjholowaychuk: but isn't scoped routing better for different methods of same path?
+19:45 < drostie> hm. the thing that my framework-in-development does involves constructing a routing table. GET /blog/2012/03/05 maps to services.blog('2012', '03', '05'). clearly I am le crazy.
+19:45 < tjholowaychuk> pksunkara_ better is subjective
+19:45 < tjholowaychuk> personally I dont think so, but of course people have different opinions on that stuff
+19:45 < tjholowaychuk> which is why it's "low level" with just <route> <path>, anything else can be on top
+19:45 < tjholowaychuk> I find no benefit in those abstractions
+19:46 < drostie> Like I said, you're probably right. ^_^
+19:47 < drostie> oh, wait. services.blog.get('2012', '03', '05'). I wasn't yet clever enough to define the rest. :x
+19:48 < drostie> Anyway, point is that I like express's syntax too.
+19:49 < pksunkara_> I was able to group paths together in my app, so I found scoped routing easier
+19:49 < pksunkara_> that was why I asked the question in first place
+19:49 < quiznilo> is 'getFile' now 'fs.readFile'?
+19:49 < quiznilo> with node-0.7.x?
+19:50 < tjholowaychuk> quiznilo there was a getFile?
+19:50 < quiznilo> according to this O'Reilly node book, yes
+19:50 < tjholowaychuk> oh weird
+19:50 < tjholowaychuk> i dont remember that one
+19:50 < quiznilo> nm
+19:50 < milani> pksunkara, what I did was to create an mvc folder structure
+19:50 < quiznilo> no, I was wrong, thanks for your time tjholowaychuk 
+19:50 < milani> and a simple initializer which goes throw directories
+19:51 < milani> and creates routes automatically
+19:51 < milani> this way I manage my code and I write less:)
+19:51 < pksunkara_> milani: yeah, I implemented my mvc with flatiron on express today
+19:52 < pksunkara_> MVC is the new Template engine, everyone has one of their own
+19:52 < tjholowaychuk> haha yeah
+19:52 < tjholowaychuk> those abstractions are better left for the app to define I think
+19:52 < tjholowaychuk> less leaky that way
+19:52 < tjholowaychuk> you can adjust as you go
+19:52 < tjholowaychuk> if you even need that at all
+19:52 < pksunkara_> yeah, true
+19:52 < milani> yeah. express is good at handling low level issues.
+19:53 < milani> and its the exact thing most developers need.
+19:53 < tjholowaychuk> you either spend a lot of time reversing or working around shit that something like rails does
+19:53 < tjholowaychuk> or spend that time just doing a bit more verbose simple stuff
+19:53 < milani> being able to modify it easily is better than not being able to modify it at all:D
+19:53 < tjholowaychuk> or if it's mega-CRUD just use drupal/rails anyway
+19:54 < milani> and express offers this. I saw frameworks that stick to a single structure
+19:54 < milani> yes.
+19:55 < milani> it is what I mean.
+19:55 < milani> I think how many times tjholowaychuk answered to these questions and discussions:))
+19:55 < TimeTurner> facebook would be considered mega CRUD right?
+19:56 < TimeTurner> or more?
+19:57 < tjholowaychuk> i doubt facebook abtracts much since almost everything you do on there is a hot path seeing as they have millions of users
+19:57 < tjholowaychuk> but who knows
+19:59 < TimeTurner> the fact that they convert PHP -> C via HipHop...
+20:06 < Sembiance> I have some private NPM modules that I'd like to be able to install with "npm install <modulename>" without having to `npm publish` it to the public repository.
+20:06 < Sembiance> Currently I'm creating a symbolic link in node_modules to the package elsewhere on disk.
+20:07 < Sembiance> this works well, but then when I do `npm shrinkwrap` for staging builds, when I do `npm install` it can't find the module, since it's not in the public repo
+20:07 < tjholowaychuk> Sembiance https://github.com/isaacs/npm/issues/2442
+20:07 < tjholowaychuk> same issue
+20:07 < tjholowaychuk> i tried to find the code to fix it
+20:07 < tjholowaychuk> but i couldn't find it
+20:08 < Sembiance> tj: thanks, reading the issue now :)
+20:11 < Sembiance> tjholowaychuk: well, at least I know I'm not alone now :)  I thought maybe I was missing something obvious ;)
+20:41 < huangjs> hmm... what package do you recommend for bundling client-side files, there are browserify, stitch, brunch, hem, etc.
+21:00 < _elek> Anyone run into an issue with the PATH env. variable on windows where you need to reverse the order in the path of "C:\Users\[username]\AppData\Roaming\npm\;C:\Program Files\nodejs\" to "C:\Program Files\nodejs\;C:\Users\[username]\AppData\Roaming\npm\"
+21:00 < _elek> or perhaps npm is just broken w/ the express module
+21:01 < _elek> (on windows)
+21:01 < marlonglopes> hi all
+21:11 < machty> hi, is there anyone here doing freelance with some spare time and some interest in helping out on an FB app built in Node.js that involves automated image manipulation and integration with facial feature detection libs?
+21:11 < machty> i'm based out of NYC but remote work would be fine
+21:12 < _elek> to followup on my issue, i reverted back to node 0.6.8 and my issue w/ express.cmd on windows went away.  
+21:52 < huangjs> hey, anybody can help? what package do you recommend for bundling client-side files, there are browserify, stitch, brunch, hem, etc.
+21:53 < jesusabdullah> I like browserify huangjs 
+21:56 < owen1> what technique do people use for auto reload of node so u don't need to restart the server on every change? https://github.com/isaacs/node-supervisor ?
+21:57 < jgornick> hey guys, when using npm, is it possible to install the dependencies into another directory instead of node_modules?
+22:00 < huangjs> jesusabdullah: thanks :)
+22:05 <@isaacs> jgornick: nope
+22:05 < jgornick> isaacs: thanks! just curious.
+22:05 <@isaacs> jgornick: a lot of simplifications are possible with that assumption
+22:05 <@isaacs> jgornick: since node is hard-coded to search in folders named "node_modules" for modules
+22:05 < jgornick> isaacs: true, i wanted to use npm to manage my dependencies for a chrome extension though
+22:06 < jgornick> that's why i wanted to install to a different folder called vendor.
+22:06 <@isaacs> jgornick: you can either make your chrome extension look in node_modules, or you can `rm -rf vendor; mv node_modules vendor` after doing your npm stuff
+22:07 < jgornick> isaacs: this is true :)
+22:07 < jgornick> i was hoping for something in the package.json that would allow me to configure the dependencies path so it could be overridden.
+22:08 < jgornick> isaacs: no worries though, there are work-arounds i guess
+22:08 <@isaacs> yep
+22:08 <@isaacs> npm is a package manager for node
+22:08 <@isaacs> not for everything.  other uses are accidental, not fundamental :)
+22:09 < jgornick> i can dig it
+22:19 < owen1> my Makefile have 1 line: seed: node db/seed.js     when i run it i get: 'make: *** No rule to make target `node', needed by `seed'.  Stop.'  any ideas/
+22:19 < owen1> ?
+22:21 < tjholowaychuk> owen1 deps go after :, the commands go on a new indented line
+22:21 < tjholowaychuk> seed:
+22:21 < tjholowaychuk>   node db/seed
+22:22 < owen1> tjholowaychuk: oh. thanks
+22:22 < augustl> any suggestions for how to check if there's a tcp server at a given hostname:port?
+22:22 < augustl> just try to open a tcp socket and see how it goes?
+22:23 < tjholowaychuk> owen1: http://www.gnu.org/software/make/manual/make.html#Prerequisite-Types
+22:23 < owen1> tjholowaychuk: great!
+22:24 < tjholowaychuk> owen1 the one really lame thing is you need to use tabs though
+22:31 < Fabryz> Follow your #euro2012 teams trends http://tweet-a-table.nodejitsu.com/
+22:31 < jesusabdullah> Fabryz: Very nice
+22:31 < Fabryz> next step would be attach it to a real database
+22:40 < pksunkara_> isaacs: Could I get feedback on https://github.com/joyent/node/pull/3471
+22:40 < pksunkara_> please, thanks
+22:41 <@isaacs> pksunkara_: yeah, i looked into this a little while ago
+22:41 <@isaacs> pksunkara_: the problem is that these "scp-style" paths ar used by quite a few protocol
+22:42 <@isaacs> pksunkara_: and git in particular has weird behavior based on them
+22:42 <@isaacs> pksunkara_: if we're going to do this (which I think we should), it's going tobe for v0.9.  it's not hard engineering, but it is sticky with edges
+22:42 < pksunkara_> yes
+22:42 <@isaacs> pksunkara_: and we can't change behavior in 0.8, and it's too late to make the change with the proper degree of care in time for 0.8
+22:43 < pksunkara_> I am not asking to merge this in 0.8
+22:43 < pksunkara_> Just fixing old bugs :D
+22:43 <@isaacs> pksunkara_: if i were you, i'd spend some time writing a lot of test.  like, especially go through the git remote man pages, rsync, scp, etc.
+22:43 <@isaacs> pksunkara_: see how they all handle these funky urls, and write reasonable tests in test/simple/test-url.js for each unique case.
+22:43 < pksunkara_> isaacs: sure, I will keep on adding unique test cases to that pr, does that sound good?
+22:44 <@isaacs> pksunkara_: sure.
+22:44 <@isaacs> pksunkara_: also, what about things that have no protocl?  that's anotehr tricky one.  like:  git@github.com:isaacs/npm
+22:44 <@isaacs> what is that i don't even
+22:44 <@isaacs> :)
+22:45 < pksunkara_> isaacs: that is ssh protocol without ssh://
+22:45 < pksunkara_> atleast I think so :P
+22:45 <@isaacs> pksunkara_: right, but with git, if you have 'ssh://' then you have to NOT have the : path
+22:45 <@isaacs> pksunkara_: also, colon paths are resolved differently, because the part that follows the : is relative to a home dir, not absolute
+22:46 <@isaacs> pksunkara_: so, scp foo server.com:foo is ver different from ssh foo server.com/foo
+22:46 <@isaacs> s/ssh/scp/ in the second one
+22:46 < pksunkara_> yes
+22:46 <@isaacs> the first copies to ~, the second to /
+22:46 <@isaacs> so really, the resulting pathname should not have a : OR a / at the front of it
+22:46 <@isaacs> so you'd get something like { host: 'server.com', 'pathname': 'foo' }
+22:47 <@isaacs> rather than pathname:'/foo';
+22:47 < pksunkara_> isaacs: in http protocols, we return pathname as '/foo'
+22:47 <@isaacs> pksunkara_: right
+22:47 < pksunkara_> in these protocols, we will return either ':foo' or '/foo' depending on input
+22:48 < pksunkara_> and url.format will also be easy
+22:48 <@isaacs> whereas really, in http, server.com:foo is just not a url
+22:48 <@isaacs> so it should be something like { pathname: 'server.com:foo' }
+22:48 <@Nexxy>  hostname
+22:48 <@isaacs> soo many edge cases 
+22:49 <@isaacs> Nexxy: no, try it
+22:49 <@isaacs> : is not allowed in a host, and a http host MUST be separated from path with a /
+22:49 < pksunkara_> yes, but that is http
+22:49 <@isaacs> http://server.com:foo/ is not a valid url
+22:49 <@Nexxy> isaacs, ya
+22:49 <@Nexxy> host = host, hostname = host + port
+22:49 <@isaacs> oh, yeah
+22:49 <@isaacs> they'd be the same here, cuz no port
+22:50 <@isaacs> Nexxy: also, i think you have that backwards
+22:50 < pksunkara_> so, having some protocols which don't use color at the beginning of pathname is better
+22:50 < pksunkara_> right?
+22:50 < pksunkara_> s/color/colon/
+22:50 < pksunkara_> I mean have them in a list
+22:50 < pksunkara_> and use it in url.format
+22:50 <@isaacs> pksunkara_: i think there is probably no way out of having a list of these, yes
+22:51 <@isaacs> pksunkara_: much as it pains me.
+22:51 < pksunkara_> :D
+22:51 <@isaacs> pksunkara_: i don't know if it's better to have a list of ones that DO support scp-style urls, or the ones that DONT support, them, though
+22:51 <@isaacs> depends on which is the shroter list
+22:51 <@Nexxy> isaacs, http://nodejs.org/api/url.html O RLY?!
+22:51 <@Nexxy> isaacs, o, right ._.
+22:52 <@isaacs> Nexxy: 'host' is what goes on the Host: header
+22:52 <@isaacs> Nexxy: that's how i remember it
+22:52 <@Nexxy> I was... just making sure you were paying attention
+22:52 <@isaacs> hehe
+22:52 <@isaacs> ;)
+22:52 < pksunkara_> isaacs: could you review what I have written and tell me if that is good implementation or not, thanks
+22:52 <@Nexxy> ;P
+22:52 <@isaacs> pksunkara_: probably not in the next few weeks
+22:53 <@Nexxy> I remember having this confusion when I was trying to assemble normalized URLs and kept getting results w/o the port
+22:53 < pksunkara_> isaacs: btw, what is the status with this? https://github.com/joyent/node/issues/1068
+22:54 <@isaacs> pksunkara_: on master, delimiters are allowed in urls.  delimiters, unsafe, whatever.  we just escape everything now.
+22:55 <@isaacs> pksunkara_: commented
+22:56 < pksunkara_> isaacs: I think he was asking about "not auto-escape single-quotes" 
+22:56 < pksunkara_> single-quote is getting escaped on master
+22:56 <@isaacs> oh, no, single quotes absolutely must be escaped.
+22:56 <@isaacs> and double quotes.
+22:56 <@isaacs> if you don't like it, unescape them afterwards.
+22:56 <@isaacs> it's not safe otherwise.
+22:57 <@isaacs> url.format() must always return something that is safe for a href attribute
+22:57 < tonyk> isaacs: you're hardcore
+22:57 < tonyk> working through the weekend
+22:57 <@isaacs> tonyk: thanks, i think.
+22:57 <@isaacs> i can sleep when 0.8 ships :)
+22:57 < tonyk> 0.8 out tomorrow?
+22:58 <@isaacs> not quite
+22:58 <@isaacs> but soon.
+22:58 <@maxogden> no sleep till 0.8
+22:58 <@isaacs> there is one annoying issue that might delay it a bit further than i'd like.
+22:58 <@isaacs> probably wednesday or thursday, though
+22:58 <@maxogden> (the beastie boys lesser known EP)
+22:58 < pksunkara_> only 2 more issues left for 0.8
+22:59 <@isaacs> pksunkara_: yeah, but one of those is pretty gnarly
+22:59 <@isaacs> and the other i'm just not sure about
+22:59 < pksunkara_> which one is gnarly?
+22:59 < pksunkara_> test failing?
+23:00 < asdfqwertyui> Hello
+23:00 < asdfqwertyui> Why is /LIST not working?
+23:01 < zomg> asdfqwertyui: /list ? You want to list all channels on Freenode?
+23:02 < zomg> Oh he left
+23:02 <@maxogden> HELLO YES THIS IS DOG
+23:03 < tonyk> but who was phone
+23:15 < TomWij> maxogden: https://www.youtube.com/watch?v=gMiCt6NCzow :)
+23:20 < tjholowaychuk> maxogden: did you see bat cat?
+23:21 < tonyk> v0.6.18: Transfer rate: 162598.15 [Kbytes/sec] received
+23:21 < tonyk> v0.7.11: Transfer rate: 57499.54 [Kbytes/sec] received
+23:21 < tonyk> gotta profile this
+23:22 < acidhax> hmmm
+23:22 < acidhax> seriously?
+23:22 < tonyk> its just using stream.pipe()
+23:40 < machty> why use nginx? what does it offer over just exposing node as the server on port 80? 
+23:43 < Tobsn> machty, or any port
+23:43 < Tobsn> it brings stability
+23:43 < Tobsn> and further control
+23:46 < tonyk> isaacs: https://gist.github.com/372f31d730dffe2d45d0
+23:49 < Tobsn> 50 concurrent 50 conenctions?
+23:50 < tonyk> whats wrong with it
+23:50 < TehShrike> :-x
+23:50 < Tobsn> ...
+23:50 < TehShrike> That's a biggish difference
+23:50 < Tobsn> youre firing 50 parallel connections
+23:50 < Tobsn> at the same time
+23:50 < Tobsn> and end them
+23:50 < tonyk> thankfully im not running on a 486
+23:50 < Tobsn> fo -n 1000 -c 50
+23:50 < Tobsn> *~do
+23:51 < Tobsn> or -n 10000 -c 200
+23:51 < Tobsn> something that actually gives you reliable data
+23:51 < tonyk> you do realise that even with -c 50 -n 50 it takes ~1minute right?
+23:52 < tonyk> doesnt even matter, might as well be -c RAINBOWS
+23:52 < tonyk> if it takes long enough then its reliable
+23:53 < Tobsn> 173 Mbyte/sec vs. 43 Mbyte/sec?
+23:53 < kolektiv> hi all - appreciate any help... how can i make the function on 'uncaughtException' wait until the error handlers in it are done?
+23:53 < kolektiv> at the moment, the process just exits before they get anywhere
+23:53 < kolektiv> (and they're async)
+23:55 < chapel> tonyk: do the results change if you increase the number?
+23:55 < Tobsn> he says it doesnt matter ;)
+23:55 < Tobsn> im staying out of that
+23:56 < tonyk> 5mb file and -n 500 -c 20: 0.6 still 3 times faster
+23:56 < chapel> okay, I am mostly just curious
+23:56 < Tobsn> 50mb
+23:56 < tonyk> 5mb now
+23:56 <@isaacs> tonyk: yes, it would be more reliable with a higher -n
+23:57 < tonyk> will try 50mb now
+23:57 <@isaacs> tonyk: or with more throughput
+23:57 <@isaacs> tonyk: otherwise rounding errors eat your data
+23:57 < Tobsn> hehe
+23:57 <@isaacs> and startup time, which in real life doesn't matter for a server.
+23:57 <@isaacs> you need enough throughput that the startup time doesn't amtter in your test, either
+23:57 < Tobsn> tonyk, does it help now that he said it?
+23:58 <@isaacs> tonyk: iow, i'm perfectly fine with node's startup time doubling if the actual throughput speed was increased even a little, and that would cause this sort of result.
+23:58 <@isaacs> (doubling would be a bit extreme, i guess, but you get the picture)
+23:59 <@isaacs> oh, wait, you'er sending a lot of data, nvm.
+23:59 < Tobsn> haha
+23:59 <@isaacs> so this is not really testing http, per se, it's testing how fast you can churn thorugh a fs.ReadSTream
+23:59 < tonyk> it's testing pipe performance
+23:59 <@isaacs> it'd be better to be 2 benchmarks: one that tests readstream performance, and another that has a fake stream that emits random data chunks.
+23:59 <@isaacs> then configure the chunk size and find the slow points
+--- Log closed Mon Jun 18 00:00:31 2012

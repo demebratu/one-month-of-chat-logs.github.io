@@ -1,0 +1,1 @@
+i want to have a cacheBust.js that i require for builds etc, but i prefer to also require it inside the tempalte vs passing it to every render call. am i doing it wrong?

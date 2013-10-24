@@ -1,0 +1,1 @@
+other_guy: What does this tell you: npm ls -g

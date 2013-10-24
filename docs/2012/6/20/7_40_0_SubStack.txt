@@ -1,0 +1,1 @@
+if all browsers had full-duplex mode for xhr it would be so nice

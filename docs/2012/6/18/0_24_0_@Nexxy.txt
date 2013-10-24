@@ -1,0 +1,1 @@
+things like websockets would be unavailable I believe, yes

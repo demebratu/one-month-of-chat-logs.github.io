@@ -1,0 +1,1 @@
+5mb file and -n 500 -c 20: 0.6 still 3 times faster

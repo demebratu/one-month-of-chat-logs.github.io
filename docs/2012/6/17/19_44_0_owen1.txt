@@ -1,0 +1,1 @@
+and now i am toying with the idea of using node.js with some modules instead of express (a la https://github.com/isaacs/npm-www)

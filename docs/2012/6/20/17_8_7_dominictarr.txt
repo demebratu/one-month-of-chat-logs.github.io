@@ -1,0 +1,1 @@
+NodeX, the best practice is to check in all your deps into your app's repo

@@ -1,0 +1,1 @@
+var hash = function(str){ var acc = 0; for(var i = 0; i < str.length; i++){ acc ^= str[i].charCodeAt(0); } return acc; }

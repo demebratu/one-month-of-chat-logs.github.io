@@ -1,0 +1,1 @@
+Adamramadhan: Node will never have "one good allinone db driver" for the same reason that php doesn't have a good one.

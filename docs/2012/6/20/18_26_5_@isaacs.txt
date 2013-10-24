@@ -1,0 +1,1 @@
+rektide: set your PATH so that /opt/local/bin is in it, and remove the /usr/local/bin symlink

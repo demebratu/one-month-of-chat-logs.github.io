@@ -1,0 +1,1 @@
+Its blazing fast becouse it compiles to near machine code too :d, but its locked by chrome = google right?

@@ -1,0 +1,1 @@
+Any idea how I could make undefined values by default a string '1'?

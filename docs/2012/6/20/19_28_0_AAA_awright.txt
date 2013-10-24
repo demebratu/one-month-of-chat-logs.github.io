@@ -1,0 +1,1 @@
+Nasrudin: A better thing to ask would be, how do you modularize code in Javascript, not "how do I modularize code like I do in C#" -- because you don't

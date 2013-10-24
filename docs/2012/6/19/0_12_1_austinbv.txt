@@ -1,0 +1,1 @@
+then things like needing to wrap the whole app in a db connection seem odd

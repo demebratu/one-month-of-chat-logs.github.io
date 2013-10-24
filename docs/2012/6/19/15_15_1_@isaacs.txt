@@ -1,0 +1,1 @@
+like, the primary use case of npm is tested primarily by the fact that i'll get annoyed immediately in my daily life when it breaks.

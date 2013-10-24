@@ -1,0 +1,1 @@
+so, a management site with a * CNAME could use iframes / postmessage to have (effectively) infinite storage.

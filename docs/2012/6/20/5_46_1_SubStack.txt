@@ -1,0 +1,1 @@
+is a way to stripe a bundle across multiple page views with multiple scripts into many bundles

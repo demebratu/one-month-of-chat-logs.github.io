@@ -1,0 +1,1 @@
+then you could set statusCode and do setHeader in inverse order

@@ -1,0 +1,1 @@
+libtorrent requires a set of defines ... is there a way to set them with waf?

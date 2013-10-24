@@ -1,0 +1,1 @@
+i try to insert the payload into mongo and it is inserting hash of crazy numbers. here is the payload: {"name":"egg white","cal":17,"p":3.58,"c":0.24,"f":0.06,"_id":"4fdeecbecd1bc60000000004"}

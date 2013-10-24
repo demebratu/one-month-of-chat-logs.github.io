@@ -1,0 +1,1 @@
+Currently I'm creating a symbolic link in node_modules to the package elsewhere on disk.

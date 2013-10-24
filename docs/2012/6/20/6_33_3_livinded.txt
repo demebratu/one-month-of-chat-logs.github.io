@@ -1,0 +1,1 @@
+Tobsn: is it really worth it to build them out that large rather than smaller ones and sharding?

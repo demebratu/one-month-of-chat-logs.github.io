@@ -1,0 +1,1 @@
+othiym23: people are using connect+express with 0.7.x so I'm sure v0.8.x compat will be effortless

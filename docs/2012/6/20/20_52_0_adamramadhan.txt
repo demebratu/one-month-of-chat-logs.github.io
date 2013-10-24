@@ -1,0 +1,1 @@
+does it autocompile? or build manualy then upload to the cdn?

@@ -1,0 +1,1 @@
+there's no technical reason to not sendfile or splice it from file to socket fd

@@ -1,0 +1,1 @@
+If you'er creating SlowBuffers, it means that you'er allocating new memory and creating buffer objects in your C++ binding, which is probably a little bit of Doing It Wrong.

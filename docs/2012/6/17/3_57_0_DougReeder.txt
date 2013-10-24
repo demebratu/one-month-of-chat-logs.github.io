@@ -1,0 +1,1 @@
+I think one should not check that if-none-match is identical to the ETag -- one should check that the ETag is _in_ the if-none-matched.

@@ -1,0 +1,1 @@
+stupid question.. when I run node.js as a daemon, where is its pid file?

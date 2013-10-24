@@ -1,0 +1,1 @@
+but your JS thread is not busy due to the "exec" calls, but for example other event listeners, http handlers, etc

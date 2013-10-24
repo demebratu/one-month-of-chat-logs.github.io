@@ -1,0 +1,1 @@
+thomaschaaf: no, because your script is single threaded

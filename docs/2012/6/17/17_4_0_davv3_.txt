@@ -1,0 +1,1 @@
+hey, how come nodejs performs so bad at this? https://github.com/ericmoritz/wsdemo/blob/results-v1/results.md

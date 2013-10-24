@@ -1,0 +1,1 @@
+machty, you could serve static files through nginx, you can be sure that your node instance isnt dying on you and you're running more spread over cpu

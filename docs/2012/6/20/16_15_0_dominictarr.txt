@@ -1,0 +1,1 @@
+maybe using the _changes feed would be faster?

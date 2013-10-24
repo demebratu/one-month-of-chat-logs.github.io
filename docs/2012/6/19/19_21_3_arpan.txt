@@ -1,0 +1,1 @@
+timers.js:209     callback.apply(timer, args);              ^ TypeError: Object #<Object> has no method 'apply'

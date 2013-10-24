@@ -1,0 +1,1 @@
+what's a common way to feed my db with data? i know in ruby it's something like rake db:setup or rake db:seed. 

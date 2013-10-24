@@ -1,0 +1,1 @@
+no, jquery should work nice, right?

@@ -1,0 +1,1 @@
+Adamramadhan: Node processes all of it's connections on one thread in a loop, called an event loop

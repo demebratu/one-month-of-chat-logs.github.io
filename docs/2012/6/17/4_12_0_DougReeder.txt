@@ -1,0 +1,1 @@
+You shouln't send other entity headers like Allow, Content-*, Expires and Last-Modified.

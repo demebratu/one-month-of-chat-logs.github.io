@@ -1,0 +1,1 @@
+pancake use a node version manager such as nvm, n or nave

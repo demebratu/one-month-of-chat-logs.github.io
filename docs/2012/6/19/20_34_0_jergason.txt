@@ -1,0 +1,1 @@
+like child_process.spawn('cat foo.txt | grep hurp') or something

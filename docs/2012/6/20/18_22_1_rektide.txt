@@ -1,0 +1,1 @@
+node -pe 'process.execPath': /opt/node/bin/node, /opt/node/bin/npm prefix -g: /usr/local

@@ -1,0 +1,1 @@
+SubStack: no.  it just doesn't install traverse under tap, because it thinks that travers is already in teh ancestry

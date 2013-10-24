@@ -1,0 +1,1 @@
+timoxley: npm update gives me 2.5.8 again.. i'm guessing 2.5.10 is a dev version?

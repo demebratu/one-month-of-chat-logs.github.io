@@ -1,0 +1,1 @@
+Nexxy: it'd be pretty sweet if the writable stream could have a .accept field

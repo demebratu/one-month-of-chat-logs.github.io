@@ -1,0 +1,1 @@
+And actually, you nee (new Date()).toUTCString()

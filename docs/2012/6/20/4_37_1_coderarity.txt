@@ -1,0 +1,1 @@
+duko_, read the file once IO is expensive

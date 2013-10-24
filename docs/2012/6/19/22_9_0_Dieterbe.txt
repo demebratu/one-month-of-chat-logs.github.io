@@ -1,0 +1,1 @@
+cianclarke: i made this issue https://github.com/feedhenry/openstack-storage/issues/5 i've talked with mmurphy before, maybe he can have a look when he has time.  it's not urgent. i can experiment more with the code myself tomorrow but now it's bedtime for me :)

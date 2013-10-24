@@ -1,0 +1,1 @@
+aaargh: 12 processes simultaneously stopped polling for events from rabbit?

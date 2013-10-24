@@ -1,0 +1,1 @@
+sure, if your client reconnects the data in your example will be lost

@@ -1,0 +1,1 @@
+Nicky, you can find it here: https://github.com/TooTallNate/node-gyp

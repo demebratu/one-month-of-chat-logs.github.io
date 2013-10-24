@@ -1,0 +1,1 @@
+lol, i am new at node. just trying something different from structured programming I am used to and god all the callbacks and stuff are hard to read.

@@ -1,0 +1,1 @@
+I'm not trying to start anything... but could anyone point me to a resource for NodeJS vs Go? Benchmarks, pros/cons etc  i'm trying to make up my mind on which one to move forward with

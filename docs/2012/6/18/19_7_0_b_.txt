@@ -1,0 +1,1 @@
+I actualy trying to create a small responder on a multi-cpu host with node.js (his only job is to respond 404 with an asci-art html page :))

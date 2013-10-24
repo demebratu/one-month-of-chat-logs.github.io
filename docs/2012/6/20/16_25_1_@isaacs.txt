@@ -1,0 +1,1 @@
+rektide: 'www' is the search site, which will be replaced by the `npm-www` project soonish

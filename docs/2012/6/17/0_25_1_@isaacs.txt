@@ -1,0 +1,1 @@
+augustl: we considered exposing it, and it's like a 3 line addition to module.js, but that's just how serious we are about module.js never changing.

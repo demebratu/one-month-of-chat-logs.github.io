@@ -1,0 +1,1 @@
+I run the myapp.js http://pastebin.com/GQSLMztG  , after 3-4 hours node server crash without any error and not run again even by forever  , which part of my code is wrong ?

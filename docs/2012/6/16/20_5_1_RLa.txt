@@ -1,0 +1,1 @@
+Guest15976, opensuse uses rpm packages? you could use checkinstall to create rpm package from install using source

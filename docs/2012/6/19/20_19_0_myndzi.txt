@@ -1,0 +1,1 @@
+why isn't there a constructor for a stream that is both readable AND writable?

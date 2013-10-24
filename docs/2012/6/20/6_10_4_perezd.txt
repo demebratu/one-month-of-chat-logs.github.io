@@ -1,0 +1,1 @@
+the problem is that crypto-browserify shouldn't pretend to have all the methods

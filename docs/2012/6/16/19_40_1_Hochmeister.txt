@@ -1,0 +1,1 @@
+anyone here using bcrypt on windows? I can't get it to install: http://pastebin.com/exvdSQkw

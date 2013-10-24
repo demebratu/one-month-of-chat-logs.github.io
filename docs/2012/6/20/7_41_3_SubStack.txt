@@ -1,0 +1,1 @@
+I think it's more a case that nobody has decent http libs server-side so it's not even obvious that you can do this stuff

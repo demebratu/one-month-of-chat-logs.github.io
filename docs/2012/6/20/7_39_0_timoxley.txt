@@ -1,0 +1,1 @@
+wiherek it sounds like you just need a clientside framework + json rest api. regular http will probably suffice and likely be a lot simpler in the long run

@@ -1,0 +1,1 @@
+pksunkara_: on master, delimiters are allowed in urls.  delimiters, unsafe, whatever.  we just escape everything now.

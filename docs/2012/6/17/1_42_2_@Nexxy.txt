@@ -1,0 +1,1 @@
+unless you're planning on running many thousands of daemons I doubt you'll get more than an occasional single collision

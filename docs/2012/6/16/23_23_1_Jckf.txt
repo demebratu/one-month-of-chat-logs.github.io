@@ -1,0 +1,1 @@
+Nexxy: Hm. Not sure how I'd implement that. I'm requring a directory with routes for use with Express, and my main app has a MongoDB variable that ofc the pages need access to

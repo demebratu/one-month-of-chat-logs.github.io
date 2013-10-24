@@ -1,0 +1,1 @@
+But again, there's weird security stuff to worry about. If one user makes a CPU-intensive request, that holds everyone up, in some respects it's easier to DOS a Node.js-served website

@@ -1,0 +1,1 @@
+so obviously when I pull in my JS file with a require in node I get app is not defined

@@ -1,0 +1,1 @@
+it solves the module problem in a fairly okay way, though i'd ultimately prefer to write modules just like i would in node -- but it really has no answer for package management.

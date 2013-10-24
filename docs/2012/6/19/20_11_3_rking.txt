@@ -1,0 +1,1 @@
+Uhh. Is it typical for `npm` to install itself to `/bin/`?

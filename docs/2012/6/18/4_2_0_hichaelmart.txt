@@ -1,0 +1,1 @@
+do you *have* to close the dgram client after sending? http://nodejs.org/api/dgram.html#dgram_dgram_send_buf_offset_length_port_address_callback

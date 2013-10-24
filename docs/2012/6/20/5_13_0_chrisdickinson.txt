@@ -1,0 +1,1 @@
+problem is, i dislike the compile step. that's where require.js wins for me, at the moment. i hate that it's boilerplate-y and basically cleaves the javascript world in two, though.

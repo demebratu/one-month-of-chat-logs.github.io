@@ -1,0 +1,1 @@
+tbranyen: 1.7 has var a, b; [a, b] = f();

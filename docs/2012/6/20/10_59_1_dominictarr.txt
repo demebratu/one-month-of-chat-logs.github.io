@@ -1,0 +1,1 @@
+the thing is, http is implemented OVER tcp, which is full duplex

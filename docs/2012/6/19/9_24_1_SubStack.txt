@@ -1,0 +1,1 @@
+Nexxy: yes I could do that but I would need a custom pipe() implementation that is type-aware

@@ -1,0 +1,1 @@
+is it possible to point NPM at an alternative sync source?

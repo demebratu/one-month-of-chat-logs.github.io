@@ -1,0 +1,1 @@
+othiym23: personally, i'd install them anyways with `npm install -f`, then see if they work as expected, and if they don't, then fix + pull request them

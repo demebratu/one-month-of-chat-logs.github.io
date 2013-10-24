@@ -1,0 +1,1 @@
+and implement a virtual svga framebuffer using canvas

@@ -1,0 +1,1 @@
+typical konobi... "I wanna do feature X in language !Perl" "Hm, there's a perl module for that..."

@@ -1,0 +1,1 @@
+i think in this case, it's going to come down to whichever of nest or browserify or rjs or whatever can make developers' lives easier and less painful.

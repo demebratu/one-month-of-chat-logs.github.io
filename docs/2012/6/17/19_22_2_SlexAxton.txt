@@ -1,0 +1,1 @@
+and avoiding writing a ton of bash

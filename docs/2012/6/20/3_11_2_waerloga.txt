@@ -1,0 +1,1 @@
+denysonique: yes, but then you get titles like this: "check out my neat javascript thingy" and you go and look and it's written in coffee

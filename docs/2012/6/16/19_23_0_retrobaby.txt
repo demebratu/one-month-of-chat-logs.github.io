@@ -1,0 +1,1 @@
+whats the use of beforeExit in the tests?

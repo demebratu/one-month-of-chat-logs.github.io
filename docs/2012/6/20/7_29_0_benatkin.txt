@@ -1,0 +1,1 @@
+timoxley: now there's that and I also wish that the express cookieSession middleware used the session middleware and its classes

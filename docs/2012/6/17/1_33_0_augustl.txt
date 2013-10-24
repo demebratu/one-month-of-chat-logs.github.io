@@ -1,0 +1,1 @@
+is there a way to get ports for sockets assigned by the OS with node? Or do I always have to specify the port?

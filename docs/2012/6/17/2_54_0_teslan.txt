@@ -1,0 +1,1 @@
+for a givne file, where in the incoming request do i find the ETag: that i placed into the header of the last response?

@@ -1,0 +1,1 @@
+TimeTurner: rake let's you defined all kind of tasks. for example - creating / loading you db with seed data.

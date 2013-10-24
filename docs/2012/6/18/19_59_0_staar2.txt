@@ -1,0 +1,1 @@
+well would it be better to use core * 1 or core * 2 workers ?

@@ -1,0 +1,1 @@
+pksunkara_: right, but with git, if you have 'ssh://' then you have to NOT have the : path

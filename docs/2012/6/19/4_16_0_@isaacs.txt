@@ -1,0 +1,1 @@
+SubStack: it's the most perfect and obvious use case for inheritance ever

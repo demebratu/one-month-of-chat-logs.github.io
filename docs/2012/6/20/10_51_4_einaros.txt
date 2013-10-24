@@ -1,0 +1,1 @@
+dominictarr: a domain service initiating communication back to a client isn't necessarily a good idea in either case

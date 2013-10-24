@@ -1,0 +1,1 @@
+retrobaby: 1) Interesting approach, 2) I'd definitely consider assigning a null function over console.log for that, 3) I want some output, this is a CLI tool.

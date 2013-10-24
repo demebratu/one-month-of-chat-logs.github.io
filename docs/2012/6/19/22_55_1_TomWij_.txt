@@ -1,0 +1,1 @@
+isaacs: Might be handy to go through this query: http://stackoverflow.com/search?q=%22res.writehead%22

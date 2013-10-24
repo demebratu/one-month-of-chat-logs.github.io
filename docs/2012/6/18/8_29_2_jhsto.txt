@@ -1,0 +1,1 @@
+hey guys, any idea how i could output a string contained in a variable on express?

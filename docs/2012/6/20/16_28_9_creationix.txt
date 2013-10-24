@@ -1,0 +1,1 @@
+nssocket assumes some stuff

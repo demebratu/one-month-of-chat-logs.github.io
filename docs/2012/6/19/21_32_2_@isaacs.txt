@@ -1,0 +1,1 @@
+dherman: i can fix it manually in a few minutes, or you can do the password reset dance on http://admin.npmjs.org/reset

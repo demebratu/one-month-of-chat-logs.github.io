@@ -1,0 +1,1 @@
+airandfingers what version of express? the res.json you posted works for me on express 2.5.10

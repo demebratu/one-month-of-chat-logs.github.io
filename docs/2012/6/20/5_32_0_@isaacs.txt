@@ -1,0 +1,1 @@
+you define a module with YUI.add('name', {some confs deps, etc}, function (Y) { now Y has your business })

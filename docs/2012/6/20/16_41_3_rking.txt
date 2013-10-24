@@ -1,0 +1,1 @@
+guy: Fair enough. I didn't want to do that and bypass a standard mechanism. (E.g. Android has a builtin log levels thing that is useful for cranking up debugging info at run-time)

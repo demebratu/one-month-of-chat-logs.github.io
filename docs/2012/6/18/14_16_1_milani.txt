@@ -1,0 +1,1 @@
+Nicky, https://github.com/milani/appjs/blob/master/binding.gyp#L36

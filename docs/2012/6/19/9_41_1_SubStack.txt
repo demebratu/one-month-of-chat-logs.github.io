@@ -1,0 +1,1 @@
+or .pipe() to JSONStream.stringify()

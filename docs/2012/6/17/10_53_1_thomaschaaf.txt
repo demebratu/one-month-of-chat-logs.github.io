@@ -1,0 +1,1 @@
+tonyk: I guess yes because of the EMFILE error I get when to many processes are running

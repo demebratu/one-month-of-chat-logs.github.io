@@ -1,0 +1,1 @@
+and if you are blocking its prolly on the cpu... so running a secondary process doesnt help

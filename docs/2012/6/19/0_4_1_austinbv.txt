@@ -1,0 +1,1 @@
+I started my 2nd node app a couple days ago and well it's what I would describe as the 7th circle of callback hell

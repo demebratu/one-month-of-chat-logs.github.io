@@ -1,0 +1,1 @@
+help: app.helpers({foo : function(){return "bar"}}); how do i access it now from jade?

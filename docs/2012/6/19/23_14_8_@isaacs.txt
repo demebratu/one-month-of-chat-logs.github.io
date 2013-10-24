@@ -1,0 +1,1 @@
+so, npm cache add will actually just tell your local leveldb folder to sync down that doc

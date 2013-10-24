@@ -1,0 +1,1 @@
+ha looks like helpers are what i need @ http://stackoverflow.com/questions/10420990/how-to-include-javascript-objects-in-a-jade-template-before-jade-compilation

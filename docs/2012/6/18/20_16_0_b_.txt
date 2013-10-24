@@ -1,0 +1,1 @@
+is it preferable to run multiple instance of node on a host or use cluster ?

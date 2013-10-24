@@ -1,0 +1,1 @@
+but yeah, npm's lib/install.js is like 10x the size of a good node module.

@@ -1,0 +1,1 @@
+browsing to https://registry.npmjs.org/ with a browser also gives me https errors

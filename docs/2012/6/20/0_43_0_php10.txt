@@ -1,0 +1,1 @@
+how can i get the result of a mongoose save() callback ? this is not working: http://pastebin.com/LKqCk7RX

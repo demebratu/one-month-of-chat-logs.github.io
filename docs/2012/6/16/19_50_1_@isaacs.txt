@@ -1,0 +1,1 @@
+ofcourse, that requires structuring your C++ code so that it's ok with receiving a fixed block of memory to work with, and continuing where it left off with new memory if it wasn't able to finish

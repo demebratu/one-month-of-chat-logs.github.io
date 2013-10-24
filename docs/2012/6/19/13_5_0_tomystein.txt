@@ -1,0 +1,1 @@
+Hi, This is the ERROR I am getting - http://101greatgoals.com/geoip-test.php. Do you know how to fix that so Google ad will appear and not break the code?

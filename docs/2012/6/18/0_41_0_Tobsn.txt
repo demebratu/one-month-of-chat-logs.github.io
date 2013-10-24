@@ -1,0 +1,1 @@
+and nginx has similar capabilities. they have a powerful rewrite, header modification and also lua module

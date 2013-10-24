@@ -1,0 +1,1 @@
+Dieterbe: but a diff is useless without the thing it's diffed against

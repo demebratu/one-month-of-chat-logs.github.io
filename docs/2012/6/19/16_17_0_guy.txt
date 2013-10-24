@@ -1,0 +1,1 @@
+https://gist.github.com/a597f862bca03a5e670d this is what I get now. Which tells me  Requires: v8 >= 3.6.6.24, but the latest available is 3.6.6.19-1.el6. So, where do I get the new V8 from?

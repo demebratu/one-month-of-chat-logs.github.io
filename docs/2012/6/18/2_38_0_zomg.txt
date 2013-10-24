@@ -1,0 +1,1 @@
+Yeah you could do that with node, although the approach would probably be to store the image on your server, and then simply send the URL to it to the browser instead of the entire file

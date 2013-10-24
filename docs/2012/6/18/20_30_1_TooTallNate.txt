@@ -1,0 +1,1 @@
+LibreNick: in that case I just use `n` (or one of the other version managers)

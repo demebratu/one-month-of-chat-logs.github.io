@@ -1,0 +1,1 @@
+on last version I started having many issues by using only authentication via https

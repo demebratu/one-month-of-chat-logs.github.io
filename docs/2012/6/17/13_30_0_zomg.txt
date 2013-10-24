@@ -1,0 +1,1 @@
+glen: why do you want to install dependencies to a library without the library itself? :P

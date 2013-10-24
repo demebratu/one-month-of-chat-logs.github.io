@@ -1,0 +1,1 @@
+chrisdickinson: it's not just not ideal.  it's leaking implementation details all over your damn code.

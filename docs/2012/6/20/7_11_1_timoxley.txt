@@ -1,0 +1,1 @@
+airandfingers also double check that's exactly what's going on. possible it's sending exactly the object it's being passed

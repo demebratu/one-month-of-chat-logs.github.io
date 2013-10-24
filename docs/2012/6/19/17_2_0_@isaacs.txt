@@ -1,0 +1,1 @@
+forda: pid is just process id.  in bash, you get the pid of the most recent program with the $! variable.  in node, you can get your own pid with process.pid, or a child process's pid with child.pid

@@ -1,0 +1,1 @@
+How can a variable I define in my main application file be accessed from a required file?

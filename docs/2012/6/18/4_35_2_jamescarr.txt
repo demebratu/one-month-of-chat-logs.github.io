@@ -1,0 +1,1 @@
+especially when third party modules implement them, allowing you to easily pipe stuff all over

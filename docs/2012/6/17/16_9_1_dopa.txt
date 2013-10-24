@@ -1,0 +1,1 @@
+Error: Step rememberTokenSecret of `twitter` is promising: requestTokenSecret ; however, the step returns nothing. Fix the step by returning the expected values OR by returning a Promise that promises said values.

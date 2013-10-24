@@ -1,0 +1,1 @@
+yeah, node-static does the same but even worse since it just bindly caches

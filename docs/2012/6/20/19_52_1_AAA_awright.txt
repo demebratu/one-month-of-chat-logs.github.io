@@ -1,0 +1,1 @@
+thanpolas: What do you mean "non-stdout output", if it's not from stdout it's from stderr and you need to be reading from that too

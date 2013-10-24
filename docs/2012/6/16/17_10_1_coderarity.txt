@@ -1,0 +1,1 @@
+like, instead of `http.createServer(function (req, res) { /* do stuff */ });` do `function serveFunction () { /* do stuff */ }; http.createServer(serveFunction);`

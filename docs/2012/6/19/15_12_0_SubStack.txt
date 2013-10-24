@@ -1,0 +1,1 @@
+but I'm not familiar enough with tap's internals to write much of any kind of test

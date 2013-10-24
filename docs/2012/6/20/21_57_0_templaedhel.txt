@@ -1,0 +1,1 @@
+If I have a npm module I made, but have it set to private, and want to include it in another package.json, can I just use the file path?

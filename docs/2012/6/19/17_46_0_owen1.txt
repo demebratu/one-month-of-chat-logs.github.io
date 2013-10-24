@@ -1,0 +1,1 @@
+jfroma: yeah. git, but what's the common way to use tags and branches for open source stuff. 

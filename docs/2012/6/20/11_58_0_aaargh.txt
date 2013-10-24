@@ -1,0 +1,1 @@
+i have attached strace, and there is a conspicuous absence of calls to epoll_wait and clock_gettime

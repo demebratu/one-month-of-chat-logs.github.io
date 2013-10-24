@@ -1,0 +1,1 @@
+Hey guys. What would be the simplest method of computing hashsum for a string in JavaScript?

@@ -1,0 +1,1 @@
+does anyone know a good test suite for servers? i would like to test my node.js server (although it has nothing to do with node.js/javascript) by changing config parameters, running my app, and looking for log entries, whether the process stops, the http response it answers my requests with, and running arbitrary commands

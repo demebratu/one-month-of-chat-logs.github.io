@@ -1,0 +1,1 @@
+anyway, jhsto my guess is that if that's not working, you are setting the variable to undefined via some other block

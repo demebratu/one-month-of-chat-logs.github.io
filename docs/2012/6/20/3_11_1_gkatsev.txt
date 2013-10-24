@@ -1,0 +1,1 @@
+denysonique: by hitting keys on a keyboard to make words and symbols that eventually are interpreted by a js engines as javascript :P

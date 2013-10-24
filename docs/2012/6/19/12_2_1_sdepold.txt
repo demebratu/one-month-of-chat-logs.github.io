@@ -1,0 +1,1 @@
+so even if you don't want to use pjax, this is the theory behind that. (here is the url https://github.com/defunkt/jquery-pjax)

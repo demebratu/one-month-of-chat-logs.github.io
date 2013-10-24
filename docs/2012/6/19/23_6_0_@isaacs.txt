@@ -1,0 +1,1 @@
+mikeal: i'll believe the "not optimal" when there's some benchmarks.

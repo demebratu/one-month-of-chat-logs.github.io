@@ -1,0 +1,1 @@
+I've lost basically all confidence that riak-js will be regularly updated and supported.

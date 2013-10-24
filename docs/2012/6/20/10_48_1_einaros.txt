@@ -1,0 +1,1 @@
+dominictarr: there's nothing preventing you from POSTing a command to a domain service

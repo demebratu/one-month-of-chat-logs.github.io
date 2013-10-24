@@ -1,0 +1,1 @@
+If you're that concerned, make xml() a global function.

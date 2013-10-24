@@ -1,0 +1,1 @@
+SubStack: PUT should be idempotent, POST shouldn't

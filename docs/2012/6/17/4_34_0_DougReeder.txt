@@ -1,0 +1,1 @@
+I can guess most static file serving modules add it for you.

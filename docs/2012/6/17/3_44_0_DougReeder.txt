@@ -1,0 +1,1 @@
+The client MAY, but is not obligated to send and If-None-Match header in the request, if it has a variant in the cache.

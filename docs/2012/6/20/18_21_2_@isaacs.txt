@@ -1,0 +1,1 @@
+rektide: npm prefix -g

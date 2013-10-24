@@ -1,0 +1,1 @@
+I could pass in an opts.emitType to the readable stream but then some writable streams won't get their preferred type of data object

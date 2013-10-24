@@ -1,0 +1,1 @@
+we cannot make any changes to http semantics without serious un-work-around-able bugs, but this is a good candidate for v0.9

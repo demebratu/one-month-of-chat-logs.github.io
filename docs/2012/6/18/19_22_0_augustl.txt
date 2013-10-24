@@ -1,0 +1,1 @@
+I want to index stuff with solr. Do you peeps think it should be done via a queue? In my node app, I'll store the record in postgres, then enqueue the solr indexing request in activemq or something.

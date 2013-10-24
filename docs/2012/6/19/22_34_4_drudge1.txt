@@ -1,0 +1,1 @@
+tjholowaychuk: yeah currently i have a job type that spawns several of a diff type - and i want to report progress back to the main job and wait for the child jobs to finish before i finish the parent

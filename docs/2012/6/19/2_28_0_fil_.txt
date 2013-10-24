@@ -1,0 +1,1 @@
+@isaacs: found the prob, the shell (CMD) was being terminated but not the cmd it was running. I was running the node-inspector script..

@@ -1,0 +1,1 @@
+the "ws" module on npm has a great websocket client and server

@@ -1,0 +1,1 @@
+kylemcgill: yeah.  the results are provided in the callback.  you can't just return them.  functions are not simple blocks like while or if

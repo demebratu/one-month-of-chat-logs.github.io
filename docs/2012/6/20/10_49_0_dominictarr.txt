@@ -1,0 +1,1 @@
+no, it's more the fact that the domain service can't initiate a message back to the client

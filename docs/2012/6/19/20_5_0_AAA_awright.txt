@@ -1,0 +1,1 @@
+qrpike: Well, it depends on what you want, there's some frameworks that take in Markdown files and produce static HTML output, but you probably don't mean that when you say WordPress

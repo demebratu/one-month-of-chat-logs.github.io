@@ -1,0 +1,1 @@
+When I wrote my first CRUD for node I had no idea how to test or keep everything clean

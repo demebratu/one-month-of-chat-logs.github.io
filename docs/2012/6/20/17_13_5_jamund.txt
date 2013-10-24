@@ -1,0 +1,1 @@
+Having trouble getting sessions working with flatiron. I'm using connect-session and have tried connect 1.8 and 2.3.3. Anyone have experience getting this to work. the #nodejitsu chat is dead at the moment.

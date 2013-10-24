@@ -1,0 +1,1 @@
+hey guys, using expressjs, wondering how i can set an app variables in the configure section but have that variable be available in a required JS file, namely index.js in the routes/ directory?

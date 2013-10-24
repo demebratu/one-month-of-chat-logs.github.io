@@ -1,0 +1,1 @@
+is the server probably running out of ram? as u store all the data inside the clients array, this might be a prob?

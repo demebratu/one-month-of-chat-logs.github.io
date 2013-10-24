@@ -1,0 +1,1 @@
+s/ssh/scp/ in the second one

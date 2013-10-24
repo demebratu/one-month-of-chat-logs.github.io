@@ -1,0 +1,1 @@
+If i change my local files to access '../config/database.json', it errors

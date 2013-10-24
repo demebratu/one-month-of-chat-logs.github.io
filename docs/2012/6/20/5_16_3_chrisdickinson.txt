@@ -1,0 +1,1 @@
+the other problem is that with the way CORS works, if you want to preprocess the source to parse out require statements, it has to be on the same domain.

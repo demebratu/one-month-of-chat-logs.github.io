@@ -1,0 +1,1 @@
+jgornick: a lot of simplifications are possible with that assumption

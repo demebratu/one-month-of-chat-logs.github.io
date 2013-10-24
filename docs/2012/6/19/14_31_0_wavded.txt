@@ -1,0 +1,1 @@
+is socket.io still in active development, there seems to be quite a few issues/pull requests that seem to address issues that i'm encountering?  just curious

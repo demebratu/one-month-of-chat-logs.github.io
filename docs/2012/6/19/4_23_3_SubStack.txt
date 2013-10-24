@@ -1,0 +1,1 @@
+pkg.main === path.basename(dir) && path.basename(path.dirname(dir)) === 'node_modules'

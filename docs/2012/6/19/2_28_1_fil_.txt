@@ -1,0 +1,1 @@
+all: what is the best node debugger, I am using node-inspector and really impressed with it. I will be doing C++ additions to node, so I can't do server-side Cloud9 or anything..

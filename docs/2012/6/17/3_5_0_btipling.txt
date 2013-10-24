@@ -1,0 +1,1 @@
+I can either put a path to jquery in my app's require or put one in my app.build.js but not both

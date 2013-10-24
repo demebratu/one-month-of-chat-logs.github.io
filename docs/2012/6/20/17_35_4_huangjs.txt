@@ -1,0 +1,1 @@
+hmm... how do I get the first n bits of an integer?

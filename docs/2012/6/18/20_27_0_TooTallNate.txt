@@ -1,0 +1,1 @@
+LibreNick: so use v0.7.11 and make sure your stuff works there, so that you'll be ready for v0.8 when it gets here

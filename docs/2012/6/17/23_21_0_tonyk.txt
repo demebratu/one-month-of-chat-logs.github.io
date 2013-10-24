@@ -1,0 +1,1 @@
+v0.6.18: Transfer rate: 162598.15 [Kbytes/sec] received

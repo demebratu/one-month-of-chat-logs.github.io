@@ -1,0 +1,1 @@
+pjax is afaik gripping the complete page and then stripping everything off but the content it's looking for. the received content is then inserted into the dom

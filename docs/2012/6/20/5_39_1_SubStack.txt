@@ -1,0 +1,1 @@
+isaacs: maybe yahoo is rewriting node in coffeescript

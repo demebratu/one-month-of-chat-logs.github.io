@@ -1,0 +1,1 @@
+using IRCCloud here.. Switched from irssi, it's quite nice!

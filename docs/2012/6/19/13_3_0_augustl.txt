@@ -1,0 +1,1 @@
+ended up with `var app = middlewares.reduce(function (prev, curr) { return prev.use(curr); }, connect());` so I can jutst pass in an array of middlewares, om nom

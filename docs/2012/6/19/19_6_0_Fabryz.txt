@@ -1,0 +1,1 @@
+Finally managed to use a decent twitter library with oaut, tweet-a-table v0.4.0 is out http://tweet-a-table.nodejitsu.com/

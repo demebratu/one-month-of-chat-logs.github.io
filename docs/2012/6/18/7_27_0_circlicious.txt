@@ -1,0 +1,1 @@
+with node, if i make a persistent connection with long tiemouts, it wont consume a lot of memory under jigh load ?

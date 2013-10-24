@@ -1,0 +1,1 @@
+well I don't want begin end begin end and not begin begin end end.. but just rather something that starts the commands and when they are done callback :) 

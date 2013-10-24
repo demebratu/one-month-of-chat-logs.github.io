@@ -1,0 +1,1 @@
+because there's a nice alternative where you leave the connection alive and you write out the result when you have it

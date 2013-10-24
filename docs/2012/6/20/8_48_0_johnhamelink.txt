@@ -1,0 +1,1 @@
+Hello peeps! Are there any mongoose experts out there who can help me with my schema acting funny?

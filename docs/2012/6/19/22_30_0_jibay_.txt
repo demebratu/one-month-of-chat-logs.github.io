@@ -1,0 +1,1 @@
+tonyk: you speak about this ? http://nodejs.org/api/net.html#net_socket_setsecure

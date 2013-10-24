@@ -1,0 +1,1 @@
+eg. if node exec's another instance, sending a kill() signal does not actually terminate it

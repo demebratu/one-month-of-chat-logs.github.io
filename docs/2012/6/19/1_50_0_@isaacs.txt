@@ -1,0 +1,1 @@
+konobi: the problem is that i need to check process.platform to determine the correct behavior, but setting process.platform='win32' basically destroys the path module if you're lying.

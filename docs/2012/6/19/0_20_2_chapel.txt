@@ -1,0 +1,1 @@
+for simple linear code, just with callbacks, an easy way is define functions below

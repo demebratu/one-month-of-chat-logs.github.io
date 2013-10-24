@@ -1,0 +1,1 @@
+(lol, Drupal as clientside view rendering)

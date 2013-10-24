@@ -1,0 +1,1 @@
+var b_trim_h = <the value you want> || '1';

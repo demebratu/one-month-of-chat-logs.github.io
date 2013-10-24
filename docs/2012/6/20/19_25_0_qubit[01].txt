@@ -1,0 +1,1 @@
+yes, just var Person = require('./Person'); ... var Stewardess = Person.extend({});

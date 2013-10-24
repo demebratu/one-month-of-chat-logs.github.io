@@ -1,0 +1,1 @@
+I Just have a hard time with the basic stuff like a login in node so much harder than say sinatra

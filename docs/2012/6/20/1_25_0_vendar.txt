@@ -1,0 +1,1 @@
+hey, guys. I'm now coding a websocket server using node.js, I can hold only 60k connections per process. Then V8 run out of memory, with boot parameter —max-old-space-size=1900 I can only specify 1.9GB max memory allocation per process, anyone has any suggestions???

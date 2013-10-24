@@ -1,0 +1,1 @@
+the load balancers are catching up with http 1.1 etc so I think that point will be moot in a few months

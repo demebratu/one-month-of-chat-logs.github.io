@@ -1,0 +1,1 @@
+i redirected node.gd to the node.js page... nobody ever saw it hehe

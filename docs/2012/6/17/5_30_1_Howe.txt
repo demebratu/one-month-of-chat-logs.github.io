@@ -1,0 +1,1 @@
+function calls are somewaht expensive. I've benchmarked frameworks in every way you can imagine and I'm sure another function call will degrade performance somewhat. I some there is a way to pacth it hmmm 

@@ -1,0 +1,1 @@
+the app is suppossed to stop tryng to connect as soon  as the server comes online.

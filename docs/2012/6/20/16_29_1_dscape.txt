@@ -1,0 +1,1 @@
+nssocket is node <-> node

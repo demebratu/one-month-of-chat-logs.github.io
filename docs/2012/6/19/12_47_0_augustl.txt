@@ -1,0 +1,1 @@
+I currently use a hand written solution in a couple of projects where I manually remove all other request listeners, add my own, and call the other request listeners if my own middleware doesn't handle the request.

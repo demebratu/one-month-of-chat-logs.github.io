@@ -1,0 +1,1 @@
+you can add things like PHP or python to nginx

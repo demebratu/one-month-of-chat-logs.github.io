@@ -1,0 +1,1 @@
+i'l try other ways, for example i do "npm install forever" rm -rf forever/node_modules, how to refill that node_modules

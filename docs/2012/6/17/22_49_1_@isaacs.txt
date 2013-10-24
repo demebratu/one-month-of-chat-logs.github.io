@@ -1,0 +1,1 @@
+: is not allowed in a host, and a http host MUST be separated from path with a /

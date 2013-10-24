@@ -1,0 +1,1 @@
+retrobaby, there's a lot of source code, so i'd suggest at least reading the documentation first, but start with uv.h https://github.com/joyent/libuv/blob/master/include/uv.h

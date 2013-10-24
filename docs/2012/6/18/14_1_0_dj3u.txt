@@ -1,0 +1,1 @@
+timoxley i am trying to cache bust in production, not dev. and by using name_$_name.js and not file_name?v=$ becasue the interwebs claim some proxy server like it better ;p so i need to be able to track with what id i am building my files etc. thanks though

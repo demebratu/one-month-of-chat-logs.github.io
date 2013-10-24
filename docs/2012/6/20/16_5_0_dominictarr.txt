@@ -1,0 +1,1 @@
+maxogden, https://github.com/joyent/node/blob/master/lib/fs.js#L1261

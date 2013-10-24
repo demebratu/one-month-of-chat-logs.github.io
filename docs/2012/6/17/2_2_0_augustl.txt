@@ -1,0 +1,1 @@
+and according to the man page of the kernels IP stack: "When listen(2) or connect(2) are called on an unbound socket, it is automatically bound to a random free port with the local address set to INADDR_ANY. "

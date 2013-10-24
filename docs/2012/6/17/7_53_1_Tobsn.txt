@@ -1,0 +1,1 @@
+technical fyi: the lib used GPU and rendered the filter 120 times per second, he was able to show you the filter in real time through the camera view... it was neat. much better than instagram

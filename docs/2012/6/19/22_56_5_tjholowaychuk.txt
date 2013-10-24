@@ -1,0 +1,1 @@
+could we make that res._headerSent (or whatever it was) public?

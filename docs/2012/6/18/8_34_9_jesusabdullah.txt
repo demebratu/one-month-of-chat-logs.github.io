@@ -1,0 +1,1 @@
+jhsto: ftr you can do it with jsdom, and there's a pseudoselector project that doesn't use the dom called cheerio

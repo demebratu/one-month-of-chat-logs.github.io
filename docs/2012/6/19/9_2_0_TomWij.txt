@@ -1,0 +1,1 @@
+Tobsn: Start off here: http://www.iana.org/assignments/ipv4-address-space/ipv4-address-space.xml then for instance if you have 72 you can check out whois.arin.net and type the IP in the upper right, then you get full information about the IP range your IP is in.

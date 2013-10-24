@@ -1,0 +1,1 @@
+for example, the JVM's HotSpot optimization out-does V8 when running the same bit of code over and over again

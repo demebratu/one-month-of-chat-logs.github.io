@@ -1,0 +1,1 @@
+SubStack: if it's any comfort to you, most of the inconvenient "RESTful" web services you've used probably aren't very RESTful - their designers merely thought they were

@@ -1,0 +1,1 @@
+isaacs: in http protocols, we return pathname as '/foo'

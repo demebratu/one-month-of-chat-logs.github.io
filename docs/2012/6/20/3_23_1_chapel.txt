@@ -1,0 +1,1 @@
+but it translates it to coffeescript

@@ -1,0 +1,1 @@
+wiherek you're basically building a custom clientside framework.

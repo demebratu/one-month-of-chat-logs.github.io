@@ -1,0 +1,1 @@
+the issue with XHR compared with websockets is well defined error handling

@@ -1,0 +1,1 @@
+whereas really, in http, server.com:foo is just not a url

@@ -1,0 +1,1 @@
+cpetzold, ok fallback with fonts works on chrome but not in FF12

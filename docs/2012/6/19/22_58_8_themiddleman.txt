@@ -1,0 +1,1 @@
+Is there something I can read about creating my own streams (rather than just using file/http io streams?)

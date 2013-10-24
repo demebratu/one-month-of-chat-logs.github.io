@@ -1,0 +1,1 @@
+got model - mongo - for stored data, view - jquery - for outputting it to the client, controller - node - for processing data

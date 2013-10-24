@@ -1,0 +1,1 @@
+just delegate your require function to the native one, except if they want 'bar'

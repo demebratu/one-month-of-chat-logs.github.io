@@ -1,0 +1,1 @@
+hey guys. i have a super weird issue where i do util.log and then call a function that also does a util.log, but i can only see the first, not the second.  it seems the function is not called at all.  i'm so confused and frustrated by it.  check thisout: http://pastie.org/4116521

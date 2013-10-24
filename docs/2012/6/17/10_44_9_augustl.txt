@@ -1,0 +1,1 @@
+thomaschaaf: but  yeah, this is basically the gist of the blog posts where people say node sucks and use fibonacci as an example

@@ -1,0 +1,1 @@
+lohkey: dnode() is a readable/writable stream

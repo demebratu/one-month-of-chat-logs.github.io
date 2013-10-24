@@ -1,0 +1,1 @@
+When I hit the page it's putting two .'s down in the console. Is that expected? Why would it be hit twice?

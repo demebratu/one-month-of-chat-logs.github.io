@@ -1,0 +1,1 @@
+By the way, if it are dynamic or private ports, you need to take them from 49152 - 65535

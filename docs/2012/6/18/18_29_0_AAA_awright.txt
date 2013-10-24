@@ -1,0 +1,1 @@
+Beginning with v0.7.6 --shared-v8 fails to work on my system

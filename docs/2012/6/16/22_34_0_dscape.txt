@@ -1,0 +1,1 @@
+is there any timeout for keep alive requests on node core after 2 minutes?

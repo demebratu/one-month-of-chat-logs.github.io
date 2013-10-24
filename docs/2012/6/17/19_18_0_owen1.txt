@@ -1,0 +1,1 @@
+SlexAxton: is there any github project that have some tasks i can take a look? is there a convention of tasks folder or scripts folder to store all those tasks?

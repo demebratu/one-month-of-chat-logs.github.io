@@ -1,0 +1,1 @@
+isaacs would it be sensible to put a node version manager into core?

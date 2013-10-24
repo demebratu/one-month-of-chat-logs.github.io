@@ -1,0 +1,1 @@
+I dont see the difference between xhr and websockets in terms of when it hits your backend ... you still have to deal with multi millions of connections at some point in your app

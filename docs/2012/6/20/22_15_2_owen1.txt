@@ -1,0 +1,1 @@
+maxogden: so each handler function is still executed inside the same thread.

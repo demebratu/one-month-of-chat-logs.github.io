@@ -1,0 +1,1 @@
+wouldn't it be cool if i could just pipe the encoded stream into a decoder and then keep piping

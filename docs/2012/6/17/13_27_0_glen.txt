@@ -1,0 +1,1 @@
+hi, how do i install node_modules except root package itself? i.e npm install forever, inside forever dir, but without forever itself.

@@ -1,0 +1,1 @@
+jesusabdullah: but yeah this is the nice thing about worker role. It fully supports WebSockets.

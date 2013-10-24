@@ -1,0 +1,1 @@
+wiherek "just" use $.ajax and handlebars

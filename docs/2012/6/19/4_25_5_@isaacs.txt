@@ -1,0 +1,1 @@
+SubStack: but a lot hinges on that optimization in the normal case, as you can imagine.

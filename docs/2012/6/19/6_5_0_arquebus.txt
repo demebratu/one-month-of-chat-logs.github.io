@@ -1,0 +1,1 @@
+jesusabdullah: Im using Mint Linux and I have node.js installed, but it lists node as an amateur radio program in the package manager

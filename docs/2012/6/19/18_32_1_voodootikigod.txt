@@ -1,0 +1,1 @@
+is there anyway to pass to npm the target for a specific lib directory?

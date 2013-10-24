@@ -1,0 +1,1 @@
+SubStack: so to work around this, ti's gotta NOT put itself in the 'family' or 'ancestors' objects, if it's the root package, AND not in a node_modules folder.

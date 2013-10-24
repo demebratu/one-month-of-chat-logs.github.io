@@ -1,0 +1,1 @@
+jergason: the | and argv parsing stuff is all done by the shell

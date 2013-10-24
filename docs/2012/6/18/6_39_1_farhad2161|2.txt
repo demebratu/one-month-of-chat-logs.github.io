@@ -1,0 +1,1 @@
+my nodeserver stop responding after aabout 4~5 hour without any error log  :(  how can i find the reason 

@@ -1,0 +1,1 @@
+chrisdickinson: and 3, there are no subsequent page loads.  the user got annoyed at the load time, and left.

@@ -1,0 +1,1 @@
+set NODE_ENV=production node app.js , this isnt working for me, do I need to do something else ?

@@ -1,0 +1,1 @@
+ /usr/local/lib/node_modules/forever/node_modules/daemon/lib/daemon.v0.6.8.node 

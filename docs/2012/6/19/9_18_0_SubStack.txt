@@ -1,0 +1,1 @@
+I could listen for 'pipe' events and find the lowest common denominator but then some streams won't get their preferred type

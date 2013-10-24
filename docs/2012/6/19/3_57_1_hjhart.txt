@@ -1,0 +1,1 @@
+I might look into phantomjs a bit more. I really dont' want to have to open a browser and drive it around. It's always seemed too brittle to me.

@@ -1,0 +1,1 @@
+stagas in addition to that I also have a tick counter to count amount of ticks that happens within a second

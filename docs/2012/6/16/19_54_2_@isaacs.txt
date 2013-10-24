@@ -1,0 +1,1 @@
+siddMahen: but you can also just do callback(null, theSlowBuffer.slice(0))

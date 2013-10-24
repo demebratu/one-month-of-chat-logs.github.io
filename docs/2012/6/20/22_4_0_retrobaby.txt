@@ -1,0 +1,1 @@
+as said in a book i read yesterday, ".. its all about the promises, you promise the user about completion of a async action and the user can use this promise in a predictable manner"

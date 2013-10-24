@@ -1,0 +1,1 @@
+SubStack: you can do a REST call to a server, and have the service return a http status code indicating "not available yet - try again in 10 minutes"

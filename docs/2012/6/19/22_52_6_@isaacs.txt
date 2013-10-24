@@ -1,0 +1,1 @@
+tjholowaychuk: as opposed to res.writeHead(n, {headers})

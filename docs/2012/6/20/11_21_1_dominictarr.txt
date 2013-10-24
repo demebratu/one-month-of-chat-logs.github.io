@@ -1,0 +1,1 @@
+and network compents (clients, servers) send representations of the state back and forth

@@ -1,0 +1,1 @@
+SomeoneWeird: was I mentioned, I don't want to patch the source files. New versions are released often and I'd have to patch it all over again. Silly thing to do.

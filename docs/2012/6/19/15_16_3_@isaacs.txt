@@ -1,0 +1,1 @@
+SubStack: srsly?  skip the test.  it's fine.  install your modified npm, and see if `npm install` in traverse works properly

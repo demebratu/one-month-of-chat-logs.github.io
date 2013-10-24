@@ -1,0 +1,1 @@
+which will be in node 0.7.12-RC1 (and probably the 0.7.12 release as well)

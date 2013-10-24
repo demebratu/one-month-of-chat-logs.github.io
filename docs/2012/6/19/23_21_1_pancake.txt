@@ -1,0 +1,1 @@
+https://github.com/gf3/sandbox/issues/15 <- is this fixed in 0.8?

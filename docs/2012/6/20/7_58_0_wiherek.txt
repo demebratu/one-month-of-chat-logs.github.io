@@ -1,0 +1,1 @@
+timoxley: in a situation when I have something of a shoutbox with important mixed clients/server information active at all time, i just have a feeling that I will essentially be building something like a websocket :)

@@ -1,0 +1,1 @@
+I'm thinking that if for some reason indexing fails I'll have unindexed data. With a queue, I can requeue failed indexings etc.

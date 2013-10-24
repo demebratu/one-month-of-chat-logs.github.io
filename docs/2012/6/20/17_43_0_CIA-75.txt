@@ -1,0 +1,1 @@
+node: isaacs master * r1d3d02c / (lib/fs.js test/simple/test-fs-readfile-pipe.js): Fix fs.readfile('/dev/stdin') - http://git.io/azA0xA

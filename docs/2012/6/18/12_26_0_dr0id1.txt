@@ -1,0 +1,1 @@
+for my site, I wrote a custom commenting system, its crappy but works gr8. has markdown support, does gr8 html filtering, cleaning, etc. etc. etc.

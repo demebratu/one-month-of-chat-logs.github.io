@@ -1,0 +1,1 @@
+every protocol defines it's own framing

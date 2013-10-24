@@ -1,0 +1,1 @@
+gblock: single socket on both ends right ? i mean each end needs to have 1 socket open

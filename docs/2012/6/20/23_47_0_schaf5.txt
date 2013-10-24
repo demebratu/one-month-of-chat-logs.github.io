@@ -1,0 +1,1 @@
+i want to use v8 as a unix program, where i read from stdin and output to stdout, (all synchronously). Is there a way to directly do this with v8, or does only node.js have the required api functions ( im new to javascript, so i dont know whats available )?

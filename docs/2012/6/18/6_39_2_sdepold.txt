@@ -1,0 +1,1 @@
+start it in dev mode, so you get proper logs

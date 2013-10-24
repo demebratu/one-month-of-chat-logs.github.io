@@ -1,0 +1,1 @@
+TomWij, there is no such folder on OS X when you use npm install -g

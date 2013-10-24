@@ -1,0 +1,1 @@
+so that you could at lesat get *something* if you get bored and kill it, and then subsequent fetches would update it some more.

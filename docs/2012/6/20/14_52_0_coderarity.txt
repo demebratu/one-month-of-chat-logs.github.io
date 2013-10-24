@@ -1,0 +1,1 @@
+bnoordhuis, i tried `sudo dtruss npm test` and it actually passed

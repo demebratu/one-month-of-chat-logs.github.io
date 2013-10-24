@@ -1,0 +1,1 @@
+trying to gzip some data that I am posting to my own server, and running in to problems unzipping it on the other end.

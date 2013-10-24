@@ -1,0 +1,1 @@
+Nexxy, I'm also working on a Riak client.  I was thinking perhaps we should join forces here to replace the current riak-js implementation

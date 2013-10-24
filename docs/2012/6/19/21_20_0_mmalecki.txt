@@ -1,0 +1,1 @@
+isaacs: hey, travis folks are saying that registry is slow for them, are there any knows issues?

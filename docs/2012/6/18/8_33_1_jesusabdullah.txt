@@ -1,0 +1,1 @@
+that doesn't involve jquery on the server

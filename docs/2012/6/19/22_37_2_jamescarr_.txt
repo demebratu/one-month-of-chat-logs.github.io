@@ -1,0 +1,1 @@
+MafnNodeJS, for example, erlang may be the fastest and most scalable, that doesn't mean you need to use it to code your one page shopping cart

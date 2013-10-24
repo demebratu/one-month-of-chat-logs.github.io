@@ -1,0 +1,1 @@
+hi all - I asked about reusing a dgram client earlier and didn't get very far - I've posted on stackoverflow (http://stackoverflow.com/questions/11081189) - if anyone's got any ideas, please chime in

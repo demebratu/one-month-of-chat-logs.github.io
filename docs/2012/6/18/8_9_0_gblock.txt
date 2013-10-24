@@ -1,0 +1,1 @@
+circlicious: but yes, run node.exe + socket.io and you have WebSockets easily. 

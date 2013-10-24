@@ -1,0 +1,1 @@
+Hey everyone, I'm new to writing C/C++ bindings to Node, anyone have good resources for me to check out?

@@ -1,0 +1,1 @@
+And that you probably should look at something like Redis or such instead =)

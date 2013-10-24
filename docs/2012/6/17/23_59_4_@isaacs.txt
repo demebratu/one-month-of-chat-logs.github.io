@@ -1,0 +1,1 @@
+it'd be better to be 2 benchmarks: one that tests readstream performance, and another that has a fake stream that emits random data chunks.

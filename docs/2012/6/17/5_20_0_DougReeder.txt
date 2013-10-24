@@ -1,0 +1,1 @@
+I think you can just write a new middleware module that sets properties of the response.

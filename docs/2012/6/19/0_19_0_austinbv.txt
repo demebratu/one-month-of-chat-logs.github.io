@@ -1,0 +1,1 @@
+right pretty normal OO design but when you get into callbacks it seems a little harder to stay away from deep nesting of functions

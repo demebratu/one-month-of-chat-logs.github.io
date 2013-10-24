@@ -1,0 +1,1 @@
+Hey guys, new to the NodeJS IRC. Is there any good NodeJS CMS Systems? I am looking for a good one for a project (a WordPress alternative).

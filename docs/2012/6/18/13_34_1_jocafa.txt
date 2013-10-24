@@ -1,0 +1,1 @@
+also handy: http://epeli.github.com/underscore.string/

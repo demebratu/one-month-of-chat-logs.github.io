@@ -1,0 +1,1 @@
+I'd prefer make it a method, more OOP-like.

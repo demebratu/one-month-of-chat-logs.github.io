@@ -1,0 +1,1 @@
+gblock: i mean, i could achieve something similar with ajax request every second. but i guess then i would need to create connections and drop them everytime. so thats the only benefit with websockets ? you dont have to create/drop connections

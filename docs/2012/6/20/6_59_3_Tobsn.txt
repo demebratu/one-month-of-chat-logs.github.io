@@ -1,0 +1,1 @@
+didnt make had a flag for testing installs instead of actually running it?

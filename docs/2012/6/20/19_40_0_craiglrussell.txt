@@ -1,0 +1,1 @@
+Hi, I'm having trouble building a 64 bit node on MacOSX 10.5.8

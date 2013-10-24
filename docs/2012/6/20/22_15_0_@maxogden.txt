@@ -1,0 +1,1 @@
+http.createServer(handler).listen(port) makes node listen to incoming http requests on a port. each request calls the handler function. 1 thread is used

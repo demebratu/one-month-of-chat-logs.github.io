@@ -1,0 +1,1 @@
+why do you need two IPs? can't you link both DNSs to the single nginx app and then nginx splits on teh requested domain?

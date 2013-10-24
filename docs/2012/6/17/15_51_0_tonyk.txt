@@ -1,0 +1,1 @@
+usually an SQL dump is a text file containing sql commands

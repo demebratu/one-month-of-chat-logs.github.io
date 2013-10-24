@@ -1,0 +1,1 @@
+wow, so much code to execute a shell command - http://snipplr.com/view/39105/ ? :P

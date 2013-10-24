@@ -1,0 +1,1 @@
+and npm installed the dep into browserify/node_modules?

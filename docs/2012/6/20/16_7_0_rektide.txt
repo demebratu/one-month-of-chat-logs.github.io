@@ -1,0 +1,1 @@
+atleast, my attempt to fetch  https://registry.npmjs.org/-/all and build a local index isn't getting any data back

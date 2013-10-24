@@ -1,0 +1,1 @@
+imagine how many servers google would need if they had always up, never re-routable or cachable websocket connections from each and every connected device

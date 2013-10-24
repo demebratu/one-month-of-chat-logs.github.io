@@ -1,0 +1,1 @@
+can I access the data in this backup without installing and running a MSSQL server to restore the backup?

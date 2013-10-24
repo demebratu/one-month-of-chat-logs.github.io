@@ -1,0 +1,1 @@
+well ok, my impression was something like it will replace require with the code form those files and little bit of extra code for exports if needed. just did'nt expect this much code. thanks tho.

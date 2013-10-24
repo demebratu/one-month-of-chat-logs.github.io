@@ -1,0 +1,1 @@
+@konobi: don't need native debugging (got that sorted), it just needs to be local not cloud based

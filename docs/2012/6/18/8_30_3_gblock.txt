@@ -1,0 +1,1 @@
+like I said, einaros is the socket guru. He implemented it for socket.io.

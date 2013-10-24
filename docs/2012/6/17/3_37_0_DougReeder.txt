@@ -1,0 +1,1 @@
+If you request a page again, by typing the URL, doesn't send If-None-Match.

@@ -1,0 +1,1 @@
+shameless_plug:  my post on how we're making nodejs better in Windows Azure: http://codebetter.com/glennblock/2012/06/07/windowsazure-just-got-a-lot-friendlier-to-node-js-developers/

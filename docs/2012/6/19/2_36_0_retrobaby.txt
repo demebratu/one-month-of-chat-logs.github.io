@@ -1,0 +1,1 @@
+SomeoneWeird: Hey, sry abt that, well, I have built a basic note pad app, and read the Node for Front End Developers book. DO i need to go through nodebeginner.com as well?

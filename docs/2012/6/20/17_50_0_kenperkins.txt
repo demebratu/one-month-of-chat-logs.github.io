@@ -1,0 +1,1 @@
+does anyone have a solution for using the same templates on the server for express and the client for backbone? 

@@ -1,0 +1,1 @@
+Adding gzip middleware is on my To-do list.

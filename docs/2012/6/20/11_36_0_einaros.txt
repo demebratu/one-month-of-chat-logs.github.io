@@ -1,0 +1,1 @@
+can the websocket connection be closed, reconnected and the state live on? no

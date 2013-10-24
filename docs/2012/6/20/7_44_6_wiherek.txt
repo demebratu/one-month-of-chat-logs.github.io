@@ -1,0 +1,1 @@
+ok then, what would be the usecase for socket.io?

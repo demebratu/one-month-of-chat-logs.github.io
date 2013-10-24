@@ -1,0 +1,1 @@
+Nexxy: so, node can do a lot of things nginx can do? then, why use nginx, again? because nginx is better at making sure your node app is alive rather than just running node "naked"? what about making sure nginx is alive? 

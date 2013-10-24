@@ -1,0 +1,1 @@
+ok, cool. Yea, I was thinking about it, I probably have something like up to 60 kb/s per client outgoing. (worst case scenario)

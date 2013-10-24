@@ -1,0 +1,1 @@
+TehShrike: joyent's hosting is a bit on the high-end, compared with EC2 or the linode/rackspace offerings.

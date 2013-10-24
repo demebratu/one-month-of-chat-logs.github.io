@@ -1,0 +1,1 @@
+Can I juste load the html file in a synchronous way and  use it to respond with my whole cluster or there is any better paterns ?

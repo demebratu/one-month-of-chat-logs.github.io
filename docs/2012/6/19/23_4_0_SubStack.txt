@@ -1,0 +1,1 @@
+although it'd be much nicer if all the headers got sent right before the first .write() goes through

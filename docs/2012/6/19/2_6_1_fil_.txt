@@ -1,0 +1,1 @@
+but one thing I'm interested in: how do you debug exits of node instances?

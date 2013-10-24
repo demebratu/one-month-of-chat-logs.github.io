@@ -1,0 +1,1 @@
+can i namespace some make commands? like db:seed db:drop etc?

@@ -1,0 +1,1 @@
+isaacs: the bits that piqued my interest were that: 1) postMessage is widespread, 2) localStorage is widespread, and 3) if you transfer a .tgz with the right headers, the client JS just gets the tar file (and doesn't have to do the heavy lifting of unzipping itself, manually)

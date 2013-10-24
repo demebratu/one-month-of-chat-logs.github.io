@@ -1,0 +1,1 @@
+Thanks qubit: 1. Php uses apache to handles connection then open a new php process each time anyone connect, how does exectly node work?

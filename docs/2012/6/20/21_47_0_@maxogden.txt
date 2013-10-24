@@ -1,0 +1,1 @@
+owen1: basically CPUs are fast and I/O is slow so node helps you keep I/O from blocking your requests

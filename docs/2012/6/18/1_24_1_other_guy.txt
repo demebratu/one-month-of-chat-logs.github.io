@@ -1,0 +1,1 @@
+my NODE_PATH is set to /usr/local/lib

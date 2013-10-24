@@ -1,0 +1,1 @@
+isaacs: Perhaps, but I'd think it should print a friendly error and not throw "variable undefined"

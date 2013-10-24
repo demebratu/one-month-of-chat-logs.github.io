@@ -1,0 +1,1 @@
+then if if-none-match is missing you send it else you 304 it

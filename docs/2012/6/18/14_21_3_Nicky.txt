@@ -1,0 +1,1 @@
+already installed, now going to write binding.gyp file :)

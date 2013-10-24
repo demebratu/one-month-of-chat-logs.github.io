@@ -1,0 +1,1 @@
+why npm install is not -g by default?

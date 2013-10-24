@@ -1,0 +1,1 @@
+ahaa, "npm install ." does it, thanks

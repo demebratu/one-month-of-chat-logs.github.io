@@ -1,0 +1,1 @@
+that way I could e.g. override console.log in production, while keeping it as is during development

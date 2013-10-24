@@ -1,0 +1,1 @@
+im trying to use jquery inside a server-side function, but it seems not to work

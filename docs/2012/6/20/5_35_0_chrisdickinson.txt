@@ -1,0 +1,1 @@
+what i'm just meandering around is the idea that if browsers can get the source of the module they're targeting, modules *can* just look like they do in node.

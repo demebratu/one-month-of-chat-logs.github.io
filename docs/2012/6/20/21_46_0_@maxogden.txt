@@ -1,0 +1,1 @@
+owen1: all I/O is async but once chunks of I/O get buffered into memory node takes the chunks and does stuff with them

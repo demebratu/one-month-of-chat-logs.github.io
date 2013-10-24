@@ -1,0 +1,1 @@
+that's not what i'd cool a connection pool - those are amlost always something where you have like 20 connections that takes time to set up to a server

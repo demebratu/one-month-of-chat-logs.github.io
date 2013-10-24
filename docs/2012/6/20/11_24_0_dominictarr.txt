@@ -1,0 +1,1 @@
+einaros , what is an example of a not-quite REST service?

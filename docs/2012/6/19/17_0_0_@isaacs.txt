@@ -1,0 +1,1 @@
+forda: node is just a program.  so, if you daemonize it, it's up to you to do that kinda stuff.

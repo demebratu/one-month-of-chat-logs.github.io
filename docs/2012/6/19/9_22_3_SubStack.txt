@@ -1,0 +1,1 @@
+Nexxy: and then if the readable stream knows how to emit objects to the writable stream it will emit those

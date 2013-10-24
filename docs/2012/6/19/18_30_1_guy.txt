@@ -1,0 +1,1 @@
+I've tried npm mysql package (supposedly this one https://github.com/felixge/node-mysql)

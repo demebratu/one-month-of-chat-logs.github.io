@@ -1,0 +1,1 @@
+i have thought to use some node proxy(port forward from 80 -> to some 3000) and then the express app with cluster implementation

@@ -1,0 +1,1 @@
+tjholowaychuk: in express, docs, etc. try to nudge people towards using res.statusCode = n and res.setHeader('foo', 'bar')

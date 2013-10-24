@@ -1,0 +1,1 @@
+maybe you got old 0.x version instead and it doesn't work with those instructions?

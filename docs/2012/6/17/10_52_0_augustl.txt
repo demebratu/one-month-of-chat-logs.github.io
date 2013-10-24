@@ -1,0 +1,1 @@
+thomaschaaf: so you want the commands to run sequentially?

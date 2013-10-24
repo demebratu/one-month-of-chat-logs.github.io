@@ -1,0 +1,1 @@
+I hope somebody here can help me. Running into a difficult one. I've been using mongoose-auth/everyauth so people can auth to my app using Twitter. Works great most of the time, but sometimes I start getting this error and my app crashes:

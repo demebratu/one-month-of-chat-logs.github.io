@@ -1,0 +1,1 @@
+https://gist.github.com/2961471 <-- someone may find this interesting!  perhaps I have the entire philosophy wrong, but I was wishing the topic functions we recalled for each vow, so I could branch my tests into different paths

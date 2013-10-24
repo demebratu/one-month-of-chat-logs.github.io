@@ -1,0 +1,1 @@
+SubStack: setting the name to something fake seems rather evil.  why not just not put it in the context.family/ancestors in that case?

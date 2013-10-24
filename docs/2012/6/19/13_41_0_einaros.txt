@@ -1,0 +1,1 @@
+augustl: sure, but chains are imo a much better fit for the typical middleware use case than events are, since there's no risk of five different handlers modifying/handling the same request.

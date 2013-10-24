@@ -1,0 +1,1 @@
+There isn't a problem doing resolution is just seems like the DNS subsystem is barfing if I try to hit it too much and I was wondering if anyone had solutions to either throttle it or otherwise make sure resolutions happen

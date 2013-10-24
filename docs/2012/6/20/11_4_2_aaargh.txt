@@ -1,0 +1,1 @@
+anyone have decent knowledge of how node's eventpoll and timers works, and what might make them fail in a running process?

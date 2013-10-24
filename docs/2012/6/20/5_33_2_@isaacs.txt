@@ -1,0 +1,1 @@
+like node does, like yui does, like browserify does.

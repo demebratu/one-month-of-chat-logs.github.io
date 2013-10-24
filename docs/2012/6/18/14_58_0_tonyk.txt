@@ -1,0 +1,1 @@
+dre: this is very ugly but what about having a pool of say 30 setInterval(1) which will check the high res timer for a certain threshold

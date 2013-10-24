@@ -1,0 +1,1 @@
+so this is not really testing http, per se, it's testing how fast you can churn thorugh a fs.ReadSTream

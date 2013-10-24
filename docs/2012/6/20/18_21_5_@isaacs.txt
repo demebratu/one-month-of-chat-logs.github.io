@@ -1,0 +1,1 @@
+rektide: node -pe 'process.execPath'

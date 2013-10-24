@@ -1,0 +1,1 @@
+My bad.  I could express that using HTTP, I'd just need to have the Etag for every size of a photo on hand.

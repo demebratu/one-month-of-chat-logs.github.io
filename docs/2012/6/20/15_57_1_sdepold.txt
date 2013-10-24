@@ -1,0 +1,1 @@
+guy you aren't iterating i but use i outside the for loop

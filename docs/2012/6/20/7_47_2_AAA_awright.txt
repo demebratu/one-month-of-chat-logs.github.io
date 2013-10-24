@@ -1,0 +1,1 @@
+I get that people misuse "REST" but what's the point in violating it? It's a very good philosophy for CRUD parts of applications

@@ -1,0 +1,1 @@
+ParadoxQuine if you want to find out, in which paths require is looking for stuff, you can console.log require.paths

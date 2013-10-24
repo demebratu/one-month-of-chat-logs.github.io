@@ -1,0 +1,1 @@
+so it is normal for me to pass PHP session id to use to distinguish the same user?

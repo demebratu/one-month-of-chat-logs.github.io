@@ -1,0 +1,1 @@
+rektide: try `npm install -g -f node-gyp`

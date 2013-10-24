@@ -1,0 +1,1 @@
+can someone explain what happened when a request comes to my server (http.createServer)? is node create another thread for that request so the main loop will not be blocked and more reqeuests can be served?

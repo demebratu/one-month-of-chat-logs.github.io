@@ -1,0 +1,1 @@
+:isaacs, yikes, I'm not good with C++, is there any alternative? https://github.com/joyent/node/blob/master/src/node_buffer.cc#L694 <- How does this work?

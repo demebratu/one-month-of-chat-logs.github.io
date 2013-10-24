@@ -1,0 +1,1 @@
+and the js layer can take the length and buffer, and return a slice to the user

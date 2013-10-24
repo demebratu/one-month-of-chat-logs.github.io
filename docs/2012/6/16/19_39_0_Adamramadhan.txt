@@ -1,0 +1,1 @@
+Thanks sidd, nodejs compiles to machinecode right?

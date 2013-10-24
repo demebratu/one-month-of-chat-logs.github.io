@@ -1,0 +1,1 @@
+Chrome has dev tools, the Net pane tells you how the page load went.

@@ -1,0 +1,1 @@
+I'm not sure how to look for what's slow. You could start by looking at how it loads using Chrome.

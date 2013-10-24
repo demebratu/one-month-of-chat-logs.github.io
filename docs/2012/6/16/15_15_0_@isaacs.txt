@@ -1,0 +1,1 @@
+hij1nx: so, not only are 87% of packages in the 0.x range, but about half of those are 0.0.x

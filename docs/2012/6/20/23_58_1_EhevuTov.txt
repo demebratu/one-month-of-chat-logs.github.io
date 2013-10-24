@@ -1,0 +1,1 @@
+sh1mmer, I'm not aware of your details, but you could look into DNS caching and somehow "warming up" your cache before your production function runs

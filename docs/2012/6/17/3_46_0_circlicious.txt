@@ -1,0 +1,1 @@
+well, how do you execute cli commands in node ?

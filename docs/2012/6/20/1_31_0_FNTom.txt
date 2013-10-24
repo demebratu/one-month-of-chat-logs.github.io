@@ -1,0 +1,1 @@
+vendar: Is it possible your OS is running out of file descriptors for connections?

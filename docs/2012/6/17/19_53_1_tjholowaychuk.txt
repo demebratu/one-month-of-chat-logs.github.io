@@ -1,0 +1,1 @@
+you either spend a lot of time reversing or working around shit that something like rails does

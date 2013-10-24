@@ -1,0 +1,1 @@
+imagine I have an encoded stream and I want to decode it

@@ -1,0 +1,1 @@
+einaros: then what does it use ? and how can you say it doesnt use websockets when there's no ajax request shown. just curious

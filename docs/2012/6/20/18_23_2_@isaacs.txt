@@ -1,0 +1,1 @@
+rektide: look for a prefix = "/usr/local"

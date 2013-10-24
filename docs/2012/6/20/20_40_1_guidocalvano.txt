@@ -1,0 +1,1 @@
+can anyone give me an estimate of the memory footprint of nodejs

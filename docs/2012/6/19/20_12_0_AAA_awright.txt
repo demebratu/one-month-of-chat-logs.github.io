@@ -1,0 +1,1 @@
+vrlogrs: As opposed to require()? You almost certainly don't want include-transcluding functionality

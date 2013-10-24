@@ -1,0 +1,1 @@
+konobi: i was wondering if something like that might be useful in testing osenv

@@ -1,0 +1,1 @@
+rather than looking for editors that have autocomplete baked in

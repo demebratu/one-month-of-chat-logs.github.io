@@ -1,0 +1,1 @@
+this greatly depends on what you're doing. harddisk would be all files related to node runtime, any modules you choose to install, etc

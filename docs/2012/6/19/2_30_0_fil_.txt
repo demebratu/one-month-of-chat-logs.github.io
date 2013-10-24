@@ -1,0 +1,1 @@
+@konobi: I am win32 now, but I am using node.js as a way to get over to CentOS

@@ -1,0 +1,1 @@
+has anything been added to node in the last few patches to add caching to required files? We're seeing some odd behavior where a local required .js file is being changed and re-run with a whole new node.js process and we see global changes (like console.log) but NOT changes inside functions

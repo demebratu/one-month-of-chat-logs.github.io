@@ -1,0 +1,1 @@
+dscape, do you know what requires less processing: three like this server.listen(8081, callback1(); or three like that: server.listen(80,subd1.host.com, callback1();

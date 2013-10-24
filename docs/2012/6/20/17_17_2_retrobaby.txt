@@ -1,0 +1,1 @@
+Poor Harry - trying to run an optimal utility maximiser algorithm on wetware is always going to be a challenge. There's not much evidence that this has been a priority in the fitness function of human evolution.

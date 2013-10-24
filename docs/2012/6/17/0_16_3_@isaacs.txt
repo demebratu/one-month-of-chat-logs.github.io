@@ -1,0 +1,1 @@
+augustl: the reason it's so slow, in my experience, is that accessing global vars is way slower than accessing vars that are local to a function

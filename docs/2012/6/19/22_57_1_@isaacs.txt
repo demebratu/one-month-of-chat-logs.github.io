@@ -1,0 +1,1 @@
+mikeal: res.write('foo');  setTimeout(res.statusCode = 404)

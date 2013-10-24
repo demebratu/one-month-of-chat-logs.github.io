@@ -1,0 +1,1 @@
+I'm trying to figure out which module is using path.existsSync still. According to (https://github.com/joyent/node/blob/master/src/node.js#L620) if I somehow enable NODE_DEBUG it will do a console.trace() showing me where I am in the code

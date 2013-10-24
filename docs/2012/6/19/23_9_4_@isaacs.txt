@@ -1,0 +1,1 @@
+and most data that i've seen has not shown a lot of time spent waiting for write()

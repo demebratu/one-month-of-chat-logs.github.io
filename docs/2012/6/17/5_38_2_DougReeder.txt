@@ -1,0 +1,1 @@
+If the speed of JavaScript execution is what's slowing down your server, Node may not be the best solution.

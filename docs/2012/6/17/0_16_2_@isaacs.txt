@@ -1,0 +1,1 @@
+augustl: warning: it's CRAZY slow, and for obvious reasons, globals are not shared between modules.

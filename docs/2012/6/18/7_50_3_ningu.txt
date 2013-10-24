@@ -1,0 +1,1 @@
+how do I get npm to produce the debug log?

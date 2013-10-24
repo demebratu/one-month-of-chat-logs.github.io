@@ -1,0 +1,1 @@
+you can use that module.js to do a lot of very common tasks, or at least see how best to ape the interface

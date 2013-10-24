@@ -1,0 +1,1 @@
+wiherek: what he's asking is what data are you frequently and time-critically pushing from the server to client and back?

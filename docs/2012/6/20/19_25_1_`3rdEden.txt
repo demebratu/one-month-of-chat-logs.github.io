@@ -1,0 +1,1 @@
+stagas but V8 doesn't provide such information, so i'm currently forced to inject that every x amount of seconds, and the measure ments are good as the overhead for every tick would be the same

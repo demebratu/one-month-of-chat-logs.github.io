@@ -1,0 +1,1 @@
+I remember dropping in the mailing list and asking if there is a package management system like apt-get. Some jack ass told me yes, slackware packages are called "tarballs" and come in the tgz format

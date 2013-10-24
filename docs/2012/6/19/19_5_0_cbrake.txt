@@ -1,0 +1,1 @@
+isaacs: npm install nodemailer seems to work fine on my x86 machines

@@ -1,0 +1,1 @@
+jgornick: since node is hard-coded to search in folders named "node_modules" for modules

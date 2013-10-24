@@ -1,0 +1,1 @@
+in dev, you can have more than one script tag.

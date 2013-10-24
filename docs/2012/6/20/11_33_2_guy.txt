@@ -1,0 +1,1 @@
+what makes it unique? the fact that it is created in io.sockets.on('connection', function(socket){}); callback?

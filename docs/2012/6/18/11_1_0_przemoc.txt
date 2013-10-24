@@ -1,0 +1,1 @@
+hi, are there any nodejs-based commenting solutions for use in static pages?  -  http://news.ycombinator.com/item?id=4125787

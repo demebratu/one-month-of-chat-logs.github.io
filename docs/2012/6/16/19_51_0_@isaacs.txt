@@ -1,0 +1,1 @@
+siddMahen: if you wanna just have C++ do bunches of alloc's, then sure, you can create SlowBuffer objects.  If you just .slice() them in JS, they'll be Buffers, but they won't be any faster

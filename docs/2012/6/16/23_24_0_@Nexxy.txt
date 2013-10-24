@@ -1,0 +1,1 @@
+Jckf, if you use module.exports in your routes, you will be able to pass the db to them as you instantiate them

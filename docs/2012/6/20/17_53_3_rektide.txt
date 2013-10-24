@@ -1,0 +1,1 @@
+isaacs: i'm having trouble wrangling npm into building node-gyp. i pushed a change to update block-stream to add support for 0.8

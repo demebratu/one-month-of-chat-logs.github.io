@@ -1,0 +1,1 @@
+https://isaacs.iriscouch.com/registry/_design/scratch/_view/byVersion?group_level=3&startkey=[0,0,{}]&endkey=[0,0]&descending=true

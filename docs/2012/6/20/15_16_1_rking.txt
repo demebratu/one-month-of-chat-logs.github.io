@@ -1,0 +1,1 @@
+Hrm. I wonder what the dashy dirs are from npmjs.org.  E.g.: https://registry.npmjs.org/uglify-js/-/uglify-js-1.2.5.tgz

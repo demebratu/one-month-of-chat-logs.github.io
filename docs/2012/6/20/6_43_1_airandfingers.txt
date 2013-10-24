@@ -1,0 +1,1 @@
+zutto: is that a problem for res.json? i'm returning nested objects in other parts of my code

@@ -1,0 +1,1 @@
+isaacs: Nexxy: can someone take care of this before 0.8 release? https://github.com/joyent/node/pull/3463

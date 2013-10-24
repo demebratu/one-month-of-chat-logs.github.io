@@ -1,0 +1,1 @@
+gblock: well socket.io hasn't been updated to handle the fallback from websockets too well

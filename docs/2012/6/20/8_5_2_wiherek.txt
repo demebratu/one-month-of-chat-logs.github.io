@@ -1,0 +1,1 @@
+Drupal is basically used to load jquery

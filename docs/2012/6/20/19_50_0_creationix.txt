@@ -1,0 +1,1 @@
+motiooon, yes, child_process.spawn can create child processes

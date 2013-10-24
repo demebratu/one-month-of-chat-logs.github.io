@@ -1,0 +1,1 @@
+does anyone know a good module to handle strings?

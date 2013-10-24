@@ -1,0 +1,1 @@
+And clients are free to assume some value for expires if you don't set it.

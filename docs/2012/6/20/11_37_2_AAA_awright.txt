@@ -1,0 +1,1 @@
+SubStack: REST generally should be easier to use, if it is indeed RESTful (which 80% of the stuff out there is not)

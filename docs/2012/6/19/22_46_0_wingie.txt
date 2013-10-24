@@ -1,0 +1,1 @@
+promise based async programmings style doesn't seem to be as popular as callback based

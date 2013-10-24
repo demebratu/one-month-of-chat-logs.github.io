@@ -1,0 +1,1 @@
+gblock: i checked the Network tab of chrome dev tools, and i see no ajax requests there

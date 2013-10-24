@@ -1,0 +1,1 @@
+ideally a streamable rpc that can be used in a multi-band fashion with other transports multiplexed on the same stream :p

@@ -1,0 +1,1 @@
+TehShrike: joyent gets a lot of people who hit the limits of what unmanaged VPS's can do, and need more than amazon can offer in terms of support and reliability. 

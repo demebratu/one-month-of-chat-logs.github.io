@@ -1,0 +1,1 @@
+I'm trying to use libtorrent in a node.js extension but can not get it to compile, has anybody tried it?

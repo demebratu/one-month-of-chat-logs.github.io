@@ -1,0 +1,1 @@
+ferlores: modifying routes.js' routes.routes object is the sanest way i think

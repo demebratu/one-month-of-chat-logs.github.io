@@ -1,0 +1,1 @@
+hi all - appreciate any help... how can i make the function on 'uncaughtException' wait until the error handlers in it are done?

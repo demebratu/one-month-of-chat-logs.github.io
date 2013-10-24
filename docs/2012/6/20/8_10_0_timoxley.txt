@@ -1,0 +1,1 @@
+thiagof handlebars + (sugar || underscore) + backbone on older apps, moving to ember on the newer ones. I hear angular also good.

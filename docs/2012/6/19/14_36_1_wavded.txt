@@ -1,0 +1,1 @@
+here's a sample pull that's trying to solve that issue - https://github.com/LearnBoost/socket.io-client/pull/422

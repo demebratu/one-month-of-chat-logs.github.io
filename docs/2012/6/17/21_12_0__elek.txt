@@ -1,0 +1,1 @@
+to followup on my issue, i reverted back to node 0.6.8 and my issue w/ express.cmd on windows went away.  

@@ -1,0 +1,1 @@
+ya i was wondering whether it could be done with php/apache or not

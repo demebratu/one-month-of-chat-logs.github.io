@@ -1,0 +1,1 @@
+so basically you want to hit an http feed every n seconds and run your parse function on it?

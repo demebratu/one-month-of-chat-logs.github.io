@@ -1,0 +1,1 @@
+DougReeder: the assignment is, however the extra function call and overhead of calling a new middleware isn't so cheap, I now would loose just a bit but if I can avoid it, better

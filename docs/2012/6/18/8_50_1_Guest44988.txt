@@ -1,0 +1,1 @@
+Hi. When I do a http.request with agent:false and connection:keep-alive, i do notice that the request is made and the connection stays open. But how can I do a second request on that same connection? Can't find anything in the documentation about this.

@@ -1,0 +1,1 @@
+remysharp_away: protip, use /away instead of changing your nick

@@ -1,0 +1,1 @@
+tekpub has a nice series on getting started with node

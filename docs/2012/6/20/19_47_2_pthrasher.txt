@@ -1,0 +1,1 @@
+I'm writing an application using cluster. Is there anyway from javascript I can check to see if there are any open handlers other than the ones a worker opens for itself?

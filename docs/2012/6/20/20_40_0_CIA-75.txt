@@ -1,0 +1,1 @@
+node: Ryan Dahl master * rfe464a2 / (configure doc/api/process.markdown node.gyp): Rename GYP variable node_use_system_openssl to be consistent - http://git.io/2Yj15w

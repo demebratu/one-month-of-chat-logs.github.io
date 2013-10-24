@@ -1,0 +1,1 @@
+is there a way to specify a separate "this" and globals for vm.runInNewContext?

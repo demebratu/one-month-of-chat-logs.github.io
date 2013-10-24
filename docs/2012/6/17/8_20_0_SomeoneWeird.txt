@@ -1,0 +1,1 @@
+try node-waf configure build

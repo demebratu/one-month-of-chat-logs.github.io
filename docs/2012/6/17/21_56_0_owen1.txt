@@ -1,0 +1,1 @@
+what technique do people use for auto reload of node so u don't need to restart the server on every change? https://github.com/isaacs/node-supervisor ?

@@ -1,0 +1,1 @@
+for the http server you could log smth for every request you get

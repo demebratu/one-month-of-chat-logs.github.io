@@ -1,0 +1,1 @@
+it seems like the only place to put the feature detection is into .pipe() itself

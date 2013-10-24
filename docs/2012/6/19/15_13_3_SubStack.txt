@@ -1,0 +1,1 @@
+as in, how would I shim out the install stuff so that I knew that it would not skip packages with a parent pkg.name field that can't be required

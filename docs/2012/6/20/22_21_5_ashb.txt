@@ -1,0 +1,1 @@
+extra thread is only used for file IO istr. sockets etc will use the event loop

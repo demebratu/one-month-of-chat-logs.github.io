@@ -1,0 +1,1 @@
+SubStack: that's actually what happens.  not right before the first write(), but along with it.

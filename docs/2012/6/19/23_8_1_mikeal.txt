@@ -1,0 +1,1 @@
+pull them off the queue, writev(), then release

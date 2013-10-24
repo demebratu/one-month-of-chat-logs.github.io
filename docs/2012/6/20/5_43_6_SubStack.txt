@@ -1,0 +1,1 @@
+also uses postmessage but in the environment I'm using this for I have complete control over the browsers

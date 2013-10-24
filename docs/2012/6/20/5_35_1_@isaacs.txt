@@ -1,0 +1,1 @@
+that's *sometimes* worth doing for performance, but it's not always better, so having the flexibility is good.

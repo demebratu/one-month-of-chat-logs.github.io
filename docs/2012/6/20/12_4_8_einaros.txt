@@ -1,0 +1,1 @@
+aaargh: you had setInterval() running in all processes, and they stopped firing at the same time too?

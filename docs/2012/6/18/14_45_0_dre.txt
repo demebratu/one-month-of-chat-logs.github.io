@@ -1,0 +1,1 @@
+hello, is it reasonable to modify the NodeJS source (or expect an official update in the near future) that would be able to provide sub-millisecond timers and intervals?  Or is there a limitation within V8 or some other component that makes this not feasible?

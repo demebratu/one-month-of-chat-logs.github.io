@@ -1,0 +1,1 @@
+Ah another question, is there a pdo like in php? Nodejs should make one good allinone db driver, or similar

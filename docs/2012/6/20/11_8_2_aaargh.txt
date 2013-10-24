@@ -1,0 +1,1 @@
+I have 12 node proceses across 2 servers that, at 2:39 this morning, simultaneously stopped calling epoll_wait and clock_gettime

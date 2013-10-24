@@ -1,0 +1,1 @@
+I would rather api designers were optimizing for ease of use and composability over rest compliance

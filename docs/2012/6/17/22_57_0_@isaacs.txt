@@ -1,0 +1,1 @@
+url.format() must always return something that is safe for a href attribute

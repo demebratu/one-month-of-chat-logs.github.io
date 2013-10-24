@@ -1,0 +1,1 @@
+NodeX: again, with http you can have intermediates, meaning balancing a load which would otherwise hit your application server in its entirity. for many data aspects, such as file downloads, there are intermediate server solutions which handle that *very* well. with websockets you'd have to roll your own crap connected to your app server.

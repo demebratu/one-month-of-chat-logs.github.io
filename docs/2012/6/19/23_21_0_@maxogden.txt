@@ -1,0 +1,1 @@
+ferlores: there should be an npm module built on top of routes.js that handles this problem

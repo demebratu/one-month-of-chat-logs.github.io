@@ -1,0 +1,1 @@
+guy: my stance has always been that connect-disconnect-connect-spanning sessions are beyond socket.io's responsibility

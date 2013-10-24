@@ -1,0 +1,1 @@
+ok I got it working, had to put the config path in the app

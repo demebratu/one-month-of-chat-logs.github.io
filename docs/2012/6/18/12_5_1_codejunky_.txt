@@ -1,0 +1,1 @@
+i want the app to continoulsy try to connect to a server even if  the socekt server is off

@@ -1,0 +1,1 @@
+Adamramadhan: no, V8 is licensed under the MIT license.  It's extremely open.

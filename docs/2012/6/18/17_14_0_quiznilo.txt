@@ -1,0 +1,1 @@
+haharealfunny: page-down and page-up should work fine in vim too

@@ -1,0 +1,1 @@
+wiherek jquery does not give you any structure. backbone and it's ilk give you an overall architecture to follow which guides you towards consistent and clear architecture

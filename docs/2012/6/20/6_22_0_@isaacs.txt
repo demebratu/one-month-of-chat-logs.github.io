@@ -1,0 +1,1 @@
+Tobsn: make distclean and try again?  does it work if you check out the v0.7.12 tag?

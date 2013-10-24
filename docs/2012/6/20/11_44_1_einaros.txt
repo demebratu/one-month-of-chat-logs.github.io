@@ -1,0 +1,1 @@
+I'm guessing since nobody actually knows REST, that guideline is violated 99% of the time

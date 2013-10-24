@@ -1,0 +1,1 @@
+I've tried 900k+ connections with 16 process running on 8 CPUs, but memory limitation of V8 is a bottleneck.

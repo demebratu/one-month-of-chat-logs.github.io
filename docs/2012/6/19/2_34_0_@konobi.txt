@@ -1,0 +1,1 @@
+sure... there's node-inspector or some of the OSes (like smartos) have much more ingrained debugging support

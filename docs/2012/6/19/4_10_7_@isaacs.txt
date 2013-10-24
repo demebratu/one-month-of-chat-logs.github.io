@@ -1,0 +1,1 @@
+SubStack: it's tricky because i do this thing where it assumes that the package is being installed (reasonable in most cases) and then doesn't bother installing it again

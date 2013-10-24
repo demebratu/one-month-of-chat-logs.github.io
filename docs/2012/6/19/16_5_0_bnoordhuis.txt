@@ -1,0 +1,1 @@
+uber: recent versions of node have an 'x' fs.open flag, for exclusive create

@@ -1,0 +1,1 @@
+in fs.createReadStream if you call pause() on one will it stop node from reading any more data from disk? how does the backpressure logic work in the fs implementation?

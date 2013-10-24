@@ -1,0 +1,1 @@
+so if for a file i set Etag: whatevervalue in response heasers, why would the client not be sending me back an if-none-match header in subsequent request for the same file?

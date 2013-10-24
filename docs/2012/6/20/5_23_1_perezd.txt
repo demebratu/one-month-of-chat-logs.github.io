@@ -1,0 +1,1 @@
+node-uuid and browserify don't like each other..

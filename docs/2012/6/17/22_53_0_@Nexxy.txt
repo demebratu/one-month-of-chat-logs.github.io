@@ -1,0 +1,1 @@
+I remember having this confusion when I was trying to assemble normalized URLs and kept getting results w/o the port

@@ -1,0 +1,1 @@
+anyone know if there's a sandboxed file system module out there? So that only files/folders in a certain subfolder can be accessed.

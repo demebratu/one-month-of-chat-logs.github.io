@@ -1,0 +1,1 @@
+wiherek I wonder specifically why socketio as opposed to just regular http requests

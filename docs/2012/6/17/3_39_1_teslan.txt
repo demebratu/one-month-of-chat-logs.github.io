@@ -1,0 +1,1 @@
+DougReeder: good you asking that so i can confirm my Chrome observation with you as follows ... if i enter a URL and press "ENTER" key then no request is sent to server, if a cached copy exists ... but pressing F5 or clicking on REFRESH button causes a request to go to server ... is this what should be happening?

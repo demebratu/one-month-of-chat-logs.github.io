@@ -1,0 +1,1 @@
+that's what bothers me -- it's certainly serviceable, but it's not a good endpoint for browser package management and modules.

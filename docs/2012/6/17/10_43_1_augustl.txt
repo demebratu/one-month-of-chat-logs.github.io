@@ -1,0 +1,1 @@
+thomaschaaf: the only synchronous operation for exec is to put an operation on the queue

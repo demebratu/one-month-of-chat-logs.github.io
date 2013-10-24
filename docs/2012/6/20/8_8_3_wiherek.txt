@@ -1,0 +1,1 @@
+the app won't be touching php/mysql most of the time

@@ -1,0 +1,1 @@
+wiherek why should you use websockets when regular http is already a working standard solution

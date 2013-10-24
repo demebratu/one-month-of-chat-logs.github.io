@@ -1,0 +1,1 @@
+trco, you should have npm installed on that path ~/local/lib/node_modules/

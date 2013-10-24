@@ -1,0 +1,1 @@
+hum, how can i capture output from running .py / .jar scripts via exec() ?... stdout doesn't work :/

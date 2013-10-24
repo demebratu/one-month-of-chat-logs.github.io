@@ -1,0 +1,1 @@
+hi everyone i have a question re: nodejs + dtrace on linux.  i have most things working but InitDTrace isn't being called by any of my systemtap support.  i think i just need to call InitDTrace in startup somewhere.  Any advice?

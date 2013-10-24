@@ -1,0 +1,1 @@
+Once upon a time I dabbled a bit with the eve data dumps as well and I don't recall having used MSSQL :)

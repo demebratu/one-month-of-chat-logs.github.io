@@ -1,0 +1,1 @@
+so are we saying websockets are bad ... or just bad if not handled properly ?

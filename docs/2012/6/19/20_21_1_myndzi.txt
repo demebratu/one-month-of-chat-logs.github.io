@@ -1,0 +1,1 @@
+having a readable, writable stream is common

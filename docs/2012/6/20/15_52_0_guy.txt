@@ -1,0 +1,1 @@
+https://gist.github.com/3f2d9651c535cd2ed296 I don't understand why ++game.user_coordinates.x; doesn't increase the value?

@@ -1,0 +1,1 @@
+dscape: the thing is, you often have no other way of knowing that the client has died.

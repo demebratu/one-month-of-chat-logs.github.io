@@ -1,0 +1,1 @@
+But it's an idea, marking ranges as Mobile / Non-Mobile / Mixed can help get an overview and/or ensure completeness if you need something that works across the whole USA.

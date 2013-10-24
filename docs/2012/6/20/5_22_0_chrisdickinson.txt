@@ -1,0 +1,1 @@
+just playing around with it, if you put a lightweight proxy in front of npm and serve up the tarballs with 'Content-Encoding: gzip', the response text you receive in-browser will be the unzipped tar file.

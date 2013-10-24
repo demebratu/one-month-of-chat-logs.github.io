@@ -1,0 +1,1 @@
+SubStack: i will try to explain. i have like 10 different webpages that are quite different. all of them share a particular JS code that i wanna break into different files and use require, and put into say app.js

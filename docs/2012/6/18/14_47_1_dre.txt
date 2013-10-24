@@ -1,0 +1,1 @@
+SomeoneWeird, For brief periods of time, I need a small amount of data to be processed every 300-500 usec.. and I can't just do it in batches of 2 or 3.. they need to be evenly spaced

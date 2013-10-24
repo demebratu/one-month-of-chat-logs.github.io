@@ -1,0 +1,1 @@
+jamescarr: Seems like perfect for middleware, like having transformer streams that transform the content before it's piped out.

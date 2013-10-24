@@ -1,0 +1,1 @@
+augustl: express builds on connect, so if you're looking for pointers on how to use it just dig through the express3 source

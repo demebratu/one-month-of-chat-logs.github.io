@@ -1,0 +1,1 @@
+stan_man_can: here's an example of a guide on running nodejs with nginx

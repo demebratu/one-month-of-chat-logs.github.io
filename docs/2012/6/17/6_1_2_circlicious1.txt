@@ -1,0 +1,1 @@
+lazy loading i guess, but i don't know how it's done

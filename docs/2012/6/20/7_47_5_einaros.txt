@@ -1,0 +1,1 @@
+AAA_awright: even for non-CRUD it's a good fit

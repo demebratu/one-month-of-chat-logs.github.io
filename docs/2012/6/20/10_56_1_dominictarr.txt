@@ -1,0 +1,1 @@
+if you are using polling, or long-polling, what you want is full-duplex

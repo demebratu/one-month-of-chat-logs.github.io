@@ -1,0 +1,1 @@
+augustl: so, in the top of your module if you do `var foo = require('foo')`, then with NODE_MODULE_CONTEXTS, that's a global

@@ -1,0 +1,1 @@
+hi guys, I'm trying to send graphicsmagick an image, it wants a stream ( https://github.com/aheckmann/gm#image-paths-or-streams )   but I have a Buffer, Do I need to create a stream and write the buffer to it?

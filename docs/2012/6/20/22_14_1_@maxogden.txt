@@ -1,0 +1,1 @@
+http.createClient uses a connection pool

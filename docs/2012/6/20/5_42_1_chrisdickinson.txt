@@ -1,0 +1,1 @@
+so, 3 requests could be golfed down to 2, potentially, depending on the shape things take.

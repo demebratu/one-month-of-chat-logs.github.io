@@ -1,0 +1,1 @@
+mostly relevant for architectures where you PUT a command - that implies that you can put the same command resource twice without actually performing anything in the backend more than once

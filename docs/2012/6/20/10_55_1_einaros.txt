@@ -1,0 +1,1 @@
+if your argument is that many business applications require full duplex communication, since some business process may wish to push data to the client, that's one specific solution to a business problem which *could* be an awkward fit for REST - although polling (with proper status codes) can easily be a decent solution to it

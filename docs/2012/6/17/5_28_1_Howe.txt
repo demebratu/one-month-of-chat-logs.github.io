@@ -1,0 +1,1 @@
+DougReeder: isn't middleare a callable function ? I mean, for each middleware, each function will be called.

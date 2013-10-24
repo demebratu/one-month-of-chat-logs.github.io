@@ -1,0 +1,1 @@
+i wiped out my .npmrc a couple days ago

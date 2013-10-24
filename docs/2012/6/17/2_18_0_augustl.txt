@@ -1,0 +1,1 @@
+TomWij: same values on Arch Linux, so they're probably defaults since Arch doesn't typically change any defaults

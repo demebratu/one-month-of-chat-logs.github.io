@@ -1,0 +1,1 @@
+unless you try to browserify it, but dominictarr figured that out in browser-stream

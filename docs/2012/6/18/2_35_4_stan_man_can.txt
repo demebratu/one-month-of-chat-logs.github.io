@@ -1,0 +1,1 @@
+zomg: client A sends files to the server through a phone app, then the server pushes said files to a browser

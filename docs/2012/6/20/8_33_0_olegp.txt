@@ -1,0 +1,1 @@
+hey everyone, quick question: is there a generic "middleware" framework for node that's not tied to http, but would allow me to selectively run code before/after the stuff in my main module

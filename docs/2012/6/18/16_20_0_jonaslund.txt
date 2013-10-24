@@ -1,0 +1,1 @@
+why not make a small C program that handles the data that you open a pipe to ?

@@ -1,0 +1,1 @@
+for example, when you reply to a github PR email it becomes a comment automatically

@@ -1,0 +1,1 @@
+so, one way to think about nginx is that there's no way to write application logic on it, right? you can set up a lot of rules for proxying, asset hosting, etc., but you can't write out JS or whatever code to handle requests from, say, a web app, right? you'd need to pass it off to something like Node, or RoR, etc., to do something like that?

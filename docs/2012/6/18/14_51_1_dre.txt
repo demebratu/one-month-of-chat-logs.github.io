@@ -1,0 +1,1 @@
+the work I need to do is minimal, but the timing actually matters... I'm hoping to avoid a native module, but it looks like that may be my only option

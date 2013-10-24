@@ -1,0 +1,1 @@
+do you guys know if anyone around here has tried making ide-like autocomplete for js projects edited in vim/emacs/textmate/etc? looking at working on that myself right now using esprima to parse but no point in duplicating work (googling around found nothing, which surprised me)

@@ -1,0 +1,1 @@
+ircretary: tell hij1nx to release a new version of cdir on npm when he gets a sec

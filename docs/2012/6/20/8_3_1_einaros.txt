@@ -1,0 +1,1 @@
+NodeX: for your run-of-the-mill chat application, sure. but when you're doing multi-million user deployments you have to start thinking differently.

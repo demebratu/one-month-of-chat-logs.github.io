@@ -1,0 +1,1 @@
+node: Fedor Indutny master * r81a889f / deps/v8/tools/gen-postmortem-metadata.py : v8: fix postmortem debugging tools build - http://git.io/cSRl3w

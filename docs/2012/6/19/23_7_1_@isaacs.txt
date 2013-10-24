@@ -1,0 +1,1 @@
+mikeal: the bottleneck was not there, though.  the bottleneck (and complexity) was in keeping a bunch of javascript objects for each write and then knowing when to flush them

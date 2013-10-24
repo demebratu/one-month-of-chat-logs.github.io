@@ -1,0 +1,1 @@
+I don't understand how that would help. I can't really require my main file in the required file?

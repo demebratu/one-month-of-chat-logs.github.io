@@ -1,0 +1,1 @@
+Nexxy: ahhh ok, so you use nginx as a front to a node app and to bypass node for serving static content?

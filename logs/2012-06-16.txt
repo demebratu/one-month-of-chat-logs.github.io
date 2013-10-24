@@ -1,0 +1,366 @@
+--- Log opened Sat Jun 16 14:43:46 2012
+15:00 < circlicious> SubStack: hi
+15:00 < SubStack> beep boop
+15:01 < tuhoojabotti> boop beep
+15:02 < circlicious> SubStack: i can just cp cmd.js from bin dir and then use it to exec smth like $ ./cmd.js foobar -o lol.js righ t?
+15:02 -!- mmalecki[hair] is now known as mmalecki
+15:02 < SubStack> circlicious: with browserify?
+15:02 -!- mattgiff_ is now known as mattgifford
+15:02 < circlicious> yup
+15:03 < SubStack> just do: npm install -g browserify
+15:03 < SubStack> then you'll have the browserify command
+15:03 < circlicious> i didnt install it globally.
+15:03 < SubStack> copying cmd.js around won't work since it has relative requires in it
+15:03 < circlicious> i see
+15:03 < SubStack> install it globally
+15:04 < circlicious> SubStack: hm, it puts in a lot of code ?
+15:04 < circlicious> in the build file ?
+15:04 < SubStack> who cares?
+15:04 < circlicious> i mean lol.js in my case
+15:05 < SubStack> just minify and gzip it
+15:06 < circlicious> SubStack: i am just trying to make sure, this is the build code - http://pastie.org/private/dzds4rrzlzjqvggqlxjuq is it ok ? :S
+15:06 < SubStack> run it and see?
+15:06 < circlicious> the only code i wrote was 348, 352, 357-360
+15:07 < SubStack> it seems like your question is best answered by messing around with the tool
+15:07 -!- You're now known as isaacs
+15:08 < circlicious> well ok, my impression was something like it will replace require with the code form those files and little bit of extra code for exports if needed. just did'nt expect this much code. thanks tho.
+15:09 -!- mode/#node.js [+o piscisaureus_] by ChanServ
+15:14 <@isaacs> hij1nx: this is a really interesting question, about the moduel version breakdown
+15:14 <@isaacs> hij1nx: i wrote a better view for it: https://isaacs.iriscouch.com/registry/_design/scratch/_view/byVersion?group_level=2&startkey=[0,{}]&endkey=[0]&descending=true
+15:14 < SubStack> isaacs: I updated npmtop too
+15:14 < SubStack> using your view
+15:15 <@isaacs> hij1nx: so, not only are 87% of packages in the 0.x range, but about half of those are 0.0.x
+15:16 < hij1nx> isaacs: thank you ;)
+15:16 <@isaacs> SubStack: w00t!
+15:16 < SubStack> sweet view
+15:16 <@isaacs> https://isaacs.iriscouch.com/registry/_design/scratch/_view/byVersion?group_level=3&startkey=[0,0,{}]&endkey=[0,0]&descending=true
+15:17 <@isaacs> couchdb's sorting semantics are really interesting, once you realize that a key can be an array
+15:17 <@isaacs> most of the views i write these days all emit value=1, and reduce: "_sum"
+15:17 < hij1nx> isaacs: i was looking at measuring velocity in the module ecosystem, would be a cool metric to have on hand
+15:17 <@isaacs> hij1nx: so, this view is doing:  emit([major, minor, patch, build, tag, package_name], 1)
+15:18 < hij1nx> s/would be/is/
+15:18 <@isaacs> hij1nx: you can slice and dice the versions however you want with group_level=n and the start/end keys
+15:18 < hij1nx> now we need to correlate this with dates
+15:18 <@isaacs> also, it's only looking at the latest version
+15:18 <@isaacs> since that's the the only one that's relevant in most cases.
+15:18 < SubStack> hij1nx: I've written at least 1 module each day for the past 3 days :D
+15:19 < SubStack> modulementum
+15:19 < hij1nx> SubStack: except you are from the future, that screws things up
+15:19 < hij1nx> ;)
+15:19 <@isaacs> mo modules, mo mentum, mo substack
+15:20 <@isaacs> man, super disappointed with tonx.  everything about their service is awesome, except the coffee itself, it seems.
+15:20 <@isaacs> i so wanted it to be good
+15:46 < circlicious> SubStack: dude u there?
+15:47 < circlicious> good work man :)
+16:05 -!- mattmattmatt is now known as mmm
+16:06 -!- mmm is now known as miho
+16:07 < Galactica> jquery has official channel??
+16:08 -!- rampr1 is now known as ramp
+16:08 -!- ramp is now known as rampr
+16:10 < SegFaultAX> For any statsd users in here: how does one secure statsd so that only trusted servers have access?
+16:22 -!- MikeMayer|away is now known as MikeMayer
+16:35 < dscape> SubStack: isaacs do you know where is mikeal?
+16:37 <@isaacs> dscape: texas?
+16:38 <@isaacs> i dunno
+16:38 -!- dgathright_ is now known as dgathright
+16:39 < dscape> thanks isaacs 
+16:40 -!- markwubb_ is now known as markwubben
+16:47 <@isaacs> dscape: i texted him
+17:05 < retrobaby> is this the right place to ask questions?
+17:05 < coderarity> yes
+17:05 < retrobaby> kk thanks
+17:06 < coderarity> but you can only ask one and you already asked it
+17:06 < coderarity> lol
+17:06 < retrobaby> >.>
+17:06 < TehShrike> retrobaby: you can ask any question but that one!
+17:08 -!- timbuchwaldt is now known as timbuchwaldt|awa
+17:09 < retrobaby> lol, i am new at node. just trying something different from structured programming I am used to and god all the callbacks and stuff are hard to read.
+17:09 < coderarity> move them to functions
+17:10 < TehShrike> Yeah, not all callbacks need to be function literals
+17:10 < coderarity> like, instead of `http.createServer(function (req, res) { /* do stuff */ });` do `function serveFunction () { /* do stuff */ }; http.createServer(serveFunction);`
+17:11 < coderarity> and then move your function to a different file and require it or something
+17:11 < retrobaby> ah makes sense,
+17:19 -!- mode/#node.js [+o piscisaureus_] by ChanServ
+17:21 -!- MikeMayer is now known as MikeMayer|away
+17:26 -!- akshayms_ is now known as akshayms
+17:51 -!- idiomatique_ is now known as idiomatique
+18:01 -!- acemtp is now known as ace
+18:20 < zenocon> hi, i want use sinon to stub net.Socket, but am having trouble.  var socket = new net.Socket({}); var stub = sinon.stub(socket);  socket.setEncoding('ascii');  Error Object has no method 'setEncoding' - why? 
+18:49 < qubit[01]> set NODE_ENV=production node app.js , this isnt working for me, do I need to do something else ?
+18:50 < zomg> define "not working"
+18:56 < mindlogger> guys, what's the significance of node.js?
+19:01 < retrobaby> mindlogger: i would say primarily its asynchronous i/o behavious
+19:01 < RLa> it's javascript!
+19:02 < mindlogger> right
+19:02 < retrobaby> yeah i guess what RLa means to imply is that javascript is not multi threaded by default.
+19:04 < retrobaby> so u have a event loop - u dont want the servers to make blocking calls, so everything in node is async by default
+19:04 < retrobaby> does not mean you cannot have synhronous stuff
+19:04 < Spion_> but it does mean that you shouldn't, because pretty much everything depends on you not having them :)
+19:05 < qubit[01]> zomg, when running node app.js, it still reports that its in development mode
+19:05 < Spion_> qubit[01], set? what OS is that?
+19:05 < RLa> "it"?
+19:05 < Spion_> here I just do NODE_ENV=production node app.js
+19:05 < Spion_> without the set
+19:05 < qubit[01]> Spion_,  no quotes or anything ?
+19:06 < Spion_> Nope
+19:06 < qubit[01]> RLa,  the application I'm running, it was referencing app.js
+19:06 < qubit[01]> Spion_,  on ubuntu its trying to evaluate what follows NODE_ENV
+19:07 < Spion_> huh
+19:07 < qubit[01]> I'm using zsh though
+19:07 < Spion_> i vaguely remember something like single-word arguments are implicitly quoted in bash/sh. not sure it has anything to do with it.
+19:07 < Spion_> ohh
+19:07 < Spion_> zsh
+19:07 < Spion_> oh well count me out.
+19:07 < Spion_> :)
+19:07 < retrobaby> cant we just force the environment at the top of the app.js file? i mean i force it to process.env.NODe_ENV = 'test' in my app.test.js
+19:08 < Spion_> yes.
+19:08 < retrobaby> i presumed we can do the same for app.js
+19:08 < qubit[01]> cool, trying
+19:09 < Spion_> (its probably very wrong to do it, but yes you can)
+19:09 < retrobaby> hmm, so many questions, i just started node yesterday! 
+19:09 < retrobaby> why do u say that?
+19:09 < Spion_> well first of all, there is no point in using an environment variable if you're setting it internally.
+19:09 < Spion_> you can just use a regular variable
+19:10 < retrobaby> hmm, i think i see what you mean, i will check it out
+19:11 < Spion_> and second, you just lost the ability to set up a different configuration in production and development without any source code editing.
+19:12 < Spion_> (now every time you put your app to the production server you might  have to change things like the url to your MONGODB / MySQL server etc.)
+19:12 < retrobaby> what is the 'right' way to do it then? briefly, if u may
+19:13 < Spion_> learn how to set node_env in zsh, i guess
+19:13 < retrobaby> hmm
+19:13 < retrobaby> yeah i will look more into it, currently just trying to make expresso work, darn thing wont start. 
+19:14 < retrobaby> thanks
+19:14 < qubit[01]> export I think
+19:15 < qubit[01]> yeah that works
+19:15 < Spion_> cool
+19:20 < siddMahen> Hey all, I'm stuck, how do you convert a "slow" Buffer to a "fast" Buffer? The method used here: http://sambro.is-super-awesome.com/tag/slowbuffer/ throws an "Abort trap: 6" assertion error in node_object_wrap.h on line 52
+19:23 < retrobaby> whats the use of beforeExit in the tests?
+19:23 < retrobaby> if i get it right, its an asseriton to check if all the assertions are finished before the test object emits exit. 
+19:24 < retrobaby> but i am not sure
+19:25 < siddMahen> I think it can be used to tear down any objects created during the tests as well
+19:26 < retrobaby> hmm i see how that can be of use
+19:26 < retrobaby> cool
+19:27 < Guest15976> hi ho.. i try to install nodejs websocket with suse
+19:28 < Guest15976> i get this error: http://nopaste.info/fdde111294.html
+19:28 < Guest15976> and i don't know what it could mean (installed make as it didn't work last time)
+19:28 < Guest15976> maybe there is any cache to be cleaned?
+19:29 < siddMahen> do you have node-gyp installed?
+19:29 < Guest15976> there is no node-gyp package at suse repos
+19:29 < qubit[01]> /usr/lib64/node_modules/npm/bin/node-gyp-bin/node-gyp: line 2: 23875 Segmentation fault , it looks like he does
+19:30 < Guest15976> i have no shell command "node-gyp" if you mean that
+19:30 < Guest15976> not in normal path
+19:30 < Adamramadhan> Hello I'm new to ruby, any php users from here? I want to ask some questions :)
+19:31 < Adamramadhan> I mean nodejs
+19:31 < qubit[01]> questions are strictly forbiden in this channel.  Is that what you meant ?
+19:31 < retrobaby> ^ troll
+19:31 < siddMahen> try adding the path to node-gyp to your path
+19:31 < qubit[01]> ^ baby
+19:31 < retrobaby> ^ he's right
+19:32 < qubit[01]> Adamramadhan, sure ask away
+19:32 < siddMahen> @Guest15976 it seems as though you've got it installed in a wierd place
+19:32 < Guest15976> siddMahen: it just installed everthing in my cwd
+19:32 < Guest15976> *everything
+19:33 < Guest15976> tried "node-gyp configure" and it says Exception: binding.gyp not found (cwd: /srv/www/browserquest/BrowserQuest) while trying to load binding.gyp
+19:33 < Adamramadhan> Thanks qubit: 1. Php uses apache to handles connection then open a new php process each time anyone connect, how does exectly node work?
+19:33 < Guest15976> but i think i have to cd into another dir
+19:34 < siddMahen> Adamramadhan: Node processes all of it's connections on one thread in a loop, called an event loop
+19:35 < siddMahen> Every iteration of the loop, node handles any events that occur, such as the connection of new clients to its http server and so on
+19:39 < Adamramadhan> Thanks sidd, nodejs compiles to machinecode right?
+19:39 < Guest15976> siddMahen: which place should the nodejs modules be? it also got installed in the home folder
+19:40 < Adamramadhan> So it should be faster then c++ in logic, is that right?
+19:40 < Hochmeister> anyone here using bcrypt on windows? I can't get it to install: http://pastebin.com/exvdSQkw
+19:41 < Adamramadhan> Guest: there is a folder node_modules if I'm not wrong
+19:41 < retrobaby> if I am not wrong, node is build over libev which is a async io lib for C
+19:41 < retrobaby> built*
+19:41 < siddMahen> Guest15976: see npm help folders
+19:41 < Adamramadhan> Retrobaby: so where does the v8 engine goes in?
+19:42 < siddMahen> Adamramadhan: Yes, or something close to machine code
+19:42 < Guest15976> Adamramadhan: i try to install browserquest (html5 browsergame of mozilla).. in the git clone there is a package.json.. as i saw "npm install -d" just uses this and installs everything in ./node_modules
+19:42 <@isaacs> Guest15976: that is correct
+19:43 < Guest15976> isaacs: so my folder structure seems to be right.. just got still the problem with websocket :/
+19:43 < Adamramadhan> SidMahen: so its faster then any interpretered language right?
+19:43 <@isaacs> Adamramadhan: "fast" depends on what you're doing
+19:43 < siddMahen> I can't be sure, its not easy to generalize
+19:43 <@isaacs> Adamramadhan: V8 is pretty damn fast.
+19:44 <@isaacs> but i mean, you can alwyas go out and find a benchmark where some other language does better in some specific case.
+19:44 < Adamramadhan> Guest1576: that's the modules localy use -g for global install so you can use it anywhere
+19:44 < siddMahen> :isaacs I've been wanting an answer to this question for ages
+19:44 <@isaacs> for example, the JVM's HotSpot optimization out-does V8 when running the same bit of code over and over again
+19:44 < siddMahen> :isaacs how do you convert a "slow" Buffer to a "fast" Buffer? The method used here: http://sambro.is-super-awesome.com/tag/slowbuffer/ throws an "Abort trap: 6" assertion error in node_object_wrap.h on line 52
+19:45 <@isaacs> siddMahen: Buffer/SlowBuffer is a slab allocation mechanism
+19:45 <@isaacs> SlowBuffers are created automatically as the data backing for Buffers, which then are shared slices of their memory
+19:45 <@isaacs> If you'er creating SlowBuffers, it means that you'er allocating new memory and creating buffer objects in your C++ binding, which is probably a little bit of Doing It Wrong.
+19:46 <@isaacs> it's better to structure your C++ addons such that they receive a pointer to a blob of data, and the length that they're allowed to use, and then deal with it
+19:46 <@isaacs> ie, then return to the callback the number of bytes that they wrote or consumed.
+19:47 <@isaacs> and the js layer can take the length and buffer, and return a slice to the user
+19:47 < siddMahen> I'm creating a msgpack implementation, so creating buffers is (IMHO) neccessary, no?
+19:47 < siddMahen> *Have created
+19:47 <@isaacs> siddMahen: not in C++, necessarily
+19:47 < myndzi> is there a way to refer to an arbitrary (grand)parent of an object from within that object? e.g. to create circular references
+19:47 < Adamramadhan> I see
+19:48 < siddMahen> Then how would I return a buffer object to the user?
+19:48 < siddMahen> At some point, I'll have to do it right?
+19:49 <@isaacs> siddMahen: well, your JS could create slabs and manage the buffers going to C++ and the slices to the user
+19:50 < siddMahen> :isaacs, yikes, I'm not good with C++, is there any alternative? https://github.com/joyent/node/blob/master/src/node_buffer.cc#L694 <- How does this work?
+19:50 <@isaacs> ofcourse, that requires structuring your C++ code so that it's ok with receiving a fixed block of memory to work with, and continuing where it left off with new memory if it wasn't able to finish
+19:50 < Adamramadhan> Single thread application with an libev and libio. Very intresting. The only problem is that is still young, have you ever scale node.js in production?
+19:51 <@isaacs> siddMahen: if you wanna just have C++ do bunches of alloc's, then sure, you can create SlowBuffer objects.  If you just .slice() them in JS, they'll be Buffers, but they won't be any faster
+19:51 <@isaacs> despite the name
+19:51 < Adamramadhan> Its blazing fast becouse it compiles to near machine code too :d, but its locked by chrome = google right?
+19:52 < siddMahen> :isaacs Hmmm, okay, thanks :), btw npm is fantastic
+19:52 <@isaacs> Adamramadhan: yes.  No scaling task is trivial, but Node.js has some very useful properties.
+19:52 <@isaacs> Adamramadhan: no, V8 is licensed under the MIT license.  It's extremely open.
+19:52 <@isaacs> siddMahen: thanks.
+19:52 <@isaacs> siddMahen: The thing is, SlowBuffers are so named because we found in production that doing a lot of very small malloc's under load was costly
+19:53 < Adamramadhan> Isaacs: you mean the cluster thing?
+19:53 < siddMahen> Yeah, I know, what I was concerned about was returning an object which wasn't a "real" buffer, in the sense that it didn't have all of buffer's normal methods
+19:53 <@isaacs> siddMahen: so, we have these slabs called "SlowBuffers" that actually allocate the memory, and then Buffers that are slices of the SlowBuffer slabs.
+19:54 <@isaacs> siddMahen: in v0.8, SlowBuffer inherits from Buffer.
+19:54 <@isaacs> so that's fine
+19:54 <@isaacs> siddMahen: but you can also just do callback(null, theSlowBuffer.slice(0))
+19:54 < siddMahen> Ahhh, okay, that makes sense, is this in 7.latest?
+19:54 <@isaacs> siddMahen: yep
+19:54 < siddMahen> Yeah, that's what I'm thinking
+19:54 <@isaacs> Adamramadhan: no, i'm not talking about cluster.
+19:54 < Adamramadhan> Ah another question, is there a pdo like in php? Nodejs should make one good allinone db driver, or similar
+19:55 < siddMahen> Awesome, sounds good, thanks again
+19:55 <@isaacs> Adamramadhan: Node will never have "one good allinone db driver" for the same reason that php doesn't have a good one.
+19:55 < Adamramadhan> Isaacs: what? Haproxy?
+19:55 <@isaacs> Adamramadhan: well... php has one, but it's not good.  Node doesn't have one because it wouldn't be good.
+19:55 <@isaacs> Adamramadhan: Haproxy is not a db driver...?
+19:56 <@isaacs> Adamramadhan: but in general, node is not about "one good allinone" modules.  it's about openness and small modules and fast distributed innovation.
+19:56 < Adamramadhan> sorry that was for the last question
+19:56 < RLa> can you make db driver that covers both sql and nosql?
+19:56 < RLa> i doubt
+19:56 <@isaacs> why even maek a db driver that covers more than one db?
+19:56 < RLa> unless you force something very restrictive on devs
+19:56 <@isaacs> how often do you change databases?  seriously.
+19:56 <@isaacs> daily?
+19:56 <@isaacs> no.
+19:57 <@isaacs> Adamramadhan: oh, you're asking about scaling in production?
+19:57 < Adamramadhan> I mean for sql like pdo oracle, mysql with prepared statements ( security ), psql, etc in one driver
+19:57 < AndreasMadsen> isaacs: always wondered about that.
+19:57 <@isaacs> Adamramadhan: "scaling" is not like a box you can check.
+19:58 <@isaacs> Adamramadhan: scalability is a feature of architectures in the presence of a specific task, not of tools or programs.
+19:58 <@isaacs> Adamramadhan: change the task, or the architecture, or the budget, and you can scale anything or make anything fall over.
+19:58 < RLa> Adamramadhan, doesn't most node sql drivers have almost same api?
+19:59 < RLa> something.query(sql, params, cb)
+19:59 < Adamramadhan> Isaacs: I see
+20:00 <@isaacs> Adamramadhan: for mysql, there's a few mysql drivers.  there's 2 i think for postgres.  there are bunches of things for mongo, and most people just use 'request' for couchdb.
+20:00 <@isaacs> Adamramadhan: and there are some folks coming up wiht interesting things for leveldb
+20:00 < Adamramadhan> Last question isaacs: what do you think of nodejs for developing a bloging software?
+20:01 < Adamramadhan> I mean similar to wordpress
+20:01 < Adamramadhan> Or maybe speficicly for web scripting
+20:03 < Guest15976> solved my problem by installing nodejs by source and not by zypper
+20:03 < RLa> wordpress = heaps and heaps of low-quality plugins and very slow core?
+20:03 < Guest15976> i think the opensuse package is kind of broken
+20:03 <@isaacs> Adamramadhan: go for it :)
+20:04 <@isaacs> Adamramadhan: sounds great.  go build that :)
+20:05 < Adamramadhan> Thanks
+20:05 < RLa> Guest15976, opensuse uses rpm packages? you could use checkinstall to create rpm package from install using source
+20:06 < RLa> helps if you have multiple machines where you want to install node
+20:06 < RLa> well, at least it works quite fine for our machines, using deb packages
+20:07 < Guest15976> RLa: was just that one, but thank you :) .. just strange that its broken.. after ./configure, make, make install everything worked fine here
+20:09 < Guest15976> but browserquest doesn't really work.. status give me a really little json array and the game doesn't load.. but doesn't is a problem of nodejs i think :)
+20:20 < literal_username> After moving my code to a different system, require() with relative paths is no longer working. Maybe I'm overlooking some simple reason. Any ideas?
+20:24 < RLa> literal_username, give more info, which require does not work and whether the file exists or not
+20:25 < RLa> if you mean different system as win->nix then maybe fs case sensitivity matters?
+20:25 < japj> #nodeup live at http://www.ustream.tv/channel/nodeup
+20:27 < guybrush> japj: thx
+20:34 < literal_username> RLa: Both are Linux, and the files all exist. The errors are Cannot find module '...' at Function._resolveFilename...
+20:34 < RLa> maybe a typo?
+20:34 < literal_username> I haven't changed any code.
+20:35 < literal_username> I just did a git clone.
+20:35 < RLa> check your files for ... (three dots)
+20:35 < literal_username> ?
+20:35 < literal_username> I typed the elipsese to simplify.
+20:35 < RLa> oh
+20:35 < RLa> then its hard to help debug it
+20:36 -!- mode/#node.js [+o ryah] by ChanServ
+20:36 < literal_username> RLa: Thanks. Anyone one else have an idea?
+20:39 < RLa> as i told, nobody can't help if you do not give useful file paths
+20:59 -!- mode/#node.js [+o piscisaureus_] by ChanServ
+21:03 < literal_username> I'll try again, since this is an odd problem with a likely simple solution. I have a codebase that is tested and working on several other Linux systems. I `git clone`d it to a new Linux system. No code has been changed. On the new system, require() is failing with relative paths, which begin with "./" and "../". The target files all exist. Anyone have any idea what might be going on?
+21:05 < ljharb> file permissions?
+21:05 < jesusabdullah> literal_username: perms?
+21:05 < literal_username> Hmm...
+21:05 < literal_username> Sounds reasonable.
+21:06 < jesusabdullah> try chowning them first
+21:06 < jesusabdullah> and if that doesn't help then play with chmod
+21:14 < tprice> can someone give me advice on cp.spawn
+21:14 < tprice> how do i setup a ipc chan with spawn?
+21:16 < literal_username> ljharb: Thanks.
+21:16 < literal_username> jesusabdullah: Thanks.
+21:16 < literal_username> My process is running under the wrong uid.
+21:19 < tprice> why does this code not throw an error? https://gist.github.com/2942524
+21:31 < retrobaby> ..
+22:34 < dscape> is there any timeout for keep alive requests on node core after 2 minutes?
+22:38 <@isaacs> dscape: is node the server or the client?
+22:39 < dscape> isaacs: server
+22:39 < dscape> im using follow
+22:39 < dscape> and after two minutes the client gets a curl: (52) Empty reply from server
+22:39 <@isaacs> dscape: follow, the thing that uses request to connect to a couchdb webserver?
+22:39 < dscape> yeah
+22:40 <@isaacs> then... node is the client, you mena?
+22:40 < dscape> its an api that proxies to follow
+22:40 < dscape> so people can check their _changes without direct access to couchdb
+22:40 < dscape> cause the auth is at the nodejitsu level
+22:40 < dscape> im trying to find out if what's terminating the socket connection to a client is node core
+22:40 < dscape> or the framework im using
+22:40 < dscape> :)
+22:41 < dscape> its not as easy as i predicted it to be
+23:19 < Jckf> How can a variable I define in my main application file be accessed from a required file?
+23:20 <@Nexxy> module.exports
+23:20 < sechrist> http://news.ycombinator.com/item?id=4120967 >.>
+23:20 < Jckf> I don't understand how that would help. I can't really require my main file in the required file?
+23:21 <@Nexxy> Jckf, like for example if you have var x = "ohai" in one module, and you require('lulz')
+23:21 <@Nexxy> you can require('lulz')(x)
+23:21 <@Nexxy> or var y = require('lulz'); y(x);
+23:22 < dscape> isaacs: btw https://github.com/joyent/node/blob/master/lib/http.js#L1658
+23:22 <@isaacs> dscape: yeah
+23:23 <@isaacs> dscape: ohh, i see, so you're a server and a client.
+23:23 < Jckf> Nexxy: Hm. Not sure how I'd implement that. I'm requring a directory with routes for use with Express, and my main app has a MongoDB variable that ofc the pages need access to
+23:23 <@isaacs> yes, the server bit will time out after 2 minutes of inactivity
+23:23 <@isaacs> dscape: you can set that however you want, though
+23:23 <@Nexxy> Jckf, I do the same thing with my riak db client
+23:23 <@isaacs> req.socket.setTimeout(...)
+23:23 < Jckf> Nexxy: I'll look into it. Thanks =)
+23:24 <@Nexxy> Jckf, if you use module.exports in your routes, you will be able to pass the db to them as you instantiate them
+23:25 < Jckf> Nexxy: The routes use exports to return a function. Guessing I can return a function that returns a function so that I can pass arguments to them
+23:26 <@Nexxy> Jckf, lol your original functions can't accept an argument?
+23:26 < Jckf> Something like: exports.myPage = function (db) { return function () { /* Do tings */ } }
+23:26 < Jckf> Nexxy: Sure they can, but I am not calling them. Express is
+23:28 < dscape> isaacs: yeah
+23:28 <@Nexxy> Jckf, either way it's doable :)
+23:28 < dscape> im doing       self.req.response.socket.once('timeout', function () {
+23:28 < dscape> to respond
+23:51 <@isaacs> dscape: the thing is, you often have no other way of knowing that the client has died.
+23:51 <@isaacs> dscape: that's why most systems have some sort of heartbeat every minute or so
+23:51 < dscape> isaacs: do you have anything against 
+23:51 < dscape>       self.req.response.socket.removeAllListeners("timeout");
+23:51 < dscape>       self.req.response.socket.once('timeout', function () {
+23:51 < dscape> ?
+23:51 < dscape> ignore the flatiron nomenclature
+23:53 <@isaacs> dscape: you know that req.socket === req.response.socket, right?
+23:53 <@isaacs> dscape: that's how http works.  there's only one connection :)
+23:53 < dscape> yeah
+23:54 < dscape> but flatiron does not expose socket
+23:54 <@isaacs> guh?
+23:54 <@isaacs> but... then how do you... like, ... do stuff
+23:54 <@isaacs> to the socket
+23:54 < dscape> well, you hack it like i did :P response
+23:54 <@isaacs> if you're a web server, you kind of have to be aware of that
+23:54 <@isaacs> ewl
+23:54 < dscape> or wait for the patch mmalecki is working on
+23:54 <@isaacs> frameworks are so 2001
+23:55 <@isaacs> anyway
+23:55 <@isaacs> so, you're removing all the timeout listeners, and then adding a timeout listener?
+23:56 <@isaacs> your thing will still get called in 120 seconds
+23:56 <@isaacs> dscape: what does your timeout handler do?
+23:57 < dscape> isaacs: sends a response to the client
+23:58 < dscape> saying
+23:58 < dscape> retry, you are pooling the changes feed for too long
+23:58 < dscape> and closes the socket
+23:58 < dscape> im fine with the behavior
+23:58 < dscape> problem was the empty response
+23:59 <@isaacs> dscape: i see
+--- Log closed Sun Jun 17 00:00:00 2012

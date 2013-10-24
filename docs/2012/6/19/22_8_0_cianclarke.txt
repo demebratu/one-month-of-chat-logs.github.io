@@ -1,0 +1,1 @@
+Dieterbe: see that, aye - I'm not sure if the reference to storageSwift is best practice, like I said haven't dealt with openstack much.. :(

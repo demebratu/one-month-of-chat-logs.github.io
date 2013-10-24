@@ -1,0 +1,1 @@
+So, if I do: require('socket.io') then look at the methods of the object returned, it only has ".listen", basically. I'm trying to write a command-line tool that connects to a socket, not listens on one. Any hints?

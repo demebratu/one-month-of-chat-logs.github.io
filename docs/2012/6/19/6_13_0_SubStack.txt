@@ -1,0 +1,1 @@
+isaacs: sent! https://github.com/isaacs/npm/pull/2538

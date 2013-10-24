@@ -1,0 +1,1 @@
+tjholowaychuk: what do you think of subtask / task dependency in kue

@@ -1,0 +1,1 @@
+SubStack: my approach to testing npm has been to pull pieces out of npm, and then test those.

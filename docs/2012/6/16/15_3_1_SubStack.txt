@@ -1,0 +1,1 @@
+then you'll have the browserify command

@@ -1,0 +1,1 @@
+DougReeder: yes but is expires not for whether client should yet make another request or use what it has ... where ETag is for determening if client already has exact copy, regardles if it's too old and expired ?

@@ -1,0 +1,1 @@
+I think you want, map = literal == map ? map : { 'jake': 23 };

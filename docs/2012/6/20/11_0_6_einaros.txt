@@ -1,0 +1,1 @@
+dominictarr: please disregard the infrastructure argument, and give me a good example of a real world business application where REST is not a good fit for an application layer exchange

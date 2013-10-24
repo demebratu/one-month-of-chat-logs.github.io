@@ -1,0 +1,1 @@
+thomaschaaf: if you want them to execute one after the other, you have to hold calling exiftool() until the "end" of the previous one triggers

@@ -1,0 +1,1 @@
+ashb: thanks. so the os has a way to handle paralel work. and when the work is done it notifies node about it.

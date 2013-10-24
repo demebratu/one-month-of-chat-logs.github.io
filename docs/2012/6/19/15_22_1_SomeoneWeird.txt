@@ -1,0 +1,1 @@
+well, just need to pass text between processes so they can fire off events

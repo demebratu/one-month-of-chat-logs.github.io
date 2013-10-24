@@ -1,0 +1,1 @@
+no setTimeout or setInterval callbacks are ever being called, although they were prior to 2:39am

@@ -1,0 +1,1 @@
+How do you go about testing your controllers in nodejs generally? I've using mocha to test the models. Zombiejs is great, but thats more for browser testing, and I can't test the POST routes of my API. Is there something I'm missing?

@@ -1,0 +1,1 @@
+http://howtonode.org/prototypical-inheritance goes right into all the fancy new ES5 functions but I still have no clue how prototypes *actually work*

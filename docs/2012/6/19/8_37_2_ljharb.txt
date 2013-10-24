@@ -1,0 +1,1 @@
+ParadoxQuine: call 611 and ask the operator

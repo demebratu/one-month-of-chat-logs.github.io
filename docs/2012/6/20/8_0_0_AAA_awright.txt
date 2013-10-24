@@ -1,0 +1,1 @@
+einaros: It breaks the Internet? If you want to end a websocket connection, just terminate the connection and have the client re-connect, no different than it would for plain old long-polling

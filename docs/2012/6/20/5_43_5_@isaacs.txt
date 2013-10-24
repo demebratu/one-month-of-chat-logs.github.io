@@ -1,0 +1,1 @@
+chrisdickinson: but the thing is, we wont' have a real browser module system until people try to build something that's actually useful and builds on the existing state of the art, rather than just being masturbation.

@@ -1,0 +1,1 @@
+with the staticCache enabled, I get Throughput:           2585.695 requests/second

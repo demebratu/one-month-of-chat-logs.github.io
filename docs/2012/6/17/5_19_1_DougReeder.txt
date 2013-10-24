@@ -1,0 +1,1 @@
+Connect passes the same request and response objects as a "raw" http server, possibly with a few ne methods added.

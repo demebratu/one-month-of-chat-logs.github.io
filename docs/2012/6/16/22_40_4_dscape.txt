@@ -1,0 +1,1 @@
+im trying to find out if what's terminating the socket connection to a client is node core

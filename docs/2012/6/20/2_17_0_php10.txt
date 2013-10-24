@@ -1,0 +1,1 @@
+is there any way i can catch a 'duplicate key' mongodb error ?

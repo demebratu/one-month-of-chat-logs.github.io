@@ -1,0 +1,1 @@
+jergason: Stream.pipe is a method that stream objects have that connects their 'data' and 'end' evnets to the 'write' and 'end' methods on a writable stream, supporting backpressure

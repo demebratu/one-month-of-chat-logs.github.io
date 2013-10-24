@@ -1,0 +1,1 @@
+so all the JS in the backbone views is namespace like 'app.views.home'

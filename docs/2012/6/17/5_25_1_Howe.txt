@@ -1,0 +1,1 @@
+DougReeder: yes, that would work, but would degrade performance due to the extra call. I'd only do that way if there is no else

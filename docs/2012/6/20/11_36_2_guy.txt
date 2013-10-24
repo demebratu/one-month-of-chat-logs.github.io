@@ -1,0 +1,1 @@
+ok. Then my question really is.. how does node.js/socket.io tell whether I am a new user or coming back user?

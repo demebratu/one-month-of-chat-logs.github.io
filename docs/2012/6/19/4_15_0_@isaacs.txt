@@ -1,0 +1,1 @@
+SubStack: ancestors = direct ancestors.  family = siblings, parents, aunts/uncles (but not cousins)

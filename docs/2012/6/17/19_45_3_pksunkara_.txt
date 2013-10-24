@@ -1,0 +1,1 @@
+tjholowaychuk: but isn't scoped routing better for different methods of same path?

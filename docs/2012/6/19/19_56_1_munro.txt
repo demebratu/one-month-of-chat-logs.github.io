@@ -1,0 +1,1 @@
+wmage: here you go: 'my string'.split('').reduce(function (prev, char) { return prev + char.charCodeAt(0) }, 0);

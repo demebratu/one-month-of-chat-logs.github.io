@@ -1,0 +1,1 @@
+I've had a bunch of trouble with linux vms running under hyperv

@@ -1,0 +1,1 @@
+guys, can you check "example usage 1" @ https://github.com/feedhenry/openstack-storage specifically notice how the storageSwift variable is used within the callback function passed to the constructor that creates the storageSwift variable in the first place. is this legal?

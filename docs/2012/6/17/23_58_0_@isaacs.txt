@@ -1,0 +1,1 @@
+tonyk: iow, i'm perfectly fine with node's startup time doubling if the actual throughput speed was increased even a little, and that would cause this sort of result.

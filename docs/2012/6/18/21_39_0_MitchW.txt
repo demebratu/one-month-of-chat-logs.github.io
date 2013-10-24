@@ -1,0 +1,1 @@
+Sam4242: json is relatively compact as is, the best you're gonna do is maybe compress it an extra 10% or so w/ something as simple as gzip - but the best way to know for sure is just to test it (whip up a few typical JSON statements you'd send, and gzip them! :P)

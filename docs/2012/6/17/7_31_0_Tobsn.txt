@@ -1,0 +1,1 @@
+look at it that way... if i'd tell you to code a redirect script that takes an urls as get parameter and redirects to the same url but replaces one variable in the url you receive with the users ISP... like c1=cox or c1=verizon

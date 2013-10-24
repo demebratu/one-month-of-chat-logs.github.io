@@ -1,0 +1,1 @@
+Nexxy: I expected it to callback when the command is done and not when all execs in the script have been "launched"

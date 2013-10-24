@@ -1,0 +1,1 @@
+wiherek I'm suggesting that a clientside framework such as ember will give you a lot of what you need + give you a decent structure. you can upgrade certain sections to use socketio as required

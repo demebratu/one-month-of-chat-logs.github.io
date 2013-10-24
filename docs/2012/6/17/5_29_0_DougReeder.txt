@@ -1,0 +1,1 @@
+Well, yeah, you do have a function call per middleware.  Maybe others, hidden.

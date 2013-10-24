@@ -1,0 +1,1 @@
+Anyone run into an issue with the PATH env. variable on windows where you need to reverse the order in the path of "C:\Users\[username]\AppData\Roaming\npm\;C:\Program Files\nodejs\" to "C:\Program Files\nodejs\;C:\Users\[username]\AppData\Roaming\npm\"

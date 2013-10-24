@@ -1,0 +1,1 @@
+I'm getting some random ENOENT errors on my Mac. I'm wondering if there is an issue with doing too many lookups at once

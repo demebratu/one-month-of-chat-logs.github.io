@@ -1,0 +1,1 @@
+while all of them also needs their own functionality which again is split into separate files  into 1 folder per page. again i wanna use require there.

@@ -1,0 +1,1 @@
+catilac: Recently I've moved from using Mocha for testing to pure javascript combined with assert. I use console output to print the results of the test along with a colors module.. Made life so much easier :-)

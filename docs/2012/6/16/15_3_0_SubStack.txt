@@ -1,0 +1,1 @@
+just do: npm install -g browserify

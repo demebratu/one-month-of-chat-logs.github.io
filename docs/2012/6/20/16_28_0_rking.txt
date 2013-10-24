@@ -1,0 +1,1 @@
+Ahh, hrm. nssocket looks cool, but I think for this all I'll need is 'net' - I'm connecting to an Android emulator's console on port 5554

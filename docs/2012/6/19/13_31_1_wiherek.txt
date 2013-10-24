@@ -1,0 +1,1 @@
+whats the usual practice in using elements that aren't yet loaded as selectors? setTimeout? basically I mean something like this: http://jsfiddle.net/Yj5Qz/3/ it works if I add setTimeout in the second file, but otherwise - it doesnt work. I have a feeling im doing something wrong

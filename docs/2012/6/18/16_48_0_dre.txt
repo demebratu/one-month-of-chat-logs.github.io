@@ -1,0 +1,1 @@
+they do (at least to a degree), but I have some limitations I can't really get around and can't use a standard media player, so I need to control the jitter manually

@@ -1,0 +1,1 @@
+it actually would be challenging (to my brain) to do a quine like that

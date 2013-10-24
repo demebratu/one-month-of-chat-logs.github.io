@@ -1,0 +1,1 @@
+the built-in http timeout handler should process.nextTick(function(){socket.close()})

@@ -1,0 +1,1 @@
+SubStack: at each level, the family of the child inherits the family of the parent

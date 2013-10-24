@@ -1,0 +1,1 @@
+SomeoneWeird: if you have a more fancy need, then use spawn() directly, and talk directly over stiod

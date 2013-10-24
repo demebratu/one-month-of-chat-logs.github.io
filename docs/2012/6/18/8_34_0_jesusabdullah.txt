@@ -1,0 +1,1 @@
+jhsto: Expose the data as JSON on a route, grab it with AJAX and jquery client side

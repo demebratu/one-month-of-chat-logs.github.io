@@ -1,0 +1,1 @@
+I would check that your server correctly sends ETag, and responds to If-None-Match

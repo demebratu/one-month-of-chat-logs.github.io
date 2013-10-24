@@ -1,0 +1,1 @@
+hi, i need to find which of the paths exist from array, how do do that in async mode, i tried with slide-flow-control asyncMap, but i can't get it right

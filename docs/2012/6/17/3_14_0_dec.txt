@@ -1,0 +1,1 @@
+maybe a naive question... but I see debug() statements littered all through the node js source code; how do I capture the output from these?

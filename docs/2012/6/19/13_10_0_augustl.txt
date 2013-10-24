@@ -1,0 +1,1 @@
+I like the transparency of a connect middleware function and a plain http server

@@ -1,0 +1,1 @@
+lohkey: you can also point dependencies explicitly at a git or tarball url, or bundle them with the main package.

@@ -1,0 +1,1 @@
+i'm thinking about implementing autocomplete as a generic service, to be used in any editor (provided the system running it has node installed)

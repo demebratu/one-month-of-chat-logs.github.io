@@ -1,0 +1,1 @@
+although if something is already being read, I think that may still be emitted.

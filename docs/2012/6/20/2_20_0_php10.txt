@@ -1,0 +1,1 @@
+yeah i figured maybe something like err.code == 'E11000' ?

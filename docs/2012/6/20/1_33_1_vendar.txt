@@ -1,0 +1,1 @@
+yeah, CentOS with kernel 2.6.32

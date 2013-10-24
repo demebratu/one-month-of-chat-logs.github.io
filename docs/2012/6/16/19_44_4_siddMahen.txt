@@ -1,0 +1,1 @@
+:isaacs how do you convert a "slow" Buffer to a "fast" Buffer? The method used here: http://sambro.is-super-awesome.com/tag/slowbuffer/ throws an "Abort trap: 6" assertion error in node_object_wrap.h on line 52

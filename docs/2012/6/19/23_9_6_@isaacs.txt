@@ -1,0 +1,1 @@
+there are probably better ways to address the failings of node's string/buffer surface

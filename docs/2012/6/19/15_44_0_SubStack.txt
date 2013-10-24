@@ -1,0 +1,1 @@
+isaacs: so it works when I put it back to the Math.random() thing

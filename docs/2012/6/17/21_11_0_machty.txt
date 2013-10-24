@@ -1,0 +1,1 @@
+hi, is there anyone here doing freelance with some spare time and some interest in helping out on an FB app built in Node.js that involves automated image manipulation and integration with facial feature detection libs?

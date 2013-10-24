@@ -1,0 +1,1 @@
+qbit_: https://github.com/TooTallNate/node-gyp/pull/68

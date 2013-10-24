@@ -1,0 +1,1 @@
+huangjs: strange stuff. nothing I can do in my module to prevent that error, though, given the borked permissions.

@@ -1,0 +1,1 @@
+_Tristan: well, fs streams are either readable or writable, and not both.  but there are libs that do this.  check out mikeal's other thing, filed

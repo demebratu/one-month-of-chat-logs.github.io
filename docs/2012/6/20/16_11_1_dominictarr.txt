@@ -1,0 +1,1 @@
+isaacs, you could stream parse the json and keep what you got

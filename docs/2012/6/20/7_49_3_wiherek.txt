@@ -1,0 +1,1 @@
+timoxley: realtime chat, autosaving, multi-user collaboration -> thats in my usecase

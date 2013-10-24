@@ -1,0 +1,1 @@
+thomaschaaf: begin happens in your JS thread, and child processes are spawned

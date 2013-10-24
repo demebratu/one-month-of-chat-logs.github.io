@@ -1,0 +1,1 @@
+myndzi: All the Stream proto gives you, really, is .pipe

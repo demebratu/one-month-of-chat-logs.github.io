@@ -1,0 +1,1 @@
+so I see that everyone uses var express = require('express'), something_else = require('something'), etc = require('etc');

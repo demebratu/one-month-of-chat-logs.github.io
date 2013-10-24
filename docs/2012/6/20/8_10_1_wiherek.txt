@@ -1,0 +1,1 @@
+timoxley: now I have socket.io client triggering events to which jquery binds load(). commands

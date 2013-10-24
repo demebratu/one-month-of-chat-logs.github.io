@@ -1,0 +1,1 @@
+heh, apt-get install rabbitmq-server will get you 1.4.2 I think. 2.8.2 is the latest stable

@@ -1,0 +1,1 @@
+so a main bundle with all the shared components but page-specific bundles for all the other scripts

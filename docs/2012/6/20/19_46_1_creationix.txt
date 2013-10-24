@@ -1,0 +1,1 @@
+or use full spawn and listen for data events on .stderr and .stdout

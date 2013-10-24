@@ -1,0 +1,1 @@
+the hugest benefit was being able to add new lines in objects or var statements without having to go to the end of the previous line

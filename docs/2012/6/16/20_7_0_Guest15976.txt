@@ -1,0 +1,1 @@
+RLa: was just that one, but thank you :) .. just strange that its broken.. after ./configure, make, make install everything worked fine here

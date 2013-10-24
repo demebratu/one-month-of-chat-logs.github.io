@@ -1,0 +1,1 @@
+browserify is good at handling code written for node

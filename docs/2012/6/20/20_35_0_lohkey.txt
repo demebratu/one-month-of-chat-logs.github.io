@@ -1,0 +1,1 @@
+isaacs: i want the be able to be able to have a clone of the system that NPM gets package info from so i can still build things if the NPM server goes down

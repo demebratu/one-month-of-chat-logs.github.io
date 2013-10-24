@@ -1,0 +1,1 @@
+former coworker of mine created his own photoshop lib in java to create something like instagram but for android - took him around 2 month. then they put it up on the android market, chained it with a WAP mobile subscription sign up, another 4 month later they made 10 million in profit.

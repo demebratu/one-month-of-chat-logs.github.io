@@ -1,0 +1,1 @@
+so, i'm pretty well and truly on substack's side -- i think sync requires / the node.js way of writing modules is probably best.

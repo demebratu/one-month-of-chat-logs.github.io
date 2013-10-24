@@ -1,0 +1,1 @@
+retrobaby: but maxogden told me this function is a bit different than the rest of the async code. this function USES THREADS while most of the async code in node DOES NOT. at least that's what i understood from his replies..

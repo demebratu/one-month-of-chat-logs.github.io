@@ -1,0 +1,1 @@
+considering I built a websocket library this may be controversial, but I don't actually find chat applications valid uses of websockets

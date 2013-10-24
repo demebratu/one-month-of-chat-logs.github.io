@@ -1,0 +1,1 @@
+nodex: just install them locally. that way every app has the exact version it needs. not some single shared version

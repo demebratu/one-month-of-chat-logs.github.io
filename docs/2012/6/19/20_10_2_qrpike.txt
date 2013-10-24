@@ -1,0 +1,1 @@
+yes, in the required file, use exports.myFunction = function(){}

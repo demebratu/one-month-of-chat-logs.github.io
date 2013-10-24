@@ -1,0 +1,1 @@
+debuuuu: sure, just start your webscale node with --debug and start node inspector on the machine on which the node js is running and you can git at it

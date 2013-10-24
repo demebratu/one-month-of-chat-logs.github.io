@@ -1,0 +1,1 @@
+curl actually has a bug in how it handles non-blocking io or I could take out the setInterval part

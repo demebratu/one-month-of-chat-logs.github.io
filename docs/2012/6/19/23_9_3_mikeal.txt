@@ -1,0 +1,1 @@
+his initial work was trying to get at the underlying memory for the string and not suffer a buffer conversion

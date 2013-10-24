@@ -1,0 +1,1 @@
+phpfog, heroku etc. let you all set up stuff for free

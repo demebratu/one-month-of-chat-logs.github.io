@@ -1,0 +1,1 @@
+specifically - I need to set min and max so the documented index ({type: Array, index: "2d"}) 

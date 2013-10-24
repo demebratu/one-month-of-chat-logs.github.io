@@ -1,0 +1,1 @@
+Well, what's the difference between 600k connections with 20Gb of RAM and 600k connections with 10 processes each with 2Gb RAM?

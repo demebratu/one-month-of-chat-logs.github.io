@@ -1,0 +1,1 @@
+and the former only works when I load the page directly and the latter only works with require.js

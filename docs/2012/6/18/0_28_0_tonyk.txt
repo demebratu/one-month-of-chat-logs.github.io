@@ -1,0 +1,1 @@
+node can saturate a 1gbit connection serving static files on 1 core, that's less of a hack than getting nginx to talk to node imo

@@ -1,0 +1,1 @@
+one option is to use nginx front proxy and use the static content serving also

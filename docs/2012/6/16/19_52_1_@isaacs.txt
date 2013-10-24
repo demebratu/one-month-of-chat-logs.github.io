@@ -1,0 +1,1 @@
+Adamramadhan: yes.  No scaling task is trivial, but Node.js has some very useful properties.

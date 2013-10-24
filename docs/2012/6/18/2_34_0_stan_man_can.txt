@@ -1,0 +1,1 @@
+I've never written any type of websocket app but I need to now... I develop primarily in PHP. Is node.js the best option? Or are there other choices? I'm really not too familiar with the technology other than I know it will let me push from the server to client which is what i need

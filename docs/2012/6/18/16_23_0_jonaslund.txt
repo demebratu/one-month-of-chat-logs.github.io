@@ -1,0 +1,1 @@
+I'm still a bit wondering about what kind of input source can be that inaccurate and still be accessible w/o a driver?

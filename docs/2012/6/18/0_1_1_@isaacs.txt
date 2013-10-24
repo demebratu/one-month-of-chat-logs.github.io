@@ -1,0 +1,1 @@
+tonyk: can you write a benchmark that just calculates the time from the fs.ReadStream start to finish?

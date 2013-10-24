@@ -1,0 +1,1 @@
+tjholowaychuk, awesome. is there someway to have multiple lines of javascript in a jade template without prefixing each with - ?

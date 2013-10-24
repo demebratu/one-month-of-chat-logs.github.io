@@ -1,0 +1,1 @@
+mongoose is a good example of this imho 

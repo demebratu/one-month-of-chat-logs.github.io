@@ -1,0 +1,1 @@
+the .jar i run (closure compiler) doesn't apparently use stdout for output
