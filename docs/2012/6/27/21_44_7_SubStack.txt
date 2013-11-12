@@ -1,0 +1,1 @@
+it seems like the same as doing multiple exports with export var x = 5 or whatever

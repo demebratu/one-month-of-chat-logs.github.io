@@ -1,0 +1,1 @@
+i am getting a bunch of 502 bad gateway errors in Safari on my app but it works just fine on any other browser. Any ideas?

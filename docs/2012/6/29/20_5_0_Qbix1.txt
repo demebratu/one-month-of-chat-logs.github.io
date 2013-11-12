@@ -1,0 +1,1 @@
+it instaleld in usr/local/bin and I updated my $PATH

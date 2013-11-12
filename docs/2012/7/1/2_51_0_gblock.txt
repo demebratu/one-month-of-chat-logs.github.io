@@ -1,0 +1,1 @@
+innociv: The other option is to try an IDE like Webstorm which has a nice debugger. I believe it can attach to an existing node process though you'd need to run it on the server.

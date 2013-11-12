@@ -1,0 +1,1 @@
+VeXii: you could try putting a link to python2.7 from a local bin directory, put that bin directory at the head of your PATH in the shell where you want to build Node, and try that

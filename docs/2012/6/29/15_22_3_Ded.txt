@@ -1,0 +1,1 @@
+MadonnaIsMyMommy, well, as long as i can get to app via some.ip.add.ress/something or some.ip.add.ress:something and the app thinks is on root, i'm fine

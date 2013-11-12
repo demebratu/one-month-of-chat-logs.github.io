@@ -1,0 +1,1 @@
+otoh, if you do screw up null bytes are mostly harmless

@@ -1,0 +1,1 @@
+I think the WS paper allows for binary. you can technically make your own protocol on top of WS, even though that would be heavier

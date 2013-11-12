@@ -1,0 +1,1 @@
+I'd like to do the same thing in Node.js. Hopefully, with a nice clean library that encourages me to do more with Node.js.

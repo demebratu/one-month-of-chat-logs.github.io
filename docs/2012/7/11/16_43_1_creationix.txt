@@ -1,0 +1,1 @@
+yes, the global vs local stuff is a little confusing

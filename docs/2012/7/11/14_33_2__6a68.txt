@@ -1,0 +1,1 @@
+AAA_awright: promises/deferreds are a tool for sequencing callback firing, at least that's how I think of them

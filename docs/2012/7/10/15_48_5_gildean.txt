@@ -1,0 +1,1 @@
+TrahDivad_: iirc it's part of mongo, but you have to set an index to the value before it can be unique

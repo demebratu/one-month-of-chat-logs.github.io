@@ -1,0 +1,1 @@
+Andymortin: PHP has sockets and so forth, and also abstraction for websockets/long polling and so forth. Lots of libs out there implementing these. You just might need to change some php settings, but thats no biggie -- deploying node won't be done on shared hosting either.

@@ -1,0 +1,1 @@
+ok, then if you are going to process in that way, you will want to tack an "fs.on('close',function(){})

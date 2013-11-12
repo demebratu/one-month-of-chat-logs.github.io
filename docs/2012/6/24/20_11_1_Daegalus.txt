@@ -1,0 +1,1 @@
+I think thre will be 3 builds. Node TideSDK, Full TideSDK, and TideSDK-light which will be the current core but only supporting HTML/JS/CSS and the Tide API, no backend/other languages.

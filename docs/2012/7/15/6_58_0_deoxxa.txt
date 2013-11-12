@@ -1,0 +1,1 @@
+console.log((new Houkou("some/:derp")).match("some/thing"))

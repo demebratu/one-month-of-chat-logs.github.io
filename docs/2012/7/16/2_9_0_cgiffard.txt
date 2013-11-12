@@ -1,0 +1,1 @@
+Spion: I know it's not very trendy, but doesn't selenium have a firefox extension that can do this?

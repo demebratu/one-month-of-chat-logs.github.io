@@ -1,0 +1,1 @@
+TimeTurner: $ node -pe 'require("events").EventEmitter.toString()'

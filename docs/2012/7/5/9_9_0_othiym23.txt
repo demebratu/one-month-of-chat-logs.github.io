@@ -1,0 +1,1 @@
+but even then you should be communicating via streams and not trying to do hairy stuff with mutexes and whatnot

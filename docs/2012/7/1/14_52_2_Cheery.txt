@@ -1,0 +1,1 @@
+I'm trying to get it look like coffeescript, with something under that's as flexible as lisp.

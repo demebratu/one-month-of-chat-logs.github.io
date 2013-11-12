@@ -1,0 +1,1 @@
+jasabella: I've found Node to be reminiscent of Perl in some strange way.  Not necessarily in the syntax, but in the spirit.  If that makes any sense.

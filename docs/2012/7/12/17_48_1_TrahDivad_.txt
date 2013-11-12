@@ -1,0 +1,1 @@
+aheckmann: how would you recommend I get my example working? Is there a solution without hacking express-mongoose?

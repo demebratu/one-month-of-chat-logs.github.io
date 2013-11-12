@@ -1,0 +1,1 @@
+is there a way to halt on SIGINT and do cleanups on Windows?

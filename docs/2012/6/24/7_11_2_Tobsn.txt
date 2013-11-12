@@ -1,0 +1,1 @@
+well first i would suggest that your https cant run on the same port as http, thats just not doable, you have to run two https for that.

@@ -1,0 +1,1 @@
+And will reset after a buffer.fill(0)?

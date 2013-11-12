@@ -1,0 +1,1 @@
+tim_smart - It actually turns out that socket data is namespaces (i.e. username)

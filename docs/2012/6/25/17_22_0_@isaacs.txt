@@ -1,0 +1,1 @@
+drudge: you should set the NAVE_DIR to something specific, so you don't litter your /

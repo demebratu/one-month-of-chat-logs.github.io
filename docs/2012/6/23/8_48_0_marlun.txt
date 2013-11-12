@@ -1,0 +1,1 @@
+SubStack: Ah, thanks! Worked great now. So all jquery-browserify does is package it as a commonjs module for you?

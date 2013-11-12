@@ -1,0 +1,1 @@
+assuming interactivity is not hugely important. it'll dump huge huge logs of all files being accessed. it'll show you what IS being looked for.

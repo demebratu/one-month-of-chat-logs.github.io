@@ -1,0 +1,1 @@
+if anyone is using nginx with node.js... how can i get, for instance, subdomain.domain.com/someapp get routed to node.js so everything appears from node.js side as running from root route? including static assets (i'll move those to nginx later on)

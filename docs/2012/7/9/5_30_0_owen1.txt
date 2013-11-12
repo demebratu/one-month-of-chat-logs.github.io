@@ -1,0 +1,1 @@
+domo: can u use console.error, console.war etc?

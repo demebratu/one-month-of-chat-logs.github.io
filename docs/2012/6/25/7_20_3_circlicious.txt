@@ -1,0 +1,1 @@
+i thin node debugging should be made easier, like which line error is caused and more "exactness"

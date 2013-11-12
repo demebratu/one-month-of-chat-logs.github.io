@@ -1,0 +1,1 @@
+defunctzombie: You know AvianFlu wrote the the detached child process stuff in node 0.8 so we could do this in pure JS :-D

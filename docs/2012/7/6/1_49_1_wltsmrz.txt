@@ -1,0 +1,1 @@
+I think 'bastard' module automatically minifies using uglify

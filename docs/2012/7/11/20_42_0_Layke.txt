@@ -1,0 +1,1 @@
+So... it looks like $PATH contains /usr/bin

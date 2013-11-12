@@ -1,0 +1,1 @@
+TooTallNate: and your module has all the stuff in it, not using readline's?

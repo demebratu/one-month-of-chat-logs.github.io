@@ -1,0 +1,1 @@
+it's only with the "var mysqlDump = spawn("mysqldump", [ <blah>, <blah>], process.env);" that has issues, and only when not connecting to localhost

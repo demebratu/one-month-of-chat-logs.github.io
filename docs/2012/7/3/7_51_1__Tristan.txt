@@ -1,0 +1,1 @@
+if the server ran now.foo, the client would run your code.

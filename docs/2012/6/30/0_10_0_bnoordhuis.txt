@@ -1,0 +1,1 @@
+xocel: node doesn't install any libraries (binary libraries, that is)

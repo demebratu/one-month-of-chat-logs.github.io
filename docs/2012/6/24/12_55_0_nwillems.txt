@@ -1,0 +1,1 @@
+lpin: I have been looking at the url module - sadly when parsing a URL, it doesn't resolve it. When resolving it(with url.resole) nothing really happens. So I'm looking for some module that can do such a thing, I beleive Java, python and the likes have some resolver-ish. Maybee I'm just using the url.resolve function wrong, the doc is a bit vague, can anybody chip in on this?

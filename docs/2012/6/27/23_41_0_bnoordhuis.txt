@@ -1,0 +1,1 @@
+Murvin: well... what does the backtrace look like when you run `sudo gdb --args node myprogram.js`?

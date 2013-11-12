@@ -1,0 +1,1 @@
+Yes they do, espeically ones that are used as pipes and die due to parse errors or timeouts when making requests to external APIs

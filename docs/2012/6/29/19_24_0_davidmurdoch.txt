@@ -1,0 +1,1 @@
+Can anyone help me understand the crypto.pbkdf's derivedKey? I'm looking to convert it to Base64

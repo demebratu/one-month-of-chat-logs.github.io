@@ -1,0 +1,1 @@
+rageous: is module.exports already an object?

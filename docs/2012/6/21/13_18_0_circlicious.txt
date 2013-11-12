@@ -1,0 +1,1 @@
+tonyk: what if i pass the data as an argument instead of writing to stdin?

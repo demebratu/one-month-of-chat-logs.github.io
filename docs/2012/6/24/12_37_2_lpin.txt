@@ -1,0 +1,1 @@
+Once the operation is compleated i delete the session variable

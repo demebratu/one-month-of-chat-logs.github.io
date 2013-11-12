@@ -1,0 +1,1 @@
+This will stop the throttling? I would have assumed setting floodProtection to false would allow me to send messages without delay?

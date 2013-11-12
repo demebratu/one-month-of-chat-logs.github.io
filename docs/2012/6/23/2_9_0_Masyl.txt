@@ -1,0 +1,1 @@
+I know… we already had big problems with socket.io on heroku.

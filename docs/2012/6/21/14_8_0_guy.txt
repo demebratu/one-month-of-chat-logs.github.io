@@ -1,0 +1,1 @@
+isaacs: may I ask why homepage URLs are not hyperlinks? http://search.npmjs.org/#/bstwitter

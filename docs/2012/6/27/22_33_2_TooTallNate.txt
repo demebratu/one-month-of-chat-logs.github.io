@@ -1,0 +1,1 @@
+environment variables work. if you want a more evented approach you need real IPC

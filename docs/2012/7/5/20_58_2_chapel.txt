@@ -1,0 +1,1 @@
+https://registry.npmjs.org/mongoose/mongoose/-/mongoose-2.5.10.tgz

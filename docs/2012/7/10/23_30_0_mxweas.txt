@@ -1,0 +1,1 @@
+is there an easy way to append header and footer text to all requests automatically?

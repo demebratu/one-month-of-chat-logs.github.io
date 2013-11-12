@@ -1,0 +1,1 @@
+We've spent 7+ years on this thing, it's really well designed (but awfully hard to implement).  You're goal is to port it wholesale?

@@ -1,0 +1,1 @@
+`If encoding is specified then this function returns a string. Otherwise it returns a buffer.

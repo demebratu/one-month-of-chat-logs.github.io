@@ -1,0 +1,1 @@
+DI also helps a lot in testing, makes testing much easier

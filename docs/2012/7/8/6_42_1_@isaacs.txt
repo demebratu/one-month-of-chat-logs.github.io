@@ -1,0 +1,1 @@
+standoo: just have the child proc write to stdout or something

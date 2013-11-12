@@ -1,0 +1,1 @@
+could you tell me if R5_output can be called before the if statement finishes?

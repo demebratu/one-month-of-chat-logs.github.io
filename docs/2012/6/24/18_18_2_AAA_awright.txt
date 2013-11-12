@@ -1,0 +1,1 @@
+maxogden: It might be enough for most of your needs, that's fine, but without the additional information that submodules provide, you lose a lot of use cases for other people with different or broader needs

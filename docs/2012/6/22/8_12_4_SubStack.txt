@@ -1,0 +1,1 @@
+it generates the set of all possible number script programs

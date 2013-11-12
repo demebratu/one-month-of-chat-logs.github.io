@@ -1,0 +1,1 @@
+Where can I find the colorization of PowerShell in the Node.js source?

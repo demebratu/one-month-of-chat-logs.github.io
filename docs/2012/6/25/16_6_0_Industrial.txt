@@ -1,0 +1,1 @@
+I have installed node version management tool n (by visionmedia) and use node 0.7.9 with it. How do I install and use 0.8.0 globally instead of 0.7.9 ?

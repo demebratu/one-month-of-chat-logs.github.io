@@ -1,0 +1,1 @@
+williamcotton: you could also try hiredis directly

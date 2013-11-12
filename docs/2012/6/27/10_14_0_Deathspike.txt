@@ -1,0 +1,1 @@
+Bennit: Fiddler is a debugging tool that does allow manual requests on Windows-based systems ;)

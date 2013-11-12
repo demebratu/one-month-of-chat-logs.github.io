@@ -1,0 +1,1 @@
+taking the naming convention from the webAudio API

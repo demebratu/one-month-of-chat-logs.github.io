@@ -1,0 +1,1 @@
+like when you have a component that depends on a specific version of jquery

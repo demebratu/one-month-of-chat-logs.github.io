@@ -1,0 +1,1 @@
+(Also, that's awesome for doing macro expansion at compile time :3)

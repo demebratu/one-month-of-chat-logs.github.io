@@ -1,0 +1,1 @@
+tjholowaychuk: By, micro-optimizations, you mean the tree based searching?

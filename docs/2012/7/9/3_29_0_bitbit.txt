@@ -1,0 +1,1 @@
+Hi, is there a way to debug the context of child_process.fork(modulePath) from node-inspector or any similar tool?

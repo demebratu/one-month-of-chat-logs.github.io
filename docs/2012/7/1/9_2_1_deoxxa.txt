@@ -1,0 +1,1 @@
+Xedecimal: all that does is redirects stderr to stdout, and you get handles to both of them when you do child_process.spawn

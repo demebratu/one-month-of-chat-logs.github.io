@@ -1,0 +1,1 @@
+But no, there's no magical "makes scaling easy" language. Or runtime. Or paradigim.

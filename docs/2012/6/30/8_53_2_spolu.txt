@@ -1,0 +1,1 @@
+tim_smart: and you would always see the total diff across files right?

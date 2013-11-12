@@ -1,0 +1,1 @@
+ah well, my question was too inprecise. I need a two-way stream to my process.

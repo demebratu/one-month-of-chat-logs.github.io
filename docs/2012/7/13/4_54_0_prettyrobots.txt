@@ -1,0 +1,1 @@
+livinded: Wayback respects robots.txt.

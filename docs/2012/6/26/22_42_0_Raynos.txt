@@ -1,0 +1,1 @@
+isaacs: pong. nave uses sysctl which falls over on smartos. Their wiki says use "cat /etc/system"

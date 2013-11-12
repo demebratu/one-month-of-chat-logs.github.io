@@ -1,0 +1,1 @@
+hunterloftis: can you make it dump the env before running `npm install`?

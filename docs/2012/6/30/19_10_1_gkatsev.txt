@@ -1,0 +1,1 @@
+tom21: there are already qt and gtk modules. There are also modules that add a chromium build so you could just use that

@@ -1,0 +1,1 @@
+piscisaureus_: and i'm guessing that when you do fs.chmod() on a symlink in Moon Magic OS, it is like lchmod() and not like fs.chmod() on unix?

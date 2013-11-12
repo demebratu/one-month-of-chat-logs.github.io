@@ -1,0 +1,1 @@
+creationix: Having a lib/ directory allows you to single out the code from non-code resources like the README and such

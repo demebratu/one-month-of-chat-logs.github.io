@@ -1,0 +1,1 @@
+It sounds like ajax, unless he has a TCP server and not HTTP?

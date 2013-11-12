@@ -1,0 +1,1 @@
+those docs, by the way, can be found at: http://nodejs.org/docs/latest/api/all.html#all_url_resolve_from_to

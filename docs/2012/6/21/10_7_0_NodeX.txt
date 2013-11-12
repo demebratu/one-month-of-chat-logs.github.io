@@ -1,0 +1,1 @@
+single quotes in SQL need escaping else can lead to injection

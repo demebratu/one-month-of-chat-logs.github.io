@@ -1,0 +1,1 @@
+but there's no node-inspector on my path

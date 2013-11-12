@@ -1,0 +1,1 @@
+owen1: Node.js will use 100% CPU if it can, there's no benefit to having multiple instances

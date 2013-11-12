@@ -1,0 +1,1 @@
+point DNS to it and run your node thing on port 80

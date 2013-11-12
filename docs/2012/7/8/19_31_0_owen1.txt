@@ -1,0 +1,1 @@
+Glenjamin: actually the docs say it returns ClientRequest which is writable stream

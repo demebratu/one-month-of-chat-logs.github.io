@@ -1,0 +1,1 @@
+spectre256: new to node but maybe try "node debug youscript.js"

@@ -1,0 +1,1 @@
+owen1: nginx can load balance to m n instances but with only a single core machine the gains are questionable at best

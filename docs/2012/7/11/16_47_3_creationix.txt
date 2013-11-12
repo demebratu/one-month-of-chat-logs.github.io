@@ -1,0 +1,1 @@
+right, declaring functions is a runtime event in most scripting languages

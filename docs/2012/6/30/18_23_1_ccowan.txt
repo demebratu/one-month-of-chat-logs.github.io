@@ -1,0 +1,1 @@
+child_process is mainly for forking a command (from my understanding). You can also fork a process but I don't think that's the solution you're looking for.

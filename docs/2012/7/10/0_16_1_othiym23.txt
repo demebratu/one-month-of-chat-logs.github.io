@@ -1,0 +1,1 @@
+generators are just a pattern in JS / any language with closures, I'm trying to understand what value you get from rolling them up to the operator level

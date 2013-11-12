@@ -1,0 +1,1 @@
+I'm trying to do a simple http server, when a request is made it opens a file, pulls a value out using a regex and returns it to the user

@@ -1,0 +1,1 @@
+just wondering if the dnode server can invoke methods on the client as well

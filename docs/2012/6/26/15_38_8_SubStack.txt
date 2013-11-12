@@ -1,0 +1,1 @@
+AvianFlu: yeah I did that too and the memory stabilized with 10 concurrent connections going full throttle on 1 server at <40M

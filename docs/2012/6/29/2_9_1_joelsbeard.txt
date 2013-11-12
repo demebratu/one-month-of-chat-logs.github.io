@@ -1,0 +1,1 @@
+yeah, looks like process.exit() is what I need

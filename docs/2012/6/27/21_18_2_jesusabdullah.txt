@@ -1,0 +1,1 @@
+why would I want to dump everything in fs to a different namespace though?

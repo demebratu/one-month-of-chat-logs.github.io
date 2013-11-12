@@ -1,0 +1,1 @@
+you can write streaming parsers as readable/writable streams

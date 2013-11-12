@@ -1,0 +1,1 @@
+We need to stop thinking that way, that'll be the death of Node.js if there is one

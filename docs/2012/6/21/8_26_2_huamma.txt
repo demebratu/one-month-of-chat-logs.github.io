@@ -1,0 +1,1 @@
+I think so. If you want only json, you can use a send() instead of render() to send plain JSON

@@ -1,0 +1,1 @@
+you'll leave some bits hanging around in /usr/lib

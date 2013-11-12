@@ -1,0 +1,1 @@
+node: isaacs master * reb9b8f5 / (121 files in 16 dirs): npm: upgrade to 1.1.39 - http://git.io/xFieRg

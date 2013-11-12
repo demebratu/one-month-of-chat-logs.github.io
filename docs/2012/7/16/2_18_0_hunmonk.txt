@@ -1,0 +1,1 @@
+anybody have an idea how to get the id of a system user via node? i need to do it in a blocking fashion, and don't see any way to accomplish that

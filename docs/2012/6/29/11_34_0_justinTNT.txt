@@ -1,0 +1,1 @@
+wishes the makefile targetted python 2.4, or at least gave a meaningful error msg for it.

@@ -1,0 +1,1 @@
+Uh, I think I'm doing something wrong or Jade has messed up. doing script{:type => "text/javascript", :src  => "js/main.js"} in the jade template and I get <script>{:type => "text/javascript", :src  => "js/main.js"}</script> in the generated html :s

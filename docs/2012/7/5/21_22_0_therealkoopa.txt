@@ -1,0 +1,1 @@
+tjholowaychuk: I'm guessing the assert module also works well in the browser?

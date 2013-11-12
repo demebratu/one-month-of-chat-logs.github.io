@@ -1,0 +1,1 @@
+chapel, riak 500's when you try to access a key that's been deleted too soon

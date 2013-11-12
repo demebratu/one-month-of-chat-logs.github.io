@@ -1,0 +1,1 @@
+tjholowaychuk: the ideal would be to just plug a store engine to a resource, and index, create, show etc with their json xml etc would be automatically

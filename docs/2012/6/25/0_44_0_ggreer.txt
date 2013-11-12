@@ -1,0 +1,1 @@
+morale at work went wayyy up when my pair programming buddy and I switched to ruby. neither of us knew it, so it was really nice to suddenly have compact syntax and tons of mature libraries

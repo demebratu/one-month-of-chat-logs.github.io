@@ -1,0 +1,1 @@
+so what would macros give us? the ability for people to define their own syntax, without needing to wait on a committee

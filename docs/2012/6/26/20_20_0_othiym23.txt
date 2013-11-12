@@ -1,0 +1,1 @@
+Deathspike: var myDuder = require('./mymodule').myDuder;

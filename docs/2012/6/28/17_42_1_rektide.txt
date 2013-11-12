@@ -1,0 +1,1 @@
+there's no reason any file should deny doing stuff with stdio

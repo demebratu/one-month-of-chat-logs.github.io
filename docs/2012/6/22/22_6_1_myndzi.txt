@@ -1,0 +1,1 @@
+but when i do bar = new Class() and try to call bar.foo() it errors

@@ -1,0 +1,1 @@
+ragekitten: So I can operate on the objects returned

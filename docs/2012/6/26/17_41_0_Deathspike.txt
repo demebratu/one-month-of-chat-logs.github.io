@@ -1,0 +1,1 @@
+Can I iterate over files from within NodeJS?

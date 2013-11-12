@@ -1,0 +1,1 @@
+node was too bloated to run 5 processes on a phone at once

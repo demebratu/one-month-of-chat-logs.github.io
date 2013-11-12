@@ -1,0 +1,1 @@
+dshap: we have been using Knox for our S3 needs; it takes care of all the auth stuff.

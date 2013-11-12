@@ -1,0 +1,1 @@
+my node version was installed from the installer, on the node.js page

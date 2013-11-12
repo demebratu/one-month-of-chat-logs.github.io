@@ -1,0 +1,1 @@
+so i'm trying nave SubStack , and it can't see that i have v.0.8.0

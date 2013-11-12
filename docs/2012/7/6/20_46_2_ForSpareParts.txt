@@ -1,0 +1,1 @@
+dmilith: Seems like there's a lot of NoSQL going on around these parts, though, and I'm just completely new to it.

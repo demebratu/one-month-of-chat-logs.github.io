@@ -1,0 +1,1 @@
+hello i'm trying to initiate project with  express, hw running node_modules/express/bin/express raising SyntaxError:

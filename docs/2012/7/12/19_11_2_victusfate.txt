@@ -1,0 +1,1 @@
+so mount it in fstab with nfs

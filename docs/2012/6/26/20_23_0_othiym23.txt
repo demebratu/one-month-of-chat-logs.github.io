@@ -1,0 +1,1 @@
+there's a cache for loaded / compiled module, so you can require with gay abandon

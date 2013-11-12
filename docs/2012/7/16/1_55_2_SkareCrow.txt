@@ -1,0 +1,1 @@
+based on you talking about continue and it skipping over the good parts i'm just going with you using cont instead of step which will cause the debugger to run until the next breakpoint

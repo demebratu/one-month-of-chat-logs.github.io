@@ -1,0 +1,1 @@
+When I write using fs.writeSync(1) it will.

@@ -1,0 +1,1 @@
+anyone used `replace` in stylus? I am not able to make it work, it seems to replace the entire string either way

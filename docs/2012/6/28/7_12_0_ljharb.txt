@@ -1,0 +1,1 @@
+you're calling foo.equal() and foo is undefined.

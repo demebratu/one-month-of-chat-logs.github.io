@@ -1,0 +1,1 @@
+tnorris: seems this might be a case where an obvious name happens to be attached to one of the best libraries https://github.com/bestiejs/benchmark.js

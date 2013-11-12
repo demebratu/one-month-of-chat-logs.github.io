@@ -1,0 +1,1 @@
+distracteddev: no, i'm saying that the exists function is bullshit.  sync or async doesn't matter.

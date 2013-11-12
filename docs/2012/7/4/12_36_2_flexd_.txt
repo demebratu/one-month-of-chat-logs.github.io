@@ -1,0 +1,1 @@
+And I am wondering if those go in the repository as well, or if I can just run some command to get them all installed again without remembering all the names )

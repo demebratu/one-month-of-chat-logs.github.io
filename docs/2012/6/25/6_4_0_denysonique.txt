@@ -1,0 +1,1 @@
+a warning system in this case ie when prototypes are being overridden should solve the problem

@@ -1,0 +1,1 @@
+and I get an exception: TypeError: Object function model() {...} has no method 'getById' where the line 29 is

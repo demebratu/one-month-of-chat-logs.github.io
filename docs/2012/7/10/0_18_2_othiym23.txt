@@ -1,0 +1,1 @@
+Spion_: also, in most languages I know with yield as a keyword, it's synchronous (AFAIK it's sync in both Python and Ruby)

@@ -1,0 +1,1 @@
+hmm.  forgive the noob question, but .. is it normal for readFileSync to return .. an object?

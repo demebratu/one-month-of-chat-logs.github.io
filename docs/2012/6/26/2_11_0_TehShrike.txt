@@ -1,0 +1,1 @@
+I'm curious how people handle authentication and session keys in spinejs

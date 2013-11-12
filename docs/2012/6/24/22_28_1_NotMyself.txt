@@ -1,0 +1,1 @@
+gblock: no but it made me think to try getting growl working in isolation

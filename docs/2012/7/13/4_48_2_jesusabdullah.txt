@@ -1,0 +1,1 @@
+ljharb: for example, suppose I wanted a JSON api for NASCAR RACE RESULTS

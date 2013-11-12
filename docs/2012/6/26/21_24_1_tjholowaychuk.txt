@@ -1,0 +1,1 @@
+if you want - app.set('json spaces', 0) to remove the formatting

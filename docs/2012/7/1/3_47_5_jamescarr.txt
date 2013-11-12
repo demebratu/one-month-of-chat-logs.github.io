@@ -1,0 +1,1 @@
+Got a friend trying to use node in their app to allow users to write custom scripts that run in a sandbox, says they've hit performance problems

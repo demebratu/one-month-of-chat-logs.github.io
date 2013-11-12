@@ -1,0 +1,1 @@
+bradleymeck: why do you want to run scripts in non-package dirs?

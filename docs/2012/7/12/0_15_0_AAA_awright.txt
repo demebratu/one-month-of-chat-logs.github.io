@@ -1,0 +1,1 @@
+othiym23: I'm trying to use straight tautologistics/node-htmlparser... I think I've figured it out, the documentation is outdated and just awful

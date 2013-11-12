@@ -1,0 +1,1 @@
+isaacs: you ever see 'ld: fatal: file /opt/local/lib/libgif.so: wrong ELF class: ELFCLASS64' on smartos when using --dest-cpu=x64 and node-waf

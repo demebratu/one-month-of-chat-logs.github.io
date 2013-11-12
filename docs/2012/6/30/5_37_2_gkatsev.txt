@@ -1,0 +1,1 @@
+I installed google-chrome-unstable and it overrode google-chrome

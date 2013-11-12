@@ -1,0 +1,1 @@
+aheckmann: In mongoose, using update to increment a value (since $increment is deprecated) doesn't update the instance's value so you have to query for it again to get an updated instance. Is there a better way to do that?

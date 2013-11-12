@@ -1,0 +1,1 @@
+othiym23: http://www.2bs.nl/nodeconf2012/#1 interesting talk about libuv from nodeconf. i can't wait for the video

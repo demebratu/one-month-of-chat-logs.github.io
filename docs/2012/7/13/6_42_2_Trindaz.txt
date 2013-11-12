@@ -1,0 +1,1 @@
+llrcombs: true. Node's zlib requires it, as proved by the code I just ran after your suggestion about not using encodings.

@@ -1,0 +1,1 @@
+domains seem to centralize errors nicely, without having to plaster everything in try / catch blocks, etc.

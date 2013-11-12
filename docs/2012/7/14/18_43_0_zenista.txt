@@ -1,0 +1,1 @@
+and is it possible to complile or make an .exe of the whole project and send to ... the guys on other side and just double click it and start using it

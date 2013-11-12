@@ -1,0 +1,1 @@
+bradleymeck: what is the 'node binding' layer, between the standard library and the v8/libuv

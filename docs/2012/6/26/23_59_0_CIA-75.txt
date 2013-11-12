@@ -1,0 +1,1 @@
+node: Bert Belder reviewme * r0cdeb8e / (lib/fs.js test/simple/test-regress-GH-3542.js): windows: make fs.realpath(Sync) work with UNC paths - http://git.io/iK2ygw

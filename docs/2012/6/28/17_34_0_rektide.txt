@@ -1,0 +1,1 @@
+stagas: no, because modules don't have globals. any time the script is in a module, it'll run once.

@@ -1,0 +1,1 @@
+isaacs: https://github.com/isaacs/nave/blob/master/nave.sh#L327 http://stackoverflow.com/questions/3615627/solaris-equivalent-of-o-option-of-grep-on-linux

@@ -1,0 +1,1 @@
+I must say, express 3 is pretty brilliantly put together. The way apps uses (and is a) connect middlewares etc.

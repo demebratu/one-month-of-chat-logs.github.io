@@ -1,0 +1,1 @@
+AAA_awright: yeah, I personally thought it seemed like people just writing code to think through asynchronicity

@@ -1,0 +1,1 @@
+many of functions listed on that page say 'only available on posix'. kill does not have that.

@@ -1,0 +1,1 @@
+Less high up -> less abstracted | as in assembly is very low level, C++ is higher up because it abstracts stuff away from you

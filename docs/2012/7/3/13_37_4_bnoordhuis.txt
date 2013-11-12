@@ -1,0 +1,1 @@
+Piotras: yes. it's not strictly necessary because ObjectWrap's destructor is already virtual but it's good style

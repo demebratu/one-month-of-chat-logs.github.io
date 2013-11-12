@@ -1,0 +1,1 @@
+is socket.io safe to listen on outside document.ready ?

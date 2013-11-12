@@ -1,0 +1,1 @@
+(dummy window and some function mappings)

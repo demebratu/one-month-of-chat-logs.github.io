@@ -1,0 +1,1 @@
+prettyrobots, does it have to be bash? could it be just sh?

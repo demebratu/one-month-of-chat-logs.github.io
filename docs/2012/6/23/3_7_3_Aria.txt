@@ -1,0 +1,1 @@
+vrlogrs: That's the core of async programming. Things that you wait for get a callback. There is no 'halt and wait' in Node.

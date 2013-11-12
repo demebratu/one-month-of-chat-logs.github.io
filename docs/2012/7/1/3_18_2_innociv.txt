@@ -1,0 +1,1 @@
+How am I supposed to enable debug mode so I can, at a later point, attach a debugger?

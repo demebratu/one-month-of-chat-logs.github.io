@@ -1,0 +1,1 @@
+teadict: https://github.com/felixge/node-mysql/blob/master/Changes.md#v200-alpha-2012-05-15

@@ -1,0 +1,1 @@
+Hotroot: do something like this: https://github.com/isaacs/npm-www/blob/master/site.js#L35-40

@@ -1,0 +1,1 @@
+sriley: So I would end up with something like this, http://pastebin.com/MAZkHTna, or is there a more elegant way of doing it?

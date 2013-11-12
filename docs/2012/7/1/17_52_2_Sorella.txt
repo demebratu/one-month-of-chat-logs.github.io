@@ -1,0 +1,1 @@
+tankpilot, if you have a potentially infinite number of elements, you can use streams, and compose functions that work on streams.

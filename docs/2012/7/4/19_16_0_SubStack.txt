@@ -1,0 +1,1 @@
+PringlesCan: you could use a streaming json parser

@@ -1,0 +1,1 @@
+austinbv: if you think you need this for a {"scripts":{"test":"blahh"}} thing, then you're wrong: it'll be in the PATH already

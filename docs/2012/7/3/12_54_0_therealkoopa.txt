@@ -1,0 +1,1 @@
+I'm trying to figure out how to handle express sessions with socket.io.  There is a tutorial that uses connect.utils.parseCookie, but I no longer see that in connect.  Any idea what replaced it?

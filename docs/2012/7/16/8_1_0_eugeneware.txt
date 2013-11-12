@@ -1,0 +1,1 @@
+gates: on unix you could listen to events. See: http://nodejs.org/api/process.html#process_signal_events 

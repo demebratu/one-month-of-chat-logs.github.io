@@ -1,0 +1,1 @@
+does that work for you? in the request readme said that if you put "form" in the options .. it will form encode the body and put the right content type for the request

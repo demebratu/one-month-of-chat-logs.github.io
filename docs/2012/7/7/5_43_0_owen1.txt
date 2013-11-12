@@ -1,0 +1,1 @@
+does anyone got a link to a node talk that compared node's performance to other languages? i can't remember who presented. i believe it was issac but i am not sure.

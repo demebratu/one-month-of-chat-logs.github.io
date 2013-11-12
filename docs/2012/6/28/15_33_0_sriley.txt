@@ -1,0 +1,1 @@
+but why would it need to run js to know what to fetch, if its an app that is dependant on some user context then perhaps it doesnt need to be indexed beyond the login/welcome page

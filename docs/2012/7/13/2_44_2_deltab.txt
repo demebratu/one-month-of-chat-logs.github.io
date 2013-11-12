@@ -1,0 +1,1 @@
+Trindaz: you mean an http request? the headers should tell you that

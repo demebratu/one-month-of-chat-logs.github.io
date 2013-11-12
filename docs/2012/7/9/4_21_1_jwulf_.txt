@@ -1,0 +1,1 @@
+i'll go with mysql for now - change one variable at a time

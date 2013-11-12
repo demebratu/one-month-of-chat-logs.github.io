@@ -1,0 +1,1 @@
+it then says "> bson@0.0.6 install C:\Users\myuser\AppData\Roaming\npm\node_modules\mongodb\node_modules\bson"

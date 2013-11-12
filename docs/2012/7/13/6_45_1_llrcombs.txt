@@ -1,0 +1,1 @@
+Trindaz: because zlib doesn't _support_ string input

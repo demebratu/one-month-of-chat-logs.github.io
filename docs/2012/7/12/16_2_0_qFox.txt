@@ -1,0 +1,1 @@
+also, the docs at http://nodemanual.org/latest/js_doc/JSON.html#JSON.stringify seem to wrongly state that the value argument to stringify should be a String.

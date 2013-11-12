@@ -1,0 +1,1 @@
+another thing that rocks about tap is that there's no global test assertiony things

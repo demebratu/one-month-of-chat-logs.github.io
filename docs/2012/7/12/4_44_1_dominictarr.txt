@@ -1,0 +1,1 @@
+Nuck, what is easiest, and what I use mostly is just line seperated json.

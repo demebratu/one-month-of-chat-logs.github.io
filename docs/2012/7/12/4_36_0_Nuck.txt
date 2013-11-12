@@ -1,0 +1,1 @@
+Is Shoe a layer for WebSocket fallbacks, SubStack?

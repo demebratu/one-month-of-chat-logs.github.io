@@ -1,0 +1,1 @@
+and solaris has always had the best dtrace being where it was initially made

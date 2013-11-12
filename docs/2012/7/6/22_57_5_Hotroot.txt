@@ -1,0 +1,1 @@
+isaacs: So will socket.data go off for each of those chunks?

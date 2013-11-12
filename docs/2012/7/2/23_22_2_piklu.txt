@@ -1,0 +1,1 @@
+we lack highly scalable open source software like wordpress for node.js

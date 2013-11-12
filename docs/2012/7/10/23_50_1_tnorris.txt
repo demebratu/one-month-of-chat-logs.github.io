@@ -1,0 +1,1 @@
+dsirijus: run the following on your command line: `ps faux | grep ningx`

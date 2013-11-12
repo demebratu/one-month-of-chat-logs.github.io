@@ -1,0 +1,1 @@
+anything with IO is evented, hence the term 'evented IO'. CPU is blocking though

@@ -1,0 +1,1 @@
+Hmm, I am writing a websocket based app, what limitations do i need to be aware of? Im asking mostly because I know sockets use file descriptors and there is a maximum number of sockets i can have open at a time. SO I just want to check if there is anything else

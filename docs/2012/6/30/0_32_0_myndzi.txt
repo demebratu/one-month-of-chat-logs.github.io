@@ -1,0 +1,1 @@
+so the configure script in node 0.8.1 appears not to run properly on python 2.7

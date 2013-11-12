@@ -1,0 +1,1 @@
+seems like a "fast" way to "mirror" npm on your laptop

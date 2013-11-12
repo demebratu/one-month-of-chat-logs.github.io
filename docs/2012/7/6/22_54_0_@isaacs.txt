@@ -1,0 +1,1 @@
+var c = 0; sock.on('data', function (chunk) { c += chunk.length; if (c > 100000) { sock.write('too big, sorry') ; sock.destroySoon() }

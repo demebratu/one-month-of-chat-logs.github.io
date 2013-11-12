@@ -1,0 +1,1 @@
+so I'm using async foreachSeries, and for each file in the iterator function

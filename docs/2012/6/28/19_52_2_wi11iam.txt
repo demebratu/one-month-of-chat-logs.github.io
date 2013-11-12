@@ -1,0 +1,1 @@
+so ill loop over the dirs, if theres a jakefile, insert a task name into an array and register a task to exec the jakefile

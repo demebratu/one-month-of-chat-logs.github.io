@@ -1,0 +1,1 @@
+better question: has anyone been able to run the everyauth example app in 0.8.0?

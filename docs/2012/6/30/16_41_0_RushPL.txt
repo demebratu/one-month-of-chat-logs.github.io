@@ -1,0 +1,1 @@
+I would like to throw exception from C++/Node addon,  " Local<Value> arg1(args[0]);   if(!arg1->IsFunction()) { node::FatalException(...) "  - but I kind of do not know how to use the FatalException in such a use case.. what's the alternative?

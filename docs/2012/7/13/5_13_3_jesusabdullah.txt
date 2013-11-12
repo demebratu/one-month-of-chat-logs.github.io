@@ -1,0 +1,1 @@
+and websockets are a big market differentiator for us so we're pretty on top of ensuring socket.io works on it

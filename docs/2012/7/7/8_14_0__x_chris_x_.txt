@@ -1,0 +1,1 @@
+ich könnt vielleicht mal versuchen, die curl-timoutzeit für den php-request auf einen sehr niedrigen wert zu setzen und dann so eine große datei in node.js auslesen

@@ -1,0 +1,1 @@
+othiym23: tried socket.io between nodes... had trouble there.

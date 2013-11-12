@@ -1,0 +1,1 @@
+someone should write a php -> js compiler so these people can run php on the client.

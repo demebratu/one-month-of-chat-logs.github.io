@@ -1,0 +1,1 @@
+yeah i just thought there might be a flag somewhere that says "rendered x.style to /somewhere/here.css'

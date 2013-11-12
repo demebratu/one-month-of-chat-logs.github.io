@@ -1,0 +1,1 @@
+is it like Jquery works much on the client side while Node.js works on the server side? how can a javascript framework on the server side?

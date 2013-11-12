@@ -1,0 +1,1 @@
+or if I'm trying to install bson, it hangs at node install.js

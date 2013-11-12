@@ -1,0 +1,1 @@
+Which would take the `name` property of each object, invoke `toUpperCase` on that value, then call a shorten_name function which would prolly abbreviate some stuff.

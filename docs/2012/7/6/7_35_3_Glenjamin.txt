@@ -1,0 +1,1 @@
+you can almost do it with the "scripts" property in package.json, but not quite

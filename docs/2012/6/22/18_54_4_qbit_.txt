@@ -1,0 +1,1 @@
+gyp info spawn python2.7

@@ -1,0 +1,1 @@
+tjholowaychuk: I'm looking it it now. The code is 1.74k minified and gzipped.

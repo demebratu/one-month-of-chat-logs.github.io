@@ -1,0 +1,1 @@
+i tried hogan but i need some logic in my templates

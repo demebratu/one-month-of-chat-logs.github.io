@@ -1,0 +1,1 @@
+You can usually spot that sort of stuff easily by being smart about the return types =)

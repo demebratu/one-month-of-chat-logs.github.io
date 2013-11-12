@@ -1,0 +1,1 @@
+Killswitch: okay, you could create a symlink then. ln -s /usr/bin/node /usr/local/bin/node

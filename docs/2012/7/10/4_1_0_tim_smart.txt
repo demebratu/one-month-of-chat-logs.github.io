@@ -1,0 +1,1 @@
+prettyrobots: So you want to do something like child.stdout.pipe(other.stdin) child.stdout.pipe(other2.stdin)?

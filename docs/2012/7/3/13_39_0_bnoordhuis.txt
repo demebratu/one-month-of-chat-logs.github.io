@@ -1,0 +1,1 @@
+Piotras: then the js object hasn't been gc'd yet

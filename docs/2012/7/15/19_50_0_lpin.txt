@@ -1,0 +1,1 @@
+zeus, don't know if it's the correct method, but i changed this #node "`dirname "$0"`/../../node_modules/node-gyp/bin/node-gyp.js" "$@" 

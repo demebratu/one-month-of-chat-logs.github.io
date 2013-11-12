@@ -1,0 +1,1 @@
+That would find all "games" documents, and resolve their child "players" DBRef to it's actual object.

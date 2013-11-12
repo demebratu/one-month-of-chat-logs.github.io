@@ -1,0 +1,1 @@
+but I would really like to have my local npm bins run without qualifying the path

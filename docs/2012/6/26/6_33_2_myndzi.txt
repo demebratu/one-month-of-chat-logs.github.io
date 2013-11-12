@@ -1,0 +1,1 @@
+i had done var self = foo = this

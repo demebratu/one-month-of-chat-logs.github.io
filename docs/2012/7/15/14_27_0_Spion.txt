@@ -1,0 +1,1 @@
+oh its not that bad. there are two types of streams there. seems like a writable stream only needs write and pipe

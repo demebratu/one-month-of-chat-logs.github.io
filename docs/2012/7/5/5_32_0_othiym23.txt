@@ -1,0 +1,1 @@
+here's the entirety of my notes on felixge's talk: "daaaaaaamn boyyyyyy — writing code on the fly" and "your stream parsers need to be resumable and deal only with the data you’ve received so far"

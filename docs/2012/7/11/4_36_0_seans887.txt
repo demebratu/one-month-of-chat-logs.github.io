@@ -1,0 +1,1 @@
+i'm using forever to run my app which i thought would help me out, but in this case the app isn't being restarted because it's not failing, it just hangs until its manually restarted

@@ -1,0 +1,1 @@
+[root@141-138-141-225 nodejs]# cc --version cc (GCC) 4.4.6 20110731 (Red Hat 4.4.6-3)

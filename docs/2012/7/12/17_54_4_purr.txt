@@ -1,0 +1,1 @@
+DTrejo: ReferenceError: global is not defined

@@ -1,0 +1,1 @@
+does anyone here use the sqlite3 module? I am having trouble deploying with that dependency... when I try to start node it throws an error "Unable to load shared library .../sqlite3_bindings.node" 

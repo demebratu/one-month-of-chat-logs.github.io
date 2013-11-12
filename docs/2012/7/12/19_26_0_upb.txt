@@ -1,0 +1,1 @@
+yes, make sure you use javascript floats for everything involving money

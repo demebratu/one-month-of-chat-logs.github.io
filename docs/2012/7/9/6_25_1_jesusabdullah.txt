@@ -1,0 +1,1 @@
+I like interfaces with more orthogonality than that

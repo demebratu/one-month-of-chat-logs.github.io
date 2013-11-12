@@ -1,0 +1,1 @@
+nwillems: make a function called setKey that takes a key and a callback

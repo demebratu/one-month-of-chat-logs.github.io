@@ -1,0 +1,1 @@
+jesusabdullah there's probably more value in aggregating those same components into a flatiron / express type of thing anyway so you're not forcing a shit ton of tests on your application

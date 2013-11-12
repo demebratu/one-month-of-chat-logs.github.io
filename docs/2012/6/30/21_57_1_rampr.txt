@@ -1,0 +1,1 @@
+okay. Content Encoding is gzip now. but I still have the same issue now

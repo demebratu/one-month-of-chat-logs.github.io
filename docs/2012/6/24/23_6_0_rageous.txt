@@ -1,0 +1,1 @@
+gblock: Sorry, stepped away for a moment. Yeah, it cannot find my path, and of course, the earlier issue of node-sqlite not installing under npm due to an issue in makinging node-waf

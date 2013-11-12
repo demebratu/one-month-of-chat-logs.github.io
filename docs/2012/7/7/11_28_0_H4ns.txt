@@ -1,0 +1,1 @@
+hi, is there a json serialization library that can preserve prototype information of objects?

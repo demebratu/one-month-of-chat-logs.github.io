@@ -1,0 +1,1 @@
+IRC doesn't allow newlines in messages, I'm pretty certain

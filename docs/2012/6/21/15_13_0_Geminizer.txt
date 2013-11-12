@@ -1,0 +1,1 @@
+Hey guys... could anyone explain why I can run 'apt-get install nodejs' on ubuntu 11 but not ubuntu 10 ?  Am I missing something?

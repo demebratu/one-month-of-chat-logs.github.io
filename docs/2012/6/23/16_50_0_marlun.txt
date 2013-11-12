@@ -1,0 +1,1 @@
+SubStack: Not sure if you have insight into the backbone-browserify module but I'm still getting an error inside backbone where $ is undefined, even though I've required both jquery-browserify and backbone-browserify.

@@ -1,0 +1,1 @@
+Anything slower than ram is basically non-blocking in node.

@@ -1,0 +1,1 @@
+chimeracoder node uses callbacks all over the place

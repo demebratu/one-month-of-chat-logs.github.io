@@ -1,0 +1,1 @@
+muchzill4: keep in mind that node "only" does i/o async. the code you write is sync (simply put). if you want to write true async code, only process small chunks and use process.nextTick() -> http://howtonode.org/understanding-process-next-tick

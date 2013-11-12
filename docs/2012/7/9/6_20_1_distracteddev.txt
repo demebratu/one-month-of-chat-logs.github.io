@@ -1,0 +1,1 @@
+BUT, nodejitsu's API-easy module takes all the crap away from vows and gives you one crazy easy framework to test your REST apis

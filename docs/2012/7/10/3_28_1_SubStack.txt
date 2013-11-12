@@ -1,0 +1,1 @@
+and if you need fancy things like rpc you can use dnode or rpc-stream as a separate readable/writable stream channel on the mux-demux

@@ -1,0 +1,1 @@
+I'm sure this is a noob question but i can't figure it out so here goes. i used npm install -g zombie and i'm doing require("zombie") in my code, but it still can't find the module. Why is this happening? Shouldn't the zombie module have been installed globally?

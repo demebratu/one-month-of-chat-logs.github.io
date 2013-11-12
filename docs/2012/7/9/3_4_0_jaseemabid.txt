@@ -1,0 +1,1 @@
+[HELP] I just want to know if require('./somefile.js') is async or sync. 

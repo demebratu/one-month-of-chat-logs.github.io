@@ -1,0 +1,1 @@
+bnoordhuis: i use it in an application as a way to know who's connecting to me

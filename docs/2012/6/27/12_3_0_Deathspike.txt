@@ -1,0 +1,1 @@
+Apathetic: Just remember to read and ask questions when you get stuck! I just started 2 days ago, and it takes some time wrapping your head around all of this, but in my opinion, it's worth the invested time (coming from an ASP.NET and PHP environment myself).

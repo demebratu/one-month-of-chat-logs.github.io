@@ -1,0 +1,1 @@
+then do something to trigger exit. You shouldn't be stopping a server with SIGINT anyway.

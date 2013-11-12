@@ -1,0 +1,1 @@
+Phoenixz: but `sudo make install` afterwards should work without recompiling

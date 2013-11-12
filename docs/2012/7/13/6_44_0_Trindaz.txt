@@ -1,0 +1,1 @@
+so here's another thing that i just don't get about encoding: what is so bad about storing the data in a string before then sending it gzip? why is gzip so unable to just automatically unzip string data if it's so great when dealing directly with a buffer?

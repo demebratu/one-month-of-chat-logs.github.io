@@ -1,0 +1,1 @@
+stream-like API for websockets

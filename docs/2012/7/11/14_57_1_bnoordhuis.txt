@@ -1,0 +1,1 @@
+vicapow: the tl;dr is that node/v8 reserved 728 mb but only used up 2.18 mb so far

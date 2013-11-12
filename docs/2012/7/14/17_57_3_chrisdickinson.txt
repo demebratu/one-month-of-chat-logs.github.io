@@ -1,0 +1,1 @@
+every time i hear someone complain about JS, i point them at torquescript and cackle a little to myself.

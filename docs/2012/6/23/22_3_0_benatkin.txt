@@ -1,0 +1,1 @@
+scruz: how long is your buffer, anyway. what's buf.length return?

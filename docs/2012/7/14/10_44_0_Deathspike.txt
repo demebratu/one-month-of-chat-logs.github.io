@@ -1,0 +1,1 @@
+i.e. I know of phpjs.org which basically ports php funcs to js and that has stuff like a simple trim() with char lists. Isn't there something true to js that extends existing obj with these kind of util funcs?

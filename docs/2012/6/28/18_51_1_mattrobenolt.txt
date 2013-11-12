@@ -1,0 +1,1 @@
+isaacs would have a better opinion of Couch, since the entire npm registry runs on it.

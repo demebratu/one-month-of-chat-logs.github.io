@@ -1,0 +1,1 @@
+regality: It did the same thing after an npm cache clean, unfortunately. 

@@ -1,0 +1,1 @@
+nosql does weigh out sql in the community for sure, but sql support isn't dead or anything

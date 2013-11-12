@@ -1,0 +1,1 @@
+hi.   i have an application that needs to store json documents and needs atomic updates on them.  i want lightweight deployment.  is there a dbms that fits my bill?

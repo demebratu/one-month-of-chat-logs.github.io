@@ -1,0 +1,1 @@
+function escapeStr(str) { return str.replace(str,'\'+str); }

@@ -1,0 +1,1 @@
+the timing is triggered by the user of the application. I have found node-cron, but I am not sure if those jobs persist across process restarts

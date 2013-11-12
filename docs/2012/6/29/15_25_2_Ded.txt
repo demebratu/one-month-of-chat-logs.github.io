@@ -1,0 +1,1 @@
+drudge\work, so, instead "something.domain.com" i can put "localhost/something"?

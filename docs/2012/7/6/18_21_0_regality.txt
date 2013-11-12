@@ -1,0 +1,1 @@
+or if some dumbass put a throw in a process.nextTick or something

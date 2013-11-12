@@ -1,0 +1,1 @@
+So if I understand you right, this should work? http://jsfiddle.net/pSJQY/

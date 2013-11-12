@@ -1,0 +1,1 @@
+ljharb: I would suggest that you read more about dnode and nowjs if you wish to disagree with them, because you have absolutely no idea how they work.

@@ -1,0 +1,1 @@
+You would get the file descriptor from something like `fs.open`

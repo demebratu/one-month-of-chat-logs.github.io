@@ -1,0 +1,1 @@
+then toString("hex") will get a hex string of the bytes

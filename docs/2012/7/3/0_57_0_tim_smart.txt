@@ -1,0 +1,1 @@
+For some reason a lot of people think it is a myth that you can code plain async javascript without making mountains.

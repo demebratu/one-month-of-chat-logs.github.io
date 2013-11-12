@@ -1,0 +1,1 @@
+prettyrobots: yes, windows friendly for the most part :p

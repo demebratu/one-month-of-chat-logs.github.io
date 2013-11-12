@@ -1,0 +1,1 @@
+in fact, "npm outdated" and "npm update" both seem to die silently midway through

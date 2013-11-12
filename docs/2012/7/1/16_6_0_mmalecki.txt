@@ -1,0 +1,1 @@
+chanced: event listeners are invoked synchronously

@@ -1,0 +1,1 @@
+I'm curious about a pattern I've seen during my second node day.  Do you guys ever do return callback(); to keep from having to nest code and/or type return; on a new line?

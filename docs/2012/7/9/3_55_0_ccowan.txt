@@ -1,0 +1,1 @@
+I have a utils library where I setup the connection pool… so anytime I need a mysql connection I call utils.pool.mysql.acquire(function (err, client) {})

@@ -1,0 +1,1 @@
+Quick use of prototypes compared to the typical class stuff.

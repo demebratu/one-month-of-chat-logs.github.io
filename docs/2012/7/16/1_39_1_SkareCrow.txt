@@ -1,0 +1,1 @@
+npm installs to the same directory as node

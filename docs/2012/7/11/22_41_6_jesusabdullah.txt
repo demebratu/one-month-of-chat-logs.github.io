@@ -1,0 +1,1 @@
+pawn: whereas with regular sockets, or socket.io, it's strictly client-server

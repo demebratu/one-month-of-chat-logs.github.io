@@ -1,0 +1,1 @@
+innociv: either way, node-mysql should work with 0.8 and comes from the magnificent felixge :)

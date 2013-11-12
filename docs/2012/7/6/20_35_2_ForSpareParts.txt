@@ -1,0 +1,1 @@
+dmilith: Rails seems like it'd be great if I understood every single thing it was doing. As a newbie, that's been driving me batshit. Everything is magic, constantly.

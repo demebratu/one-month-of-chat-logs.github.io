@@ -1,0 +1,1 @@
+So I have to use a dummy pointless variable outside the callback in order to store the class

@@ -1,0 +1,1 @@
+Browsers, and jscript as a scripting language, and the jslibs project, etc.

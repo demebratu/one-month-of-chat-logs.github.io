@@ -1,0 +1,1 @@
+Aloha.  Node newbie here.  Trying to get my app setup to use stylus and nib libraries but keep coming up against:  "failed to locate @import file nib.styl" error :(   looked at https://github.com/visionmedia/nib/issues/11 but didnt get much out of it

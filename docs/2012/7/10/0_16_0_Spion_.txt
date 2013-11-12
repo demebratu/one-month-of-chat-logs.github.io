@@ -1,0 +1,1 @@
+here is a highly unoptimized example, for (var k = 0; k < 10; ++k) { var res = yield db.find({id: k}); console.log(res.name); }

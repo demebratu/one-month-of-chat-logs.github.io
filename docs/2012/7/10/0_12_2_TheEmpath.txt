@@ -1,0 +1,1 @@
+PHP is in a state where they have closures, but they are crappy, and so your callbacks are like HTTP REST callbacks

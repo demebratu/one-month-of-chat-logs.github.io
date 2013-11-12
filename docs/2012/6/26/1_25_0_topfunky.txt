@@ -1,0 +1,1 @@
+Is there any way to force a version of a library? socket.io won't install on 0.8 because of commander, but it appears that commander 0.6.1 should be ok: http://search.npmjs.org/#/commander

@@ -1,0 +1,1 @@
+you can throw nginx or another load balancer in front, or drop privileges after listening on port 80, or set up a firewall rule to redirect port 80 to a higher port internally

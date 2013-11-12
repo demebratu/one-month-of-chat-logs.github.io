@@ -1,0 +1,1 @@
+Jakey: learn some scheme, then learn about call-with-current-continuation.. or learn about coroutines,.. or about generators,..

@@ -1,0 +1,1 @@
+i want /var/www/foo/assets and /var/www/bar/assets but then i have to use 1 single location

@@ -1,0 +1,1 @@
+maxogden: buffered stream worked great, thanks. i didn't even think about it

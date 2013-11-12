@@ -1,0 +1,1 @@
+The idea is that the function runs on each element until it succeeds, it'll return an error of that element didn't work out, and I'd like to call the function again on the next element when that happens

@@ -1,0 +1,1 @@
+You have to interpret the full set of terminal capabilities, then dumb it down for what's actually connected.

@@ -1,0 +1,1 @@
+konobi: make sure you use NODE_MODULE(node_foo, init_func). the node_ prefix is mandatory btw

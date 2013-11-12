@@ -1,0 +1,1 @@
+getting the following error for any npm commands i run: Error: npm doesn't work with node v0.8.2

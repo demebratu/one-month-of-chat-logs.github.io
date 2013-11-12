@@ -1,0 +1,1 @@
+and currently the code is: global.__defineGetter__('console', function() { return NativeModule.require('console'); });

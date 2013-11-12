@@ -1,0 +1,1 @@
+im having hard time making a route for a new page on express, where do i have to state the views and stuff. I've made it like the index page, but the page just wont appear. Giving me 404 Cannot Get page.js

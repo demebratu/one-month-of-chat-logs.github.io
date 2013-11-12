@@ -1,0 +1,1 @@
+benatkin: automatic amd wrapping of libs sucks sometimes

@@ -1,0 +1,1 @@
+Does node accept pulls on a specific day?

@@ -1,0 +1,1 @@
+othiym23 RE your use of the term 'idiomatic': http://blog.izs.me/post/25906678790/on-es-6-modules "However, it is widely acknowledged in the node community that using the module.exports = xyz style generally results in better programs. "

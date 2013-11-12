@@ -1,0 +1,1 @@
+hichaelmart: the streams api is due to be reworked, i think that's what isaacs wants to wait for

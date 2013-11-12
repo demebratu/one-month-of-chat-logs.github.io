@@ -1,0 +1,1 @@
+bnoordhuis, yes, i'm basically using mikeal's request, fetching an RSS feed, then returning it with Express as json

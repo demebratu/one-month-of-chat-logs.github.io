@@ -1,0 +1,1 @@
+I've decided I very much like it when tests can be ran standalone, but vows does the old-school exports-based testing thing

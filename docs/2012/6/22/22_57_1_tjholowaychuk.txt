@@ -1,0 +1,1 @@
+what does it give you without encoding set to null?

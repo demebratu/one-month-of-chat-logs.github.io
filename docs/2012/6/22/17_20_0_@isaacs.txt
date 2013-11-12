@@ -1,0 +1,1 @@
+jcoglan: so, looks like whatever the bug is, it's fixed now.

@@ -1,0 +1,1 @@
+... Okay when I do forevre --debug start script.js it is outputting to console. When I ctrl+x out of it, I see TWO processes running for the script.

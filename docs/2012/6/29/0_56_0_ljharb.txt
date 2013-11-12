@@ -1,0 +1,1 @@
+except that working with xml in javascript sucks, and working with json is a breeze

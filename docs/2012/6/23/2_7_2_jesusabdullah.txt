@@ -1,0 +1,1 @@
+Masyl: rest, streaming http and websockets will all work

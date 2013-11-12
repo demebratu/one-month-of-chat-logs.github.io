@@ -1,0 +1,1 @@
+SkareCrow: you are right, I placed another debugger statement, way ahead of where I thought the problem was, and it worked just fine, and found a different problem that I expected

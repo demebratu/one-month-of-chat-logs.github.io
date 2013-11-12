@@ -1,0 +1,1 @@
+It's not going to emit a data event before the event loop finishes it's current pass, so you don't have to worry about it emitting before you bind.

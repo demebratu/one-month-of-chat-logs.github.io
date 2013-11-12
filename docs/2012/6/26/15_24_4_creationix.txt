@@ -1,0 +1,1 @@
+I don't know about express, but it should be quite possible to mount app instances inside a parent app

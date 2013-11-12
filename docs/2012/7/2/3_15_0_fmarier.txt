@@ -1,0 +1,1 @@
+is there a way to limit the size of the body that will be returned by an http.ClientRequest?

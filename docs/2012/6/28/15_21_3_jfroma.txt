@@ -1,0 +1,1 @@
+I am having problems with npm when using the "n" version manager... it says "Error: Cannot find module '../lib/utils/log.js'"... any idea?

@@ -1,0 +1,1 @@
+owen1: do you mean closures? Clojure is the name of a particular language

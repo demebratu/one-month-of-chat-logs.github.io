@@ -1,0 +1,1 @@
+Cool! I was thinking in use ffmpeg to publish to the server. And the server republish to the clients

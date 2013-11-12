@@ -1,0 +1,1 @@
+TimeTurner: Okay, when trying to access self.clientCount, I get: ReferenceError: self is not defined

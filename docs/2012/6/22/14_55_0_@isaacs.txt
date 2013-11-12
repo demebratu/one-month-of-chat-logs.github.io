@@ -1,0 +1,1 @@
+TimeTurner: re util.inherits: when you do MyStream.prototype = new events.EventEmitter, you're *also* calling the EventEmitter function on your prototype

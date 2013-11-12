@@ -1,0 +1,1 @@
+What's the best alternative for doing some background calculations, like tasks? Similar to Resque in the Ruby world would be awesome, but if there's better alternatives I'd be glad to check them out.

@@ -1,0 +1,1 @@
+If running code in node that does calculation, I assume there will only be one thread.

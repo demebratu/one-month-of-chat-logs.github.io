@@ -1,0 +1,1 @@
+that was early test code to make sure I understood how to work with stdin and stdout

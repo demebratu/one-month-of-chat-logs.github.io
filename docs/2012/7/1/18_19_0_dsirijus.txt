@@ -1,0 +1,1 @@
+and i could make a self signed wild card cert there

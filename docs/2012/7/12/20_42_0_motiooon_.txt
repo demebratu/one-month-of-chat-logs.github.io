@@ -1,0 +1,1 @@
+so the case is that I'm using async forEachSeries (array, worker, callbac)

@@ -1,0 +1,1 @@
+djazz: can you boil it down to something that doesn't use rfcomm, so others can test your code on their machines easily? because for all i know from that pastebin this might be a problem with rfcomm. (though, i have had problems with child process stdout and have heard it's a bit of a clusterfuck)

@@ -1,0 +1,1 @@
+it wouldnt be a route, but yes you can use middleware to add something before the route is chosen

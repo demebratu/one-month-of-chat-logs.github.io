@@ -1,0 +1,1 @@
+lol, no, the fact that we're testing on IE6 on Windows CE

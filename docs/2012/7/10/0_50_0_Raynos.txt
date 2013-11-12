@@ -1,0 +1,1 @@
+if I have a stream and it emits an error

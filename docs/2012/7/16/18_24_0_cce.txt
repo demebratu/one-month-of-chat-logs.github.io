@@ -1,0 +1,1 @@
+prettyrobots: well, the translator itself is where things get complicated, I'm not sure you'd want to implement the language without doing a literal copy (at least, if your goal is to do it in a modest timeframe)

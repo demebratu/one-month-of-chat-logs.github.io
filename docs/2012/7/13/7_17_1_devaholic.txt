@@ -1,0 +1,1 @@
+if its the former, just flip a bit, if its the latter, use a lockfile like jesusabdullah said

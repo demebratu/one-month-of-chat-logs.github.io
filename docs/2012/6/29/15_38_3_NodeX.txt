@@ -1,0 +1,1 @@
+Ded : locations live in server{} blocks

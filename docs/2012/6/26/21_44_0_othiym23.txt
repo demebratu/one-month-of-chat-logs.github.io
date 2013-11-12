@@ -1,0 +1,1 @@
+Mantic: another way to do it would be to create a bin directory in your local directory on the host, ln -s /path/to/python2.7.3 ~/bin/python, and then add $HOME/bin to the head of your PATH

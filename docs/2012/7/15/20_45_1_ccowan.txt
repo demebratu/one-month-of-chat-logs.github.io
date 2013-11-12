@@ -1,0 +1,1 @@
+you can also change the networking mode so it acts like another computer on the network

@@ -1,0 +1,1 @@
+Socket.io tries to serve a script to the client so that you have one API exposed for graceful fallback from websockets (optimal choice) to AJAX polling, etc.

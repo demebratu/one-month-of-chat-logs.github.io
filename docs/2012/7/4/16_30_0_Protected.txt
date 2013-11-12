@@ -1,0 +1,1 @@
+A little noob question. In JS, apparently, I can access from within a function variables assigned outside it. Does this also apply to object instances?

@@ -1,0 +1,1 @@
+When it comes to RPC, or should I say RMI, how is scope sent with the remote function call?

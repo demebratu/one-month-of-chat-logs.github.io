@@ -1,0 +1,1 @@
+lets say our Redis fits within 2GB our database Fits in 1G and we run it on a 8G slice

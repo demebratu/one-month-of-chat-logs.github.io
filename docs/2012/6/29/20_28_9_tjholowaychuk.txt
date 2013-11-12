@@ -1,0 +1,1 @@
+just $ node scripts/setup-es blah blah

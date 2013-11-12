@@ -1,0 +1,1 @@
+tjholowaychuk: jeez can't you tell from the code he pasted? it's obviously the emit() call.

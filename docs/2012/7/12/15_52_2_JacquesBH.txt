@@ -1,0 +1,1 @@
+but if someone is a good dev, I think you can give me some best practices ?  I'm magento developer... not nodejs :(

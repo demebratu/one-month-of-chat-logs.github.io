@@ -1,0 +1,1 @@
+Murvin: so... it's not actually crashing. but it does crash when you run `sudo node`?

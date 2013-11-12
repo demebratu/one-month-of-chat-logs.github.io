@@ -1,0 +1,1 @@
+do those 2 functions execute one after another? (altho order is not guaranteed)

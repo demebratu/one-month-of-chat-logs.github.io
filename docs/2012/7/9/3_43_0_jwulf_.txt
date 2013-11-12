@@ -1,0 +1,1 @@
+should i try to manage database connection pooling, or just create a new connection with every query?

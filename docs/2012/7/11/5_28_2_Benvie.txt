@@ -1,0 +1,1 @@
+in that case, assuming you knew it was simply doing a mock 30 second wait, you could optimize around it

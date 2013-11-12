@@ -1,0 +1,1 @@
+isaacs: thanks for the tip -- I was testing something on node-0.4 though, I dubt latest npm works there

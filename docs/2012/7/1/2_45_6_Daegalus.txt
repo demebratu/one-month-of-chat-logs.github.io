@@ -1,0 +1,1 @@
+Nexxy: yup, but anyways, i just wont use Trigger, but I've been looking for so long for a good JS layer for all 3 platforms. Phonegap is nice, but it doesnt have UI translation to creative native UIs like Trigger.io does

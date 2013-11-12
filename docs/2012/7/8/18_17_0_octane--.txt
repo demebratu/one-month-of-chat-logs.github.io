@@ -1,0 +1,1 @@
+brianloveswords: just catch it and console log it instead of the server peaking out on me 

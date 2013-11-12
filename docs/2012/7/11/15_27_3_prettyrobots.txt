@@ -1,0 +1,1 @@
+Well, but Node.js is not going to behave in an IDE the same way that VisualBasic behaves.

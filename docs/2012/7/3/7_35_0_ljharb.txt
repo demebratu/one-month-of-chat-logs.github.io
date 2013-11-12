@@ -1,0 +1,1 @@
+it's not integrated with it. it's a protocol. my irc client doesn't pretend its on the server

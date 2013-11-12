@@ -1,0 +1,1 @@
+I mean, if you actually need to stream out a ton of null bytes, that makes sense

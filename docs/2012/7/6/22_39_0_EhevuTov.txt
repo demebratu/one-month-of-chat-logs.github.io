@@ -1,0 +1,1 @@
+Hotroot, I wonder if you could stream it in and use something like util.pump() There use to be a way of like?turning on and off your stream depending on how much you want http://nodejs.org/api/util.html#util_util_pump_readablestream_writablestream_callback

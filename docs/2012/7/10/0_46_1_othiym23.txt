@@ -1,0 +1,1 @@
+mocha --watcher + wrapping all yr code in fuckit.js and everything will be awesome

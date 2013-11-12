@@ -1,0 +1,1 @@
+dnode clients don't pretend they're on the dnode server, they just use a protocol.

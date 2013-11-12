@@ -1,0 +1,1 @@
+node-inspector is for web-related node. node debug is for non-weby stuff

@@ -1,0 +1,1 @@
+timoxley: In the original gist, the error was thrown before expect() was evaluated, at least from my understanding

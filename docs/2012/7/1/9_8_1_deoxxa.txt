@@ -1,0 +1,1 @@
+actually it's the opposite i'd say - they're forking another process and closing their std{in,out,err} streams on their own

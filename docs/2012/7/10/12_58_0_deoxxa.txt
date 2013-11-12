@@ -1,0 +1,1 @@
+as i said earlier today, the video on the front page of nodejs.org explains the basics pretty well

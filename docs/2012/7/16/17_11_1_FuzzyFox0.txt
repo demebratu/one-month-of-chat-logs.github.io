@@ -1,0 +1,1 @@
+long shot.... remove the npm module from node by `rm -R /usr/lib/node_modules/npm`

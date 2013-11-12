@@ -1,0 +1,1 @@
+spolu: Read up on ip spoofing and its limitations and you should be convinced.

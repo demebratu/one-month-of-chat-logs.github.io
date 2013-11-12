@@ -1,0 +1,1 @@
+that callbacks made my code async, but someone told me they did not. Wth? I've

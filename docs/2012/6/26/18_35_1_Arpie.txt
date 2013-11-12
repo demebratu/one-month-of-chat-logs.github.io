@@ -1,0 +1,1 @@
+I believe that's right, and I think it's the same as doing new Date(string)

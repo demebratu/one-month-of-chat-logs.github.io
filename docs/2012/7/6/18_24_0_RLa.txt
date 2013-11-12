@@ -1,0 +1,1 @@
+btw, what happends with a db driver that lazily creates its connection, will it be then bound to the random domain that happened to run the connection code?

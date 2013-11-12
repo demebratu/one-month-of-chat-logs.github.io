@@ -1,0 +1,1 @@
+triple_des > var scheduler = {} and then you use something like socket.on('joinroom', function (data) { scheduler[session_id] = setTimeout(

@@ -1,0 +1,1 @@
+Stephen: I get the error on client side, but I guess its obvious, since right after the error happens, if I try to load the socket.io.js file directly, I get an empty document from the server..

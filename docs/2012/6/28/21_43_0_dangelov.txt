@@ -1,0 +1,1 @@
+so i have a small chat app using express, jade and socket.io. The app works properly on my localhost with the exact same packages installed (via npm install, for both installations), but when on the server, the app can't find the socket.io client file. Any ideas?

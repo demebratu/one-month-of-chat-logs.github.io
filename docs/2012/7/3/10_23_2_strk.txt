@@ -1,0 +1,1 @@
+program .version(require('../package').version)

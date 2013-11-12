@@ -1,0 +1,1 @@
+Is there an alternative to jsdom to scrape external html pages? I used super-agent to fetch the html but processing it.. do I really need an external lib for this (js does have a dom, doesnt it)? Problem of jsdom is mainly that it doesnt play well on windows.

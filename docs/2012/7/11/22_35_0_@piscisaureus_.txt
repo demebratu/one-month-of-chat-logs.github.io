@@ -1,0 +1,1 @@
+isaacs: but yes, it tracks permissions for symlinks

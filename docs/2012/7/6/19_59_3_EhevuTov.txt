@@ -1,0 +1,1 @@
+H4ns, sounds like you want a levelDB or a sqlite? What kind of queries are you going to do on it? Just a simple query to retrieve the entire doc?

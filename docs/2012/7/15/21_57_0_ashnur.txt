@@ -1,0 +1,1 @@
+hmm. node inspector needs a browser, it's cute, but if I wanted I could just wrote a bit different code and have this by default, that's where I started.

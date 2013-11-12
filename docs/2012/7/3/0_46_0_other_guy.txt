@@ -1,0 +1,1 @@
+tbranyen, I don't believe you.  CoffeeScript *must* have been a decision by a frustrated committee of Ruby developers trying insanely to force Python and Ruby to have a bastard love child in a Javascript shaped test tube.

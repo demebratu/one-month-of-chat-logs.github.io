@@ -1,0 +1,1 @@
+then transfer the files and add one line to .bashrc

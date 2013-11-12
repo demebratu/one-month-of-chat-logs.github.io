@@ -1,0 +1,1 @@
+Noor_: I have the user's email. i plan to send the email on each requet. is that relevant?

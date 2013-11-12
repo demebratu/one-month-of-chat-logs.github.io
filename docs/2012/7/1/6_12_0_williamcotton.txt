@@ -1,0 +1,1 @@
+gblock: yeah, if I didn't do the toString('binary') on the way in in, redis seems to do a toString()… and not of binary

@@ -1,0 +1,1 @@
+bradleymeck: unless we're talking about an external fork module, fork isn't available in 0.4.   with spawn, is there a 2-way communication?  i was under the impression if i wanted to get the output back, i needed to use exec .. or is that just a buffered version

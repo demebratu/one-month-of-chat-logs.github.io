@@ -1,0 +1,1 @@
+bradleymeck: I think what I was doing was using emitting a connection event from socket.io and in that was attaching multiple listeners to each connect event

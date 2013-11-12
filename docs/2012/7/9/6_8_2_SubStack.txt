@@ -1,0 +1,1 @@
+I find that preferrable to patching the global assert module

@@ -1,0 +1,1 @@
+I was going to dynamically hook the libuv calls and stub them out but since it's a statically linked binary I can't. I need to look at the binding layer and see if I can do it there instead

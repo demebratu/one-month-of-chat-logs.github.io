@@ -1,0 +1,1 @@
+isaacs: remember in argentina when I asked you about using spawn with git clone?

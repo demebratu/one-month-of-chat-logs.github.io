@@ -1,0 +1,1 @@
+Now. I saw nowjs as a alternative to socket.io. Is or could dnode be considered a alternative to socket.io?

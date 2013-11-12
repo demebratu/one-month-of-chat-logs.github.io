@@ -1,0 +1,1 @@
+like, can I do something like: io.socket.on('heartbeat', function { // do stuff }); ?

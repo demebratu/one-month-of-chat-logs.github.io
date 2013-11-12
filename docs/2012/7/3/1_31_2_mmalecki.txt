@@ -1,0 +1,1 @@
+right, are you using something like connect, union, buffered stream?

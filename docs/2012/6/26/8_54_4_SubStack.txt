@@ -1,0 +1,1 @@
+woeye: yep I wouldn't use node if I wanted things like scaffolding or form building or auth plugins

@@ -1,0 +1,1 @@
+xy77: it has databases, which can have collections (see it as tables)

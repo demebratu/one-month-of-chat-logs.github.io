@@ -1,0 +1,1 @@
+I've exposed my apps cli through telnet with the "net" module… but telnet sucks. My ideal scenario is to have it accessible via ssh without having to give full bah access

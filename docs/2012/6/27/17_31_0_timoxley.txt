@@ -1,0 +1,1 @@
+muchzill4 the looping with happen synchronously, the callbacks will happen 'at some point in the future'

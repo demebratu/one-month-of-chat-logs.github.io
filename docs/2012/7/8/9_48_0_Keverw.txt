@@ -1,0 +1,1 @@
+Hey. Has anyone here used bcrypt to do password hashing? I'm not sure how I should get started. I currently use MD5, and the product hasn't been shipped. So a change in password hashing isn't a big deal as no accounts to really be upgraded other than mine and a few test ones.

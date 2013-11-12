@@ -1,0 +1,1 @@
+I tried running it each way in the node repl

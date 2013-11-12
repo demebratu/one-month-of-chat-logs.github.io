@@ -1,0 +1,1 @@
+I used Postgres a lot before I started working at Yahoo! (for some reason they hated postres)

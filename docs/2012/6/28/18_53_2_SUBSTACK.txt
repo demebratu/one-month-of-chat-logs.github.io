@@ -1,0 +1,1 @@
+mongo seems like a better fit fit if you want lots of little updates

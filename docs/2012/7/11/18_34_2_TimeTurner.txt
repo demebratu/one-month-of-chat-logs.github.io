@@ -1,0 +1,1 @@
+there is probably a better way to do it but I haven't dealt with EventEmitter directly a lot yet

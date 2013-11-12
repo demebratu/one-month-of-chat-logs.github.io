@@ -1,0 +1,1 @@
+install_node.sh which contains NVM ;-D

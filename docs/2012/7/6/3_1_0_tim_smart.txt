@@ -1,0 +1,1 @@
+KingDosser: I haven't used socket.io, but I would assume socket.set() persists across namespaces.

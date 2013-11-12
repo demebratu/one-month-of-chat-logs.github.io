@@ -1,0 +1,1 @@
+Unless you want to check in a symlink index.js -> myLibrary.js

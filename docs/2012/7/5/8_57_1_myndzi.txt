@@ -1,0 +1,1 @@
+it may be simpler and cleaner to create instances of your stream as necessary and bind the desired filters at the time you use it

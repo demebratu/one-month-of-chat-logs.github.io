@@ -1,0 +1,1 @@
+tim_smart: btw, I forgot to ping you, https://github.com/Marak/colors.js/commit/adf06f0988ad72d437275c192a7503421cd853ba

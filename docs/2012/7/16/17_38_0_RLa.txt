@@ -1,0 +1,1 @@
+prettyrobots, not removed but an issue, everyone could access all data with those queries

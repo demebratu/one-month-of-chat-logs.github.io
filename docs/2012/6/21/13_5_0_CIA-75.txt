@@ -1,0 +1,1 @@
+node: Ben Noordhuis master * ref1ffcb / (lib/fs.js src/node_stat_watcher.cc src/node_stat_watcher.h): fs: make fs.watchFile() interval default to 5007 - http://git.io/-BM2MQ

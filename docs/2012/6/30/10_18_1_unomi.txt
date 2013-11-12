@@ -1,0 +1,1 @@
+can't you make it so it can load in the config file on the fly

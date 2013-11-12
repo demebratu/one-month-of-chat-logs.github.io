@@ -1,0 +1,1 @@
+dominictarr: the alternative is to "read the entire file upload into memory before writing it to disk" or something similar

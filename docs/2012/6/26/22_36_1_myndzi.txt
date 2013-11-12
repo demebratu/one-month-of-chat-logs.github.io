@@ -1,0 +1,1 @@
+i'm wondering what is output when you supply an array as a parameterized query

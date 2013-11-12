@@ -1,0 +1,1 @@
+thewanderer1 you could probably do that with the async library and setTimeout

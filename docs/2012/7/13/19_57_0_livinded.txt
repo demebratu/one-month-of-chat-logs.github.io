@@ -1,0 +1,1 @@
+I'd rather see languages like coffeescript target an actual vm

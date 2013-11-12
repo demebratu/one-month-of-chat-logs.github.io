@@ -1,0 +1,1 @@
+or is there a good jslint util that can be run inside a script

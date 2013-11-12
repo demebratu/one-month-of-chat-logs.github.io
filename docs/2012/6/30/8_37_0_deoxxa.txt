@@ -1,0 +1,1 @@
+spolu: not trying to be condescending by the way - i've just seen a lot of people ignore the documentation for no good reason and i like to hammer it into new users that the api docs are the first place you should go if you have questions about core functionality

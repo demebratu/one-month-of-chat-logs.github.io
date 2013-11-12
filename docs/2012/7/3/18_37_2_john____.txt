@@ -1,0 +1,1 @@
+assuming i'm using long polling 

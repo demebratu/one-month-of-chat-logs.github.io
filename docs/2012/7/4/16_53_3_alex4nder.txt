@@ -1,0 +1,1 @@
+jrajav: no, there's one meaning of scope, but I assumed you were talking about where {} actually applies as a scope.

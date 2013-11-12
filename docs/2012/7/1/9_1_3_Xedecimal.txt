@@ -1,0 +1,1 @@
+Coming from php I just learned some nifty command line arguments to fix up my stdout and stdin when spawning child processes... Running executable 2>&1. To replicate this functionality I would use something like spawn('executable', ['2>&1']); right ? This is just making node mad at me

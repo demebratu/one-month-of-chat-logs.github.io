@@ -1,0 +1,1 @@
+pawn: Correct. Also, in the case of dnode's RPC, it was just extremely well-thought out and has a fuckton of testing both on paper and in the real-world, with two years of solid development.

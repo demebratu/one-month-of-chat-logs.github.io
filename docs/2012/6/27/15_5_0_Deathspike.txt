@@ -1,0 +1,1 @@
+In Express, should I do "req.param( 'arg' );" to pull a param from the route expression? Shouldn't it be req.param.arg?

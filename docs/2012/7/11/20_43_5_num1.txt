@@ -1,0 +1,1 @@
+/usr/bin/node should just be a file

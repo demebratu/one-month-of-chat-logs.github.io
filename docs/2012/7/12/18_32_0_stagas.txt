@@ -1,0 +1,1 @@
+Deathspike: target the element with a css selector and console.log(node) don't remember it exactly but you can check

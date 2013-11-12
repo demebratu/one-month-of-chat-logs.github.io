@@ -1,0 +1,1 @@
+Trindaz;: You can use nock to intercept as well.

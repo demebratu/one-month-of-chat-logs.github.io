@@ -1,0 +1,1 @@
+Qbix1, http://npmjs.org/doc/json.html and here's an example: https://github.com/EhevuTov/netPeek/blob/master/package.json

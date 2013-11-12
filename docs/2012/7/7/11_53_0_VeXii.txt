@@ -1,0 +1,1 @@
+im trying to upgrade node from 6.18 to 8.1 now after uninstalling i keep getting a error when running ./configure "File "./configure", line 183"

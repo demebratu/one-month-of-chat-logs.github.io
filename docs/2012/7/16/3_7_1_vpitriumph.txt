@@ -1,0 +1,1 @@
+Any idea why after install I have node and node-waf in my /usr/local/bin but don't have npm?

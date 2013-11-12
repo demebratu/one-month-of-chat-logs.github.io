@@ -1,0 +1,1 @@
+Can someone tell me if "npm install expresso" is the _only_ required installation step?  Do I need to make/install on osx as well?  I get "command not found" for "expresso" at the command line after npm install.

@@ -1,0 +1,1 @@
+but i think i now see what you meant by binding to the main object

@@ -1,0 +1,1 @@
+yep https://github.com/substack/dnode-protocol/blob/master/index.js#L67-L72

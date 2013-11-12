@@ -1,0 +1,1 @@
+wow, I'm a MASSIVE idiot. I set 'res.domain' in my HTTP handler, which made Events think it should be using the Domain module.. Thanks for your help, othiym23.

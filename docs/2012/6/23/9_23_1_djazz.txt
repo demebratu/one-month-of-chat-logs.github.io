@@ -1,0 +1,1 @@
+the data event on stdout don't get called until the process exits, is that a bug? http://pastebin.com/yWAGKZ0k

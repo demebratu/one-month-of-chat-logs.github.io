@@ -1,0 +1,1 @@
+I find the idea of using Node without npm sort of bizarre

@@ -1,0 +1,1 @@
+via a "remote" object? i'd say just require it on the server, and have it be in public/javascripts so the client side can get to it

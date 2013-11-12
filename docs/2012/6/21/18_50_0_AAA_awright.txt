@@ -1,0 +1,1 @@
+dshap: Another thing you could do is have a function factory, have: function callbackFactory(i){ return function(){ /* existing callback code */ } }

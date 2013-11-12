@@ -1,0 +1,1 @@
+EhevuTov: I think it's a lot more useful to break up the mvcs by components

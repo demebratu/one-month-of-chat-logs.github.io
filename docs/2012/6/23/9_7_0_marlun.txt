@@ -1,0 +1,1 @@
+SubStack: If using exportify I would have to do _.template(template, {...}) when rendering but with the code in that URL browserify seem to serve me a compiled template and all I need to do is template({...})?

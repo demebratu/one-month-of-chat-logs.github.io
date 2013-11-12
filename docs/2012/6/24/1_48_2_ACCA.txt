@@ -1,0 +1,1 @@
+https://github.com/addyosmani/memoize.js/blob/master/memoize.js

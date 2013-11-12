@@ -1,0 +1,1 @@
+lohkey: like in node code or bash pipe redirection?

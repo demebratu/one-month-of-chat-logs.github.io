@@ -1,0 +1,1 @@
+i think it's far easier than trying to generate HTML in JS/CS

@@ -1,0 +1,1 @@
+I have the initial draw stuff figured out, it's just the redraw

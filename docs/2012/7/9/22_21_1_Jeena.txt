@@ -1,0 +1,1 @@
+I am getting this error, is there a way to fix it without downgrading to 0.6?

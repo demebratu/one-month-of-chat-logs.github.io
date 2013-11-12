@@ -1,0 +1,1 @@
+I think I've figured out how to get my main coffeescript asset (served with snockets) to be usable ouside the browser

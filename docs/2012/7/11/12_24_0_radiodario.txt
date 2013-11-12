@@ -1,0 +1,1 @@
+awesome so how do you alter the global object

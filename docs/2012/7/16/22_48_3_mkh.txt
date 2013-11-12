@@ -1,0 +1,1 @@
+and all seems well except occasionally I get response times in the tens of seconds

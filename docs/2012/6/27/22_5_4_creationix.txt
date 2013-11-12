@@ -1,0 +1,1 @@
+what does new Foo().bar do?

@@ -1,0 +1,1 @@
+or return Integer::New(1); something like that without scope.Close(...)

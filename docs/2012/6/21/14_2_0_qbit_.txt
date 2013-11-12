@@ -1,0 +1,1 @@
+bnoordhuis: would any info from the core dump be useful to you? 

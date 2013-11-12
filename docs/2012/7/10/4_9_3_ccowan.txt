@@ -1,0 +1,1 @@
+prettyrobots: Cool… I came across that today when I was working on a function that needs to pipe two apps together and run a file through them… file -> command1 > command2 >

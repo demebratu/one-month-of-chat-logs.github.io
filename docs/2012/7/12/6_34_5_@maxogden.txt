@@ -1,0 +1,1 @@
+othiym23: d3 has a steep learning curve but basically its just javascript for svg

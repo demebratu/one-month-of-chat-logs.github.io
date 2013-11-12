@@ -1,0 +1,1 @@
+The point is we have a really clear idea what a module is, and how you can extract a library from it, and there's no confusion over it

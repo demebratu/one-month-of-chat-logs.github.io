@@ -1,0 +1,1 @@
+jesusabdullah: You can telnet a http server if you like, you just have to know http speal

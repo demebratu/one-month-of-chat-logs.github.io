@@ -1,0 +1,1 @@
+looking for suggestions to add an authentication filter to all routes for an express app, with the ability to disable this filter for some routes.

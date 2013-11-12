@@ -1,0 +1,1 @@
+is there a way to push from php some data to the web socket console?

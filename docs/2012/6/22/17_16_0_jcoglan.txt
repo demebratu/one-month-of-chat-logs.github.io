@@ -1,0 +1,1 @@
+isaacs: you say your tarball *does* have lib?

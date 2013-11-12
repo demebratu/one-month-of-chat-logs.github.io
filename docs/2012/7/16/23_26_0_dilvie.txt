@@ -1,0 +1,1 @@
+anybody know how I can verify that my https cert is set up correctly on os x?

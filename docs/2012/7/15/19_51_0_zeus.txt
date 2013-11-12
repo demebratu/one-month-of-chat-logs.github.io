@@ -1,0 +1,1 @@
+lpin: That seems dirty, I highly suggest you tweet @isaacs to figure out if he loads node-gyp based on a config var, cause if he does, then changing that is extremely simple and also much cleaner

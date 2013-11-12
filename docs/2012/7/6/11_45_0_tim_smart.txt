@@ -1,0 +1,1 @@
+lulzilla: HTTP has lots wierd quirks in terms of keep alive and pipelining 

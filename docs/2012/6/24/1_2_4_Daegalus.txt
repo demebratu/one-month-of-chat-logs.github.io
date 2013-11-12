@@ -1,0 +1,1 @@
+its like using APT or YUM or PACMAN on the linux distros

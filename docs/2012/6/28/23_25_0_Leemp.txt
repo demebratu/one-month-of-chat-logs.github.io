@@ -1,0 +1,1 @@
+Requiring ../lib is prone to things breaking

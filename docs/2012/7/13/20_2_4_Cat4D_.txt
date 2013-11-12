@@ -1,0 +1,1 @@
+or any cross-browser JIT style JS compilers lib that properly selects data management array or io options based on browser?

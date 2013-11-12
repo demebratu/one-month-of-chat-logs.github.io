@@ -1,0 +1,1 @@
+does kmsg only log real time kernel messages

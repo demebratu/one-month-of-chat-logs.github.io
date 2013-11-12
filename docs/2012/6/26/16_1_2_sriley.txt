@@ -1,0 +1,1 @@
+Y3Klo: personally, id say the best way to set up a development environment is to have a separate vm per project (vagrant makes it nice and easy)

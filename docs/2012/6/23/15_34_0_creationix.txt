@@ -1,0 +1,1 @@
+with my standard 2Gb SD card, I've found that I/O was the bottleneck building, not the CPU

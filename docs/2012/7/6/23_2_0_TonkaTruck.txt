@@ -1,0 +1,1 @@
+Does node have any built in class pattern?  In JavascriptMVC they have a "controller" that defines static and prototype parameters.  Is this possible with require() module pattern?

@@ -1,0 +1,1 @@
+someone needs to write a pure js zmq

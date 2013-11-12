@@ -1,0 +1,1 @@
+motiooon_: i'm half-serious. there's process.on('uncaughtException') but it's fraught with dangers

@@ -1,0 +1,1 @@
+micheil: I guess what I'm wondering is whether there's community consensus or idioms around flow control

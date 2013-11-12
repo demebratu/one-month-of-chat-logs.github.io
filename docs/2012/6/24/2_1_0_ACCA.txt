@@ -1,0 +1,1 @@
+dnnsmanace: a simple example. Your writer closed a PNG in NFS volume. Your reader in a different cluster node will see it in couple of seconds only.

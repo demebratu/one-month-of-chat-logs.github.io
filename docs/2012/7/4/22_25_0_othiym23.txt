@@ -1,0 +1,1 @@
+wdent: I was able to get SmartOS up and running under VMware without too much trouble, think that's how Joyent people run it for conference presentations and the like

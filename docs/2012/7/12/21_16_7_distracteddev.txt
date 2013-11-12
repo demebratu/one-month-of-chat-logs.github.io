@@ -1,0 +1,1 @@
+darrenlooby: I think some background might help you: Connect is a middleware provider. Middleware can be simplified into a function that is called on each HTTP request. Express uses connect's middleware to handle all kinds of general request related tasks such as serving static files and a favicon.

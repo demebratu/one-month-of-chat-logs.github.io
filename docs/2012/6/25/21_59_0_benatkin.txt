@@ -1,0 +1,1 @@
+added a homebrew issue suggesting that the npm bundling decision be revisited since npmjs.org no longer provides the one-liner

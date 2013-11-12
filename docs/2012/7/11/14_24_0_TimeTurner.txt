@@ -1,0 +1,1 @@
+what is the difference between namespacing and "rooms" in socket.io?

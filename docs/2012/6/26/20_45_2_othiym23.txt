@@ -1,0 +1,1 @@
+Deathspike: I think what we're actually saying is that there is an underlying architecture, but you gotta play with the tools a bit to learn it, it's not as plain as, say, Rails's

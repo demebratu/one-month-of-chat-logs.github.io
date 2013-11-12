@@ -1,0 +1,1 @@
+so /var/www/foo/bar becomes example.com/bar , /var/www/foo/baz example.com/baz , get me?

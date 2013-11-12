@@ -1,0 +1,1 @@
+considering that microsoft have now written an async module for mssql it wouldn't be too difficult for them to back port to .net

@@ -1,0 +1,1 @@
+wdent: it shouldn't be that tough to make it work with VirtualBox, either, I can paste you the VM settings VMware is using if you want 'em

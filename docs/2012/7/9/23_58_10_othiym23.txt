@@ -1,0 +1,1 @@
+I think I'm sorta kinda playing devil's advocate cuz I was playing around with goroutines again this weekend and find them a little easier to think about than streams

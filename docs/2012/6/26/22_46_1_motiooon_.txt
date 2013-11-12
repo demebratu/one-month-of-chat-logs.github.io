@@ -1,0 +1,1 @@
+dshap: can "request" library write to a file after getting the resource ?

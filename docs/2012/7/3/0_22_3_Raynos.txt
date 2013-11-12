@@ -1,0 +1,1 @@
+I dont want to use sudo for make install or sudo for npm install -g

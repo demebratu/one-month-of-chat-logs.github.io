@@ -1,0 +1,1 @@
+When I was running this on v0.6.19 it had no issues, but now when someone connects it gives me the error saying the Object 'domain.tld' does not have the enter method

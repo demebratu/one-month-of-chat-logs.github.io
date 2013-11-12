@@ -1,0 +1,1 @@
+Angular doesn't really have this syncing built in.. I dunno if I'll need it, but it's pretty cool that it's built into derby

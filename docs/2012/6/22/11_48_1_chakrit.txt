@@ -1,0 +1,1 @@
+jade works client-side built-in: https://github.com/visionmedia/jade/tree/2ca5abf7c9cba6804b1c903d3925e126cc604dfb#browser-support

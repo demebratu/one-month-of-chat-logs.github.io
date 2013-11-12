@@ -1,0 +1,1 @@
+why do we recommend not to serve static files via nodejs and use nginx instead?

@@ -1,0 +1,1 @@
+can someone explain me the purpose of this https://gist.github.com/1373622 instead of using tls.CleartextStream ?

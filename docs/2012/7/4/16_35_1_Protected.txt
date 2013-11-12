@@ -1,0 +1,1 @@
+This looks like the desired behavior; Is there any reason not to rely on it?

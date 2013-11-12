@@ -1,0 +1,1 @@
+gonna throw it into a lil lib and add some tests.. will publish soon

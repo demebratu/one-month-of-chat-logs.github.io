@@ -1,0 +1,1 @@
+My recollection is that linode's bandwidth limitations were relatively severe

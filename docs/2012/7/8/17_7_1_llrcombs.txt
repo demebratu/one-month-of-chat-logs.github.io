@@ -1,0 +1,1 @@
+remind me, do FS watchers work on Windows yet? I wrote a script several months back using them, found they didn't work on Windows, and just read the file on a setInterval (a valid reason to use that, except when there's a better way [FS watchers])

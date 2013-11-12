@@ -1,0 +1,1 @@
+Assembly is a step above machine code. It's more human readable.

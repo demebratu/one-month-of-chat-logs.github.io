@@ -1,0 +1,1 @@
+austinbv yeah - we should be holding references though so you might be seeing a bug

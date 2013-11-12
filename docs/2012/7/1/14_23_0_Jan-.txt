@@ -1,0 +1,1 @@
+I can check if require() is a function, but require is a common name in JS libs.

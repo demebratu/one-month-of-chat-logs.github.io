@@ -1,0 +1,1 @@
+TrahDivad_: IMO its a nice crutch to use in the browser if you don't know how to right valid javascript (that JScript interpreters respect) without it

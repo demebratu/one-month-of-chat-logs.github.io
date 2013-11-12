@@ -1,0 +1,1 @@
+bnoordhuis: but it can be overridden with setsockopt

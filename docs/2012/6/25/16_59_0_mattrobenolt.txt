@@ -1,0 +1,1 @@
+What's the environment variable to compile node using multiple cores now with the new build system?

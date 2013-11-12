@@ -1,0 +1,1 @@
+prettyrobots: regarding HTSQL licensing, the original agreement I had with investors was that we'd charge for commercial (non-free, non-open source) databases only.  

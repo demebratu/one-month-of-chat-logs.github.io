@@ -1,0 +1,1 @@
+Is it possible to get individual raw TCP packets from net in Node? I'm working with a rather poorly-designed API; there's no easy magic number to watch for in a stream. It _is_ guaranteed that each message will be sent within one TCP packet, though.

@@ -1,0 +1,1 @@
+the problem is also that browserify is trying to out-clever the libs

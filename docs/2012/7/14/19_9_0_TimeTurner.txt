@@ -1,0 +1,1 @@
+aroman: node-validator can be used with node and in the browser

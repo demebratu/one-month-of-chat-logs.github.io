@@ -1,0 +1,1 @@
+dmilith, can you evoke the CLI? I would think it'd be possible. Like, an exec() ?

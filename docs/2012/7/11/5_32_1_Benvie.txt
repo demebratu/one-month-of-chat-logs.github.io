@@ -1,0 +1,1 @@
+the functions themselves can usually be used in either case, but the surrounding scope is different

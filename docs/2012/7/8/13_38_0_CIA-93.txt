@@ -1,0 +1,1 @@
+node: Ben Noordhuis v0.8 * r26f1bc8 / src/node_crypto.cc : crypto: fix DecipherUpdate() memory leak - http://git.io/8NCHmQ

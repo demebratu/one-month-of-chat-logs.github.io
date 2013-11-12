@@ -1,0 +1,1 @@
+But to publish, it suffices to call the binary npm repository directly without installing it to my system, that's all I never need it for

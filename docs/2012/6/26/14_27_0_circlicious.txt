@@ -1,0 +1,1 @@
+kiur: .toString gives me the text i want it as

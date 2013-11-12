@@ -1,0 +1,1 @@
+Deathspike: Redis can handle A LOT.

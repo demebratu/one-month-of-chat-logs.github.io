@@ -1,0 +1,1 @@
+SkareCrow: not exactly, I am using mocha, and it doesn't do what I expected. it breaks everywhere but not where I wish(and where I wrote debugger;.

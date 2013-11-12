@@ -1,0 +1,1 @@
+Node.js modules are wrapped in a closure.

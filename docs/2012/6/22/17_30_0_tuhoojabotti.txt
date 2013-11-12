@@ -1,0 +1,1 @@
+Does Node clear forks when main process is killed?

@@ -1,0 +1,1 @@
+could we just zip whole node.js folder and ship it as it is... and when unziped can run as it is?

@@ -1,0 +1,1 @@
+In fact, libuv can run multiple "types" of event loops, and iirc select/epoll wasn't even the optimal solution for linux

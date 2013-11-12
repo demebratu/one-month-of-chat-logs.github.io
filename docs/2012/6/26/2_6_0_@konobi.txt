@@ -1,0 +1,1 @@
+bnoordhuis: the examples are standard libs for different platforms... osx, linux, smartos, bsd, win32, etc.

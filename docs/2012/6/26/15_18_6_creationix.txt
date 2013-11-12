@@ -1,0 +1,1 @@
+basically you'll want to readdir in a folder, create an express app instance for each one, and mount then at the urls

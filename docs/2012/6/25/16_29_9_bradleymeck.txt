@@ -1,0 +1,1 @@
+guy why not put that into a file ending in .sql for your own sanity

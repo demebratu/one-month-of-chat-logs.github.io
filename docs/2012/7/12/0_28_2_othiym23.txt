@@ -1,0 +1,1 @@
+pianoroy: nothing stopping you from using socket.io between servers and / or playing around with hook.io

@@ -1,0 +1,1 @@
+substack is a Turing-complete Node.js module generation algorithm

@@ -1,0 +1,1 @@
+nwill, have the func, recursivelly call itself with a new key every time it finds the key is taken, have a var one scope above that keeps a recursion count and after x retries, exit / throw an error

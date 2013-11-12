@@ -1,0 +1,1 @@
+it looks like browserify has more features than this does in other regards though.

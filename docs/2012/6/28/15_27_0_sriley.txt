@@ -1,0 +1,1 @@
+thats talking about how it converts the hash to a standard url that it hits your server with, its not quite the same as serving different content to the crawler

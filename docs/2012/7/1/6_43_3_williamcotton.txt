@@ -1,0 +1,1 @@
+because something is converting the buffer to a string

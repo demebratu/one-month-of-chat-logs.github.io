@@ -1,0 +1,1 @@
+Hm, perhaps I am a bit slow today (or rather, it's a bit too early in the morning). But are there any places I can read about nodejs (express) and redis usage?

@@ -1,0 +1,1 @@
+or does this only deal with command line args?

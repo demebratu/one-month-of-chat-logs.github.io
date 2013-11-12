@@ -1,0 +1,1 @@
+does cluster2 (in other words) utilize the processing power (in case of many cores exist) ?

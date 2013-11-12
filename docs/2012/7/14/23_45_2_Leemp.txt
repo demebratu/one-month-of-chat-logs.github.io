@@ -1,0 +1,1 @@
+Anyway, `require 'fs'` incoming.

@@ -1,0 +1,1 @@
+Hey, sorry to crosspost, but I'm wondering if anyone with Node+Socket.IO can give me any tips on this: http://stackoverflow.com/questions/11353277/what-is-the-proper-way-to-use-socket-io-callbacks-within-classes-in-node-js

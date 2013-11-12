@@ -1,0 +1,1 @@
+Karmaon: node-mysql is pretty popular for sql usage in node

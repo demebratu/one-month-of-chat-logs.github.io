@@ -1,0 +1,1 @@
+sriley: That's just the architecture. I'm reusing the same API server for my mobile site and my desktop site. It is only responsible for delivering AJAX from requests, it doesn't render any HTML whatsoever, ever.

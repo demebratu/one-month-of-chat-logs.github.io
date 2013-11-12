@@ -1,0 +1,1 @@
+What with handling one scan per second per device

@@ -1,0 +1,1 @@
+holy shit! you can overwrite the cached stdlib and not allow spawned subprocesses to use certain functions

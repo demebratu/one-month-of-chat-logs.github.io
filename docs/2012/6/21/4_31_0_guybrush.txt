@@ -1,0 +1,1 @@
+Margh open the middleware with your editor and put console.log in it :D

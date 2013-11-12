@@ -1,0 +1,1 @@
+I'm no V8 expert, but perhaps you can instantiate the Javascript objects from the V8 apis

@@ -1,0 +1,1 @@
+then write a readable/writable (through) stream that emits 'data' events for matching lines

@@ -1,0 +1,1 @@
+to me require('express').createServer(); made a lot of sense. It created an httpserver and extended it. Why not keep this?

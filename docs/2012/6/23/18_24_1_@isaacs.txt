@@ -1,0 +1,1 @@
+SubStack: for instance, exports.core should be Object.keys(process.binding('natives'))

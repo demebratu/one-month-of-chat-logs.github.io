@@ -1,0 +1,1 @@
+JSON is for any kind of data. it can be an array, or a string, or a number, or whatever

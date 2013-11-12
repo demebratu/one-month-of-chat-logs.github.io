@@ -1,0 +1,1 @@
+I can look and see what projects are required by the most other projects, but that's a different thing - I want to know the number of other programmers who have expressed interest in a project (and when researching libraries, I would ideally be able to sort npm results by this number)

@@ -1,0 +1,1 @@
+a short term bandaid is hacking its package.json to report a different version 

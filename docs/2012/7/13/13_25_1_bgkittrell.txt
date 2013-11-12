@@ -1,0 +1,1 @@
+I'm trying to serving a video from node using util.pump.  It works fine in desktop safari, but not in mobile safari.  I know it's not the video itself, because it works if I serve it from apache.  iOS just drops the connection.  Any thoughts on how I might debug this?

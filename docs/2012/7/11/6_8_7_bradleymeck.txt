@@ -1,0 +1,1 @@
+if you want to kill the process just cause an uncaught exception, dont handle it, exit with the saved variable wherever it is

@@ -1,0 +1,1 @@
+AAA_awright: the thing is, I'm used to using promises (well, dojo-style Deferreds) to coordinate more complex situations

@@ -1,0 +1,1 @@
+So, right now we're designing insert/update/delete functionality, designs from those will be posted in a while (when i get time to write it up)

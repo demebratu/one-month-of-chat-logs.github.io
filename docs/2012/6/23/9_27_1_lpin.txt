@@ -1,0 +1,1 @@
+yeah, ajax login/signup could solve that but i don't want to change everything now :)

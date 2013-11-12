@@ -1,0 +1,1 @@
+mattrobenolt: My main concern is that I don't invest into a technology that's going to bite in my .. behind. I know relational databases very well, but most of them I don't need everything it offers and want a simple, RAD solution for persistent data.

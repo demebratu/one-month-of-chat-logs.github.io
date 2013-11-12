@@ -1,0 +1,1 @@
+sh1mmer, does your DNS server have a request limit?

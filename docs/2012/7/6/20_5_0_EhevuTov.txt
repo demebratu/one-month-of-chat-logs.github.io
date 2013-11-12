@@ -1,0 +1,1 @@
+H4ns, I did a levelDB benchmark in node once, but I can't find the code I did :-/ I think there's a wrapper module and a native module in NPM

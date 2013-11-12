@@ -1,0 +1,1 @@
+hi all how can I install npm with node.js v0.4? 

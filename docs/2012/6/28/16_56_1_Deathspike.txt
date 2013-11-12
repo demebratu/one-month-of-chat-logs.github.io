@@ -1,0 +1,1 @@
+I'm getting confused. Can you explain, IN DETAIL, what kind of configuration you are using (What serves HTML? What kind of server are you trying to call? What must it receive?). Be as explicit as possible, please, because I feel that some of your statements are contradicting due to miscommunication on either side.

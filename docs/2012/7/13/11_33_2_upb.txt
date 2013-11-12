@@ -1,0 +1,1 @@
+https://github.com/isaacs/lockfile/blob/master/lockfile.js#L114 see here

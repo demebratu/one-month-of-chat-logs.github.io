@@ -1,0 +1,1 @@
+SubStack: so export value interferes with knowing the static contents of the module

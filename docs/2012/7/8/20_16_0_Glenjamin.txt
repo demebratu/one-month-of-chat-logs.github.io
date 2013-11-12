@@ -1,0 +1,1 @@
+komodo ide/edit has reasonable node support

@@ -1,0 +1,1 @@
+i can get nowjs working, since it cant find it, gives 404 error

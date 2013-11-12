@@ -1,0 +1,1 @@
+and who writes stupid tests for the sake of writing tests

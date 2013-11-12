@@ -1,0 +1,1 @@
+random question, just looking for input: can anyone think of a reason that i should *not* do live re-loading of a config file in a process?

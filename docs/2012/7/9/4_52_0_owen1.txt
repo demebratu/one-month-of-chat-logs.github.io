@@ -1,0 +1,1 @@
+deltab: it looks like thanks to closures, in node you can keep the state between request/response. and in ruby/php you have to use external process/tool like memcached. 

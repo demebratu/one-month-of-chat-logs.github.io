@@ -1,0 +1,1 @@
+tjholowaychuk: wow okay, finally got this to work.  i needed to *explcitly* set the "encoding" option to "null" so that request returns a buffer.  i can create my node-canvas object with that buffer and it just works.  wooo!

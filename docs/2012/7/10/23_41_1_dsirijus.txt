@@ -1,0 +1,1 @@
+tnorris, and that ends up with nginx serving static files... great

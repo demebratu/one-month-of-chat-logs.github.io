@@ -1,0 +1,1 @@
+i think this is a nice opensource editor to work in node: http://ninja-ide.org/ (but i am still in sublime)

@@ -1,0 +1,1 @@
+pawn: You mentioned automagic state synchronization, I'm saying notifications of change are better. dnode implements an async RPC protocol, and hook.io gives you namespaced event propogation on top of dnode.

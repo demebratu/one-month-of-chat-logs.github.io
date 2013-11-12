@@ -1,0 +1,1 @@
+in real time systems, nanosecond is measurable.. that's why it's used in military, medical facitilities and so on

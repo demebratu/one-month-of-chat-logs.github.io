@@ -1,0 +1,1 @@
+or :sessionname <NEWNAME> inside a screen

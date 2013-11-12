@@ -1,0 +1,1 @@
+How... wha... How does this magic know that 'user' is a single element and 'users' refers to the entire array?

@@ -1,0 +1,1 @@
+Anyone ever had to install node and npm on Mac OS X 10.5.8 G5? I'm getting the dreaded bad CPU in executable message

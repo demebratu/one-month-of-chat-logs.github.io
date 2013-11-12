@@ -1,0 +1,1 @@
+In the early days I wrote all my libraries with lib folders because that was what I was used to with ruby gems

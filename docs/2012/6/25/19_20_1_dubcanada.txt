@@ -1,0 +1,1 @@
+NodeJS is also a lot more then a static file server lol

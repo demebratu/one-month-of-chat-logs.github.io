@@ -1,0 +1,1 @@
+we've got some embedded devices that run some c code (based on libuv) as well, but it's relatively low maintenance

@@ -1,0 +1,1 @@
+I think it takes me twice to three times as long to understand a coffeescript source than it does a js source file

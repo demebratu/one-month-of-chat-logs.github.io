@@ -1,0 +1,1 @@
+if you want another page around that then make a html form and post to that url

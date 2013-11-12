@@ -1,0 +1,1 @@
+since a promise is yielded (the api will have to change, yeah), the invoking code can set it up so that when the promise is resolved, the generator is resumed with gen.send(returnValue)

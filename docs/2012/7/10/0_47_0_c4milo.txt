@@ -1,0 +1,1 @@
+isaacs: let me re-phrase that, how do you check with GYP whether a required header is needed to compile a module or not? cc TooTallNate

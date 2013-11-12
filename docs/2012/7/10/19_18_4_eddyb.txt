@@ -1,0 +1,1 @@
+anyway, something like placing "#!/usr/bin/env node-traceur" at the start of the file would be really cool

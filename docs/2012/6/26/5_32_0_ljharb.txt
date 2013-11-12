@@ -1,0 +1,1 @@
+austinbv: the callback has access to the enclosing scope in which it was created, and you can just assign to things in that scope.

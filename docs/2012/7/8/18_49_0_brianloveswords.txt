@@ -1,0 +1,1 @@
+It's a longshot, but I've had problems in the past with same-server requests using hostname where it ends up trying to call out and it gets trapped in the load balancer.

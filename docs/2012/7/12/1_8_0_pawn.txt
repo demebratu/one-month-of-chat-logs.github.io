@@ -1,0 +1,1 @@
+I'm not understanding require('socket-io').listen(app); Does it need to listen to port 80 and on the same host that the HTTP server is listening on? I thought that websockets don't go through the http protocol and how would the socket use the same port as the http server when there can only be one process listening on a single port?

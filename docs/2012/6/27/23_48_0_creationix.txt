@@ -1,0 +1,1 @@
+bradleymeck: JS modules need to work in the browser well to be implemented at the language level.  Dynamic require doesn't work for pre-compilers

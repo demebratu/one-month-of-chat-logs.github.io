@@ -1,0 +1,1 @@
+I have a largerish project on node using a little bit of express, more of socket.io, and a lot of custom code.. The project seems to have a large memory leak somewhere, because memory usage goes from 30MB to 1,5GB in 24 hours, while usage stays constant.. What tool could I use to see where these memory leaks are located?

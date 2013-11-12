@@ -1,0 +1,1 @@
+owen1: angular is probably doing something dumb like assigning into `this` and expecting that to be the window object such that FoodCtrl resolves to window.FoodCtrl by way of implicit scope resolution on the window object

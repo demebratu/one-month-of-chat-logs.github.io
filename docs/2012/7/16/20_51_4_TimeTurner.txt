@@ -1,0 +1,1 @@
+and contrary to popular opinion, node doesn't really have a consensus on "nosql vs sql"

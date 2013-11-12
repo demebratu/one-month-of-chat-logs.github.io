@@ -1,0 +1,1 @@
+node: Bert Belder v0.8 * r41a4b73 / src/res/node.ico : windows: remove 256x256 version of the icon - http://git.io/0ej9RA

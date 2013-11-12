@@ -1,0 +1,1 @@
+I have a problem with executing async functions in series --> http://jsfiddle.net/Eu574/7/

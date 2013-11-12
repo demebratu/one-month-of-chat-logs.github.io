@@ -1,0 +1,1 @@
+tuhoojabotti: Basics? Like so? https://github.com/svenfuchs/rails-i18n/blob/master/rails/locale/es-MX.yml

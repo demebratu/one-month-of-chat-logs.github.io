@@ -1,0 +1,1 @@
+close() goes through all the events and handles all the resource loads

@@ -1,0 +1,1 @@
+obvious question (maybe not as much as I think): is it meaningful/worth building a new product/website/community/project which consists of a few static pages and some forum like dynamic ones (with DB access obv) from scratch with Node (and submodules like express, less, stylus, etc)?

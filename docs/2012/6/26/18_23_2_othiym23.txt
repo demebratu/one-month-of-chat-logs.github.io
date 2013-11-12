@@ -1,0 +1,1 @@
+TheRedMood: you can pipe the streams from child processes to stdout, and if getting that set up by hand is more work than you're interested in doing, check out the carrier module

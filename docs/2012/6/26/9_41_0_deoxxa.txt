@@ -1,0 +1,1 @@
+blob_of_text.split(" ").reduce(function(c,v) { if (typeof v[c] === "undefined") { v[c] = 0; } v[c]++; }, {})

@@ -1,0 +1,1 @@
+see, as long as I have a declarative and / or imperative, structured means of taking what comes over the wire and turning it into something pretty, I really couldn't give a shit less what it looks like on the wire

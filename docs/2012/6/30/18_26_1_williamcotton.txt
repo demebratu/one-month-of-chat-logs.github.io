@@ -1,0 +1,1 @@
+Safari waits to start the download until Chrome is finished

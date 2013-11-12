@@ -1,0 +1,1 @@
+is AMD the defacto standard on the client-side? If so, is there a way to convert commonjs node-style of writing client-side code to AMD?

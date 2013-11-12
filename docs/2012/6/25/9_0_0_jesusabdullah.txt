@@ -1,0 +1,1 @@
+guy: so I would look elsewhere for the bug, starting at whatever is getting passed to processTweet from where

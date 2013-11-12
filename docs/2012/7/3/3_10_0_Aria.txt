@@ -1,0 +1,1 @@
+You could commit the build products. But then that ties you to architecture and often OS

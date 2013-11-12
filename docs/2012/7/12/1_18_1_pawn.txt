@@ -1,0 +1,1 @@
+Should I just declare io as a global in my application so I can access it in my controller modules?

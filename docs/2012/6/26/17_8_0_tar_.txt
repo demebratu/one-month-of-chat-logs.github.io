@@ -1,0 +1,1 @@
+I want to serve a static directory, but modify the contents of HTML and JS files as they are sent

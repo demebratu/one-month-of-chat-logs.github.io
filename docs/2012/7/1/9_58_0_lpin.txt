@@ -1,0 +1,1 @@
+if i use configure with default options i get an error during compilation

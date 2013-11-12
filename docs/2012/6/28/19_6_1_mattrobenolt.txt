@@ -1,0 +1,1 @@
+Deathspike_: I like to think of Redis less as a database, and it makes more sense to me.

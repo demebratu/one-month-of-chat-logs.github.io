@@ -1,0 +1,1 @@
+but not directly have the stream write to amazon without saving locally

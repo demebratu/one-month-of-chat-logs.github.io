@@ -1,0 +1,1 @@
+./{controllers,views,public} is a terrible mistake lol

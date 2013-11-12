@@ -1,0 +1,1 @@
+then use nvm to compile node to home directory

@@ -1,0 +1,1 @@
+eddyb: Hoenslty, you are using a pre-packed binary? or compiling node yourself?

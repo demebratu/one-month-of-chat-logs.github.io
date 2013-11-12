@@ -1,0 +1,1 @@
+prettyrobots: it's hard not to be a premature optimizer these days

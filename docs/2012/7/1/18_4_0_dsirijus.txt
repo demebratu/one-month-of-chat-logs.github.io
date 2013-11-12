@@ -1,0 +1,1 @@
+RLa, then, just "app.use(require('./rewriter.js'));" ?

@@ -1,0 +1,1 @@
+i assume your mobile and desktop apps are indexed due to being server side rendered ;)

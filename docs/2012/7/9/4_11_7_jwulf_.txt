@@ -1,0 +1,1 @@
+the simple thing would be to run 1000 requests in a loop, no?

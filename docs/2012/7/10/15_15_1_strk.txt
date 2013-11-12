@@ -1,0 +1,1 @@
+but the documentation says that the default encoding _is_ UTF8

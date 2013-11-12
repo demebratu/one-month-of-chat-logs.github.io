@@ -1,0 +1,1 @@
+ok, but how can I create a stream I could write in ?

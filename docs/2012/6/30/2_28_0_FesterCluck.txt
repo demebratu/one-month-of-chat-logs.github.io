@@ -1,0 +1,1 @@
+So, to use populate, you just have to add an extra line for the object you're resolving

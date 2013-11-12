@@ -1,0 +1,1 @@
+Hotroot: it will fire every 16,000 chars of data, or on complete, which ever is first.

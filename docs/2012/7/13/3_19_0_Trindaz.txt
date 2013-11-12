@@ -1,0 +1,1 @@
+as soon as i try adding any gzip features to unzip the response then either the script never terminates, or it does with no output

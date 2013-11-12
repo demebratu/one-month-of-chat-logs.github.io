@@ -1,0 +1,1 @@
+can i get it to log much, much less while building? without killing all the output?

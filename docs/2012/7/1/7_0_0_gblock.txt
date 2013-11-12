@@ -1,0 +1,1 @@
+williamcotton: if the stream is closed prematurely then there might still be bytes in the buffer

@@ -1,0 +1,1 @@
+Started working on node recently. My connect version installed on the machine is 2.3.4. When i install packages like node-inspector, mongoose it says my connect version should be between 1.8 to 1.9. Should i uninstall my connect and install older version

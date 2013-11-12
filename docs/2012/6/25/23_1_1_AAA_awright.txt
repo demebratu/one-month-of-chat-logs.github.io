@@ -1,0 +1,1 @@
+vrlogrs: Moving pieces works, but dragging would be nice, I ended up highlighting large parts of the screen inadvertantly... Different timer styles would be cool, as a feature request, and recording games and all that

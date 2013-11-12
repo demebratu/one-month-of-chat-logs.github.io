@@ -1,0 +1,1 @@
+hm, trying to install a private module with npm, gets stuck on the 'preinstall private-module'

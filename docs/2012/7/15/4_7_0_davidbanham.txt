@@ -1,0 +1,1 @@
+Exactly, not aggressive, but easy to explain to a PHP or Python guy.

@@ -1,0 +1,1 @@
+Deathspike, I'm guessing thats what makes it choose transports, so I can't just serve that JS with apache

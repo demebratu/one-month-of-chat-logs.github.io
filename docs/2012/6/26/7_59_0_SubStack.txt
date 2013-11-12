@@ -1,0 +1,1 @@
+also you might want to implement a readable and/or writable stream and then .pipe() will handle all that for you

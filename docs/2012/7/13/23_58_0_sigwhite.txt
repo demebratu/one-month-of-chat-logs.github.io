@@ -1,0 +1,1 @@
+When using node.js, do I have to worry about thread safety on async operations (say, reading from and writing to a shared counter variable)?

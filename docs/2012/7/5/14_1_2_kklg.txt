@@ -1,0 +1,1 @@
+The addon works fine when I compile directly from Visual C++.

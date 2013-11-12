@@ -1,0 +1,1 @@
+does node use classes and interfaces and such?

@@ -1,0 +1,1 @@
+michaelaguiar: install node, copy paste hello world and u got a web server in 3 lines. your node will run on whatever port u want and your php on another

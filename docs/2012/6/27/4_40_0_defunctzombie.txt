@@ -1,0 +1,1 @@
+I was thinking it might cool to have a lib that is just a drop in that does what that gist does

@@ -1,0 +1,1 @@
+cgiffard: fair enough. though i've been told .bashrc never gets loaded, since all shells are login shells in OS X

@@ -1,0 +1,1 @@
+Stephen: At server side, I load io with  io = require('socket.io').listen(app); (where app is an express server)

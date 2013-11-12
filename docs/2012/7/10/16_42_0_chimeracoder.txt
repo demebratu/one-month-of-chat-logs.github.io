@@ -1,0 +1,1 @@
+(it crashes mocha when run with —wait; otherwise, it appears to pass altogether because the process exists before the error is thrown)

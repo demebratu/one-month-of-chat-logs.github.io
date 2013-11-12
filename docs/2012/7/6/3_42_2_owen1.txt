@@ -1,0 +1,1 @@
+so why did ryan compare nginx to apache and said that nginx DON'T use threads and therefor is faster? 

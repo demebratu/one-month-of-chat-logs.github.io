@@ -1,0 +1,1 @@
+are your components 100% generic or something?

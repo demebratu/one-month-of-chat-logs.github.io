@@ -1,0 +1,1 @@
+Also, can JS handle ascii, or do I have to convert to unicode? I know uni should be compatable with ascii

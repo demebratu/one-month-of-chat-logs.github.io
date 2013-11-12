@@ -1,0 +1,1 @@
+cluster.disconnect() doc doesn't say if it must be called only from the master or if it can be called from the workers too

@@ -1,0 +1,1 @@
+Raynos:  It's super easy in Ngnix (and probably Apache) to make sets of URLs to each server

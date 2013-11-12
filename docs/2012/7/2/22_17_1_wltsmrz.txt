@@ -1,0 +1,1 @@
+I use the 'ws' module but it should be similar. Can't you access the upgrade request on incoming sockets in socket.io?

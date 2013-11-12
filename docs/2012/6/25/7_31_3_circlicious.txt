@@ -1,0 +1,1 @@
+first argument to spawn should be just 2 command, so bundle, not bundle exec slimrb

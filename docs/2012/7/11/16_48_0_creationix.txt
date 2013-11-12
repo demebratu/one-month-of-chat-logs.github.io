@@ -1,0 +1,1 @@
+(though js function declarations that hoist their value muddy this a bit)

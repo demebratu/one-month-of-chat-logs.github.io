@@ -1,0 +1,1 @@
+I want the server to know when the client finished sending so it can process the data that I'm sending

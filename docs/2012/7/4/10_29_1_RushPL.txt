@@ -1,0 +1,1 @@
+guys, how would one "upgrade" Socket's read/write function to wrap it with zlib's inflate / deflate? Write is easy, but for example read event? I have little trouble doing it the correct way as I do not know the correct way. :)

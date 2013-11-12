@@ -1,0 +1,1 @@
+And, like i said, I fixed up an error that was being thrown by the program once I declared the Mongo collection as capped

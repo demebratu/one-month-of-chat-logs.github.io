@@ -1,0 +1,1 @@
+mmalecki, why does ecstatic have 10% the number of watchers and 20% the number of forks as node-static?

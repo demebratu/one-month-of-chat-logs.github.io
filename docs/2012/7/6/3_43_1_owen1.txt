@@ -1,0 +1,1 @@
+TehShrike: but u just said that node is spawing a new thread for i/o stuff.

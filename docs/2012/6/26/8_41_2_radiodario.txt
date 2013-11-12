@@ -1,0 +1,1 @@
+how do i uninstall node from pkg?

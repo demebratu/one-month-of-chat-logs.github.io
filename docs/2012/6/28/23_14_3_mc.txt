@@ -1,0 +1,1 @@
+Leemp: self-testing test frameworks are fairly common from what i've seen

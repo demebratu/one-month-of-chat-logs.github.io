@@ -1,0 +1,1 @@
+./configure no longer tells me what I need to install for node.js to run

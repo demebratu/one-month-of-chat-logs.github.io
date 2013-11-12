@@ -1,0 +1,1 @@
+is there a way for mocha to test a non-exported function?

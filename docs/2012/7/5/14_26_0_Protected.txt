@@ -1,0 +1,1 @@
+Hey people. Is there any way to access a variable defined outside a function from within that function when it's passed as a callback and executed in a different context?

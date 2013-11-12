@@ -1,0 +1,1 @@
+tjholowaychuk: agree, a simple component API could help a lot

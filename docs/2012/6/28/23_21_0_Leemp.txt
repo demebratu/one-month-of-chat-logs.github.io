@@ -1,0 +1,1 @@
+tjholowaychuk: Any idea how an npm package might set itself as a dependancy? For example, a testing framework that dogfoods, and uses itself (an older, 100% tested version) to test it's newer, in progress version?

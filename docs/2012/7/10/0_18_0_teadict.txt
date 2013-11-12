@@ -1,0 +1,1 @@
+pawn: You could just console.log(req.body.num), couldn'tyou?

@@ -1,0 +1,1 @@
+Question: How would one build a word tallier to count how many times a word has been used? I have a word logger down, I just can't figure out where to start on the tallier. 

@@ -1,0 +1,1 @@
+if the CLI gets big like some of `jitsu` you see pain doing it other ways (like it currently is)

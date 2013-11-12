@@ -1,0 +1,1 @@
+micheil: well, I am asking in node because it was not really a problem in JS, it just doesn't work in Node :)

@@ -1,0 +1,1 @@
+tjholowaychuk: someone built a tool that loads commonjs with requirejs. going to see if I can find it.

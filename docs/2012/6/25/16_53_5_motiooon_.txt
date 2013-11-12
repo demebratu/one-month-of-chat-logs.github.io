@@ -1,0 +1,1 @@
+but how node 0.8 does better with errors ?

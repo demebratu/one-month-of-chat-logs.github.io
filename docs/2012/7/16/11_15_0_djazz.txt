@@ -1,0 +1,1 @@
+solved it, I use this in my progress event handler: evt.total || +request.getResponseHeader('Content-Length') || 0

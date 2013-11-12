@@ -1,0 +1,1 @@
+so if you had ADD(a, b, done) { InThirtyySeconds.... done(a + b) }; ADD(a, b, done) { InOneSecond.... done(a + b) }

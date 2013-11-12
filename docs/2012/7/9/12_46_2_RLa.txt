@@ -1,0 +1,1 @@
+DeviaVir, it's method without implementation, supposed to be implemented by subclass

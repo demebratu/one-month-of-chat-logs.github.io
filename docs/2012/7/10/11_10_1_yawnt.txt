@@ -1,0 +1,1 @@
+but the line between the coder doing too much and the lib doing too much is awfully narrow

@@ -1,0 +1,1 @@
+dsirijus: then you won't have to parse any requests for static files in your node.js app.

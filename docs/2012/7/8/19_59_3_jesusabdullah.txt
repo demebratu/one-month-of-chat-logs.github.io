@@ -1,0 +1,1 @@
+to save as something reasonable, fs.writeSync to a json file (or not-so-sync, depends)

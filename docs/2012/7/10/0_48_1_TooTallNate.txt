@@ -1,0 +1,1 @@
+or you can try to write a more advanced "configure" script if your project needs it

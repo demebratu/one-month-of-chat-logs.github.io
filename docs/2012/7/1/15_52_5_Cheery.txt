@@ -1,0 +1,1 @@
+assert arguments.get('name') == 'arguments'

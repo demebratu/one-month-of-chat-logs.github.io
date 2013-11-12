@@ -1,0 +1,1 @@
+You can tell Redis to sync to disk once every hour, once every minute, once a second, etc.

@@ -1,0 +1,1 @@
+I had to use a different repo to get 0.6.19, because any other version would SEGFAULT when exiting

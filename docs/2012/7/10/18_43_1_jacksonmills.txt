@@ -1,0 +1,1 @@
+any idea why npm is using lstat when its not on my box? any idea why OSX has a man page for lstat but no bin?

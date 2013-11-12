@@ -1,0 +1,1 @@
+Qbix1, I tend to keep node and npm locked in place until I verify all my stuff works on latest

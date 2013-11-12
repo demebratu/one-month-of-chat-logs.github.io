@@ -1,0 +1,1 @@
+https://raw.github.com/joyent/node/v0.8.2/ChangeLog

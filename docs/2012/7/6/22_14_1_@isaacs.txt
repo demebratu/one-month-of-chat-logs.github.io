@@ -1,0 +1,1 @@
+jergason: don't trust user input of any kind, ever.  assume all user input is *at least* broken, and probably maliciously so.

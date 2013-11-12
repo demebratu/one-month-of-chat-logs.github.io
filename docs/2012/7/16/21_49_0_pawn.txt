@@ -1,0 +1,1 @@
+spolu: So my options are, memcache, redis and mongo, but how do I choose?

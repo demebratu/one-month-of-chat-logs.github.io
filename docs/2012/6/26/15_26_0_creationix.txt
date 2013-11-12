@@ -1,0 +1,1 @@
+circlicious: right, raw node on a linode.  See server.js and node.conf in the gists

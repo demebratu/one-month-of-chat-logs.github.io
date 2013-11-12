@@ -1,0 +1,1 @@
+Trindaz: we publish an npm module for deploying apps to Windows Azure / accessing azure services

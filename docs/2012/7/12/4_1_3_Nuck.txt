@@ -1,0 +1,1 @@
+I feel like this could be better solved by just throwing \00 as a delimiter

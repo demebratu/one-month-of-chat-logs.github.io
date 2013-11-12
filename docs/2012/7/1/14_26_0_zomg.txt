@@ -1,0 +1,1 @@
+Yeah it needs to be explicitly added to exports and even then it won't be a global but in the module itself

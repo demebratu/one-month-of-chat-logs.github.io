@@ -1,0 +1,1 @@
+a slightly related question is, does anybody know how hard it is to increase the maximum stack depth? Is it as simple as changing a constant in v8 and recompiling? 

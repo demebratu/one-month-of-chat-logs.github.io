@@ -1,0 +1,1 @@
+Piotras: ObjectWrap takes care of calling it when the JS object is GC'd

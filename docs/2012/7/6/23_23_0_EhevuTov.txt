@@ -1,0 +1,1 @@
+Hotroot, I think it will be a bit something like this: https://github.com/polotek/nodeconf-2012-streams-talk/blob/master/upload-example1.js

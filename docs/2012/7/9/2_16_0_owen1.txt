@@ -1,0 +1,1 @@
+tim_smart: i hit cont, now i am in line #9 where the debugger is. i try console.log(i) but get undefined

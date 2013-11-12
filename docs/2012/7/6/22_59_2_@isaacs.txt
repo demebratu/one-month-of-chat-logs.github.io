@@ -1,0 +1,1 @@
+Hotroot: write a module that takes buffers coming in, breaks them up by looking for \r\n or something, and emits 'data' events that are just the lines

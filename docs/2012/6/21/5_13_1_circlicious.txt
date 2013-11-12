@@ -1,0 +1,1 @@
+seems like a mac app, i am more lookin g for a node.js or similar web app that i can host as an API

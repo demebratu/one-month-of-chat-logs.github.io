@@ -1,0 +1,1 @@
+and it works, but doesn't fetch stylesheets, images and javascripts

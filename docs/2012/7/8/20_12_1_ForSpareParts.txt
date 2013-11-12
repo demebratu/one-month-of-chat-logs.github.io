@@ -1,0 +1,1 @@
+I'm just learning, but since the libraries are such a big part of what I have to know, I thought it'd be nice if I had an editor that gave me a sense of what I had available to use.

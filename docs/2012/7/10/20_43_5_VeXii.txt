@@ -1,0 +1,1 @@
+othiym23: sorry im stil new at linux. so i make a symlink from somthing like ~/bin and point it to python 2.7 and then add the symlink to the start of my PATH?

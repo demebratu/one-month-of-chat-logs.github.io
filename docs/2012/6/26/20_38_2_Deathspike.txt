@@ -1,0 +1,1 @@
+I intend to rewrite a semi-large site from php to nodejs so I have to plan ahead, and not "just do stuff".

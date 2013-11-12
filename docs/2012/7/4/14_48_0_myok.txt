@@ -1,0 +1,1 @@
+sriley: So how would node be different than other web servers for resource consumption? Would there be n threads for HTTP streams + 1 for the event loop, while on other web servers, say rails, there would be 2*n threads?

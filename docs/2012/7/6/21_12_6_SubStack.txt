@@ -1,0 +1,1 @@
+I just kept a static array of objects around and exposed the integer index to javascript

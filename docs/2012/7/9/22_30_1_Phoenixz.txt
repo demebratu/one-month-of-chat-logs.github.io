@@ -1,0 +1,1 @@
+My node 0.6 with socket.io worked fine (besides node hanging up on 100% every so many hours, some node 0.6 bug, which forced me to go to v0.8 in the first place)

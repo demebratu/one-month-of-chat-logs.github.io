@@ -1,0 +1,1 @@
+like if its all 1 express app, i have t use 1 single assets folder for all, which is not what i want for example

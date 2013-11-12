@@ -1,0 +1,1 @@
+what's the glob pattern for everything in the cwd?

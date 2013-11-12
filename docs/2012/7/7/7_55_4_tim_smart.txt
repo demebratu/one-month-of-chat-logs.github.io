@@ -1,0 +1,1 @@
+wubino: Anything to do with storing data in a database and creating slugs is relevant

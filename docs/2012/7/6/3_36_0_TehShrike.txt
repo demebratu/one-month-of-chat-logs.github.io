@@ -1,0 +1,1 @@
+owen1: asynchronous things happen in other threads.  Your JS runs in its own thread.  Whenever you do an async i/o thing, that gets handled by some other part of the computer, and your callback function gets called whenever it finishes.

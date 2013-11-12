@@ -1,0 +1,1 @@
+dominictarr: the api for writing outgoing packets might could use a bit more documentation

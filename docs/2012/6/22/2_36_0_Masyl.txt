@@ -1,0 +1,1 @@
+Isn't diode good for server-to-server stuff?  How would it solver my problem of giving admins access to my app's cli ?

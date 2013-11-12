@@ -1,0 +1,1 @@
+It's more of... memcache + a lot of extra features.

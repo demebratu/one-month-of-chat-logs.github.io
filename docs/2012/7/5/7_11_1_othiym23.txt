@@ -1,0 +1,1 @@
+TimeTurner: creationix's talk at NodeConf was enough to convince me to pick up the Programming in Lua book, and I'm looking forward to having some time to work through it

@@ -1,0 +1,1 @@
+i think once you have your own simple language, you can export to a lot of other languages

@@ -1,0 +1,1 @@
+I don't run osx so I've never seen that before. Maybe you could hack it by creating a symlink from c++ -> g++, but ymmv.

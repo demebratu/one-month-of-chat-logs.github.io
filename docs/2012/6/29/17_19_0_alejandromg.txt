@@ -1,0 +1,1 @@
+So what does mean "pure virtual method called" when I'm compiling 0.8.0? Because after that the process die

@@ -1,0 +1,1 @@
+but found railway.js more beginner friendly as it has db layer also... with express i could not find docs or tuts to handel db CRUD stuff there in

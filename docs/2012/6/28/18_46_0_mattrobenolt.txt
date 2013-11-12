@@ -1,0 +1,1 @@
+So no, you won't get into trouble with Redis in the future. It's used in many large scale deployments.

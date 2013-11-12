@@ -1,0 +1,1 @@
+jesusabdullah: fwiw, i've been writing node apps (both in javascript and via coffeescript) for some months now

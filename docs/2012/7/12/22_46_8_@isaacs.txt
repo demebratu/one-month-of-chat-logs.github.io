@@ -1,0 +1,1 @@
+SubStack: yeah.  {path,fs}.exists{,Sync} is bullshit anyway

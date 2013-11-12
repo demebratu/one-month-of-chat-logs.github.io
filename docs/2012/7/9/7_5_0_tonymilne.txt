@@ -1,0 +1,1 @@
+Does anyone know of a good hook.io example that load balances hooks which handle jobs, such that only 1 single hook process would act on the emitted event?

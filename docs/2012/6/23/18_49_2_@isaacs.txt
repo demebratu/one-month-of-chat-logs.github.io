@@ -1,0 +1,1 @@
+innociv: if it's on smartos, we can look at what the stack and state is at that point in mdb with a core file.

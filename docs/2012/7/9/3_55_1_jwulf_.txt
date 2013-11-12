@@ -1,0 +1,1 @@
+i guess since it's single-threaded memory is not an issue, unless it's leaking

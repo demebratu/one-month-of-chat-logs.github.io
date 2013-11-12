@@ -1,0 +1,1 @@
+In this particular case, I want to keep a "global" array of let's-call-them-sessions and read from and write to it within requests. This seems icky, coming from a Java concurrency background, but I'm not sure how this applies to node.js.

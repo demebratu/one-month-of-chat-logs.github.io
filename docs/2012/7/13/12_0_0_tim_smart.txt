@@ -1,0 +1,1 @@
+bmatusiak: I would probably do something like https://gist.github.com/3104543

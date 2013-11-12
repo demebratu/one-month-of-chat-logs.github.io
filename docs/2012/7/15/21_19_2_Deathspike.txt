@@ -1,0 +1,1 @@
+Limiting requests is generally not a good idea, and if your case is pretty straight-forward (What do you want to cache?) you could just serve information from a NoSQL-db. They are blazingly fast for simple queries.

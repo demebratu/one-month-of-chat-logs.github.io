@@ -1,0 +1,1 @@
+pooya: Cause f will only attach to the global namespace if you drop "var"

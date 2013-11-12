@@ -1,0 +1,1 @@
+no, it knows how to deal with something.domain.com/* as long as it isn't a file that resides in /home/sites/something.domain.com/static

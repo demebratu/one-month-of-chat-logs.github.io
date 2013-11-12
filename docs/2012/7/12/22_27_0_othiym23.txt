@@ -1,0 +1,1 @@
+yeah, choose a couple core abstractions and just make your system super super good at them

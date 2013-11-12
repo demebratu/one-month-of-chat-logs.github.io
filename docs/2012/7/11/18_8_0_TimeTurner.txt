@@ -1,0 +1,1 @@
+var a = new Array(); a.prototype.emit = myEventEmitter; I think

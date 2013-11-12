@@ -1,0 +1,1 @@
+if i learned python and webapp2 or django, would that make it easier to jump into node in the future?

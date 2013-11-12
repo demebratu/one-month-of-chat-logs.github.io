@@ -1,0 +1,1 @@
+deoxxa: how so? that depends on the implementation of the array structure.. a linked list will typically be a  "list.tail.next = linkedlistref(newitem)" etc

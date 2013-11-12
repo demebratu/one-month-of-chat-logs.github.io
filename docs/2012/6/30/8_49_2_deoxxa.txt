@@ -1,0 +1,1 @@
+might it not be easier to add this functionality to vim, as opposed to recreating the vim experience in a browser?

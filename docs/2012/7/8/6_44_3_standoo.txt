@@ -1,0 +1,1 @@
+isaacs: IPC messages is one of the strategies i'm considering

@@ -1,0 +1,1 @@
+One of my favorite things about node is that it's not very memory-heavy, at least not in my workload. So the 1.5c/hr rackspace server with 256 megs of memory can easily run 4 nodejs instances

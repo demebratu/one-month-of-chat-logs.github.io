@@ -1,0 +1,1 @@
+in 0.8.0 changelog "process * process.stdin.on('keypress') will not be emitted by default, as it’s an internal API." - so how to enable it?

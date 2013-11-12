@@ -1,0 +1,1 @@
+mmalecki, I'm surprised Node doesn't have built-in tools to do this.

@@ -1,0 +1,1 @@
+Basically, I need the method in the base class to be aware of its subclass, if that makes sense.

@@ -1,0 +1,1 @@
+TooTallNate: note that you need special permissions to create file and dir symlinks, and that junctions have to be absolute.

@@ -1,0 +1,1 @@
+can setHeader() be called after write() ?

@@ -1,0 +1,1 @@
+mc: and it's fewer chars than String(null)

@@ -1,0 +1,1 @@
+Xeon06_ : At work (on 7) I prefer to run all my servers on a Virtual Machine, I usually get less problems

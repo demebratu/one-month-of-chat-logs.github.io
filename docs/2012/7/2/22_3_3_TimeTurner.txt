@@ -1,0 +1,1 @@
+one http request is directed at express while the other is directed at socket.io's http server or websocket server

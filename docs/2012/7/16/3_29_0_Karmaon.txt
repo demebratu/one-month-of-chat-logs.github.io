@@ -1,0 +1,1 @@
+running the driver in a high latency environment is also not a good idea. 80ms between the client and server made my api slow as molasses

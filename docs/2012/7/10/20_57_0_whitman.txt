@@ -1,0 +1,1 @@
+genio, IN() will work with one item, but yes, zero items would be problematic.

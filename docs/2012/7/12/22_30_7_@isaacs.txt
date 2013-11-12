@@ -1,0 +1,1 @@
+tjholowaychuk: the delegate thing is a pita.  but most alternatives are worse, as far as i've seen.

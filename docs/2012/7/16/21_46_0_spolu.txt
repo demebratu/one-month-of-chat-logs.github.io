@@ -1,0 +1,1 @@
+pawn: you basically have redisStore or MongoStore. For session if find redis really adequate

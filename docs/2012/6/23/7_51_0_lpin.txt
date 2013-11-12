@@ -1,0 +1,1 @@
+one last thing Nexxy, what kind of sanitization would you use on that param? just check if it is a list of allowed values?

@@ -1,0 +1,1 @@
+e.g. https://github.com/component/dialog/blob/master/Makefile#L3

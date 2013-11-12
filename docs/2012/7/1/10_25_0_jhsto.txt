@@ -1,0 +1,1 @@
+how can i bind a socket.io function to a button onclick?

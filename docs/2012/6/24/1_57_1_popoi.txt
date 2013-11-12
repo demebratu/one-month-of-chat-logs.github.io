@@ -1,0 +1,1 @@
+NODE can work(read/write) with mySql and user-sessions ?

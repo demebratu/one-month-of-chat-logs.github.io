@@ -1,0 +1,1 @@
+well, weirdly, the process still continues to eat up more and more of "real" memory but memwatch still keeps saying its only 2.18

@@ -1,0 +1,1 @@
+It would probably return a boolean if it was a synchronous call and not just undefined

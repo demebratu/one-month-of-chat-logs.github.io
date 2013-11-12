@@ -1,0 +1,1 @@
+SwiftAppDesign: You don't. Node will be the program that receives the request, not some other app.

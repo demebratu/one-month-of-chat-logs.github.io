@@ -1,0 +1,1 @@
+also "canvas is too slow so i used raphael.js instead"

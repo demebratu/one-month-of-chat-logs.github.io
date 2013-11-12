@@ -1,0 +1,1 @@
+num1: If you open up a V8 debugger the stack and the scope variables are different things you can examine. The scope variables are what's important, i.e. seeing the global variables, closure scopes, and the local scope

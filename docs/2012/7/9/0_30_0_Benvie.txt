@@ -1,0 +1,1 @@
+in practice it means Set and Map are mostly useless, but WeakMap actually is feature complete as well as API stable and is extremely useful

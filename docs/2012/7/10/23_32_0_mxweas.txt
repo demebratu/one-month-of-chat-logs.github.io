@@ -1,0 +1,1 @@
+ie it would be awesome if I could grab all responses, send some data, get an event when .end has been called so I can send another line and update the content-length header.

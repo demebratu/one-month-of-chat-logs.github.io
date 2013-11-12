@@ -1,0 +1,1 @@
+node: George Shank v0.8 * r8721667 / (doc/index.html doc/images/forkme.png): doc: update 'Fork me at Github' ribbon - http://git.io/3txOsA

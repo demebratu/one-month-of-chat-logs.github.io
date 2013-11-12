@@ -1,0 +1,1 @@
+anyone knows how many lines of js and of c/++ node have? also how many contributors? i have slides from 2009 and it say 8000 lines of c/c++, 2000 of js, 14 contributors.

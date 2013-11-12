@@ -1,0 +1,1 @@
+And how am I supposed to automatically restart node when it uses 100% cpu?

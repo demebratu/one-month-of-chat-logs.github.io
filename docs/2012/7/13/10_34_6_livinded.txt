@@ -1,0 +1,1 @@
+none of it really stays in memory long enough to need redis

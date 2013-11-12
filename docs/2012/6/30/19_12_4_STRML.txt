@@ -1,0 +1,1 @@
+the my-project.conf file is a simple upstart script that runs node

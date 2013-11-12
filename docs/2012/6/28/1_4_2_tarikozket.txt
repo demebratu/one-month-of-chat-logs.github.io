@@ -1,0 +1,1 @@
+can room2 people listen what is speaking on room1?

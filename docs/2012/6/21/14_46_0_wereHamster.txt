@@ -1,0 +1,1 @@
+does vowsjs assume that the callbacks are passed err in the first argument?

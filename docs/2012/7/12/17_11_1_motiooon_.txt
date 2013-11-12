@@ -1,0 +1,1 @@
+does anybody know what type of encoding this data has ? : https://gist.github.com/3099416

@@ -1,0 +1,1 @@
+node: isaacs v0.8 * rbc71874 / doc/blog/release/v0.8.1.md : Blog post about 0.8.1 (+6 more commits...) - http://git.io/js_PhA

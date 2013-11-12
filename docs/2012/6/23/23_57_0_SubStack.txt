@@ -1,0 +1,1 @@
+maxogden: npm install -g browserify@1.13.2

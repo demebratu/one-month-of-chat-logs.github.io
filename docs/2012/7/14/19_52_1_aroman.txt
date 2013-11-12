@@ -1,0 +1,1 @@
+that's what I'm looking for. I have used django and its form api extensively, and that's what I ended up doing

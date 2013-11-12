@@ -1,0 +1,1 @@
+Well, all other functions that should return objects return completely empty objects

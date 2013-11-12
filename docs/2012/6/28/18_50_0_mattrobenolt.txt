@@ -1,0 +1,1 @@
+It syncs in a background thread.

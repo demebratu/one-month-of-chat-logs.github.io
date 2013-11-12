@@ -1,0 +1,1 @@
+owen1: Linus is on the record as saying he's not super interested in allowing probes / hooks into the kernel, so it's going to be a different kind of DTrace than the one on OS X / SmartOS

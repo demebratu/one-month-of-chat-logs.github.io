@@ -1,0 +1,1 @@
+how do I build node when I have python 2.x as python2 installed (python is python 3.x)

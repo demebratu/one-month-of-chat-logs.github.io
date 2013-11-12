@@ -1,0 +1,1 @@
+the module I'm thinking of lets you chain (async?) function calls

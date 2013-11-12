@@ -1,0 +1,1 @@
+im building a prototype with juggernaut ( node.js ) to send data to client subscribed channels but i still havent found a way to detect if a "send data" has worked

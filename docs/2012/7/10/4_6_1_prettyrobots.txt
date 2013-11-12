@@ -1,0 +1,1 @@
+EhevuTov: I have a node program that pipes to tee then pipes to another node program.

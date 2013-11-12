@@ -1,0 +1,1 @@
+tjholowaychuk: any ideas on maybe wrapping a method to make it work until more feedback comes?

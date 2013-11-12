@@ -1,0 +1,1 @@
+rektide: Your application/binary should only require() libraries, files that populate module.exports with Functions, and which Node.js will return right away if called directly.

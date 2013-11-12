@@ -1,0 +1,1 @@
+I was just celebrating that the optimist module handle that as you would expect.

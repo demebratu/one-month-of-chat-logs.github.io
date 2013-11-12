@@ -1,0 +1,1 @@
+gellis you dont have to do app.set('view engine', 'ejs'), but that defaults the extension to .ejs

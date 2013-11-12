@@ -1,0 +1,1 @@
+vrlogrs: But since it's usually the same "callback(err, data)" call it get very easy to do

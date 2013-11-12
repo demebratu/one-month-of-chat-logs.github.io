@@ -1,0 +1,1 @@
+For Node.js's own internal use, it's extending it with semantics that doesn't apply to modules

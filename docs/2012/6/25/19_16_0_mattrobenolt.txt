@@ -1,0 +1,1 @@
+emilsedgh_: Here's a related article: http://kovyrin.net/2006/11/01/nginx-x-accel-redirect-php-rails/

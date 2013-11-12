@@ -1,0 +1,1 @@
+dekroning: http://stackoverflow.com/questions/2387724/node-js-on-multi-core-machines

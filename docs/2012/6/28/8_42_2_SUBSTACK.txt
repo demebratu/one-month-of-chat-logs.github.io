@@ -1,0 +1,1 @@
+medice: if you require('vm') in browserify it will just work

@@ -1,0 +1,1 @@
+Nexxy: yes, modules are synchronous that means that they block. Also, in many applications modules are requested after the application has started, specially those that have multiple modules in different files.

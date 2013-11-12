@@ -1,0 +1,1 @@
+you want things like ./lib/{login,signup,admin}/{views,server,public}

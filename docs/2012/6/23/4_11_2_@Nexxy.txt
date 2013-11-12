@@ -1,0 +1,1 @@
+Masyl, is just suggesting prepending $ to objects you know are jQuery objects

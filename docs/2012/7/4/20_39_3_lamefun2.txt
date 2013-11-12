@@ -1,0 +1,1 @@
+__proto__ should be a valid player name

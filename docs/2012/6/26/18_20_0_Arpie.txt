@@ -1,0 +1,1 @@
+Can anyone recommend which module to use to access RabbitMQ? Better to go with straight AMQP?

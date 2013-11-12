@@ -1,0 +1,1 @@
+AviMarcus: what i'm doing is deleting the config file from the require cache, then re-requiring it

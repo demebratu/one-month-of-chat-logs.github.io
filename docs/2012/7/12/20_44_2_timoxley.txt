@@ -1,0 +1,1 @@
+motiooon_ console.log(arguments) in your worker methods. you may find truth

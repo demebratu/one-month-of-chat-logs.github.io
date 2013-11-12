@@ -1,0 +1,1 @@
+well it isn't yet but I could use it if I needed it. is that really necessary though? doesn't http.request have some kind of .toString() that'll show me what request is being sent out?

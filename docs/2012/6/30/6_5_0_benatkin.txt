@@ -1,0 +1,1 @@
+I thought npm was on IrisCouch, and IrisCouch was on AWS East. Whatever the case, good to see that npm is still up!

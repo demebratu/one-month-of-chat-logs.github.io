@@ -1,0 +1,1 @@
+Parent.func contains code like "self.child = new Child()"

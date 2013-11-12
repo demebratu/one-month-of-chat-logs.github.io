@@ -1,0 +1,1 @@
+Like, I'm a fan of small incremental improvements, I don't understand the need for es6 to change everything. We're not Microsoft here

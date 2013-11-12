@@ -1,0 +1,1 @@
+creationix: i think if people determing DAG is going to be how it is done it will hurt the use of modules for lazy loaders that want to do so

@@ -1,0 +1,1 @@
+"Conflict Document update conflict." every time I try to npm login

@@ -1,0 +1,1 @@
+I guess it would be useful for splitting processing or such between processes or servers

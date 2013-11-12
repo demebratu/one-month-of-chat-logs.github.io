@@ -1,0 +1,1 @@
+but maybe I want to let them stat files, and use functions that are part of the fs and net modules

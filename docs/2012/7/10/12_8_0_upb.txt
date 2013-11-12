@@ -1,0 +1,1 @@
+nice, that problem only appears when using restify 0.4.4 on node 0.6.17 but not when on node v0.4.2. i guess this is one of those nice node features again about modules vs node incompatibility

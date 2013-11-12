@@ -1,0 +1,1 @@
+lrvick: but, you could write a module that does this

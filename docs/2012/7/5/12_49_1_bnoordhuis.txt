@@ -1,0 +1,1 @@
+at least, not a fifo in the fifo(2) sense

@@ -1,0 +1,1 @@
+so you need to go to the appropriate apis and server side render the content, if you do that you might as well do it properly for the other users of the app too

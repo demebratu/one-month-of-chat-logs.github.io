@@ -1,0 +1,1 @@
+I try to stay away from raw node as much as possible, npm view request, <-- handy module

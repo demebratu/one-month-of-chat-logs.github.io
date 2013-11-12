@@ -1,0 +1,1 @@
+and stdout.on('data' ... pass to jade's stdin.write?

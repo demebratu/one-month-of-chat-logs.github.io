@@ -1,0 +1,1 @@
+JSON.stringify will have no line breaks

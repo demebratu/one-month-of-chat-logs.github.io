@@ -1,0 +1,1 @@
+deoxxa, I can't upgrade my node installation because the code that I would like to install is not compatible with lastest node.js implementation. Can u tell me which npm version I have to install?

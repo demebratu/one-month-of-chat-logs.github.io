@@ -1,0 +1,1 @@
+for the guest ip you need to check the vm to see what the external ip is

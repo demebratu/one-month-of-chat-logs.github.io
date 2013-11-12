@@ -1,0 +1,1 @@
+then what's the point of async ? make it sync :P

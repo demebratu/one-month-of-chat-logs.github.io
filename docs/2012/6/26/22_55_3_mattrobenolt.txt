@@ -1,0 +1,1 @@
+Right. So it's no efficiency gain or anything by doing a nextTick, just keeps the order as expected.

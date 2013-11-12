@@ -1,0 +1,1 @@
+I would expect the previously inserted data to be returned.

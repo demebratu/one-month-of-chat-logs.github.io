@@ -1,0 +1,1 @@
+felixge, the first example on the github page looks like .query is synchronous

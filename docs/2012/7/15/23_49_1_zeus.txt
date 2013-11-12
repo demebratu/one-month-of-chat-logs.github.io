@@ -1,0 +1,1 @@
+chilts: I think all I need to do is define a "bin" property in my package.json

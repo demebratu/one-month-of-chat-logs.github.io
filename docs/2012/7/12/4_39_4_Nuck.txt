@@ -1,0 +1,1 @@
+Aren't C bindings slower than staying in JS?

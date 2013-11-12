@@ -1,0 +1,1 @@
+hello i find myself having to repeat some initial setup every time i open the node shell. Whats the best approach to having a bunch of requires automatically setup when i start the console 

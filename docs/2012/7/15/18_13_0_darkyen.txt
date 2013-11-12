@@ -1,0 +1,1 @@
+This method starts an asynchronous operation to capture audio recordings using the device's default audio recording application. The operation allows the device user to capture multiple recordings in a single session.

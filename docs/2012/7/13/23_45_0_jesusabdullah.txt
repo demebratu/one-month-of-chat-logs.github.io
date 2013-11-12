@@ -1,0 +1,1 @@
+pooya: use eval() in a custom evaluator to be passed into repl.start()

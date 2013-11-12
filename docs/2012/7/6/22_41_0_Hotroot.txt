@@ -1,0 +1,1 @@
+I imagine getting a server to regex a 20GB could slow it down quite well

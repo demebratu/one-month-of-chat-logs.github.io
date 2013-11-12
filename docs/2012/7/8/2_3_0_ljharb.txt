@@ -1,0 +1,1 @@
+clearly "spaghetti" is an opinionated word that doesn't have a specific definition, so it's clearly not just "goto-like code"

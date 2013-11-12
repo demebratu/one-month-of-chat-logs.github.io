@@ -1,0 +1,1 @@
+well you shouldn't use nodemon for deploying your server

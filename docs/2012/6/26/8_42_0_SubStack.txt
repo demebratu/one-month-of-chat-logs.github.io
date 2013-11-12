@@ -1,0 +1,1 @@
+radiodario: when you typed exactly: `nave install 0.8.0` ?

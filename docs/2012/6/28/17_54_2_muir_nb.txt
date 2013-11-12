@@ -1,0 +1,1 @@
+hey, quick question: can crypto.randomBytes block?

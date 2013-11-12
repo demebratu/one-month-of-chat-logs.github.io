@@ -1,0 +1,1 @@
+austinbv: but throwing an error uncaught means that the function will quit before the expect() statement is run

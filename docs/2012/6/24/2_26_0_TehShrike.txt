@@ -1,0 +1,1 @@
+SubStack: how do you handle security/authentication with dnode, especially between the browser and the server?  Do you pass in a parameter with an authentication key into every function or something?

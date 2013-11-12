@@ -1,0 +1,1 @@
+szikael: you could use a program like nave to fetch, compile, and install node versions

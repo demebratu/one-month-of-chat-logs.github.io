@@ -1,0 +1,1 @@
+I'm using 'n' to manage node versions and if I do $ n; I get o 0.7.9 0.8.0 so 0.7.9 is marked as active. How do I get 0.8.0 used systemwide instead? (I already compiled and installed it)

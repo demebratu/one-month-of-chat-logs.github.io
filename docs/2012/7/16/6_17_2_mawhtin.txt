@@ -1,0 +1,1 @@
+it's because the bigShoe string is a property in a backbone model

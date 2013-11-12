@@ -1,0 +1,1 @@
+maxogden: Only on close or it may be on end?

@@ -1,0 +1,1 @@
+Hotroot, why their OpenVZ plans are considerably cheaper than Xen and KVM plans?

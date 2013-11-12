@@ -1,0 +1,1 @@
+hey, anyone on windows can tell me where the .npmrc file is located?

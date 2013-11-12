@@ -1,0 +1,1 @@
+and like, python 3 has real utf8 strings now by default, which is the most sane thing to do but it breaks a whole bunch of stuff

@@ -1,0 +1,1 @@
+When I try to start my node app, which worke on friday, I see this error: http://pastebin.mozilla.org/1705454 Anybody know what the cause of this is? haven't made any changes to the app since then

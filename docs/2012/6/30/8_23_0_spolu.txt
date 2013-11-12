@@ -1,0 +1,1 @@
+hi guys is there a secure way to limit a server inbound connections to the local host?

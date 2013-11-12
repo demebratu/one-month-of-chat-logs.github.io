@@ -1,0 +1,1 @@
+dsirijus, looks like connection info from your proxy server in JSON format

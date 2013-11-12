@@ -1,0 +1,1 @@
+that being said, you can also do console.log(this.sql) inside the callback

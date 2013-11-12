@@ -1,0 +1,1 @@
+deoxxa: well a linked list has memory overhead also, in that wrapper records need to be held in addition to the data

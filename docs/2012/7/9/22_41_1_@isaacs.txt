@@ -1,0 +1,1 @@
+bwen: when it reads package.json, it'll get a gnarly error

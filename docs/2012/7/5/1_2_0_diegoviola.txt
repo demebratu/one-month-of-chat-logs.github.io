@@ -1,0 +1,1 @@
+i'm really disappointed with termcap/terminfo

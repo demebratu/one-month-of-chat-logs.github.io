@@ -1,0 +1,1 @@
+.  Why would it say socket.io started when socket.io has already started long ago when the script was started?

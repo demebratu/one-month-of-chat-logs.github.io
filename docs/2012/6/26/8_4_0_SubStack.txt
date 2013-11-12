@@ -1,0 +1,1 @@
+usually you can just get away with writing a .write, a .end, set readable and writable to true and just emit 'data' and 'end' events

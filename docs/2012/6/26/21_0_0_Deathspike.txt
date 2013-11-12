@@ -1,0 +1,1 @@
+dynamic languages can't beat static compiled languages in terms of raw speed after all?

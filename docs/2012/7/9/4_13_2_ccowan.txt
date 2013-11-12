@@ -1,0 +1,1 @@
+I started using the node-pool library because we have a bunch of database requests that we could do in parallel and it gave use a performance boost.

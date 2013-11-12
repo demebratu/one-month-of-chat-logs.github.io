@@ -1,0 +1,1 @@
+So if i use setEncoding "ascii", this seems to get a bit more complicated

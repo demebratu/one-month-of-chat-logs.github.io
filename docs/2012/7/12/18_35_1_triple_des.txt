@@ -1,0 +1,1 @@
+socket.on('joinroom', function (data) { var data = setTimeout .... ?

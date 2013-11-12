@@ -1,0 +1,1 @@
+Is there a special way to do CSS + EJS?

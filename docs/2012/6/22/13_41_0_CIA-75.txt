@@ -1,0 +1,1 @@
+node: Bert Belder master * r3bab121 / tools/msvs/nodejsvars.bat : windows: fix/improve nodejsvars.bat - http://git.io/0WnJhA

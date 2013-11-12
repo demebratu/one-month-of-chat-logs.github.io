@@ -1,0 +1,1 @@
+since node probably didn't look in the folder from which the original script was LAUNCHED but apparently in the parents of the file which was require()ing the express module

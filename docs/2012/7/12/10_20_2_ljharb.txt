@@ -1,0 +1,1 @@
+jarr0dsz: i'd be using sockets with node myself, so i'm not able to help you. all i did was point out that the blog post.

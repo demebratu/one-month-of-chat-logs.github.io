@@ -1,0 +1,1 @@
+Nexxy: i have no idea, i have some child_process.spawn code that causes node to crash, https://gist.github.com/2986977

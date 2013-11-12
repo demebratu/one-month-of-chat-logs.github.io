@@ -1,0 +1,1 @@
+so, we should make lchmod work the same on windows as on os x, and make lchmod and lchown no-op everywhere else.

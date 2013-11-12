@@ -1,0 +1,1 @@
+If I write a function in a file I want to include, should I use exports.name=function?

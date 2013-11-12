@@ -1,0 +1,1 @@
+and the event loop is the entity that recieve and process the i/o calls and convert them into callbacks.

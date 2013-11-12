@@ -1,0 +1,1 @@
+SubStack: if im in a module's folder and i do `browserify -r modulename -o bundle.js` why does bundle have require.define("/index.js" instead of require.define("modulename"

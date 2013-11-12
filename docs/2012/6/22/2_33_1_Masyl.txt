@@ -1,0 +1,1 @@
+shawn, I'm building a content server in node and I want to expose the admin cli through ssh (instead of sucky unsecured telnet)

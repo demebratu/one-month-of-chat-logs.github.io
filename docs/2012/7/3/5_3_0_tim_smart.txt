@@ -1,0 +1,1 @@
+dnnsmanace: That is just an examples. A stream is just an special event emitter.

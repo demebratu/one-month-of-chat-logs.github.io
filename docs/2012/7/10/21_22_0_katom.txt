@@ -1,0 +1,1 @@
+can anybody help my, i'm trying to xc node.js on my raspberry pi and I'm getting the error that armv7==1 is not defined.

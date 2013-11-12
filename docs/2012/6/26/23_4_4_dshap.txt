@@ -1,0 +1,1 @@
+motiooon_: i don't use express so not sure about that, but seems like you should use res.attachment() per tjholowaychuk

@@ -1,0 +1,1 @@
+bleh, I need to get around to writing an example app that showcases http://jamescarr.github.com/mongoosastic/

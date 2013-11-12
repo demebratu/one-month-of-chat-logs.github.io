@@ -1,0 +1,1 @@
+I think the idea was to extract "version" from the package.json file

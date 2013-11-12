@@ -1,0 +1,1 @@
+I assume   var collection = new mongodb.Collection(client, 'test_collection'); just opens a collection ,and does not delete my old one?

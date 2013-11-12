@@ -1,0 +1,1 @@
+Can somebody take a look at this and tell me why NSSocket isn't encrypting (as WireShark has shown me) https://gist.github.com/3fb1d4607fb4ccc1a989

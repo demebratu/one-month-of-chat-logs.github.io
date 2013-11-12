@@ -1,0 +1,1 @@
+all of this socket.io stuff would be SO much easier if I just had an API documentation!

@@ -1,0 +1,1 @@
+OK, not sure what the problem is. You will need to do some more research on socket.io sessions.

@@ -1,0 +1,1 @@
+How can i check if a string is in an array?

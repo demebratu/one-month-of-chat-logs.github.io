@@ -1,0 +1,1 @@
+Nuck: You could have the parser know when it's back at the root and accept a new json document there with no delimiter ;-)

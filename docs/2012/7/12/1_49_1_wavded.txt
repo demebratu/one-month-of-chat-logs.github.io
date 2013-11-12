@@ -1,0 +1,1 @@
+use the cookie off the request to look it up in whatever you are using for a session store (the example i gave was for connect-redis)

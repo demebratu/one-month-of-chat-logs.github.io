@@ -1,0 +1,1 @@
+the file:   /controllers/rainbow.js will export an object with the method getSomewhere

@@ -1,0 +1,1 @@
+also, some commands/executables might accept arg which overrides or answers to questions it might ask during execution

@@ -1,0 +1,1 @@
+I've just done a bunch of development and pulled in deps manually - is there an npm command to give me the deps in a format I can copy+paste into the package.json I'm about to create?

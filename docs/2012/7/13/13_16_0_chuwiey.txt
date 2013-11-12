@@ -1,0 +1,1 @@
+Hey all, I've got an application that i've already built using php... Now I want to incorporate some real time features - from searching around it seems node.js is my best option for websocket implementation. Can anyone point me to a reference for app architecture incorporating node.js alongside an existing php app layer... ?

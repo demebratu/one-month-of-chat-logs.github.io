@@ -1,0 +1,1 @@
+can anyone recommend a lib for deep copying a fs directory? first one i tried (wrench) kinda worked but it lost file permissions

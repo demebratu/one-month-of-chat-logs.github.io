@@ -1,0 +1,1 @@
+node-cron is a fully in-node implementation. Doesn't actually make cron files. It just uses set interval

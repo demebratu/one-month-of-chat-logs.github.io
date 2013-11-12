@@ -1,0 +1,1 @@
+I'm not trying to build modified versions that are "secure" I'm just trying to stop certain functions from doing anything

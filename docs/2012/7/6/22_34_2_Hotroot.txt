@@ -1,0 +1,1 @@
+I can't find any form of socket.setMaxSize or anything

@@ -1,0 +1,1 @@
+manipulate strings in Javascript without feeling like they're doing it in Javascript

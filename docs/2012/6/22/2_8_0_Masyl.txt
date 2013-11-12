@@ -1,0 +1,1 @@
+My admin cli is already working well through telnet, but telnet sort of sucks… since it only does basic deadlines all arrows keys and auto-complete is lost. And of course it's not secure.

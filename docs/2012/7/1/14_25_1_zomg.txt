@@ -1,0 +1,1 @@
+You don't really need a try-catch if you just check that everything exists before trying to call it. I think it's a better approach than relying on try-catch for something you could check

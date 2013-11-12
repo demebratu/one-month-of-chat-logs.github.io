@@ -1,0 +1,1 @@
+I've installed it through npm aswells as through packagecontrol in sublime

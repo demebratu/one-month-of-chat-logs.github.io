@@ -1,0 +1,1 @@
+bnoordhuis: the way systemtap injects itself into kernelspace seems pretty primitive / general / open-ended

@@ -1,0 +1,1 @@
+sh1mmer, crud, I can't find it, but basically I was doing a missive amount of concurrent lookups against a BIND server and I would get an error like that (not sure if it's the same though)

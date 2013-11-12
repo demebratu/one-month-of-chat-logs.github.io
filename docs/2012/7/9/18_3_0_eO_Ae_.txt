@@ -1,0 +1,1 @@
+Is there any way that I'm going to be able to install node on  a PowerPC G5 processor?

@@ -1,0 +1,1 @@
+can i bcrypt once and then compare to several hashes? or it does not work like that :(

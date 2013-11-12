@@ -1,0 +1,1 @@
+regality: but will i be able to dynamically render them ?

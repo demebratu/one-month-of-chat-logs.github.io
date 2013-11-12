@@ -1,0 +1,1 @@
+i was just source diving around in socket.io. It appears that the "flash socket" works by implementing web socket support in flash. Does anybody know if this is true?

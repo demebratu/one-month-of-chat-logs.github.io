@@ -1,0 +1,1 @@
+stdout_stream is a stream of a file

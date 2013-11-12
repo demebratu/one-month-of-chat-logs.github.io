@@ -1,0 +1,1 @@
+deoxxa: Id like to limit the programs involved, looking for a rather simple solution. which is preferred of dropping privileges vs internal port redirection? also, I take it node-http-proxy is good?

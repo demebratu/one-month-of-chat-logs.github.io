@@ -1,0 +1,1 @@
+and why do I need an "ss" object? Why not just say "var ready = require('ready');"?

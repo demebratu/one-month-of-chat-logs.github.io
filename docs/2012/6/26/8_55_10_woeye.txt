@@ -1,0 +1,1 @@
+gellis11: depends on your personal style. i prefer python's explicit style. other prefer rails magic style. you have to play around with both of them to find out which one suits you best

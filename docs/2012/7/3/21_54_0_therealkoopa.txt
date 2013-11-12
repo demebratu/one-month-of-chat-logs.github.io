@@ -1,0 +1,1 @@
+When a node upgrade, I'm now getting a lot of path.exists is now called `fs.exists`.  Best way to track these down?

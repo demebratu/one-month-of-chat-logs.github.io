@@ -1,0 +1,1 @@
+RLa: sure, they could do a lot ;) I just found it interesting that node core libs are starting to show up in other places

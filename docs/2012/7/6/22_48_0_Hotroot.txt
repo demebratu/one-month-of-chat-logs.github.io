@@ -1,0 +1,1 @@
+I thought socket.bufferSize was a readable attribute only 0.o

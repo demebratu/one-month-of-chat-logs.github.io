@@ -1,0 +1,1 @@
+EPERM could be something like, "you can't write to THAT folder"

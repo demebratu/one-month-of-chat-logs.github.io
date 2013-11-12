@@ -1,0 +1,1 @@
+cpsubrian: do it in the constructor?

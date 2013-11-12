@@ -1,0 +1,1 @@
+scruz: hmm, well toString does have a hex representation

@@ -1,0 +1,1 @@
+hello, I am trying "Canvas" and PhantomJS on fedora ... and the fonts are all squares ... anyone know the required package i need to install

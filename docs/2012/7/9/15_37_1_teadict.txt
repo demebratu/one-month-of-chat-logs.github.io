@@ -1,0 +1,1 @@
+felixge: Seems like I chose the correct ORM when I started the project... Support for stored procedures? You go gurl!

@@ -1,0 +1,1 @@
+ashb: in my app i handle the upload of csv files and i had the crazy idea to compress them on the fly in the browser to speed up the upload significantly

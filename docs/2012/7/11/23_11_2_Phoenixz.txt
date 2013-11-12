@@ -1,0 +1,1 @@
+bnoordhuis: cool, knew the -j trick but forgot all about that.. I don't compile very often..

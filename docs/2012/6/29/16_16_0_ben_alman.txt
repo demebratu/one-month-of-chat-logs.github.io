@@ -1,0 +1,1 @@
+the idea is to effectively use it like a Gemfile, as a means to have npm install dependencies

@@ -1,0 +1,1 @@
+What part of package.json? I'm fine with it as it is, I'm not fine with Node.js adding its own module semantics to it

@@ -1,0 +1,1 @@
+its funny how you can increase or decrease the .length property of a buffer ... if i resize a buffer to a larger size, will the heap get fragmented more easily?

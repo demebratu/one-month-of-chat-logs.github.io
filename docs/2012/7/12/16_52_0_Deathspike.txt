@@ -1,0 +1,1 @@
+Any way to select elements in jQuery/cheerio that have a particular content (like in XPATH, //span[text() = 'Type'])?

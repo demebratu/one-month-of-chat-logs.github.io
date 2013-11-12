@@ -1,0 +1,1 @@
+I'm not really know where is that file, but, in examples, people only put script(src='/socket.io/socket.io.js') on their views

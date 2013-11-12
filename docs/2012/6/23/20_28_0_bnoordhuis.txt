@@ -1,0 +1,1 @@
+saschagehlich: re network interface, yes in 0.7 / 0.8

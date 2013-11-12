@@ -1,0 +1,1 @@
+Deathspike: Yeah, I have been using express a lot, but many of its features are meant for an app with HTML views

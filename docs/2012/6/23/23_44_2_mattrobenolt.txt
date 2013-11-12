@@ -1,0 +1,1 @@
+isaacs: I've always gotten hung up when coping and pasting lines from a list or object with a comma at the end, to end up forgetting the last one and then IE yelling.

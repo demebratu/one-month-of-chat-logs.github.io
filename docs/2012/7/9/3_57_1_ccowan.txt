@@ -1,0 +1,1 @@
+and have a bunch of async calls to mysql per request (our data model is a legacy mess)

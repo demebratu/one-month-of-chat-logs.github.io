@@ -1,0 +1,1 @@
+still no luck with azure. started with a fresh Ubuntu virtual machine, installed node as described at https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager, then did sudo npm install azure -g. this gives me a /usr/bin/azure, which is a comment plus a require('./azure.js'). when I run that script all I get on the command line

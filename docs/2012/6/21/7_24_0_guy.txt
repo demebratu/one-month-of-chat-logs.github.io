@@ -1,0 +1,1 @@
+It is a big of a challenge for the first Node.js/Socket.io project. Though, I don't really understand what's so special about it for now.. just basic JS.

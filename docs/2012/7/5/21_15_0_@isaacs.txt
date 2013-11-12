@@ -1,0 +1,1 @@
+that's really weird.  the couchdb can be hit just fine

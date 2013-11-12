@@ -1,0 +1,1 @@
+you can use jsdom with your own readable stream. Just make your own stream instead of passing the url to jsdom for it to do it.

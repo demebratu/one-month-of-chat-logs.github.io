@@ -1,0 +1,1 @@
+hey folks:    Trying to install  NODE.IO and getting:   https://gist.github.com/3056790     with Node 0.8  Can anyone see why ?

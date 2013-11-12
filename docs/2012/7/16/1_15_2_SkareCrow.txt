@@ -1,0 +1,1 @@
+or you can install /usr/bin by typing `nave usemain 0.8.2`

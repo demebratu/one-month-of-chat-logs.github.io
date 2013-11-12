@@ -1,0 +1,1 @@
+wget is the same as a browser when downloading a single page. when you use it with the "download site" option, you're scraping the entire site, and i think that's just as unethical as any other form of crawling + scraping

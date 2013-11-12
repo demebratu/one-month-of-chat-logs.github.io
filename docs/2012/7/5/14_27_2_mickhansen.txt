@@ -1,0 +1,1 @@
+Protected,  have you tried it out? Afaik context of the function call should not matter

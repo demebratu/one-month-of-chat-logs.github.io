@@ -1,0 +1,1 @@
+aleminio: Have you tried setting the database in the connection options? https://github.com/felixge/node-mysql#connection-options

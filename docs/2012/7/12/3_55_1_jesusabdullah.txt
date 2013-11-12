@@ -1,0 +1,1 @@
+JasonJS: nssocket's closer, I think.

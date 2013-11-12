@@ -1,0 +1,1 @@
+but like, if you expect to be getting JSON, then make sure it's json, by parsing it, and expecting that it will NOT be json a lot of the time

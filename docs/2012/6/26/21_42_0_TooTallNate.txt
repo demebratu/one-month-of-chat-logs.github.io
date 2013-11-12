@@ -1,0 +1,1 @@
+Mantic: export PATH="/path/to/python27:$PATH"

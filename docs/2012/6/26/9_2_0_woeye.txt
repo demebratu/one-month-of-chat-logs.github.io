@@ -1,0 +1,1 @@
+python, for example, is very powerful when it comes to dealing with lists or maps

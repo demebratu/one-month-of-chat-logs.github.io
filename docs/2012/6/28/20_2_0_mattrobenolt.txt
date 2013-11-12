@@ -1,0 +1,1 @@
+I guess it could just be toggled here: https://github.com/visionmedia/mocha/blob/master/lib/runner.js#L327

@@ -1,0 +1,1 @@
+pawn: for configuration, https://github.com/LearnBoost/Socket.IO/wiki/Configuring-Socket.IO

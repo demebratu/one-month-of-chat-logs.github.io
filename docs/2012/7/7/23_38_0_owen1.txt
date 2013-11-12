@@ -1,0 +1,1 @@
+is it accurate to say that when i make async call, i am adding event to the event loop?

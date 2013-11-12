@@ -1,0 +1,1 @@
+Is not closing the socket on exit intentional?

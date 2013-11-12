@@ -1,0 +1,1 @@
+it's bit like how html is rendered.

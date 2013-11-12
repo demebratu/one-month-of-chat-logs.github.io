@@ -1,0 +1,1 @@
+Ded: A UNIX domain socket can have a name associated with the node.js app, rather than a meaningless, arbitrary number.

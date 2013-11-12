@@ -1,0 +1,1 @@
+that way its much easier to spot that you are, in fact, relying on a local variable (process memory), or using a module which is like that.

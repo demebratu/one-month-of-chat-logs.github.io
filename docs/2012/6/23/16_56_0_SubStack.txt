@@ -1,0 +1,1 @@
+marlun: when you require('jquery-browserify') it returns an object

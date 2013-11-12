@@ -1,0 +1,1 @@
+What I don't understand in regard to the mongodb driver is, why I have to specify a database name, I thought mongodb only has collections. Can someone explain this to me?

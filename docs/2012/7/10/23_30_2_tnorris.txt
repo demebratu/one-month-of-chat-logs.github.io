@@ -1,0 +1,1 @@
+dsirijus: you should be able to use `proxy_pass` for any number of locations specified.

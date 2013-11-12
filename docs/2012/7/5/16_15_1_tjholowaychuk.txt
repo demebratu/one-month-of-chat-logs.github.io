@@ -1,0 +1,1 @@
+alexgordon another small thing that might be nice is (optionally?) displaying more of the filename for similarly named files

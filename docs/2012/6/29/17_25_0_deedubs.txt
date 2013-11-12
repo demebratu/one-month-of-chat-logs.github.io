@@ -1,0 +1,1 @@
+dshap: do you have write permissions in the folder your trying to run 'npm i' in?

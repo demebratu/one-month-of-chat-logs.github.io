@@ -1,0 +1,1 @@
+good morning everyone :)  i'm running a child process to do some extra data processing, but i'm not getting any callbacks or events from it .. so according to the parent process, it never finishes, although i can see it's output in the temp data file that it creates.  any ideas?

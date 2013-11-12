@@ -1,0 +1,1 @@
+a character, e.g. 'a' or '1' can be encoded in more than one byte

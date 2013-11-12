@@ -1,0 +1,1 @@
+its an api that returns positive and negative energy from tweets about the olympcis

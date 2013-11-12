@@ -1,0 +1,1 @@
+milani:- Actually in my code I am seeing some memory leak. I am wondering if when I call a callback do I have to delete this object or HandleScope should take care of it?

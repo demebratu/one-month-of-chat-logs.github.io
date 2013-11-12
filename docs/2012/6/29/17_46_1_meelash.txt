@@ -1,0 +1,1 @@
+kill just sends signal to a process according to docs

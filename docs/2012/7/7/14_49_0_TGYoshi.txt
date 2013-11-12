@@ -1,0 +1,1 @@
+Anyone knows why (node.)js doesn´t seem to like utf-8 strings?

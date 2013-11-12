@@ -1,0 +1,1 @@
+jwulf_: happy to consider pull requests, but IMO the description is fairly clear (unless you're also new to node.js, in which case my Readme might not be the ideal starting point)

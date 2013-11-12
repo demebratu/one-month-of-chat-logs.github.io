@@ -1,0 +1,1 @@
+ok RLa here's my config (and issue). host osx, vm ubuntu 11.1. using shared folders and config rc.local to mount it as logged in user. that all appears to work fine

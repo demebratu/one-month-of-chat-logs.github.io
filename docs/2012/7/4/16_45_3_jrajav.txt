@@ -1,0 +1,1 @@
+Protected: Yep, that will work, and is in fact the usual way to do in Javascript what other languages do with private members

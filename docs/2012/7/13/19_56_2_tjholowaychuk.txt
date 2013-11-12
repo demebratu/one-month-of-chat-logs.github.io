@@ -1,0 +1,1 @@
+if you love haskell and want to use haskelljs or whatever, that sort of thing sure why not i guess

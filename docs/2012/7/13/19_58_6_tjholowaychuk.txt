@@ -1,0 +1,1 @@
+i was wondering why there's no commonjs -> amd type of tool

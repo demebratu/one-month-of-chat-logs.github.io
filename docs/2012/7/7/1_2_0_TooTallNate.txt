@@ -1,0 +1,1 @@
+Hotroot: if you're writing a chat server, you just call .write() lots of times

@@ -1,0 +1,1 @@
+why do anything in node? surely there's something similar in tcl or lua or some other 3 letter language

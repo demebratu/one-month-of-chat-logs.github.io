@@ -1,0 +1,1 @@
+If anyone using slack is interested: https://github.com/iquidus/SlackBuilds/tree/master/sublime_text SlackBuild for Sublime Text 2 

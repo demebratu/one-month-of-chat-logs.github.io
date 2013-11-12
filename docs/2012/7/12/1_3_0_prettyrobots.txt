@@ -1,0 +1,1 @@
+When I write using stdout.write() in Windows, it won't rewind \r.

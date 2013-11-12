@@ -1,0 +1,1 @@
+tbranyen: can you just drop few more lines about : "you need to scope.Close whenever you HandleScope" ?

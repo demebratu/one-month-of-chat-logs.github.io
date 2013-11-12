@@ -1,0 +1,1 @@
+line 146 has an except looking like this: "except Utils.WafError, e:", the syntax error is caused by the comma. I'm on arch linux.

@@ -1,0 +1,1 @@
+tuhoojabotti: I recall seeing instructions on attaching to an existing process in the node-inspector README.

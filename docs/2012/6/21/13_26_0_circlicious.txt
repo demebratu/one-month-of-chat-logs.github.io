@@ -1,0 +1,1 @@
+AAA_awright: when the process is opened directly via say .spawn() are the arguments passed as a vector array ?

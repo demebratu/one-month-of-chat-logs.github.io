@@ -1,0 +1,1 @@
+Yes, owen1. You need to fill out the .request() method as you usually would. I didn't insert an object with everything, because I figured that would be implied.

@@ -1,0 +1,1 @@
+how can it be that sqlite3, after successful rebuild, still misses a symbol?

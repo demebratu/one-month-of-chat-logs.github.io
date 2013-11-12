@@ -1,0 +1,1 @@
+tjholowaychuk: yea, but is that still a major issue with destructuring?  var {EventEmitter} = require("events")

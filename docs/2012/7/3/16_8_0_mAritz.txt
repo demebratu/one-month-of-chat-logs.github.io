@@ -1,0 +1,1 @@
+anyone know why my ssh (putty) shows âââ in npm ls output? (i'm assuming encoding issues. anyone know exactly how i can fix it? i'm lazy, i know :D )

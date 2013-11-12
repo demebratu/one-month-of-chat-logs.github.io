@@ -1,0 +1,1 @@
+konobi: well you can drop regular .js files into /lib and they get compiled into the node binary, but as for whole modules, and addons, no i don't know of anything

@@ -1,0 +1,1 @@
+i work in a large org. we are use mainly java/ruby, deploy on centos and use tpkg. i want to push the usage of node. any tips/guidance about introduting node in such a place?

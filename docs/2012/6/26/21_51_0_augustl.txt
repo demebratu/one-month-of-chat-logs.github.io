@@ -1,0 +1,1 @@
+tjholowaychuk: so I could probably make two express apps, one with auth by default, and one without, and combine them?

@@ -1,0 +1,1 @@
+foo(function (err, foosult) {  bar(function (err, secsult) { /* you now have both functions ran in-order */ })); });

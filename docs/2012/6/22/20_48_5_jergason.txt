@@ -1,0 +1,1 @@
+Is their an easy way to automatically kill the child processes when the parent process dies?

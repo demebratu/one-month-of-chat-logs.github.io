@@ -1,0 +1,1 @@
+I should just change browserify to dump into process.binding('natives')

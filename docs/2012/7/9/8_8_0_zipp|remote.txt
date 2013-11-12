@@ -1,0 +1,1 @@
+Anyone else hosting node servers -- anything I should worry about besides file descriptor limits? I don't need much memory because v8 sucks, right? And unless I'm using 0.8's native cluster module, chances are using multiple cores is going to be shitty?

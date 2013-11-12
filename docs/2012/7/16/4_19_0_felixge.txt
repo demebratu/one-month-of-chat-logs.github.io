@@ -1,0 +1,1 @@
+rookie84: if you're doing anything involving streams of data / websockets / many active connections -> node is pretty good for that

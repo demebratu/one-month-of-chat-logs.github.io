@@ -1,0 +1,1 @@
+Ah, nevermind, horrible package.json syntax error, thanks tjholowaychuk!

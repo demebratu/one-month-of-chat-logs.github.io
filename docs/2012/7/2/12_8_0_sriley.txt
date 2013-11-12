@@ -1,0 +1,1 @@
+the hostname is optional and make its only listen to connections from that host so if you specify 127.0.0.1 itll only allow connections from your local machine

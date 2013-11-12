@@ -1,0 +1,1 @@
+isaacs: so explictly set GIT_DIR= npm install in the post-receive hook? thanks, I'll give it a shot!

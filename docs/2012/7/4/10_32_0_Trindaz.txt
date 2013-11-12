@@ -1,0 +1,1 @@
+i'd love to know how to view the actual raw http request that node sends out

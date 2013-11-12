@@ -1,0 +1,1 @@
+konobi: how is that done ? just add 'PATH': "$PATH",  to the env object?

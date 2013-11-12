@@ -1,0 +1,1 @@
+gll3: possible API reference. Do: g.Currencies('USD', function(error, data) {});

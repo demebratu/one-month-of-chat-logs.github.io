@@ -1,0 +1,1 @@
+What a troll. https://github.com/anuary/ay-game/network Was looking through his commits glad that someone joined the project. Supposedly reworked from the ground. Though, what's done is: added bunch of redundant debug information, implemented redundant express, removed PHP session implementation that breaks game logic and changed naming convention. Kudos. : )

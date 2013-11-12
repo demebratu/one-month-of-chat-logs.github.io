@@ -1,0 +1,1 @@
+thm: i'd recommend recompiling node from source and using that version, linking against a shared v8 isn't recommended

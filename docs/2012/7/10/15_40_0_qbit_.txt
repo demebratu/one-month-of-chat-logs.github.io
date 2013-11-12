@@ -1,0 +1,1 @@
+is it still "best practice" to use replicate from npm to dup the npm repo ? 

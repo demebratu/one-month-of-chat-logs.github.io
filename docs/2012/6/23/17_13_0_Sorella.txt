@@ -1,0 +1,1 @@
+marlun, yep: https://github.com/substack/node-browserify/blob/master/doc/methods.markdown#bfilterfn

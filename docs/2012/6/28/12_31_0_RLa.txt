@@ -1,0 +1,1 @@
+for jade i currently set it as param in render but used to use an helper for that in express 2

@@ -1,0 +1,1 @@
+it lacks entry freebsd9 in tools/gyp/pylib/gyp/common.py

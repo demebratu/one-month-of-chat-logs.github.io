@@ -1,0 +1,1 @@
+tjholowaychuk: yep - and first i saw on the request docs it says that "body" by default is returned as a buffer

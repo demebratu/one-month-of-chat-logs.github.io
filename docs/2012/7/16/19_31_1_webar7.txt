@@ -1,0 +1,1 @@
+to me it seems the redis layer just caches for UI and I guess for reads from the application so it's just to stop postgres from being used too much in our case ... but postgres will repond to queries in JSON we could just cache

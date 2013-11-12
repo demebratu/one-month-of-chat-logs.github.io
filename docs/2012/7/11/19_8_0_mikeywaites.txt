@@ -1,0 +1,1 @@
+hey anyone familiar with the node-mysql module? not sure what im doing wrong here but cant seem to get it running http://dpaste.com/769530/

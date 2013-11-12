@@ -1,0 +1,1 @@
+when http request comes and asks me some part of the file, i just make sure i dont respond the 80%.

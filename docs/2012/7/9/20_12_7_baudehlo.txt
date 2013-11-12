@@ -1,0 +1,1 @@
+You could encode as base64, then it's just text.

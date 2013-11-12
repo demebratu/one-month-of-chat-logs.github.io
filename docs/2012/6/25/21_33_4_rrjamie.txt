@@ -1,0 +1,1 @@
+othiym23: there's also 'n', which is similar to rvm. (though you have to hack it to make it build in  ~ instead of in /usr/)

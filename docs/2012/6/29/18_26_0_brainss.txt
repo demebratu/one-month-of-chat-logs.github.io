@@ -1,0 +1,1 @@
+akcontreras: if you have 2.7 then try to sym link /usr/bin/python -> python 2.7

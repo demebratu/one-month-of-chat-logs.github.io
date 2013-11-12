@@ -1,0 +1,1 @@
+Each test gets a clean slate. It makes it easier to isolate a problem too.

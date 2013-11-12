@@ -1,0 +1,1 @@
+ya, I was considering that as well as haproxy

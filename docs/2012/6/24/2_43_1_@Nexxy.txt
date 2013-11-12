@@ -1,0 +1,1 @@
+kuki, whereas if you use <%- partial( ... %> it won't

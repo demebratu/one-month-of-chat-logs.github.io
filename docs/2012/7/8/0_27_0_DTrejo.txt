@@ -1,0 +1,1 @@
+and npm -g install authors

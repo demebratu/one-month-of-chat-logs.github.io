@@ -1,0 +1,1 @@
+tjholowaychuk: no, its not printing a stack trace

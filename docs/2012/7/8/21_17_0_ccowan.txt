@@ -1,0 +1,1 @@
+I've been wanting to use a terminal based IRC but I want one that also integrates with Growl since I don't always have my terminal up front

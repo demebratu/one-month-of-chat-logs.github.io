@@ -1,0 +1,1 @@
+since we got socket.io, why can't i use it for all my communication with the server?

@@ -1,0 +1,1 @@
+this is the feed: http://www.ynet.co.il/Integration/StoryRss2.xml

@@ -1,0 +1,1 @@
+Raynos: Maybe not 'aggressive' enough but I find people outside the node community really relate to code reuse when I talk about form validation on both the client side (for speed/UX) and form input validation on the server side (for security) using exactly the same code.

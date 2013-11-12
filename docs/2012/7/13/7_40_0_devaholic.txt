@@ -1,0 +1,1 @@
+data wouldnt make it through, it would get through the first es.map, make it to _redis, then get lost somewhere in es.split or the last es.map

@@ -1,0 +1,1 @@
+hunterloftis: just run `env`.  then gist it.  make sure to filter out anything that's secret (passwords, auths, etc.)

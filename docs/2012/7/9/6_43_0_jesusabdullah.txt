@@ -1,0 +1,1 @@
+is that log formatting and log transports are conflated right now

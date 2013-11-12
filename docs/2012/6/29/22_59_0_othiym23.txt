@@ -1,0 +1,1 @@
+xaq: there's a hint if you look at Car.prototype vs Truck.prototype

@@ -1,0 +1,1 @@
+one last question ? how come when I do for (k in app) it doesn't do anything

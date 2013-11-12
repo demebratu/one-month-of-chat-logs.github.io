@@ -1,0 +1,1 @@
+vrlogrs: no, by default node gives each process a random log file name

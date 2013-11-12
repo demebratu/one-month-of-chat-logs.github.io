@@ -1,0 +1,1 @@
+mattrobenolt: well, that'd work around it until travis updates to node 0.7.12 or higher

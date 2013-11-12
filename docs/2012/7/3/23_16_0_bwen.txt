@@ -1,0 +1,1 @@
+jfroma: I nerver used  more than just key: and cert: self-signed works fine for me

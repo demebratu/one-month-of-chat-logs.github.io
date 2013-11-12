@@ -1,0 +1,1 @@
+Glenjamin: commonjs and node's spin on commonjs are similar enough

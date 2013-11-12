@@ -1,0 +1,1 @@
+but callbacks registered in the if block (if any) may not have run yet

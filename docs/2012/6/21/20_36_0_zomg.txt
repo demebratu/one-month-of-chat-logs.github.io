@@ -1,0 +1,1 @@
+Usually if a base class needs to know about its subclasses, something is wrong =)

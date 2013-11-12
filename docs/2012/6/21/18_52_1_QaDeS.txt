@@ -1,0 +1,1 @@
+i'm having problems compiling node.js due to some openssl crap on osx. does anybody have experiences and knows how to solve that?

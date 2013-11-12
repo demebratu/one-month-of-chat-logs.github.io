@@ -1,0 +1,1 @@
+TehShrike|Work: yea - it requires more insert overhead but really, i mean who cares about an extra 240 bytes per row - i know it adds up but disk space isn't THAT expensive

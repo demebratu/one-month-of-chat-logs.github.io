@@ -1,0 +1,1 @@
+i will have multiple apps in my 1 root folder, so what can i do to acces them in the way they are organized from the browser?

@@ -1,0 +1,1 @@
+ja, leider kenne ich mich halt auch noch nciht so gut aus. habe mit node bis jetzt auch nur meinen webserver (mit express) aufgesetzt und benutze nowJS für websockets. sonst mach ich nur ein paar festplattenzugriffe damit und so

@@ -1,0 +1,1 @@
+`func({ a: 42, b: 'foo', c: 'lol' }, ['a', 'b']) === { a: 42, b: 'foo' }` - how'd you guys call `func`?

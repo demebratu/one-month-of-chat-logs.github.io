@@ -1,0 +1,1 @@
+anyone know of some good code for encoding/decoding floats in javascript? (I realize node now has builtins for this, but I need to do it in a browser; I just figure this channel is likely to have a crowd that might know something about such things)

@@ -1,0 +1,1 @@
+what does the core dump file look like? is it in cwd ?

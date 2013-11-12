@@ -1,0 +1,1 @@
+It's not really a fault of Node, Node can juts do a million other things that nginx cannot. But for the few things nginx does, it does them very very well.

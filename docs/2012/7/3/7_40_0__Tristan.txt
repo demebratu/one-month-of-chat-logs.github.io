@@ -1,0 +1,1 @@
+rest is just an attempt to create a very simple, limited and memorable rpc.

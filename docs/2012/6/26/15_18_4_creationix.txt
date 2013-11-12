@@ -1,0 +1,1 @@
+circlicious: ok, so with some conventions this can be done

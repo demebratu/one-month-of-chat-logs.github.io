@@ -1,0 +1,1 @@
+ccowan, have you done any performance tests on pooled vs non-pooled?

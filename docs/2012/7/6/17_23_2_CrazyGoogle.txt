@@ -1,0 +1,1 @@
+Handle<Value> something(...) { HandleScope scope; return scope.Close(Undefined()); }

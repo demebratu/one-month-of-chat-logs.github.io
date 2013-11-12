@@ -1,0 +1,1 @@
+I want it to support multipart forms so that you can degrade gracefully to non-ajax uploads

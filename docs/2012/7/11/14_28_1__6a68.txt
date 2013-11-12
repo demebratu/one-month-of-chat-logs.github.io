@@ -1,0 +1,1 @@
+it just seemed weird to me that you wouldn't use promises/deferreds right off the bat

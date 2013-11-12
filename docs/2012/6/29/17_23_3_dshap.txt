@@ -1,0 +1,1 @@
+mafnnode: i just want to be able to do "npm install" and have it work.  i was setting up a new box and following some instructions but i must have made a mistake.  our deploy uses "npm install" and now it's broken

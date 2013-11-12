@@ -1,0 +1,1 @@
+the big question is, how can "node install.js" fail

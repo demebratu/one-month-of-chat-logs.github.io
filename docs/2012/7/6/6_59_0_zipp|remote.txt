@@ -1,0 +1,1 @@
+idk, I just write html to the raw socket for a single static page. It's like hello world

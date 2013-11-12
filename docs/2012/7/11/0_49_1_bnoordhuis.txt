@@ -1,0 +1,1 @@
+num1: node --stack-size=<kb>

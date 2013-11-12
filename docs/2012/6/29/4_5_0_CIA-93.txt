@@ -1,0 +1,1 @@
+libuv: Bert Belder master * r7628b65 / (test/test-gethostbyname.c test/test-list.h): test: fix test-gethostbyname to not use a DNS server on localhost - http://git.io/JGRElg

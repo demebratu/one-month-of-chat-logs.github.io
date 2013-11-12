@@ -1,0 +1,1 @@
+couchdb replication seems to stop after a while

@@ -1,0 +1,1 @@
+i dont use nginx, and that node code is a bit complex, so i am still confused :P

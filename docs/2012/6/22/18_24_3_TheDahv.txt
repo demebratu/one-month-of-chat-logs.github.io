@@ -1,0 +1,1 @@
+basically: `nvm install 0.8.0` right?

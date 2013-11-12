@@ -1,0 +1,1 @@
+TimeTurner: but at certain points during the init proces/ or when the process starts listening on a port, there is no way my main app can know about it

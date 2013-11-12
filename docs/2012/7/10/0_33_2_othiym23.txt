@@ -1,0 +1,1 @@
+Spion_: like a lot of ES6 additions, generators look cool but also strike me as an abstraction too far

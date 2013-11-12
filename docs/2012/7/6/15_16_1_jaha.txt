@@ -1,0 +1,1 @@
+anyone used jquery to access the loggly API? I cant seem to get it to work

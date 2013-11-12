@@ -1,0 +1,1 @@
+aha, bunyan's .child() feature is what i wanted - not sure on the JSON logs yet though

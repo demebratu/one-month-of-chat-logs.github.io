@@ -1,0 +1,1 @@
+burg: read the blog posts about it http://blog.nodejs.org/ (0.6.20 is a maintenance release)

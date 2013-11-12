@@ -1,0 +1,1 @@
+AAA_awright: so on each iteration of the loop in my broken example, i'm calling "it()", but i'm only defining the callback as opposed to calling it

@@ -1,0 +1,1 @@
+Substack: With dnode, can I do the following? "Server gives client an url then client does a request then gives it back to server"

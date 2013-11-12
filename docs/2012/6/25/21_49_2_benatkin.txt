@@ -1,0 +1,1 @@
+I'd like to see homebrew (for OS X) install npm, seeing as npmjs.org no longer provides the one-liner

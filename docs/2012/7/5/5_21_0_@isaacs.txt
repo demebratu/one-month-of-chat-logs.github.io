@@ -1,0 +1,1 @@
+timoxley: yes, login is supposed to work.  but it's probably got bugx.

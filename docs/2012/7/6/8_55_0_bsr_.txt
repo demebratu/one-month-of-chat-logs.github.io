@@ -1,0 +1,1 @@
+this is the command as console.logged to me "mysqldump -h127.0.0.1 -uXXXUSRXXX -pXXXPASSWORD --quick --default-character-set=utf8 --extended-insert=FALSE --complete-insert --skip-comments --no-create-db  -P 31000 XXXDBNAMEXXX"

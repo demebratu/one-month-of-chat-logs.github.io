@@ -1,0 +1,1 @@
+I'm new to JS/Node so this question may sound stupid. I want to extend the "request" object that the "http.createServer" passes to it's callback. I want to extend it with a method. How can I access the prototype of that object before I receive any to add my custom method?

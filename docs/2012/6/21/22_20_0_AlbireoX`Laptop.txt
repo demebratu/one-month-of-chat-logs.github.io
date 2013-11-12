@@ -1,0 +1,1 @@
+Hi, how could I do a bidirectional relationship like this in Mongoose: http://docs.doctrine-project.org/projects/doctrine-mongodb-odm/en/latest/reference/bidirectional-references.html

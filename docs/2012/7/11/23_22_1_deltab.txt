@@ -1,0 +1,1 @@
+jarr0dsz: so the problem is that you send the page without the content, instead loading that through ajax only?

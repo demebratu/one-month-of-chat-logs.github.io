@@ -1,0 +1,1 @@
+isaacs: It seems to rise, indicating a memory leak? Here's my test case: http://pastebin.com/trvhWLbE. Would this indicate a leak in node, express or connect? Or did I just do something really silly..

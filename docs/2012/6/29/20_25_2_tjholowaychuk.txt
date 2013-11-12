@@ -1,0 +1,1 @@
+jamescarr if that's the case doing it magically on .save() is probably not going to work too well

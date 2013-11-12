@@ -1,0 +1,1 @@
+magge: yeah. it's a shortcoming in node's fs api

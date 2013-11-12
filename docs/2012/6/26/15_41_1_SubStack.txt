@@ -1,0 +1,1 @@
+I think streams are better handled using a dedicated mux/demuxer

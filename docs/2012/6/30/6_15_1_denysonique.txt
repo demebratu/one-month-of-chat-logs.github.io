@@ -1,0 +1,1 @@
+Has anyone written a deployment framework for Node.js? Such as Capistrano

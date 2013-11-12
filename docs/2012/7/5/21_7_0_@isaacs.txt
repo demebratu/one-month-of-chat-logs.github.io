@@ -1,0 +1,1 @@
+so if you had the root doc already, but not the specific version, it wouldn't fail, and i didn't catch it for that reason

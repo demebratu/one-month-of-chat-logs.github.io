@@ -1,0 +1,1 @@
+like, if you don't care about the last l-n-1 characters, why bother zeroing them out?

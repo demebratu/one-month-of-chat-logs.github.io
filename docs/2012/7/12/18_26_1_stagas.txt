@@ -1,0 +1,1 @@
+Deathspike: it's somewhere in the source https://github.com/stagas/superscraper or you can use the lib

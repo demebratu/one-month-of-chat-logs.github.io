@@ -1,0 +1,1 @@
+so, in other words, stick with sticky-session for now?

@@ -1,0 +1,1 @@
+Phoenixz: also, Array.prototype.remove, if you add it, should return the array, not the result of Array.prototype.push

@@ -1,0 +1,1 @@
+chanced not ATM - we should emit "error" and if there's no error listeners exit

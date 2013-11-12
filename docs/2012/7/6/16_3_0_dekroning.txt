@@ -1,0 +1,1 @@
+hi, I was wondering when running node.js on a ec2 micro instance, how fast it would run

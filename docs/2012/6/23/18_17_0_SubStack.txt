@@ -1,0 +1,1 @@
+maxogden: maybe this? http://badassjs.com/post/17218459521/webm-and-webp-hand-ported-to-javascript-for-all

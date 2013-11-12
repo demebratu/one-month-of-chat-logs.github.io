@@ -1,0 +1,1 @@
+seems fast enough for coffee script

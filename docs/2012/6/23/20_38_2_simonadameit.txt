@@ -1,0 +1,1 @@
+does JSON.parse also accept a buffer or will i have to convert to a string first?

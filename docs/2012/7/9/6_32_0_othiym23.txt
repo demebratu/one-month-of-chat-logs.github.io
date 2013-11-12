@@ -1,0 +1,1 @@
+jesusabdullah: after spending some time working with mocha + whatever assertion framework, and deciding mid-project to switch from should.js to Chai and doing that in like two hours, I never want to use a testing framework with a bundled assertion library again

@@ -1,0 +1,1 @@
+Deathspike: Yah okay, that seems like a simple solution. Also, the api request limit is per client, so could I do something like store the timed-update timeout # in the session?

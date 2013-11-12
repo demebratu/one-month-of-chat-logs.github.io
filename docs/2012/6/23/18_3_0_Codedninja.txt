@@ -1,0 +1,1 @@
+Alright, one more thing. Just by skimming the readme, can you "emit" to certain clients?

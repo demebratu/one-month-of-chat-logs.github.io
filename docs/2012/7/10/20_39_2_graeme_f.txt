@@ -1,0 +1,1 @@
+hey guys! i've been looking at the repo for https://new.npmjs.org/ and can't find the tests! is everything that's worth testing in modules, or..?

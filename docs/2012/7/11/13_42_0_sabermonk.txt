@@ -1,0 +1,1 @@
+hi, i am spawing multiple child process from a parent process, i want to share certain global variable across all child processes , how can i do that?

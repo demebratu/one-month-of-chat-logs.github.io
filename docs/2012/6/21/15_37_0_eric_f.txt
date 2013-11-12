@@ -1,0 +1,1 @@
+How can I tell npm to install `a@2.0.0` and `b@1.8.0` where `a` depends on `b`? I don't want `b@latest`.

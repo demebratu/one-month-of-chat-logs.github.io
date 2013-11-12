@@ -1,0 +1,1 @@
+the upshot of 2) is that you can just run your tests using either the harness program or just using node

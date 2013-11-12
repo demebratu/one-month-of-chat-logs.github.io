@@ -1,0 +1,1 @@
+jesusabdullah: I'm storing my sockets like: chatSockets[userId] = socket;

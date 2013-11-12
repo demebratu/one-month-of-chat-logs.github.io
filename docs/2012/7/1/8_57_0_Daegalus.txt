@@ -1,0 +1,1 @@
+ljharb: well the CLR VM is far mroe performant than Java's VM, and C# can be used functionally, has tonse more features than Java as a language, and just overall more enjoyable to use

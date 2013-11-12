@@ -1,0 +1,1 @@
+arcanis: so sounds like you should be streaming the collection as a collection -- look at how the Go streaming JSON support works for an example

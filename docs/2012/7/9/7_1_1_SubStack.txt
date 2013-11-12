@@ -1,0 +1,1 @@
+brianloveswords: pow fixed the example require() string

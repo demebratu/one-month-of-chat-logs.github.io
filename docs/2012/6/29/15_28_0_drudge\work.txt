@@ -1,0 +1,1 @@
+MadonnaIsMyMommy: no, this config attempts to serve static files from the root first, and only proxies the requests if they don't exist

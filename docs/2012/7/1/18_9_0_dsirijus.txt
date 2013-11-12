@@ -1,0 +1,1 @@
+RLa, though now it works, it doesn't work as advertised... this should rewrite /pantene in url, and it doesn't, lookie see test.kation.hr/pantene

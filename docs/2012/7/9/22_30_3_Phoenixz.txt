@@ -1,0 +1,1 @@
+for some weird reason on node 0.8 socket.io starts sending out empty files to the clients.. 

@@ -1,0 +1,1 @@
+Considering we currently parse and encode it with javascript all ready.

@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/11233339/express-socket-io-socket-io-client-script-is-404

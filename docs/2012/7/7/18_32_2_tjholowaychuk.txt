@@ -1,0 +1,1 @@
+that .on('error' stuff is definitely a source of problems

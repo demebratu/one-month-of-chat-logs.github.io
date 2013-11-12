@@ -1,0 +1,1 @@
+anyone know how to collect data from a multi select box, i'm not getting anything on the req.body

@@ -1,0 +1,1 @@
+jwulf_: yes, but at least 3 orders of magnitude faster than any I/O

@@ -1,0 +1,1 @@
+both rails or django are still way more powerful when it comes to dealing with webapps. things like form handling, scaffolding etc.

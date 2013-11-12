@@ -1,0 +1,1 @@
+you need expires header for browser not making any requests for those resources

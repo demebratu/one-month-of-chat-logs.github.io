@@ -1,0 +1,1 @@
+honestly I am not sure why waitsFor in jasmine worked

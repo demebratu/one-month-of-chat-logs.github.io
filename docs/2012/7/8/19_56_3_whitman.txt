@@ -1,0 +1,1 @@
+I'm using socketio and the with the following code: http://pastebin.com/1VhhaeqA - 'connected' is echoed to the client console as well as the value of $('#key') but the following emit doesn't appear to do anything.  Suggestions?

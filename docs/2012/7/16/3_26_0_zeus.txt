@@ -1,0 +1,1 @@
+Karmaon: But at the same time, every time i've used pg, it never blocks or waits for queries to finish, it simply sends them to the queue and if the queue gets too long it will throw an error

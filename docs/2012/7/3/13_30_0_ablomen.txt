@@ -1,0 +1,1 @@
+fire2k, var does not do block scoping

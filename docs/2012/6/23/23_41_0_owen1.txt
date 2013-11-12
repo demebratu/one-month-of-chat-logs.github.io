@@ -1,0 +1,1 @@
+how come the res argument of the callback that is called on http.reuest is not listening to the 'end' event in the example? http://nodejs.org/api/http.html#http_http_request_options_callback

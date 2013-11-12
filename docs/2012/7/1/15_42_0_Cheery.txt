@@ -1,0 +1,1 @@
+https://raw.github.com/cheery/essence/master/coffeesipper.py

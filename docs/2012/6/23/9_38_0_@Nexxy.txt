@@ -1,0 +1,1 @@
+well if you're using child_process to spawn it there is of course the additional overhead of setting up another v8 instance

@@ -1,0 +1,1 @@
+bradleymeck: narrowed it down to a 0.6.x module, false alarm

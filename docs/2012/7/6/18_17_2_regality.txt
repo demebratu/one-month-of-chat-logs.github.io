@@ -1,0 +1,1 @@
+what should happen is that any async methods that throw should be handled by the domain

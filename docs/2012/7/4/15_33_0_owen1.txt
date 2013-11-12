@@ -1,0 +1,1 @@
+merjman: i am confused as well. i think when u make a webserver using http.createServer node uses threads (5 by default) as connection pool. but within each thread, no more threads will be created and it's all async.

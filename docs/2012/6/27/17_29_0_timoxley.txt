@@ -1,0 +1,1 @@
+muchzill4 if you have a loop does async operations, the async libraries map/forEach/series stuff will make life a hell of a lot easier for you

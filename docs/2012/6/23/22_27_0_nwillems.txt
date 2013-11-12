@@ -1,0 +1,1 @@
+thanpolas: So npm could contain all sorts of allready build applications(like wiki, SCM, CMS..), or is there some codex to only stuff useable modules in there?

@@ -1,0 +1,1 @@
+Deathspike: Redis can do all of that very simply.

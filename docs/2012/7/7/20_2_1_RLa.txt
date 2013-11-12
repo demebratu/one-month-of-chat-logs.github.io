@@ -1,0 +1,1 @@
+are { on the next line? are empty lines counted? are comments counted?

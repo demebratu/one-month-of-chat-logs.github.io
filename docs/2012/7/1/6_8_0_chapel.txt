@@ -1,0 +1,1 @@
+for (i = 0… without var means its global

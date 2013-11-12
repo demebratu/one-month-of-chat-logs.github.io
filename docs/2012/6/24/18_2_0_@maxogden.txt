@@ -1,0 +1,1 @@
+dunno what information you mean by 'all the information' but i find package.json to be more than adequate for dependencies in all the apps i've built

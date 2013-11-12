@@ -1,0 +1,1 @@
+anybody know of any libs for pattern matching strings like you'd see in some routes? '/foo/:bar' giving you the 'bar' for general use?

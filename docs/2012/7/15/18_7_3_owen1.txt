@@ -1,0 +1,1 @@
+vandenoever: what does 'byte array' means and how is it related to arraybuffers?

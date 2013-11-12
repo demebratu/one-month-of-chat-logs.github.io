@@ -1,0 +1,1 @@
+basically, the async equivalent of: while(true) {result = someFunction('foo'); callbackFunction(result);}

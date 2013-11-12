@@ -1,0 +1,1 @@
+Send it SIGUSR1 and attach a debugger?

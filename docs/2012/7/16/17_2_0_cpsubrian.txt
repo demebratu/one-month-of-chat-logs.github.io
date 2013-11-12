@@ -1,0 +1,1 @@
+Interesting problem .. I am using socket.io with redisstore to server sockets from multiple servers… I would like to keep track of how many people are in a couple different rooms …. io.socket.clients('room') seems to be reporting wrong numbers

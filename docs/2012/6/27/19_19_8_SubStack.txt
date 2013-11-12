@@ -1,0 +1,1 @@
+I can think of a lot of python modules that are basically unusable unless you from foo import *

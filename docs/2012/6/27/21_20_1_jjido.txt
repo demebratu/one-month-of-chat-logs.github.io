@@ -1,0 +1,1 @@
+in the examples I saw something like module p = foo

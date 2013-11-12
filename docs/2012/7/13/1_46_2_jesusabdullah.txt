@@ -1,0 +1,1 @@
+if you're zeroing out a ton of entries anywhere you may want to think of a more efficient way to store sparse data

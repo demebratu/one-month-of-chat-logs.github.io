@@ -1,0 +1,1 @@
+webar7: that sounds like a good use case for redis, actually, though other databases would work

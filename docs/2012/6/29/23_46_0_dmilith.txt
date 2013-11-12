@@ -1,0 +1,1 @@
+anyone tried compiling node 0.8.1 on FreeBSD?

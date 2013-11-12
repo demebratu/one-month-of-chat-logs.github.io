@@ -1,0 +1,1 @@
+Thinking Seq is a good choice to simplify this function, I reimplemented it. I'm just not sure how it's easier to understand or that I implemented it wrong :\ https://gist.github.com/10de62889b422eea0940/f0e9d35df560b6129280288929bce432ab7058c0

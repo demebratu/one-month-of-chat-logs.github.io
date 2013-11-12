@@ -1,0 +1,1 @@
+Closures in JS are pretty hard to wrap your head around at first

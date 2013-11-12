@@ -1,0 +1,1 @@
+Within it, `this` should refer to the object invokes this function and in the context should be the same as `this` in external context

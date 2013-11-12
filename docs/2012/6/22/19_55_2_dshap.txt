@@ -1,0 +1,1 @@
+hey guys, when i do http.request(options, function(res){ … }) ….what type of object is "res" in that scenario?

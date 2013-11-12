@@ -1,0 +1,1 @@
+Hello noders. Can i somehow "normalize" a URL? Hopefully without alot of regexing. By "normalize" I mean, http://example.org/some/../other/ should convert to http://example.org/other/

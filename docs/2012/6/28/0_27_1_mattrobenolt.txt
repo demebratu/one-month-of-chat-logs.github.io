@@ -1,0 +1,1 @@
+I've done stuff where I piped in JSON, but not actually passed through as "arguments".

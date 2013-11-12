@@ -1,0 +1,1 @@
+tjholowaychuk: and for handling errors in event emitters, they're really nice

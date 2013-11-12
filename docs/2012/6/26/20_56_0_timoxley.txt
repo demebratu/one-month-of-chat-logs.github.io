@@ -1,0 +1,1 @@
+Deathspike I actually think node is a bad fit for complex general purpose websites, something that does more for you like rails or django is more suited.

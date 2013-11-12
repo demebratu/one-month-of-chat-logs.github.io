@@ -1,0 +1,1 @@
+node: Ben Noordhuis reviewme * rf00c8bc / (configure node.gyp): build: fix --shared-v8 option - http://git.io/q-0mTg

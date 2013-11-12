@@ -1,0 +1,1 @@
+is the proper way to get the value in app.post('/whatever') req.body.x?

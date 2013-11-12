@@ -1,0 +1,1 @@
+supernaught: Sure can. S3's just HTTP, so nothing weird there.

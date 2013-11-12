@@ -1,0 +1,1 @@
+so, if you have module "foo" { export x = 100; export y = { z: 'zed' } }

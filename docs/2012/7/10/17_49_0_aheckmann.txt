@@ -1,0 +1,1 @@
+nooga: somewhere you set Category to the return value of executing a query

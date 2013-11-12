@@ -1,0 +1,1 @@
+the client side doesn't have everyone, just the server side.

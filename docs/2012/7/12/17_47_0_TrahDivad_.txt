@@ -1,0 +1,1 @@
+I'd like to give send an object like this: { objects: query, metadata: { count: query, offset: 0, limit: 10 } }

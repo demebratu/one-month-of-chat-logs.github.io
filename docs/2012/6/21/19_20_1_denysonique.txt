@@ -1,0 +1,1 @@
+jfroma_: the request module doesn't allow me to easily define a POST querystringified request body

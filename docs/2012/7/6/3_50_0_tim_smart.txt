@@ -1,0 +1,1 @@
+owen1: It is automatic, but I'm sure the fs module has a few methods and constants for that stuff.

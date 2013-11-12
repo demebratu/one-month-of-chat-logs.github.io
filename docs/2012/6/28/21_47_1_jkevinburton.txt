@@ -1,0 +1,1 @@
+dangelov: is it global or is your npm in your root.

@@ -1,0 +1,1 @@
+Regex in question: http://jsfiddle.net/9YS2x/12/ 

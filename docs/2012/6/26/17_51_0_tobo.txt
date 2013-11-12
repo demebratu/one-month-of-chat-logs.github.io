@@ -1,0 +1,1 @@
+qbert_ 3x has req.ip but yeah in 2x you have to use req.socket.remoteAddress

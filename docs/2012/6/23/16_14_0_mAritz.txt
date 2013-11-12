@@ -1,0 +1,1 @@
+hah, found it. to stop node_redis from retrying a failed connection endlessly pass max_attempts: 10 in the options to createClient. (obviously you can set any numer, 10 just being an example)

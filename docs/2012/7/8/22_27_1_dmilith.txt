@@ -1,0 +1,1 @@
+but when runjs myserver.coffee it hogs my cpu badly

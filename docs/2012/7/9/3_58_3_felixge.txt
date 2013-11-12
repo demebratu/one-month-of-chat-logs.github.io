@@ -1,0 +1,1 @@
+more importantly: do not worry about performance unless you have a benchmark showing you have a problem

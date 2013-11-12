@@ -1,0 +1,1 @@
+SkareCrow: that's what I expected, but I have a debugger; statement in my test.js file, and it still won't stop. I guess there is some earlier problem I missed.

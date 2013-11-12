@@ -1,0 +1,1 @@
+with pid module, you can store pid number of each process, from process.kill you can kill that process by reading that pid from a file

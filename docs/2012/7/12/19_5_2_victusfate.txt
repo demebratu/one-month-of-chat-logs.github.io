@@ -1,0 +1,1 @@
+npm http 304 https://registry.npmjs.org/node.extend npm ERR! EEXIST, mkdir '/home/ubuntu/Desktop/Dropbox/mark_code/fastsociety/cameo-montage-scene/node_modules' File exists: /home/ubuntu/Desktop/Dropbox/mark_code/fastsociety/cameo-montage-scene/node_modules Move it away, and try again.  

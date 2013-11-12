@@ -1,0 +1,1 @@
+is sortof dumb about unicode stuff still and might be saying stupid things

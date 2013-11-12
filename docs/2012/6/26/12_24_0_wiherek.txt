@@ -1,0 +1,1 @@
+how to write a function that will read POST data before continueing? stuck at http://jsfiddle.net/qhhfx/

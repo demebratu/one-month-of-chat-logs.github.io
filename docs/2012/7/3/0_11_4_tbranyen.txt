@@ -1,0 +1,1 @@
+scope is simple in javascript... happens in functions or global

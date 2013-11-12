@@ -1,0 +1,1 @@
+Hotroot, Marco gave a good talk about streams recently at Nodeconf. Here's some of his examples if you want to look at code: https://github.com/polotek/nodeconf-2012-streams-talk

@@ -1,0 +1,1 @@
+konobi: i think compiling native addons into the binary as part of the build as one of ryah's wishlist items

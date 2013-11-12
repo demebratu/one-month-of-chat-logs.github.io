@@ -1,0 +1,1 @@
+Perl: Catalyst can self-serve as well

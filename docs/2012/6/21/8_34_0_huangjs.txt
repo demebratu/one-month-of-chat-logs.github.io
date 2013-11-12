@@ -1,0 +1,1 @@
+i'm using connect 2.3.3, how can i define dispatches on method and path?

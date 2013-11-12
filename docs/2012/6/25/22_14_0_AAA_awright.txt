@@ -1,0 +1,1 @@
+I do happen to publish my module to npm: http://search.npmjs.org/#/rdf

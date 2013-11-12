@@ -1,0 +1,1 @@
+glanced at 'async' node module and it uses callbacks for it's async loops. Wth

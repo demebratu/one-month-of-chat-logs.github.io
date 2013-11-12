@@ -1,0 +1,1 @@
+anyone using spf13 vim plugin with handlebars?

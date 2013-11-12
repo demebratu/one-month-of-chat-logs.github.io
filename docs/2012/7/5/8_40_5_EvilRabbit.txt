@@ -1,0 +1,1 @@
+Having an issue installing node using the windows installed on the node site. Works up untill the section creating shortcuts and then says an error has occurred and rollsback - is there not a log somewhere I can review

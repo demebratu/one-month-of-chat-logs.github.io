@@ -1,0 +1,1 @@
+Although I'd caution you to test the case where you have zero or one items in your array

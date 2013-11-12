@@ -1,0 +1,1 @@
+What I mean about sharing properties... To require() a module, Node.js executes the file as the body of a function, and anything that gets assigned to the named arguments becomes a library

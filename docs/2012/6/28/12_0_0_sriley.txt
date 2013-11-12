@@ -1,0 +1,1 @@
+probably quite a few on the web. the way that express works is that it will go though the middleware layers, one of which is the route middleware. so if you add something before that it will call it before any page is routed

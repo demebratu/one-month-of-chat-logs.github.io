@@ -1,0 +1,1 @@
+EricBlade: Can you do it with regular string ops and still fit it in a Tweet?

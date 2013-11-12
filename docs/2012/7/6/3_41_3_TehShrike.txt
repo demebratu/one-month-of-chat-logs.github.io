@@ -1,0 +1,1 @@
+But most languages aren't set up to make asynchronous calls like JavaScript is, so it hasn't come up a lot before now

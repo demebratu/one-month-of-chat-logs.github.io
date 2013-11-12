@@ -1,0 +1,1 @@
+thanpolas: when your script weighs < 1KB, I think you can stop worrying about filesize

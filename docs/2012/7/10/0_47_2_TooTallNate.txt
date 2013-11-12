@@ -1,0 +1,1 @@
+c4milo: gyp doesn't really have those kinds of checks built in

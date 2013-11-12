@@ -1,0 +1,1 @@
+SkareCrow: I have used a lot of debuggers, mainly php, but I used chrome's debugger, and before that, firebug's

@@ -1,0 +1,1 @@
+I'm thinking of adding the "work" (ie. the atomic update operation) into a queue, and then having a queue reader serially read from the queue and do the processing. Am I on the right track? 

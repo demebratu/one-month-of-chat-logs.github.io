@@ -1,0 +1,1 @@
+isaacs, npm is acting ballsy again =/ it fails to install on 0.8.0: it's giving a ENOTEMPTY error: https://gist.github.com/3013799

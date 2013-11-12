@@ -1,0 +1,1 @@
+if i do fs.stat('wonderland_-_steve_oood.ogg') i get undefined returned

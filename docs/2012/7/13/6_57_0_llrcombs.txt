@@ -1,0 +1,1 @@
+atob(btoa("foobar ") + btoa("baz")) <-- just try doing this in a WebKit inspector

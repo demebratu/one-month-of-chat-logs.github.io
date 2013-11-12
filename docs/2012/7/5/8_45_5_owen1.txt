@@ -1,0 +1,1 @@
+myndzi: so on successful login, i should generate a unique id, save it in my users collection (i use mongo) and put that id in the cookie. and each reqest i'll query the users collection for the id from the cookie?

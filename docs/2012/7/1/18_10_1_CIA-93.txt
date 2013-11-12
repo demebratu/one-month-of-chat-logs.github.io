@@ -1,0 +1,1 @@
+node: Ben Noordhuis v0.8 * rb53cd97 / doc/api/globals.markdown : doc: document setTimeout / setInterval behavior - http://git.io/sSgqlA

@@ -1,0 +1,1 @@
+tnorris, i could basically replace those sockets with 127.0.0.1:someport?

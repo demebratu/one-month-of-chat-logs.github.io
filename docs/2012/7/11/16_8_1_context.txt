@@ -1,0 +1,1 @@
+creationix: so you're saying mongoose, express, and just about every library up there a large number of people use are all too big cause htey have a lib dir ?

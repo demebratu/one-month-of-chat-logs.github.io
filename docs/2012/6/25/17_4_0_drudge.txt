@@ -1,0 +1,1 @@
+isaacs: when i use nave usemain latest it compiles and installs, but doesn't show up under nave ls, is that normal?

@@ -1,0 +1,1 @@
+node: isaacs master * rfce7c95 / test/fixtures/deprecated.js : test: add deprecation fixture - http://git.io/PrzQuQ

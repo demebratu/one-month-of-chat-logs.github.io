@@ -1,0 +1,1 @@
+find . -name '*.js' | xargs wc -l => 266241    does this number make sense? number of js lines in node.

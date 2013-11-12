@@ -1,0 +1,1 @@
+Because even though the function can access variables in its closure, other functions that have that function value can't, they can only call the function

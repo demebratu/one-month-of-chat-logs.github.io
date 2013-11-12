@@ -1,0 +1,1 @@
+Hi. Is there any way to pause execution of node, as in when making synchronous functions?

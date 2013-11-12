@@ -1,0 +1,1 @@
+while we're at it (npm site), it would be cool if http://search.npmjs.org/ browsing by tags offered various sorting options

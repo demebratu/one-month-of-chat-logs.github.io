@@ -1,0 +1,1 @@
+that's what I am doing, but then I have another query. how can I be sure that the state flag conditional doesn't get executed at the same time by the 2 functions ?

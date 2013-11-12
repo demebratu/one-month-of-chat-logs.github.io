@@ -1,0 +1,1 @@
+hi, i'm trying to uglify my node code using https://github.com/JakeWharton/uglify-js-middleware

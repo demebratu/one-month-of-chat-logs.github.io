@@ -1,0 +1,1 @@
+The above is what happens on "working" connections when NODE_DEBUG=http is set

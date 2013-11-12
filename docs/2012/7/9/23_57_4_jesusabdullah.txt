@@ -1,0 +1,1 @@
+See, if you want "composable high-level async operators," whatever the fuck that means, there *has* to be a way to do it in pure, idiomatic javascript, instead of making up some bullshit new syntax to appease ruby die-hards.

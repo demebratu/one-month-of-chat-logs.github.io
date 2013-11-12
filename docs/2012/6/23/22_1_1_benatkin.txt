@@ -1,0 +1,1 @@
+scruz: new buffer.Buffer('6465', 'hex').toString() returns 'de'

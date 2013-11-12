@@ -1,0 +1,1 @@
+but instead you could have each component with its own mode/ view/ and controller/

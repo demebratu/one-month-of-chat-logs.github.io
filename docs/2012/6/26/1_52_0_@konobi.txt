@@ -1,0 +1,1 @@
+TooTallNate: any idea how to roll npm modules/addons into the normal node build?

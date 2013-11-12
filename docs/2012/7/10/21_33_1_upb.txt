@@ -1,0 +1,1 @@
+you could implement different storage classes that have the same interface

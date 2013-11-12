@@ -1,0 +1,1 @@
+konobi:  And instead of having my app open a "net" server, its simply a standard cli on the process stdio ? 

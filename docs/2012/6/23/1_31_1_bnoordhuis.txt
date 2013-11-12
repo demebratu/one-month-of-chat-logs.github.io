@@ -1,0 +1,1 @@
+or do you mean building a native add-on into node itself?

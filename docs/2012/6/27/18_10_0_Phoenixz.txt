@@ -1,0 +1,1 @@
+klaemo: crap, 0.8 npm crashes on socket.io version https://github.com/LearnBoost/socket.io.git

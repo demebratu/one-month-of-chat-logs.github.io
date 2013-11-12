@@ -1,0 +1,1 @@
+Guest46571, pastebin your /etc/resolv.conf

@@ -1,0 +1,1 @@
+xy77: looks like you need to read up on asynchronous program flow - check out the video on the front page of nodejs.org as a starting point, then get googling :)

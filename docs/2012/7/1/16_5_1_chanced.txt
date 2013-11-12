@@ -1,0 +1,1 @@
+is there a more elegant way of determining when all event listeners have finished other than throwing one at the end of the list?

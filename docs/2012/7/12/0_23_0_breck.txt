@@ -1,0 +1,1 @@
+ssh -ti ~/.ssh/ourkey.pem user@domain.com "cd app;sudo forever restart app.js"

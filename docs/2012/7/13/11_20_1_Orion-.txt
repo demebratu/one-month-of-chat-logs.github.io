@@ -1,0 +1,1 @@
+Nop V8:Number::New(double value)

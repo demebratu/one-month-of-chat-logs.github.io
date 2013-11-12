@@ -1,0 +1,1 @@
+Hello there. I seem to have a minor problem with npm, or at least node wafadmin things :(

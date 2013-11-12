@@ -1,0 +1,1 @@
+even if he runs it in chrome, it's possible that the V8 version in node does more optimizations than the browser one

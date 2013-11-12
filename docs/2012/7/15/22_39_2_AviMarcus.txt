@@ -1,0 +1,1 @@
+finally got angular.js shoehorned into his old php site, so now I can make API calls to node and then update the gui

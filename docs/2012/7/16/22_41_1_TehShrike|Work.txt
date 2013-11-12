@@ -1,0 +1,1 @@
+It's a problem because 1. That's not what following something is supposed to do (though that's what people use it for) 2. it doesn't make it any easier for me to search npm to see what people like to use.

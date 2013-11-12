@@ -1,0 +1,1 @@
+Glenjamin: The console log at the top of the dbinterface prints fine, but I can't actually call that function?

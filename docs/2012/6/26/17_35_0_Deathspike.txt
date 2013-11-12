@@ -1,0 +1,1 @@
+For example, if I am going to define a controller (talking MVC pattern here) I want actions. Do I really need to write "app.get( "/Product/:id", func.." for every single method I want?

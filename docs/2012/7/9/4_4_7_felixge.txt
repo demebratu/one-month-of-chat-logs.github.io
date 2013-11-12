@@ -1,0 +1,1 @@
+calling end() also waits for all write()'s to finish before closing

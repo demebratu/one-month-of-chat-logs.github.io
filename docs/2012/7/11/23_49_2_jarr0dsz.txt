@@ -1,0 +1,1 @@
+I assume the sockets.io just implements the WebSocket protocol right

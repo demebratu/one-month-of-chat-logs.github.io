@@ -1,0 +1,1 @@
+guy: i've gotta get to some of the pull reqs, and upgrade some of the npm bits it's using.  been busy with getting 0.8 out

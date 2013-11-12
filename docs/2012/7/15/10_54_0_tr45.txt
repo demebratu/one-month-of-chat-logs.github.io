@@ -1,0 +1,1 @@
+yep the salt is clear in the hash, so just need to use that to compute once.

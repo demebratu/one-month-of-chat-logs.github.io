@@ -1,0 +1,1 @@
+the community consensus is callbacks but the code looks really bad if you don't modularize/separate out functions

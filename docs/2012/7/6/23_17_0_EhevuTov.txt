@@ -1,0 +1,1 @@
+Hotroot, sounds like you'll be fine just putting everything in a buffer, then. And just make something called size check() and if it's larger than the counter you've been incrementing on the 'data' event, then socket.disconnect()

@@ -1,0 +1,1 @@
+is there a variable for the project root that is exported so you dont have to modify files if you move them

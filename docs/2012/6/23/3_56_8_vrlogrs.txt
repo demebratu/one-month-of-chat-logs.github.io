@@ -1,0 +1,1 @@
+Masyl: but what if somebody "burrows" my code and starts up their site with my code?

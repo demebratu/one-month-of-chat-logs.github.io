@@ -1,0 +1,1 @@
+there are circumstances when all this starts to break down, and node has various strategies for dealing with that, but that's the conceptual model it's operating under

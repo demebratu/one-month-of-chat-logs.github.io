@@ -1,0 +1,1 @@
+I am creating a custom Stream to which I can attach filters which are Stream themselves. I have a pushFilter() method, and I'd like to make a popFilter as well. I am using pipe in a few places which is quite convenient.

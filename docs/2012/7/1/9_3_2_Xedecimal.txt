@@ -1,0 +1,1 @@
+"specifying all these" I meant specifying stdin, stdout and stderr

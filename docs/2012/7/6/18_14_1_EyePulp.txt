@@ -1,0 +1,1 @@
+sort of a dumb question, but I'm trying to figure out a regex for stripping console.log() messages from js files I'm serving to the outside world - my pattern is… poorly done.

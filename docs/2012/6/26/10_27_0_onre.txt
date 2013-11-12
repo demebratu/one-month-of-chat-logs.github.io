@@ -1,0 +1,1 @@
+luto_, could you possibly have a "scoping problem" where the v8 garbage collector can't know when it can free a resource?

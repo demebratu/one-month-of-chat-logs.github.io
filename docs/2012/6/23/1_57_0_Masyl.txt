@@ -1,0 +1,1 @@
+I'm developing a content server… so a single machine could have dozens of instances. Also… I still want to have access to the default shell…. our admins wouldn't appreciate loosing their ssh for a content server

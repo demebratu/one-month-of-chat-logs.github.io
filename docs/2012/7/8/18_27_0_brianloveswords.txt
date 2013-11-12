@@ -1,0 +1,1 @@
+rodyhaddad also you should add a listener for req.on('error', function(err){…}) and see if you're getting anything there.

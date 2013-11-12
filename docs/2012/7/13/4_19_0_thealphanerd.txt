@@ -1,0 +1,1 @@
+same as zlib.createtype()  except you can't use variable that way

@@ -1,0 +1,1 @@
+and you're in luck, because there's a printf module on npm

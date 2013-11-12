@@ -1,0 +1,1 @@
+freewil: express handles HEAD anywhere it can, but if you're not using res.send() res.sendfile() etc you have to either define app.head()

@@ -1,0 +1,1 @@
+so you want a node_modules folder that's more specific the further down you get into your app?

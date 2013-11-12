@@ -1,0 +1,1 @@
+So socket.bufferSize is only for sending data, no?

@@ -1,0 +1,1 @@
+AND - is it possible to run node.js alongside PHP - as the real time feature is only a small part of my app?

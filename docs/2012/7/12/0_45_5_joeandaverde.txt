@@ -1,0 +1,1 @@
+if you look at jquery plugin guidelines i believe you'll see an example.

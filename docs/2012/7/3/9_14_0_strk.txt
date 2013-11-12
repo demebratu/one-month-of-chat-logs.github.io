@@ -1,0 +1,1 @@
+uhm, works for me too with newer npm now that I see it

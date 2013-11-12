@@ -1,0 +1,1 @@
+epall: the setsockopt thing is indirectly exposed through socket.setKeepAlive()

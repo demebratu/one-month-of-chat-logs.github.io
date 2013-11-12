@@ -1,0 +1,1 @@
+I'm getting an EPERM error on .node-gyp/0.8.1 while trying to install the pg module. It's chmodded 777 and I'm running it as root. Any ideas?

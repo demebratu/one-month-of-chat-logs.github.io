@@ -1,0 +1,1 @@
+I tried uploading to npm, and it failed due to the circular nature of it

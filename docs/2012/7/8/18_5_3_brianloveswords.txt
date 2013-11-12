@@ -1,0 +1,1 @@
+Ah so you're going to need to be able to read and decode metadata from files.

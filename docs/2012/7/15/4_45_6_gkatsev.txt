@@ -1,0 +1,1 @@
+vrlogrs: the pro git book is up on git-scm.org for free

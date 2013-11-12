@@ -1,0 +1,1 @@
+Hi guys, I'm pretty new to JS and Nodejs itsself. I like very much the async idea and the usage of callbacks but I'm a bit confused on how to solve this problem: https://gist.github.com/8ab0a1eee542077b155c

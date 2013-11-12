@@ -1,0 +1,1 @@
+yield just gives up the current execution flow and passes it back to the function that invoked the generator

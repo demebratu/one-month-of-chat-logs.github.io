@@ -1,0 +1,1 @@
+SubStack / deoxxa: for what it's worth, guillermo does have a few nice things coming to fix socket.io

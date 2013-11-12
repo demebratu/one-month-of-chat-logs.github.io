@@ -1,0 +1,1 @@
+dstaubsauger: If you *need* it to be synchronous you're probably doing it wrong

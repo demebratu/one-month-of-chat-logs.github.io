@@ -1,0 +1,1 @@
+isaacs: having some problems with npm. When I "npm login" I get this: npm ERR! Error: conflict Document update conflict.: -/user/org.couchdb.user:augustl/-rev/1-fdbc1c67767730d1da8c7ecab0e86951

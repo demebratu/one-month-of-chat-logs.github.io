@@ -1,0 +1,1 @@
+RLa: I do make extensive use of caolan's delicious `async` library, which abstract some of that for me. why ought they be Error instances?

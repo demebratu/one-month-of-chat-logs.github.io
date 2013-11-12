@@ -1,0 +1,1 @@
+i have var parseCookie = require('connect').utils.parseCookie;  and then in my code, I have var cookie = parseCookie(data.headers.cookie);  but I am getting a "undefined is not a function" on that line ... anyone run into this? or maybe know what is wrong?

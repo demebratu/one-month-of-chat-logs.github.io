@@ -1,0 +1,1 @@
+…PHP you write templates and those templates put their grubby little mits on whatever they fancy.

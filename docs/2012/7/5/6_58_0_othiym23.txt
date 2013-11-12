@@ -1,0 +1,1 @@
+owen1: if you want to see the platform layer of recent versions of node, you should definitely be looking at libuv: https://github.com/joyent/libuv/blob/master/include/uv.h

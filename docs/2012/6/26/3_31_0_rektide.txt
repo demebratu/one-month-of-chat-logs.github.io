@@ -1,0 +1,1 @@
+i guess i'm making this up. i could've sworn somewhere under the hood there was a thread pool doing the async io work in unix, and that it was configurable somehow. meh.

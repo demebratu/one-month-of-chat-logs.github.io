@@ -1,0 +1,1 @@
+either. Though, async is usually better in my book. Not that this is hard of course, i just started writing a module for it and then realized this has to be somethin done quite frequently

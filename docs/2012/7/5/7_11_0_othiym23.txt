@@ -1,0 +1,1 @@
+take a look at how github.com/caolan/async's waterfall method works -- you can either use the library, or just emulate its style on your own

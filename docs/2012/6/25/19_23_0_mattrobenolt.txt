@@ -1,0 +1,1 @@
+For scaling, you're going to want to let something better handle the file serving, and keep the logic in Node.

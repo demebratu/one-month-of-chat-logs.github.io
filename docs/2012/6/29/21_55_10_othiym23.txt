@@ -1,0 +1,1 @@
+Go's "HTTP" library is really more of a full web stack

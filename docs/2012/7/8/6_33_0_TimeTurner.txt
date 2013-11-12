@@ -1,0 +1,1 @@
+and on that note the maximum useful number of node processes that should be run on a machine == number of cores

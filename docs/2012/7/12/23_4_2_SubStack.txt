@@ -1,0 +1,1 @@
+isaacs: if I need to perform an initialization process to generate a file if it doesn't exist, all of that doesn't work especially well

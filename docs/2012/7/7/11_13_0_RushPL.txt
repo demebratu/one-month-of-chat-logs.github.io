@@ -1,0 +1,1 @@
+I  create a handle via createPipe from child_process.js (not API but I want to experiment anyway ;)) and I send a create object's handle .... the handle gets closed though because that's what child_process.send(msg, handle) does, it closes the handle ... so how to do it? I want to send the handle and be able to communicate through it with my child process.

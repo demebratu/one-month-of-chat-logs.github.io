@@ -1,0 +1,1 @@
+It's cause V8's kinda slow

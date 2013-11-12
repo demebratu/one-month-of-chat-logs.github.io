@@ -1,0 +1,1 @@
+bnoordhuis: I went ahead and create a StringStream module, so one doesn't have to deal with setEncoding() yukkiness: https://github.com/mhart/StringStream

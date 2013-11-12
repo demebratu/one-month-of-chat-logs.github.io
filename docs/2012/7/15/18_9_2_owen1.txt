@@ -1,0 +1,1 @@
+darkyen: all i know is that buffer is outside of the v8 heap and i need to be carefull when i convert buffer into string since strings are inside the memory of my current process.

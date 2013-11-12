@@ -1,0 +1,1 @@
+bradleymeck: Yeah. I need to work with exceptions. process.exit is a janky way. I know how to propagate them correclty. This was a little utility at a time, but it's time to grow up.

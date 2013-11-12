@@ -1,0 +1,1 @@
+i was trying to get `git clone` to output the percentages…and all that junk

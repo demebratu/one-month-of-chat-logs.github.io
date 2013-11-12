@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/9940838/cannot-run-mocha-with-coffeescript

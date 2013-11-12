@@ -1,0 +1,1 @@
+Does requestHost start with www?

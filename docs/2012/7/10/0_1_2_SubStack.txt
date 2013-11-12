@@ -1,0 +1,1 @@
+by defining a .pause and .resume by default

@@ -1,0 +1,1 @@
+i reported thiss  months ago and it was fixed I believe https://github.com/isaacs/npm/issues/2317 

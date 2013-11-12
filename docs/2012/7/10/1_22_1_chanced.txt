@@ -1,0 +1,1 @@
+i kinda prefer the former so not to water down npm with tiny little modules for something very specific.. but i guess it could help it in dependency ranks too

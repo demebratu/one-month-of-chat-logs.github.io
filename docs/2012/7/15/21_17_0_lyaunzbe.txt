@@ -1,0 +1,1 @@
+aria, I sort of a nodejs noob, so I have no understanding of things like load balancing. My use case is simple. At the moment, when a user goes to my app, an api request is made everytime they load the page. I want to limit the amount of api requests that can be made per hour and show a cached version to the user.

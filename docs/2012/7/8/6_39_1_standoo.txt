@@ -1,0 +1,1 @@
+TimeTurner: how about knowing when a process has been initialized? I don't think node.js has a callback for that

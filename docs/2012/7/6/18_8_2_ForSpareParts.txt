@@ -1,0 +1,1 @@
+Anyone here ever get an "unknown protocol:openssl..." error when using npm? I'm on Windows 7, if it matters.

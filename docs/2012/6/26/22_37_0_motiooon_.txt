@@ -1,0 +1,1 @@
+how do I prompt user to download a file(jpg) instead of showing the image in the browser when clicks a button ?

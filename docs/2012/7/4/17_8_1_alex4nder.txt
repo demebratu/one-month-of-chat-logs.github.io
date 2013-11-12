@@ -1,0 +1,1 @@
+jrajav: yah, I like making my code harder to read, in order to show what it's actually doing.

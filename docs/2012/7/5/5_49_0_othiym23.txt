@@ -1,0 +1,1 @@
+if you don't want to wrap up your controller classes in a CommonJS (Node) module, there's not necessarily a super-straightforward way to use Node to test it

@@ -1,0 +1,1 @@
+can you try `npm install weak` and then `require('weak')` in a repl?

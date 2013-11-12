@@ -1,0 +1,1 @@
+ccowan: executing in parallel may yield big returns, especially if latency is involved

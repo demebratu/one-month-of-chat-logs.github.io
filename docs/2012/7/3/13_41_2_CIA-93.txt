@@ -1,0 +1,1 @@
+node: Ben Noordhuis v0.8 * rb731c96 / configure : build: disable -fstrict-aliasing for any gcc < 4.6.0 - http://git.io/Mw_p-Q

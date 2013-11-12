@@ -1,0 +1,1 @@
+one of my coworkers managed to break his npm install like that as well, not sure how

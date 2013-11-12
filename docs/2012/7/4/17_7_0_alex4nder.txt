@@ -1,0 +1,1 @@
+so you can code waiting for asynchronous events, without your code looking like shit.

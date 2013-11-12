@@ -1,0 +1,1 @@
+protip, Trindaz: never copy all the headers from your what your web browser sends.

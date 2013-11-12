@@ -1,0 +1,1 @@
+creationix: yeah I left that part pluggable in dnode-protocol so people should use different libs for serialization

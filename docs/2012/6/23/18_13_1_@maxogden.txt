@@ -1,0 +1,1 @@
+SubStack: but basically im doing getUserMedia -> <video> -> <canvas> -> websocket

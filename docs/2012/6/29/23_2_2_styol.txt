@@ -1,0 +1,1 @@
+othiym23: for some reason I could not get it working unless it was in a separate script, surely my bad.

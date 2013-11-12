@@ -1,0 +1,1 @@
+cee: So… What does a clean slate implementation in JavaScript mean?

@@ -1,0 +1,1 @@
+it would be pretty easy to whip up something with cluster and have it check CPU times/usage and adjust accordingly

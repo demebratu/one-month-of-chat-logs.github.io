@@ -1,0 +1,1 @@
+is this still the architecture of node.js - libev for event loop, libeio for thread pool, c-ares for asyc dns? http://blog.zorinaq.com/?e=34

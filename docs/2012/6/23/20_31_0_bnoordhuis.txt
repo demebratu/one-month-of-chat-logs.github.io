@@ -1,0 +1,1 @@
+magge: if the path is encoded in e.g. iso-8859-15, you'll run into trouble because node only understands utf-8 and ascii

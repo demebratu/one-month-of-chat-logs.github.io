@@ -1,0 +1,1 @@
+isn't that more or less what paulgraham (sorry, won't mention him again) was talking about in "programming from the bottom up", only with modules instead of Lisp functions?

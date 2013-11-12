@@ -1,0 +1,1 @@
+even the concept of prototypes are coupled, we should have no prototypes

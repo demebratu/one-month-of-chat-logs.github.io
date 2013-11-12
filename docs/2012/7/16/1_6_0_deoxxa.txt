@@ -1,0 +1,1 @@
+require("winston").log("testing") << why does this not output anything?

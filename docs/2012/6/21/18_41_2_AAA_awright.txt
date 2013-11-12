@@ -1,0 +1,1 @@
+dshap: It's because it's inside a function. A function creates a new variable context in the closure chain, a for loop doesn't (though you'd expect a var j=i; in the body of the loop to, it doesn't.)

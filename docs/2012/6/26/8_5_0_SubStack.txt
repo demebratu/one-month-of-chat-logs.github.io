@@ -1,0 +1,1 @@
+sabermonk: in your cause you could check out event-stream's .map() function

@@ -1,0 +1,1 @@
+prettyrobots: Make it work badly, so they don't start creating stuff for Windows

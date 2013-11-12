@@ -1,0 +1,1 @@
+is there a sandboxed fs module out there? Identical API to the core "fs" module, but able to white list or black list paths.

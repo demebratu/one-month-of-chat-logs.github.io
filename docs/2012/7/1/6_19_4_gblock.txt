@@ -1,0 +1,1 @@
+williamcotton: and you can see the data is in redis

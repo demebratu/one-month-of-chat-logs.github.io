@@ -1,0 +1,1 @@
+jesusrosso: Have you tried using node-inspector?

@@ -1,0 +1,1 @@
+public js should ditch deps like jquery etc all together

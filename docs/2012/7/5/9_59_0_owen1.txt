@@ -1,0 +1,1 @@
+i am using the example from this page - http://nodemanual.org/latest/nodejs_dev_guide/understanding_streams.html not sure if the api is still the same

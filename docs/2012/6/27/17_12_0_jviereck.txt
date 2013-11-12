@@ -1,0 +1,1 @@
+bnoordhuis: maybe I'm lucky and adding some API to the node's buffer is good enough ;)

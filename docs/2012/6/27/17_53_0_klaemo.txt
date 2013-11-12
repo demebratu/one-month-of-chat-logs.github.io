@@ -1,0 +1,1 @@
+cool, mozilla is using libuv in a new browser engine

@@ -1,0 +1,1 @@
+so what does getting an EPERM error on fs.symlink() on windows imply?

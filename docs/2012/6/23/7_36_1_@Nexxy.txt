@@ -1,0 +1,1 @@
+http://your.appthingy.com/redirected_url?dest=where+they+should+go+next

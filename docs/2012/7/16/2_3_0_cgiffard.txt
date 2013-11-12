@@ -1,0 +1,1 @@
+mAritz: I've used node-canvas before. It's a bit slow, but it means your code can work on the client too, since the API is (99%) the same.

@@ -1,0 +1,1 @@
+SubStack: so, decorate.js in npm-www is basically my flirtation with that templation

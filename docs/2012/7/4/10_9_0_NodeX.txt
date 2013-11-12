@@ -1,0 +1,1 @@
+if one pushes a script into a browser via socket.io (making the client write it to the head) does it get automagically evaluated by the browser?

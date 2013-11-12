@@ -1,0 +1,1 @@
+raynos: id upgrade it all then move, OR, do your routing in nginx/apache

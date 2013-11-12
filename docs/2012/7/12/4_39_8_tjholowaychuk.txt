@@ -1,0 +1,1 @@
+it shouldn't go from 5m message/s to ~50k or whatever it was

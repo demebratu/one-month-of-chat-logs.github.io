@@ -1,0 +1,1 @@
+isaacs: great. my hunch is that the fact that the web dir is in npmignore, and contains a symlink to lib, could be the problem

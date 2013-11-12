@@ -1,0 +1,1 @@
+node: isaacs v0.8.0-release * rede4bab / (ChangeLog src/node_version.h): 2012.06.25, Version 0.8.0 (stable) - http://git.io/mhLTHQ

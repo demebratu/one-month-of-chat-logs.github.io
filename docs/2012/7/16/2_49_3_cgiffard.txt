@@ -1,0 +1,1 @@
+mAritz: In any case, try out the node imagemagick bindings and let me know what you think of them

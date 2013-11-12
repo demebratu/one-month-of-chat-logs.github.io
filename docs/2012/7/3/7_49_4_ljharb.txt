@@ -1,0 +1,1 @@
+right, but i just set a function on the client side that will be run on the server side where everyone is freely editable.

@@ -1,0 +1,1 @@
+SubStack: but angular.js is looking for a javascript function named FoodCtrl. maybe i don't understand how angular works..

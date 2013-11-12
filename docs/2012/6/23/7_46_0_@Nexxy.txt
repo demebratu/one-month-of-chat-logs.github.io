@@ -1,0 +1,1 @@
+http://your.appthingy.com/redirected_url?dest=http://someothersite.com/?some=evil&parameters=here

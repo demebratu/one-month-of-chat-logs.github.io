@@ -1,0 +1,1 @@
+sync: fs.writeFileSync('file.json', JSON.stringify(obj))

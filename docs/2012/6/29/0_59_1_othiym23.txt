@@ -1,0 +1,1 @@
+yeah, but that's because it's a document format, not a serialization mechanism

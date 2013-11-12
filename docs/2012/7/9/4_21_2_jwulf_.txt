@@ -1,0 +1,1 @@
+but i'll look at postgres again when it comes time to scale up

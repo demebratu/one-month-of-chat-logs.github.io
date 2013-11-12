@@ -1,0 +1,1 @@
+arcanis: I think I'd need more details on your implementation, but you should be able to use either a simple blank object to map API URL -> returned content (or whatever ID scheme you're currently memoizing) or some kind of LRU cache

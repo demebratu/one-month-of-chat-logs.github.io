@@ -1,0 +1,1 @@
+but that's not npm's documentation

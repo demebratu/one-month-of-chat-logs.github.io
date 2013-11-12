@@ -1,0 +1,1 @@
+Yeah, abstraction. I want stuff like str.trim(':');

@@ -1,0 +1,1 @@
+SubStack: i tried that. but it's not workin. might be an angular.js issue. i'll try to gist it.

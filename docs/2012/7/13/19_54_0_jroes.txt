@@ -1,0 +1,1 @@
+alright guys, can't figure out what I need to do to get the npm binary linked up properly with multiple versions of node via n

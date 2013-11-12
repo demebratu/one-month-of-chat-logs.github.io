@@ -1,0 +1,1 @@
+but I can't figure out where in there the events are queued up that close() calls

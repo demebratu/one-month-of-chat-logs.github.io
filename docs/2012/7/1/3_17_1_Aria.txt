@@ -1,0 +1,1 @@
+You may ask node to read two files, and have them come in "Open A" "Open B" "Read B" "Close B" "Read A" "Close A"

@@ -1,0 +1,1 @@
+isaacs: another problem with having * around is that it encourages terrible modules

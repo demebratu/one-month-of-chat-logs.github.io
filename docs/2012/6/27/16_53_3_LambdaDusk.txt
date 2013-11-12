@@ -1,0 +1,1 @@
+Deathspike: I have thought of connect, which basically is express without html views ^^

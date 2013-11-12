@@ -1,0 +1,1 @@
+my server is triggered when a request is sent to port 8000, I'm trying to send a request to port 8000 using javascript

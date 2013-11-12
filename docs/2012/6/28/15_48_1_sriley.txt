@@ -1,0 +1,1 @@
+if you create it firstly so that it works without javascript then enhance it to do whatever you need then it will be indexed correctly

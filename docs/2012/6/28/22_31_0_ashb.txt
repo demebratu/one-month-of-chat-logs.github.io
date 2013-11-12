@@ -1,0 +1,1 @@
+lhb: given that browsers basicaly normalize HMTL to well-formed XML it makes sense

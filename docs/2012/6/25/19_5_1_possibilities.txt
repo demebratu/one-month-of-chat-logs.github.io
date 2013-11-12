@@ -1,0 +1,1 @@
+initially it seems like i can't delete a symlink from node, what's the trick?

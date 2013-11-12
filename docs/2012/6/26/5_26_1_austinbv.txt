@@ -1,0 +1,1 @@
+or how do people do assignment in a callback

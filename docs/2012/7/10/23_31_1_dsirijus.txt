@@ -1,0 +1,1 @@
+tnorris, could this make my life more complicated "app.use(express.static(__dirname + '/public'));"?

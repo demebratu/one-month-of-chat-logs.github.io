@@ -1,0 +1,1 @@
+in even worse cases, it's a poor man's module-level inheritence system

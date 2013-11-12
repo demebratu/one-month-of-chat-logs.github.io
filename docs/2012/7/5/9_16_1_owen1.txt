@@ -1,0 +1,1 @@
+when i do fs.readFile(function(){...} - what happens? what libraray is doing what? are there threads involve, etc.

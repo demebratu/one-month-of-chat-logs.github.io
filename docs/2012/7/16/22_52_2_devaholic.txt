@@ -1,0 +1,1 @@
+mkh: its actually not that hard to whip up a file that uses request to load test another http server, it works fairly well in my experience

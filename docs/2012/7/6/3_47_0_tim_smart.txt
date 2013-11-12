@@ -1,0 +1,1 @@
+owen1: It will never block your application, no. They might get queued or something though.

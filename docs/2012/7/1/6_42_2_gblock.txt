@@ -1,0 +1,1 @@
+williamcotton: so that means you are pushing to redis multiple times

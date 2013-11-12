@@ -1,0 +1,1 @@
+I wish coffee-script would remove the feature that gets triggered by this, and make people use an external library for doing direct coffee-script requires. :/ https://github.com/isaacs/coffee-cleanse

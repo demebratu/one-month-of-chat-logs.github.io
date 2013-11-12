@@ -1,0 +1,1 @@
+eddyb: the focusin focusout stuff could work, but the way keydown was changed seems unrelated and has problems. it will create a memory leak, and it will also cause a performance hit for key presses

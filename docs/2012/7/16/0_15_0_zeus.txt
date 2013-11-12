@@ -1,0 +1,1 @@
+ljharb: Lol, I know. But I want to contribute to a package that uses it, so I was wondering how people get around the issue of debugging the compiled version of coffeescript instead of the actual coffescript itself

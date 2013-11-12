@@ -1,0 +1,1 @@
+You can also probably do something with the fancy new Domain stuff: http://nodejs.org/api/domain.html but I haven't played around with that yet!

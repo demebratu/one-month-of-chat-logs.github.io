@@ -1,0 +1,1 @@
+and I don't actually like the topics api very much, it's a little too magical for me

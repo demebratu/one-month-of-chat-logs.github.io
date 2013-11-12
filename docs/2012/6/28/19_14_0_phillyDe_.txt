@@ -1,0 +1,1 @@
+general js question: if i wanted to say have function(foo) { return {foo:"hi"} } how would I get foo in the statement to resolve to foo param?

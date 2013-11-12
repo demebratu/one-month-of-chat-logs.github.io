@@ -1,0 +1,1 @@
+zomg: how do u organize your db related functions? do u have models folder and inside a file per collection?

@@ -1,0 +1,1 @@
+problem: spawn('mocha', ...) doesn't have colors. So I added customFds: [0,1,2]. Now, it's black on black and I can't read it.

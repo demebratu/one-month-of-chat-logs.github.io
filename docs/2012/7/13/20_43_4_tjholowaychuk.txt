@@ -1,0 +1,1 @@
+our components are mixes of server-side stuff assets, images, css etc

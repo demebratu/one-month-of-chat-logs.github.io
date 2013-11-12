@@ -1,0 +1,1 @@
+NodeX: I'm looking to store completely arbritrary JSON-legal values, though

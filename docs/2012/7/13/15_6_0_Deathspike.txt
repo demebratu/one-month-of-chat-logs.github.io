@@ -1,0 +1,1 @@
+Blasphemy question; I was just watching a presentation on C#5 and ASP.NET MVC4 with all their async/await stuff that basically introduces evented i/o into that stack, and was wondering, would that actually have similar or better performance than Node?

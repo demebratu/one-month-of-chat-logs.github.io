@@ -1,0 +1,1 @@
+so you probably hear this a lot but rubygems adds that stuff to your path automatically that's why I thought node must

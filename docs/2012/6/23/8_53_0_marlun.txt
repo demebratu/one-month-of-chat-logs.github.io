@@ -1,0 +1,1 @@
+Good to know. I've used Stitch.js before and it worked great but I wanted to try browserify too since I've moved away from coffeescript (even though it works fine without coffeescript). Now I'm just going to try to figure out how to serve underscore templates with browserify too :)

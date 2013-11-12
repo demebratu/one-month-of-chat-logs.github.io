@@ -1,0 +1,1 @@
+make scrapeReviews call the callback(err, reviews) 

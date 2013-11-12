@@ -1,0 +1,1 @@
+windows isn't unix or posix so I don't blame them for having shitty posix support :)

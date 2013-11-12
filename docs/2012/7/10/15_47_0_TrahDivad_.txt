@@ -1,0 +1,1 @@
+gildean: is there a concept of a unique field in mongo too or is it an abstraction of mongoose?

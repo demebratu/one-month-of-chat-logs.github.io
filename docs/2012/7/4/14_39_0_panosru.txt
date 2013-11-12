@@ -1,0 +1,1 @@
+Hello, I use NVM and I have an issue, when I try to require global installed module I get "Cannot find module" error anyone got any idea on that?

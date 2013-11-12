@@ -1,0 +1,1 @@
+and this is javascript. please don't use the word "class". javascript doesn't have classes.

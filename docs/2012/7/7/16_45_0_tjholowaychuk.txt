@@ -1,0 +1,1 @@
+Protected apply is to pass an array of arguments to that function

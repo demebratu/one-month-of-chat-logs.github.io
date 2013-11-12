@@ -1,0 +1,1 @@
+Phoenixz: i should've mentioned that you need to add the CFLAGS/CXXFLAGS bit to sudo make install as well

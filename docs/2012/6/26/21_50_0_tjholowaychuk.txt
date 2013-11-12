@@ -1,0 +1,1 @@
+app.use(ignoreAssets(app.logger('dev'))); contrived example but yeah

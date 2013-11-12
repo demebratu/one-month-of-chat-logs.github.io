@@ -1,0 +1,1 @@
+Anyone know a way to avoid this nasty loader block at the top of every plugin in my project and still maintain browser/node compatbility? https://github.com/Tawlk/hyve/blob/modular/src/hyve.twitter.js#L3-15

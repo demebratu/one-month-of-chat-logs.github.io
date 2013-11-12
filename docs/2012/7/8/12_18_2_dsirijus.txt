@@ -1,0 +1,1 @@
+anyone knows of any nice templating library for node.js frameworks? something non-jade, since i hate how indent error prone it is

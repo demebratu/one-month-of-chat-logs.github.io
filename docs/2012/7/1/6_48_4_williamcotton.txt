@@ -1,0 +1,1 @@
+then only 103609 bytes in the redis list

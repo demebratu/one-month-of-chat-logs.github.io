@@ -1,0 +1,1 @@
+Ded: This is how I'm forwarding to a Twisted Python service (albeit using a port): location ^~ /materialgirl/model {   client_max_body_size 3M;   rewrite  ^/materialgirl/model/(.*)$  /$1 break;   proxy_pass http://127.0.0.1:517; }

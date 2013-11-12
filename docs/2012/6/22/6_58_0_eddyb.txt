@@ -1,0 +1,1 @@
+there's a cool side-effect to the fact that modules are wrapped in functions: return; will return from that function, and it's better than commenting everything under a certain point

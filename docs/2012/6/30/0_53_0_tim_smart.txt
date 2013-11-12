@@ -1,0 +1,1 @@
+Everytime I use nano, I'm always like "why won't this thing exit insert mode"

@@ -1,0 +1,1 @@
+Or would I be better advised to use something like PhantomJS

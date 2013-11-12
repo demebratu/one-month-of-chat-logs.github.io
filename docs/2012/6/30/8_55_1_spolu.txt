@@ -1,0 +1,1 @@
+tim_smart: the only downside I see to that is that a bunch of programmers (me included) are not very attentive to their "commit structure"

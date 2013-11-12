@@ -1,0 +1,1 @@
+anyone know of a way to force node-waf to think it is on a 64 bit machine (-m64 flag)

@@ -1,0 +1,1 @@
+for mysql, localhost means connect via a socket, and 127.0.0.1 means connect via tcp

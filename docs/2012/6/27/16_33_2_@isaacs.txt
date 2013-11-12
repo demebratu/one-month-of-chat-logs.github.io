@@ -1,0 +1,1 @@
+tjholowaychuk: You should be using a bash array for your new arg list, and then at the end, doing "${myarray[@]}"

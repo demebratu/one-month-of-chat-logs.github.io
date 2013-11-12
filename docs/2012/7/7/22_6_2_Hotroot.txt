@@ -1,0 +1,1 @@
+If you have Xen, nobody can ever touch your resources, it's like a little OS with it's own stuff allocated

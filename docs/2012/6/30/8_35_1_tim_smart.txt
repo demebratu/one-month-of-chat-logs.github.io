@@ -1,0 +1,1 @@
+deoxxa: host isn't really explained. It assumes that the reader knows about the underlying syscalls and constants

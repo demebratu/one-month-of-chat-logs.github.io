@@ -1,0 +1,1 @@
+ctrl-c / SIGINT is to interrupt an application. If you're going to override the interrupt, usually you're stopping it from happening. If you want the interrupt to continue, you need to handle stopping your application yourself

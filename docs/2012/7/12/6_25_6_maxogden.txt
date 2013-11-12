@@ -1,0 +1,1 @@
+say hello to npmbro in this channel! simply type `npmbro install seaport`

@@ -1,0 +1,1 @@
+I'm using expressjs and have routes module defined.  If I create a top-level foo = _.debounce(...) function, that would debounce all requests.  Where's the best place to create a debounced function for each request?

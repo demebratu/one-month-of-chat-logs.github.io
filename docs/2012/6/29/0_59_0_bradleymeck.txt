@@ -1,0 +1,1 @@
+othiym23: my point is that the way to deal with xml is the need for xpath / external libraries the actual format put into a programming language is difficult compared to other formats

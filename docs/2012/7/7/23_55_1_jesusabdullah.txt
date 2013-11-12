@@ -1,0 +1,1 @@
+Hotroot: So, it's encoding-dependent how bits/bytes get turned into text.

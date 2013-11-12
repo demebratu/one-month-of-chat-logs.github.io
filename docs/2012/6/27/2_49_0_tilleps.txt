@@ -1,0 +1,1 @@
+RE: express: anyone know why express.sid in the headers.cookie could be different from req.sessionID ?

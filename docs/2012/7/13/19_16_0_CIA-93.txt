@@ -1,0 +1,1 @@
+node: isaacs v0.8 * ref1b7dd / tools/installer.js : build: Move npm shebang logic into an npm script - http://git.io/J_I1ZA

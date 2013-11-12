@@ -1,0 +1,1 @@
+upgraded it to 1.5 Gb RAM

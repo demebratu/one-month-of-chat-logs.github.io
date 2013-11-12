@@ -1,0 +1,1 @@
+the module's export assigns various functions to the global object

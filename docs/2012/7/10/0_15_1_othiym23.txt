@@ -1,0 +1,1 @@
+var closure = function () { var start = 0; this.nextValue = function () { return start++; }; };

@@ -1,0 +1,1 @@
+isaacs: it's reproductible on all macs I have (imac 27", OSX Lion latest patch)

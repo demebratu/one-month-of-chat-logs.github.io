@@ -1,0 +1,1 @@
+it's easier to think about lots of stuff that doesn't fit into the language you're working with. shoehorning it in isn't a good solution. *cough* classical inheritance *cough*

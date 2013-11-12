@@ -1,0 +1,1 @@
+JS had to “look like Java” only less so, [it had to] be Java’s dumb kid brother or boy-hostage sidekick. Plus, I had to be done in ten days or something worse than JS would have happened

@@ -1,0 +1,1 @@
+myndzi: but you can delete the filename from out of the require.cache, yes

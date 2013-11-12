@@ -1,0 +1,1 @@
+I hoped there is something like a jade or node module which does the same thing

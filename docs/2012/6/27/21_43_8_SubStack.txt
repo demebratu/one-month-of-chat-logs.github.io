@@ -1,0 +1,1 @@
+and letting `import` return a value instead of inlining the destructuring into the keyword

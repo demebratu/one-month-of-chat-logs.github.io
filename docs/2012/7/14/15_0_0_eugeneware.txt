@@ -1,0 +1,1 @@
+prettyrobots: I want to do effectively a series of read/modify/write operations to the same piece of data (persisted on a file or in a database), where I have only async operations to do the read/write.

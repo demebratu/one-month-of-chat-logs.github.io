@@ -1,0 +1,1 @@
+so looking at dnode, it's clever, sure, but i can't see how that pattern is a good idea for maintainability.

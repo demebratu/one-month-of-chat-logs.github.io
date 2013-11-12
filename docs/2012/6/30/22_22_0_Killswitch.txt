@@ -1,0 +1,1 @@
+So I just rm the binary and can reinstall that way?

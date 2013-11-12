@@ -1,0 +1,1 @@
+jrajav: i need an external program to initialise a configuration file that shall be created at startup in case it's not already there. There's a function for synchronous file reading, which is there for reading config files at startup. What am i "doing wrong" if i want to create that file?

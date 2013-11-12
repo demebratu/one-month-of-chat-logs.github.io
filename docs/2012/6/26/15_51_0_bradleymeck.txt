@@ -1,0 +1,1 @@
+klaemo: have you tested if curl can touch it on an interval consistently? it may just be unable to talk for w/e reason (migrating db server, server overloaded, etc)

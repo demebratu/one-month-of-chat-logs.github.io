@@ -1,0 +1,1 @@
+guy: processTweet, given that as an object, would emit a "delete" event.

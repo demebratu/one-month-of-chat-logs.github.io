@@ -1,0 +1,1 @@
+does it change the target mode or the symlink mode?

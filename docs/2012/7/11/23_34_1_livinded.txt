@@ -1,0 +1,1 @@
+yes, socket.io will take care of everything for you

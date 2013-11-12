@@ -1,0 +1,1 @@
+Well the whole app runs client-side more or less. I can serve static templates to a given user-agent but otherwise I need to be running javascript to know what items to fetch from the API

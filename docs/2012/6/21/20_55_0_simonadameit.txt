@@ -1,0 +1,1 @@
+i am recreating that behaviour, by collecting into a buffer and signaling if the desired length has been reached, but its kind of awkward

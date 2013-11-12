@@ -1,0 +1,1 @@
+like, you plug the sensors into the box, do some clicky-click, and now you can take your box out and mash "run experiment", then pull the data out as a csv or something

@@ -1,0 +1,1 @@
+hello. what is the difference between node 0.6.20 and node 0.8.2 ? i see that both have been released recently, and i don`t understand why to release 0.6.20 in the same time as 0.8.2

@@ -1,0 +1,1 @@
+dmilith, also be careful if you already have other libs installed, like V8. Ben helped me catch that my build was trying to use the V8 of my system and not the V8 of node's included depenencies

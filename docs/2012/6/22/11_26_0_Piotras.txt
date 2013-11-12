@@ -1,0 +1,1 @@
+at least when I try typeof(something)

@@ -1,0 +1,1 @@
+Deathspike I use nodemon to restart my app whenever files change, grunt is more for compiling/preprocessing assets and probably overkill for what you need

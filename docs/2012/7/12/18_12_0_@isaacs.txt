@@ -1,0 +1,1 @@
+qbit_: the regsitry url should not be the design doc, it should be the rewrite

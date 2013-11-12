@@ -1,0 +1,1 @@
+isaacs: can the new npmjs.org include a page with a list of modules which the owner doesn't have any activity for X period of time but the module has X amount of pull requests ? and perhaps add a button where other users can nominate themselves to become co-maintainer

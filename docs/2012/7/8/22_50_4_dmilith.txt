@@ -1,0 +1,1 @@
+cd testapp && npm install

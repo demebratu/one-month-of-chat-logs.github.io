@@ -1,0 +1,1 @@
+ah yes I seen that issues before,  irc npm attempts to validate the perms before calling chmod but sometimes it doesnt get it right, this was fixed months ago tho i believe what version of npm are you using? 

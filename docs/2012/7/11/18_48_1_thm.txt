@@ -1,0 +1,1 @@
+TooTallNate: you are the author of node-gyp, right? can I convince it to use v8 headers as installed in /usr/include?

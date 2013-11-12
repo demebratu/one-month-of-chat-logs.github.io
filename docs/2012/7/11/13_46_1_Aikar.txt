@@ -1,0 +1,1 @@
+ive ran into issues where traceur doesnt translate normal JS to the same normal JS

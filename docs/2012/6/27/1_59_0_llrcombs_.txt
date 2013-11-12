@@ -1,0 +1,1 @@
+mmalecki: I've heard mixed messages about Redis storage fixing that

@@ -1,0 +1,1 @@
+self-contained apps have different node_modules folders, always

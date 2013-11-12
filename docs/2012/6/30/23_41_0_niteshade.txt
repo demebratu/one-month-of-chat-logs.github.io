@@ -1,0 +1,1 @@
+s5fs: didn't have py2.6 in path

@@ -1,0 +1,1 @@
+I haven't actually seen any JS libs besides requirejs or whatever it was which would use 'require' as a function name

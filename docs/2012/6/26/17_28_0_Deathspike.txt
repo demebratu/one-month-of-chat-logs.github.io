@@ -1,0 +1,1 @@
+It seems clunky to have to include each file by hand

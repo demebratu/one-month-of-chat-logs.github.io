@@ -1,0 +1,1 @@
+not it. Just tried aliasing python with python2(alias python=python2) still error :-(

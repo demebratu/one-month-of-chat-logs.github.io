@@ -1,0 +1,1 @@
+Hi, I'm trying to figure if there is already a way to handle connections by groups when using socket.io with redis as the connection pool

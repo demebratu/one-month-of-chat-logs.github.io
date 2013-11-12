@@ -1,0 +1,1 @@
+bnoordhuis: I also use node's internal cluster.. That would probably not be a problem, right?

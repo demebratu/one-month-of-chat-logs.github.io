@@ -1,0 +1,1 @@
+i know this is gonna sound really nooby, but i have a program that runs when any request is received on port 8000, how can i send a request from a javascript function? thanks

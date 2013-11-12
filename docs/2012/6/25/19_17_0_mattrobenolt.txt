@@ -1,0 +1,1 @@
+Let Node.js ONLY handle your authentication. You can still let nginx serve the file.

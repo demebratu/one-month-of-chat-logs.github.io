@@ -1,0 +1,1 @@
+<img width={half} height={half} src={big img}> is fine

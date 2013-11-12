@@ -1,0 +1,1 @@
+so the git as an npm path doesnt really work

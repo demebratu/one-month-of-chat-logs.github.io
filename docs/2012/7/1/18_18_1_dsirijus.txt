@@ -1,0 +1,1 @@
+ssl cert is actually not a problem since it's self-signed on test.kation.hr (on 'lucifer')

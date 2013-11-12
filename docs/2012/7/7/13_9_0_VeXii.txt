@@ -1,0 +1,1 @@
+but i keep getting a error on that line (not knowing python i cant be sure its not a syntax error). i done the PATH switch to python 2 i think

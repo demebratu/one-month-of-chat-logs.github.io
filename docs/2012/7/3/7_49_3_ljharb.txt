@@ -1,0 +1,1 @@
+so with dnode, however, it looks like all you can do is pass a function name, and a string. so that's pretty safe

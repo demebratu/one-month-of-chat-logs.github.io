@@ -1,0 +1,1 @@
+yeah error handling should definitely be opt-in, if you have no need for custom behaviour then it shouldn't be such a bother

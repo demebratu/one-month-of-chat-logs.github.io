@@ -1,0 +1,1 @@
+llrcombs_: right, but these 2 connections should still end up on the same worker. and you have to use redis storage too.

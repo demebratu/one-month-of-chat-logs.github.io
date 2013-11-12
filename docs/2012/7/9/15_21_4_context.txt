@@ -1,0 +1,1 @@
+0.6.1 also depends on node >= 0.6.15

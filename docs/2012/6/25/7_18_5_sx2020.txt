@@ -1,0 +1,1 @@
+why does it matter from which directory i call a script from. shouldn't the script's reference path be itself, not from where it was called?

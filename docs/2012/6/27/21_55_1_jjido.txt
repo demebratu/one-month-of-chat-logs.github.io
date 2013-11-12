@@ -1,0 +1,1 @@
+if the module exports a single function it would look like Sub's proposition no

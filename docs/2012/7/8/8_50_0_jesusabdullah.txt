@@ -1,0 +1,1 @@
+why would you run multiple instances of your app on a single core machine? Even with ruby?

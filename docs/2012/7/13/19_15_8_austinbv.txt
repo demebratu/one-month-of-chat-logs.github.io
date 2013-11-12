@@ -1,0 +1,1 @@
+tjholowaychuk: check out these tests https://github.com/austinbv/Timecop.js/blob/remove-ruby-deps/test/TimecopSpec.js#L109 they stop mocha

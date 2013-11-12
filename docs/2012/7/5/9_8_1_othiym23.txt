@@ -1,0 +1,1 @@
+myndzi: yeah, process-based concurrency is the Node way to get something like multi-threaded processing

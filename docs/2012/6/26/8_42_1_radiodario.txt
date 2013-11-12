@@ -1,0 +1,1 @@
+no, i used the pkg from the node website to install 0.8.0

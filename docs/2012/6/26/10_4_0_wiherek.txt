@@ -1,0 +1,1 @@
+robx - I now know what I need :) I should read the response as calllback for restler.post AND THEN put the rest as callbacks for read

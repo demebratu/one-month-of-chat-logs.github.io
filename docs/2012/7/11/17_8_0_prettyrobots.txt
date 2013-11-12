@@ -1,0 +1,1 @@
+EricBlade: That was the project goal that led me to choose the regular expression.

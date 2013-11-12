@@ -1,0 +1,1 @@
+it's not an error, but i str something about it being less efficient because V8 goes into a slow path to deal with non-sparse lists.

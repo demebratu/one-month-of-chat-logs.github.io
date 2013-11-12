@@ -1,0 +1,1 @@
+EhevuTov: Okay, so basically just write them to the buffer each time, doing a size check, and removing unwanted characters from the string. When end hits, I grab what's in the buffer, put it in a final string, and then clear the buffer

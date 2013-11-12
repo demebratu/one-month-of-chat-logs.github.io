@@ -1,0 +1,1 @@
+isaacs: So wait, there's a difference between undefined and a "hole"?

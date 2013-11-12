@@ -1,0 +1,1 @@
+I know it's silly to perform a stat without havinga callback, it's just a curiousity ;)

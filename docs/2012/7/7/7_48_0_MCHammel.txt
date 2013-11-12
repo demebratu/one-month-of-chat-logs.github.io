@@ -1,0 +1,1 @@
+wie schickst du an php? per ajax?

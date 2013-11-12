@@ -1,0 +1,1 @@
+whitman, yeah, I was just wondering if the prepared statements were working correctly because I'm using an array and an IN statement like: query("SELECT * FROM notifications WHERE active = 1 AND (show_date IS NULL OR show_date < time()) AND user_id in (?)",[[1,2,3,4]])

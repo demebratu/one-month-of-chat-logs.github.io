@@ -1,0 +1,1 @@
+like, "use jquery if it's available, but if not, just use native methods"?

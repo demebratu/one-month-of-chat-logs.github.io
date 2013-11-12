@@ -1,0 +1,1 @@
+ootje: linked list in pure js vs c++ implementation of array in v8

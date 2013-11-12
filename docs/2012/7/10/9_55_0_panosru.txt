@@ -1,0 +1,1 @@
+Hi, is there any decent dependency injection / service container module similar to Symfony's DI component? (http://symfony.com/doc/current/book/service_container.html)

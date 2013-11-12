@@ -1,0 +1,1 @@
+node: Toshihiro Nakamura v0.8 * r6530310 / (lib/domain.js test/simple/test-domain.js): domain: Remove first arg from intercepted fn - http://git.io/sl0oUg

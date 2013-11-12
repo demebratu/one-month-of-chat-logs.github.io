@@ -1,0 +1,1 @@
+maxogden: I know it's not good I want to make an async function that has a block in it with out any api's like nodes process

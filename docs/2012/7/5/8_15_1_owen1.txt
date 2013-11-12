@@ -1,0 +1,1 @@
+Noor_: i use browserID, btw, and i do a POST to the browserID provider, and if i get 200 from that post, i create the cookie. not sure about other requests. i just impleted it now.. 

@@ -1,0 +1,1 @@
+I am trying to include hamljs in my node project, it's added to my package.json, npm linked and installed, but when I require hamljs I get a cannot find module error

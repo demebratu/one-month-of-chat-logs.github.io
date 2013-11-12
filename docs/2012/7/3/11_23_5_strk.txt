@@ -1,0 +1,1 @@
+I've seen it checked for modules installed by npm install, but not for the root package

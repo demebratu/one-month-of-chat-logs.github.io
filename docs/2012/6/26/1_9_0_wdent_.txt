@@ -1,0 +1,1 @@
+newbie question.  Trying to get node.js to compile on centos and need to change to different version of python.  Anyone now how to force node.js to use a different version of python

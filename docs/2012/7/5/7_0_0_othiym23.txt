@@ -1,0 +1,1 @@
+libev and libeio are sort of subsumed by libuv, which is meant to be a platform-neutral library that handles the eventing / nonblocking parts of the node core under POSIX / Windows

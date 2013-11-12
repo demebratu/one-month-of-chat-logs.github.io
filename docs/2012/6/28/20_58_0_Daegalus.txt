@@ -1,0 +1,1 @@
+i have a question, i never figured it out myself. How do i go about just updating all my global packages? npm install -g isnt right, and npm update does nothing

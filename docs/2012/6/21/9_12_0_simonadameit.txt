@@ -1,0 +1,1 @@
+radiodario: now the docs says that if this handler is installed the exit will not occur

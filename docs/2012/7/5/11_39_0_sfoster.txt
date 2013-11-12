@@ -1,0 +1,1 @@
+the value of socket.io is the fallbacks and shimming it provides you on the client-side I think

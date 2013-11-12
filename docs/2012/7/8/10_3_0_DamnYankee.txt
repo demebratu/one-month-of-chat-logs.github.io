@@ -1,0 +1,1 @@
+Hi guys, could anybody tell me how to give an object a custom string representation? (similar to overwriting the toString method in Java)

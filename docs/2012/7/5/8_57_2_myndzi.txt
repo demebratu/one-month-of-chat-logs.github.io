@@ -1,0 +1,1 @@
+otherwise, um.. you may have to read the stream.js class and unbind all the events manually

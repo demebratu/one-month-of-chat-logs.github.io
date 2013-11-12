@@ -1,0 +1,1 @@
+getting problems using npm from archlinux arm package. you'd have thought they'd run the tests too

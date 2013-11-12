@@ -1,0 +1,1 @@
+For your package.json, Do you usually freeze the version or do you use "*"?

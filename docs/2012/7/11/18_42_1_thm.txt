@@ -1,0 +1,1 @@
+TooTallNate: I build sqlite3, and when trying to use it, I get an undefined symbol. c++filt tells me it is v8::ObjectTemplate::SetAccessor(...)

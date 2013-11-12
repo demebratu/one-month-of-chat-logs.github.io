@@ -1,0 +1,1 @@
+so how would or should I organize that with exec?

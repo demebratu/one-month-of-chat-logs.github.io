@@ -1,0 +1,1 @@
+isaacs: some of our devs were trying node 0.8, and installing with n, then getting npm errors. Do you have a 'best practices' way of toggling between 0.6 and 0.8? (eg, perhaps we should not be using n)

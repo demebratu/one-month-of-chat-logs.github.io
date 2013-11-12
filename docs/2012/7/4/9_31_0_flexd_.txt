@@ -1,0 +1,1 @@
+I was actually googeling for a few minutes why the node server wasnt serving out socket.io.js.. but it turns out I should not be coding that early in the morning and that it's wise to actually start the server up before you try to access anything :P

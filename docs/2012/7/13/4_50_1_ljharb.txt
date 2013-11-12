@@ -1,0 +1,1 @@
+maxogden: obviously a site on scraping is going to interpret things in a way that allows scraping :-)

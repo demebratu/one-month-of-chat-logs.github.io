@@ -1,0 +1,1 @@
+owen1: The idea it's describing is pretty much the same one you're talking about though. It gets these new events and it has a stack of things that care about that event, and goes through them

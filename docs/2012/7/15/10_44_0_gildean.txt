@@ -1,0 +1,1 @@
+as with bcrypt you tend to use random salts, so each hash has to be compared using that salt

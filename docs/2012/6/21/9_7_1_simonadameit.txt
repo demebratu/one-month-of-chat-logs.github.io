@@ -1,0 +1,1 @@
+if not, how can i get it to die if an uncaught exception occurs?

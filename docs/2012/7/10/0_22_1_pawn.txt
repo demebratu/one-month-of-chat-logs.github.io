@@ -1,0 +1,1 @@
+teadict: Found that they're all strings. :\

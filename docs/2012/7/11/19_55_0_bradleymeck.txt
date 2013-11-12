@@ -1,0 +1,1 @@
+install deps inside your folder, not outside

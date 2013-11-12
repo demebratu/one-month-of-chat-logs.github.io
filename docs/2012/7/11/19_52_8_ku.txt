@@ -1,0 +1,1 @@
+there's ircd.js, but it seems impossible to extend

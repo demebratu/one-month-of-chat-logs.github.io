@@ -1,0 +1,1 @@
+dherman: is that so you can generate a bundle and inline coffee-script alongside javascript without having to use sourcemaps for the line offsets?

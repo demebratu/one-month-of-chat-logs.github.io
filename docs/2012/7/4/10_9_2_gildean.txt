@@ -1,0 +1,1 @@
+maybe the salt should then be saved as a file, and require that in the app

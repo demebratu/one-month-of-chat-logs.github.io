@@ -1,0 +1,1 @@
+motiooon_ you can safely detect the callback in waterfall steps with: `var callback = arguments[arguments.length - 1]`

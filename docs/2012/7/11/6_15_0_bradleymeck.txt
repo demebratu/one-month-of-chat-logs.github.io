@@ -1,0 +1,1 @@
+if you dont want to exit, just handle the exception and take not that its time to exit after saving wanted exit code

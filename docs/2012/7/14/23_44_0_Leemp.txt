@@ -1,0 +1,1 @@
+Perhaps it's one of those "too simple to write a package for" things :)

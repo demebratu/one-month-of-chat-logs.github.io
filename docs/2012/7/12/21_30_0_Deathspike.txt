@@ -1,0 +1,1 @@
+fx: Socket.io itself serves the file when you include it, you shouldn't worry about where it is. Just include it and let socket.io do its magic. :)

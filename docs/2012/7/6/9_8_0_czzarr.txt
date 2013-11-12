@@ -1,0 +1,1 @@
+is there a way to create a stream from a variable? I would like to watch the value of a variable and have it emit event (or call a callback) when the value changes

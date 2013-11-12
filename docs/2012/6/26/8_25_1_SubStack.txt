@@ -1,0 +1,1 @@
+wiherek: have your functions that take a while to set up take callbacks as parameters

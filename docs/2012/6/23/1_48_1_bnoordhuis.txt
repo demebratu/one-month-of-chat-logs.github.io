@@ -1,0 +1,1 @@
+Masyl: you can probably build something on top of require('crypto'), all the required primitives are there

@@ -1,0 +1,1 @@
+how can I run two functions sequentially?

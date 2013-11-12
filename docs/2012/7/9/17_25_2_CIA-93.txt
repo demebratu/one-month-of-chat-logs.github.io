@@ -1,0 +1,1 @@
+node: isaacs v0.8 * r9547ee9 / (3 files in 3 dirs): Merge branch 'v0.8.2-release' into v0.8 - http://git.io/ypxSBw

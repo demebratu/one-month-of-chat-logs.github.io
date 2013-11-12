@@ -1,0 +1,1 @@
+obviously I could use run-script, but a convention for scripts that need to run in dev could be useful

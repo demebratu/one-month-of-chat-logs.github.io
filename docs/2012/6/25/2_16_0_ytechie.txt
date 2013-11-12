@@ -1,0 +1,1 @@
+the "readable" property on the HTTP request is false if called outside of the callback for the request.

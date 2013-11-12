@@ -1,0 +1,1 @@
+hmm hmm, updated silly irc bot to work on 0.8

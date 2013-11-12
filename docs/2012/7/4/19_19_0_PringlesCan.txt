@@ -1,0 +1,1 @@
+SubStack, I don't benefit from a streaming parser, is there anyway to not parse the response until it's received in full? I need to store the entire response in a database… so having chunks of it seems to complicate it to me unless I'm missing osmehting?

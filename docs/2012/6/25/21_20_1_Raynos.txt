@@ -1,0 +1,1 @@
+exist is a horrible function because it swallows the error of stat. They should have just deprecated exists rather then moved it

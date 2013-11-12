@@ -1,0 +1,1 @@
+i find debugging other peoples JS to be way easier than some of the monolithic beasts that pass as frameworks in some OO setups

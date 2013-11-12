@@ -1,0 +1,1 @@
+i've used it for other things before, and it's pretty nice for testing regular old javascript code with no state

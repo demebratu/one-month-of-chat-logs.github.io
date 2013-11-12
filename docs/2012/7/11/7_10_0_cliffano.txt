@@ -1,0 +1,1 @@
+how often does garbage collection run in a node.js program? i have a loop that downloads a file off the net, creates an array of objects (roughly 100mb), then execute the next one..  obviously this hits 512mb (i'm on 32bit machine) easily, resulting in out of memory issue.. i avoided this by calling delete on the object that holds the array.. is this acceptable? any other way?

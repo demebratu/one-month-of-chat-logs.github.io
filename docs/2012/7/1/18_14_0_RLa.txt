@@ -1,0 +1,1 @@
+dsirijus, use subdomains instead if you run multiple apps on same domain

@@ -1,0 +1,1 @@
+hi all, quick q. If i have a script and I load 2 modules using require if I load module1 first can I then access stuff from module1 in module2?

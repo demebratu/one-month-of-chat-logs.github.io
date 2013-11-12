@@ -1,0 +1,1 @@
+deltab: I think I can run the whole thing on a 4GB server (that's what our beta server runs)

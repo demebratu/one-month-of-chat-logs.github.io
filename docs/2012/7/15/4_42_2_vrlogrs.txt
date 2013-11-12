@@ -1,0 +1,1 @@
+.. i really need to start using git for my projects

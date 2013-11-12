@@ -1,0 +1,1 @@
+you have to declare and initialize all variables that are outside of the scope you want to use them in since there's block scope for everything in java

@@ -1,0 +1,1 @@
+express is working fine, formidable is working fine, but I can't get socket io to emit a message from client to server :(

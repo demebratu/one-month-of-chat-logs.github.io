@@ -1,0 +1,1 @@
+insin: btw is that a javascript behaveor reading /regex/ as regex or its nodes ?

@@ -1,0 +1,1 @@
+Ok, so I called this once and see in the mongodb console the record is added. Now I outcomment the insert lines. Shouldn't I get the records now?

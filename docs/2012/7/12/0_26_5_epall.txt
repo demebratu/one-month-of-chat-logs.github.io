@@ -1,0 +1,1 @@
+bnoordhuis: thanks! I'm guessing there's no way for me to detect a socket hasn't seen a keepalive in N sec?

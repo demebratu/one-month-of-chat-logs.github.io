@@ -1,0 +1,1 @@
+so if I read from db I get binary ?

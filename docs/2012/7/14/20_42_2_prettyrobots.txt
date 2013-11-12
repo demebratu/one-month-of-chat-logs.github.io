@@ -1,0 +1,1 @@
+But, the key thing is that it is a bunch of little programs, operating system does parallelism for you.

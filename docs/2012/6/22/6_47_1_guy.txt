@@ -1,0 +1,1 @@
+https://gist.github.com/9e0ab1dc22f10072bff3 That's the whole script (note, API credentials purposely messed.)

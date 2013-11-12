@@ -1,0 +1,1 @@
+It needs to be fast and capable of storing key/value pairs, i.e. create a user array with names as key and adding some fields as data (db.users['deathspike'].age=13 or whatever). No need for a relational db, just fast, simple, and good for nodejs :)

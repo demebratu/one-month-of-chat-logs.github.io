@@ -1,0 +1,1 @@
+i am not bad at php, and will still want to use it :) can Node.js work with Mysql?

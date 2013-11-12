@@ -1,0 +1,1 @@
+llrcombs: you must be suggesting that I not do any assigning-to-a-string-of-response-data before then gunzipping it. Just attach listeners to the data events of the response and pipe it in right?

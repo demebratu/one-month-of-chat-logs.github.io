@@ -1,0 +1,1 @@
+bnoordhuis: meanwhile, just to try something, I am going to change the uploader to first store all data in memory, then once finished, it will flush it all to disk at once.. See if that makes any difference (currently, I write each data block that comes in straight to disk)

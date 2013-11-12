@@ -1,0 +1,1 @@
+You mean, if you write to the buffer, how do you know how many bytes you wrote

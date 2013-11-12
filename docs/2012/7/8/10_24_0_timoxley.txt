@@ -1,0 +1,1 @@
+DamnYankee also might want to take a look at util.inherits http://nodejs.org/docs/latest/api/all.html#all_util_inherits_constructor_superconstructor

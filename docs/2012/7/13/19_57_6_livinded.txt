@@ -1,0 +1,1 @@
+rwaldron: I've seen emscripten, it's use case is different

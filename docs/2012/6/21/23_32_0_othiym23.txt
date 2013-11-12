@@ -1,0 +1,1 @@
+axisys: so maybe 'sudo npm install dtrace-provider' will do the trick?

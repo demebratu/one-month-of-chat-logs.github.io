@@ -1,0 +1,1 @@
+just put it it a seperate file and then require('./you-app') when it's ready

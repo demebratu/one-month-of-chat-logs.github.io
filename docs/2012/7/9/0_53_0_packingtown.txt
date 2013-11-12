@@ -1,0 +1,1 @@
+dmilith: process.on('unhandledException', function() { process.exit } )); just anywhere in app.js?

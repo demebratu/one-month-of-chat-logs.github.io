@@ -1,0 +1,1 @@
+take a poke around in ~/.npm

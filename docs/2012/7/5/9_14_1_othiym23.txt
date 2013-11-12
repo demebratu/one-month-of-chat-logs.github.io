@@ -1,0 +1,1 @@
+owen1: yes, but that's just an optimization that's abstracted behind the Node API

@@ -1,0 +1,1 @@
+Pheonix: Basically, it would seem that a reference to either your server object or your main libraries are occassionally getting garbage collected and re-loaded.

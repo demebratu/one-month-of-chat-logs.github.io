@@ -1,0 +1,1 @@
+insin: i'm very much looking forward to the future work on DOM hooks/browser-side real-time validation, but in the meantime, how do you recommend I power browser-side validation with newforms?

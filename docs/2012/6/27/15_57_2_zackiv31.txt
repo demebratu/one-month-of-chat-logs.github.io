@@ -1,0 +1,1 @@
+is the '~' allowed in node to reference the users home directory?

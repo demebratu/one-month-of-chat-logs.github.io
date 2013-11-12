@@ -1,0 +1,1 @@
+hunterloftis: change the npm install line to be this, exactly:  "GIT_DIR= npm install"

@@ -1,0 +1,1 @@
+er, test('vows tests', vowsRunner.batch(a).batch(b));

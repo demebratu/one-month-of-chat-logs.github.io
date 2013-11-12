@@ -1,0 +1,1 @@
+how do u guys avoid using port 80 in production? i heard about 3 ways - start with 80 and after you got a file descriptor, change to differnt port, using iptables, and the 3rd option - using reverse proxy.

@@ -1,0 +1,1 @@
+rageous: i think npm search <whatever>

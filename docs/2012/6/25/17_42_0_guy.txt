@@ -1,0 +1,1 @@
+https://github.com/felixge/node-mysql/issues/214

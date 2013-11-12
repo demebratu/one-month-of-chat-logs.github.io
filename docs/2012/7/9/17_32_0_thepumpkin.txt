@@ -1,0 +1,1 @@
+Hi. My project was working with an old revision of libuv, today I tried to use the node-v0.8.0 tag and uv_tcp_connect callback is not getting called. I checked and the change was made between 0.7.11 and 0.7.12, specifically the revision https://github.com/joyent/libuv/commit/cc7c8542a52d11cc9b94882dc9d9dffef6b3fa3e

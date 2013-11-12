@@ -1,0 +1,1 @@
+ln -s `which python2.7` ~/bin/python

@@ -1,0 +1,1 @@
+the connect/express static middleware support 304 not modified or, when setting a max age, does the browser not call at all?

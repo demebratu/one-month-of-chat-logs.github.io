@@ -1,0 +1,1 @@
+the hardest thing for people to understand is how things inside a lexical scope after the scope has been left.

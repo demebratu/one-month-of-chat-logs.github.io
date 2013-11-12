@@ -1,0 +1,1 @@
+do you think if I set content encoding this would be fixed ?

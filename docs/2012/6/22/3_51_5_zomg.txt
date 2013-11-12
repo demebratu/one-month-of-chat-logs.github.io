@@ -1,0 +1,1 @@
+jmcantrell: I believe oh-my-zsh has an npm plugin tho

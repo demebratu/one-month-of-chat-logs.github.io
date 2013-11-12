@@ -1,0 +1,1 @@
+cpu cycles and efficiency be damned, I can get a margarita while my program is busy doing nothing

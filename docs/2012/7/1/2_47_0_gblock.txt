@@ -1,0 +1,1 @@
+innociv: you can also use the debug client to connect if you don't want to use inspector, but it is pretty sweet.

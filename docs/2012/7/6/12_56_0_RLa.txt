@@ -1,0 +1,1 @@
+if ((callbacks.length - 1) == i) { <- won't this hurt badly in async context

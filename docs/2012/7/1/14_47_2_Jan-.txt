@@ -1,0 +1,1 @@
+If they wanted to invent their own scripting language they could have just called it NodeScript or whatever.

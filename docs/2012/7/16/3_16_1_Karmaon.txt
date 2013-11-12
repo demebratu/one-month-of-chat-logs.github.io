@@ -1,0 +1,1 @@
+clogging up requests because of network latency between the database and api server

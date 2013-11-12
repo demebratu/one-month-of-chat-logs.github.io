@@ -1,0 +1,1 @@
+vrlogrs: but, if we're working with global variables

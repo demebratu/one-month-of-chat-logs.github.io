@@ -1,0 +1,1 @@
+I use res.write and res.end

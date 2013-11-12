@@ -1,0 +1,1 @@
+gll3: i'll be surprised if this works correctly, but it should give you an idea of how to use callbacks in your app: http://pastebin.com/HeTmN491

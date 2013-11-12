@@ -1,0 +1,1 @@
+Just difficult because I think I'm seeing it leave stdout before it flushes.

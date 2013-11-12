@@ -1,0 +1,1 @@
+All session keys by default are prefixed with "sess:"

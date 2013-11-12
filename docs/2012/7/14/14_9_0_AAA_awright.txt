@@ -1,0 +1,1 @@
+You can get away with some extensions to it I guess... I may use M.m.r.b with build number, once the source code has been tagged with M.m.r in Git

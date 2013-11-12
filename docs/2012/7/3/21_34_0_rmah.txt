@@ -1,0 +1,1 @@
+node.js's handling of require() is... less than obvious

@@ -1,0 +1,1 @@
+testmaniac: or `dmesg` of course :)

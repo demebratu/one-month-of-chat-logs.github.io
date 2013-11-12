@@ -1,0 +1,1 @@
+dsirijus, app.use(require('./rewriter.js').temp_rewrite());

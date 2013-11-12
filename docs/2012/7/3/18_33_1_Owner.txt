@@ -1,0 +1,1 @@
+john____~# and after you make a little test, compare it to other frameworks that could do what you want...like Python Twisted i guess

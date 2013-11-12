@@ -1,0 +1,1 @@
+so www/foo/app.js would export a function

@@ -1,0 +1,1 @@
+arinel: 'require' will search for node_modules in parent folders actually.

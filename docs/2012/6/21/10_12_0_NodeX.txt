@@ -1,0 +1,1 @@
+deefing the string \\" to that function would make it \\\" which re-esacapes it

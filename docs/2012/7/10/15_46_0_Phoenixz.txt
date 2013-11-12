@@ -1,0 +1,1 @@
+micheil: Ah, gottit.. Well, I have this Array.prototy.... in a separate module that I require()... Maybe that could be a / the problem?

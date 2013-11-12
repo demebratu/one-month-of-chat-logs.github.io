@@ -1,0 +1,1 @@
+Oh, well, Windows is another platform where Node.js can run, yes.

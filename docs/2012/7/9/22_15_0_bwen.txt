@@ -1,0 +1,1 @@
+context: http://npmjs.org/doc/scripts.html  ctrl+f ".bin", mystery solved... still doesnt work even if the tap is in the node_modules/.bin

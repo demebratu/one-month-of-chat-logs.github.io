@@ -1,0 +1,1 @@
+I just want to fetch some simple data, when someone creates a new thread in a forum. Push that title to the users. Is this possible in a easy way? Using Python for backend

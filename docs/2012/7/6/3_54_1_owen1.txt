@@ -1,0 +1,1 @@
+so the main difference between node and other languages like ruby/java is that in the APP LEVEL there is only 1 thread.

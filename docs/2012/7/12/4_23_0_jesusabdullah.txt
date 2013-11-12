@@ -1,0 +1,1 @@
+dominictarr: nssocket is starting to show its age a little bit, in that it was written before streams gained popularity in userspace

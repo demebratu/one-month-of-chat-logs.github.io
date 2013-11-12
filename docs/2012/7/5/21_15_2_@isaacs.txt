@@ -1,0 +1,1 @@
+hillct, chapel: It works http://isaacs.iriscouch.com/registry/_design/ui/_rewrite/

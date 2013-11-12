@@ -1,0 +1,1 @@
+"Now that you have your original URL back and you know what content the crawler is requesting, you need to produce an HTML snapshot. How do you do that? There are various ways; here are some of them:"

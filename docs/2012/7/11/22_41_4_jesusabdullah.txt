@@ -1,0 +1,1 @@
+pawn: So, like, hook.io does this whole thing so that if server a emits some event, say, "some::event", all the other hooks will see "a::some::event"

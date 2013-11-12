@@ -1,0 +1,1 @@
+ninna, good question. I've never had to do that yet, but it seems that could work. It depends on your error. What is the error msg it's timing out with?

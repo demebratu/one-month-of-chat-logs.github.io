@@ -1,0 +1,1 @@
+ninna, I run requests through a DNS cache to speed up performance on my local network, but you might not have to

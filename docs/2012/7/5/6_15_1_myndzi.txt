@@ -1,0 +1,1 @@
+it's looking like one-row-per-sample and pray that i can index and optimize queries enough may not cut it

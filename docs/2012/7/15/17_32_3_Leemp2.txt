@@ -1,0 +1,1 @@
+And for that matter, is path.sep entirely new to 0.8? Or was it moved? (Which is a roundabout way of asking, for versions < 0.8, how does one figure which path sep to use? (/ vs \)

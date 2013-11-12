@@ -1,0 +1,1 @@
+AAA_awright, yeah process.nextTick seems to be the way to go. I've love not to lose my stacktrace though

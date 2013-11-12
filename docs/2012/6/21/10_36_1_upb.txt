@@ -1,0 +1,1 @@
+pretty sure you can make a pipe and tie the stdin to it in node somhow :)

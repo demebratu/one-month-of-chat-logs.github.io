@@ -1,0 +1,1 @@
+bnoordhuis: true :-) however, running Rails on microinstance, is really slow, no matter what kind of app really :-)

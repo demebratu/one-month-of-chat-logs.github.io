@@ -1,0 +1,1 @@
+grep -r "path.exists" /path/to/node_modules/

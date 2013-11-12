@@ -1,0 +1,1 @@
+Q. $foo = 'abc'; return (int) $foo == $foo; what is returned?

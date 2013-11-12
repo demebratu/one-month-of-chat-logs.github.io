@@ -1,0 +1,1 @@
+that's not correct Sir.. when you do $.post(..., {}), the data part is in the body form encoded, not in the url

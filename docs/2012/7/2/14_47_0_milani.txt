@@ -1,0 +1,1 @@
+hey, does this code runs async?  (function() { var bar = " World"; alert(foo + bar); })();

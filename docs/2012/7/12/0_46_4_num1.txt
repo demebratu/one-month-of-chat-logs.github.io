@@ -1,0 +1,1 @@
+othiym23, looks like zombie has the same problem, it just uses jsdom so intercepting network requests requires the same trickery as before

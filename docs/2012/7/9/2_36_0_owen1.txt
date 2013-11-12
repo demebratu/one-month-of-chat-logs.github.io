@@ -1,0 +1,1 @@
+in order to get the payload of post or put i agraggate the string i get in the data event. is there an abstruction to this code, maybe something like request package for http.request?

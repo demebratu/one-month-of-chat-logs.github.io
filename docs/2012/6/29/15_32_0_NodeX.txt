@@ -1,0 +1,1 @@
+nginx requires a restart every time you add an app though !

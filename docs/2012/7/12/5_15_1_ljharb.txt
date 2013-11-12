@@ -1,0 +1,1 @@
+bazel: if you're dealing with a client that can't handle security, that client should not be doing anything important. period.

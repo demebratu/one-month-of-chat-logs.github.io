@@ -1,0 +1,1 @@
+isaacs: I don't know if you've heard this yet, but whether you have or not, I would be highly interested in hearing your response to it, especially the part about ball-of-glue/modules in the context of the node.js community http://youtu.be/LH_e8NfNV-c

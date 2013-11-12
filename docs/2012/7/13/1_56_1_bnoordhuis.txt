@@ -1,0 +1,1 @@
+llrcombs: just zero the whole buffer. creating the js buffer object itself is probably 10x as expensive

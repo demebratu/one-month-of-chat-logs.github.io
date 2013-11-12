@@ -1,0 +1,1 @@
+innociv: you could always fix db-mysql as well and put up a pull request. 0.8 didn't break much backwards compatibility, so it should be simple enough.

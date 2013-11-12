@@ -1,0 +1,1 @@
+so i was wondering if that was a topic of discussion in the community, cuz it seems sort of stupid (IMHO) to include all your dependencies inside your own repo

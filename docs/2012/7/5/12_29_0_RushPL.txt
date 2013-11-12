@@ -1,0 +1,1 @@
+hmm, is there a way to create anonymous fifo with node.js? similiar to one that fork() creates but I need a second one.

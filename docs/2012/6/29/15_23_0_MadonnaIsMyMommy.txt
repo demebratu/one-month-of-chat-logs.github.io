@@ -1,0 +1,1 @@
+Ded: Right, you don't want /something to show up in the request path of the app

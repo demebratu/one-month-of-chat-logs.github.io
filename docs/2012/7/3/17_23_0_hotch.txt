@@ -1,0 +1,1 @@
+I've never encountered this before. With express if I response.send(new Error('my message')); -> the exception with query reads as internal server error, vs. custom message. Am I going crazy. hmm.

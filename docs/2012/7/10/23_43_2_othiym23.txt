@@ -1,0 +1,1 @@
+prettyrobots: routers in the browser are totally a thing

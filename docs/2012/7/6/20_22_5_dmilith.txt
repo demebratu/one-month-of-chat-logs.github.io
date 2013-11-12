@@ -1,0 +1,1 @@
+ls: dupa: No such file or directory

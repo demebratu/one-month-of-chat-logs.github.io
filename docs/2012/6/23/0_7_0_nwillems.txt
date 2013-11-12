@@ -1,0 +1,1 @@
+Btw I realised that having a link lying around for python2 would probably break some other stuff. Instead a changed the node-waf python script to use python2: #!/usr/bin/env python2, it fixes it :-)

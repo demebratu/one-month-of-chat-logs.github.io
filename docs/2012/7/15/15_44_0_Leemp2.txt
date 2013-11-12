@@ -1,0 +1,1 @@
+Anyone else hate the module name "path"? I always want to write path in my own functions to describe.. well, a generic path :s

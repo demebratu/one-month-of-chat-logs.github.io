@@ -1,0 +1,1 @@
+and, of course, you can alwyas have a program that just ignores the SIGHUP

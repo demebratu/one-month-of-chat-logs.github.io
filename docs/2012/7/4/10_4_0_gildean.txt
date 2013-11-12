@@ -1,0 +1,1 @@
+wltsmrz: you set your own salt when you create the user

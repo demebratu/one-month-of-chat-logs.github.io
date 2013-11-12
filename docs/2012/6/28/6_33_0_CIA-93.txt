@@ -1,0 +1,1 @@
+node: isaacs v0.8 * r37bdd36 / tools/blog/generate.js : blog: Show 0.8.0 even after 0.8.1 ships - http://git.io/xk7hLQ

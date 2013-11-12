@@ -1,0 +1,1 @@
+and then bind to port 80 

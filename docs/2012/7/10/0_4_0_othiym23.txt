@@ -1,0 +1,1 @@
+SubStack: I agree, to an extent, and I wouldn't want to start cramming random shit into Node -- I like its basic model a lot -- but there are a lot of good ideas in goroutines / channels / Go's select that it expresses very concisely and elegantly

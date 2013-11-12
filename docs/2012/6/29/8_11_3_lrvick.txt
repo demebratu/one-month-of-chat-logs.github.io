@@ -1,0 +1,1 @@
+Well, I could at least have the fs module do that, in node

@@ -1,0 +1,1 @@
+im getting banned all the time from a specific api service, since my code runs asynchronously and therefore send another packet before the first one is even really come

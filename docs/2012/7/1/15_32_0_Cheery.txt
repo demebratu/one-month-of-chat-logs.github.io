@@ -1,0 +1,1 @@
+editor.py contains the core layouting -pieces.. plugins contain the rest of layouting. :)

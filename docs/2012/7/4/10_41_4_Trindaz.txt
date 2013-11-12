@@ -1,0 +1,1 @@
+it seems like overkill to me right now - i was hoping to get a solution in a few moments using a quick trick or two without having to install a mocking server. if I'm going to go to tall that trouble I'd probably just quickly code something myself to listen on a port and echo everything it sees

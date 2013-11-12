@@ -1,0 +1,1 @@
+var renderers = (import "./main").renderers

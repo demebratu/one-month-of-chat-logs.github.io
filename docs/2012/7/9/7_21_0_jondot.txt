@@ -1,0 +1,1 @@
+SubStack, can you recommend a testing framework for web (Express) apps? i'm starting a project from scratch and can now make a switch to something more suitable. initially used jasmin, but only because i'm familiar with it from client-side POV.

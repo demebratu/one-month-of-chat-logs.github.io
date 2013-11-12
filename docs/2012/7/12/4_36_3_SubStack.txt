@@ -1,0 +1,1 @@
+sockjs has the properties you describe

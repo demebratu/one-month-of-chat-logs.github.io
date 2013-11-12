@@ -1,0 +1,1 @@
+dherman: that doesn't mean node's module package is the only way to do things, but in relation to js and modules, it is a great foundation or knowledge and problems solved

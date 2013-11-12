@@ -1,0 +1,1 @@
+Hi all, hoping someone can help me with this phantomjs / phantomjs-node issue. I'm getting "phantom stderr: execvp(): No such file or directory" when I try using phantomjs-node and phantomjs is definitely already installed!

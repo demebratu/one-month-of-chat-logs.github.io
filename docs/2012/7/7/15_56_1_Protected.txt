@@ -1,0 +1,1 @@
+So I should pass an object from the outside into the callback and set a field in that object with the value I need outside, I suppose

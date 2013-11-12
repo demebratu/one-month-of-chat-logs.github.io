@@ -1,0 +1,1 @@
+pawn: state.on('change', function (data) { /* React to the change in state */ });

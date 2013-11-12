@@ -1,0 +1,1 @@
+Allows you to define "models" by defining what fields, validations and such are in them

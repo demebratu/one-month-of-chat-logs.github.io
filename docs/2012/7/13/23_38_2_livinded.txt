@@ -1,0 +1,1 @@
+not sure IE7 supports querySelector but you can rip all that out and switch to jQuery's selector. Everything else works

@@ -1,0 +1,1 @@
+hi, does the https module supports 2 certificates for 2 different hostnames? or should i run two https servers and use a reverse proxy in this case? thanks

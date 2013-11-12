@@ -1,0 +1,1 @@
+screen is nice for things that require user input, like some terminals or an irc client, things you regularly want to dump your stdin to, etc

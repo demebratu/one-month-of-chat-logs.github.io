@@ -1,0 +1,1 @@
+Okay, I'll throw in a try/catch and test to see if fs.whatever exists

@@ -1,0 +1,1 @@
+When standalone libs sprang out of your project, do you create a separate github repo for them and submodule them, or dist them from the main project's repo?

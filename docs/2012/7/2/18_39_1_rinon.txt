@@ -1,0 +1,1 @@
+so... is there any way to make npm work with the most recent dev version of node?

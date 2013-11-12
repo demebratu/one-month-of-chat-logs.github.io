@@ -1,0 +1,1 @@
+drudge\work: but inside each thread everything in evented. that's what i understand.

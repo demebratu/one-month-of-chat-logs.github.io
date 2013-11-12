@@ -1,0 +1,1 @@
+bnoordhuis: did a clean git clone, then went in, first applied the git show fecebe1 | git apply -R, resulted in this:  http://pastebin.com/vE5cxDc3 

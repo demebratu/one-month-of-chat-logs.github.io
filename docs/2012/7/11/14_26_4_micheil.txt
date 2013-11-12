@@ -1,0 +1,1 @@
+_6a68: so, promised-io is using pretty much dojo Deferred's (their written by the same person, as of dojo 1.8)

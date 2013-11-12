@@ -1,0 +1,1 @@
+vrlogrs: forever by default runs in the bg. no need to put it in the bg 

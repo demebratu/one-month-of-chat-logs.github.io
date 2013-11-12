@@ -1,0 +1,1 @@
+say I have a large app that includes similar modules with similar function names. I'd have a namespace problem in JS correct?

@@ -1,0 +1,1 @@
+context: I've used Splunk before. It's pretty good, but free only up to 500 MB of log per day, and gets expensive quickly

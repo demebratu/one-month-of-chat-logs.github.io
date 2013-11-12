@@ -1,0 +1,1 @@
+Depending on the type of data your consumed api serves, you could just do timed-updates and store that in db, so user request is not necessary at all.

@@ -1,0 +1,1 @@
+jrajav: {}s are still scopes in JavaScript

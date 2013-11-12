@@ -1,0 +1,1 @@
+maxogden: the callback thingy seems like a good idea. One thing I haven't yet understood, everyone "just" publishes modules to npm all the time, or how?

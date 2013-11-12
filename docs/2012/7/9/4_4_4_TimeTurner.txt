@@ -1,0 +1,1 @@
+lol. I guess I'll get comfortable with mysql then transition over to postgres when I feel comfortable enough then

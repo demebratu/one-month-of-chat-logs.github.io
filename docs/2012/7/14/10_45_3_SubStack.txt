@@ -1,0 +1,1 @@
+if you can rewrite anything to be a regex you probably should because that engine is optimized to a crazy degree

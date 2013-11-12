@@ -1,0 +1,1 @@
+couch is better if you're more comfortable with a functional programming style where you have streams of data and mostly just do inserts

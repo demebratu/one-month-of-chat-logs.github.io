@@ -1,0 +1,1 @@
+alright, so I'm struggling with some encoding issues, and I can't tell where the issue is

@@ -1,0 +1,1 @@
+how reccomended is having an nginx proxy in front of node?

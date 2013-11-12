@@ -1,0 +1,1 @@
+i think i can do just that and skip the step of adding nvm to my profile... because right now i dont switch versions a lot

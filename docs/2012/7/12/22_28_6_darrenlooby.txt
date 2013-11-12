@@ -1,0 +1,1 @@
+I've created a module using "exports". It basically runs my sending of data via POST. However, it seems to be timing out and stopping my app. Whilst, it seems that if I just duplicate my code inline - it doesn't seem to happen... any tips?

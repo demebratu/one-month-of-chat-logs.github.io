@@ -1,0 +1,1 @@
+How does pub/sub work with Redis?  Do things ever get automatically published simply because a row was inserted into a table that met certain criteria, or does publishing only ever happen when one client sends a "publish" message?

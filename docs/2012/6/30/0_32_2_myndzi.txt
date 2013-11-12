@@ -1,0 +1,1 @@
+i fixed all the ifs but now i am getting into things i understand less well

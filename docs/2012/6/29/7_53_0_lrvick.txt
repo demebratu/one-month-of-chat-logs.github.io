@@ -1,0 +1,1 @@
+Hey all. So I have a project that is currently one big file, and works in either node or in the browser. I would like to split it up in to many modular files, like plugins.

@@ -1,0 +1,1 @@
+bawigga: Instead, it adds a shortcut that sets up a cmd with node configured.

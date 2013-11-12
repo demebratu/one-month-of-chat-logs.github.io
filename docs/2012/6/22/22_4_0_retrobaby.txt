@@ -1,0 +1,1 @@
+from what zeekay tells me its works with uglify and ASTs to manage client side modules

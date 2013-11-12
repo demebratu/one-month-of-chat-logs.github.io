@@ -1,0 +1,1 @@
+This works if you can guarentee that, if fs.readFile throws an error, it will not call readFile

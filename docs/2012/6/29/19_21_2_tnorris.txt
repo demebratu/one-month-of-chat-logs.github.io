@@ -1,0 +1,1 @@
+the tests show that .map() and .forEach() just skip over uninitialized values in an array.

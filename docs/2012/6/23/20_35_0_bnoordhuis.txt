@@ -1,0 +1,1 @@
+magge: e.g. "foo\xc9bar" gets decoded to "foo\xc3\xc9bar"

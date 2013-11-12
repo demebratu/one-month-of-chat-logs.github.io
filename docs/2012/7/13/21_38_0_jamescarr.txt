@@ -1,0 +1,1 @@
+chapel, I've actually been curious how Riak's full text searching capabilities are

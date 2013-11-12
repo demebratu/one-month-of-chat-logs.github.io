@@ -1,0 +1,1 @@
+I dunno how to properly send Numbers from C++ side of my module to JS without them becoming NaN

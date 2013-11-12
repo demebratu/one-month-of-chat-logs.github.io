@@ -1,0 +1,1 @@
+timoxley: indeed, and that's how the largest project I've worked on in Node was structured (http://lockerproject.org)

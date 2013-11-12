@@ -1,0 +1,1 @@
+socket.setEncoding('UTF8'); "fixes" it

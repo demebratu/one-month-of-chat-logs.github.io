@@ -1,0 +1,1 @@
+Hi, anyone here used jsdom before? I can't figure out a way to get jQuery to attach event handlers to my svgs that I generate server side

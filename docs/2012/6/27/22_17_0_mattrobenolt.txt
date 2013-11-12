@@ -1,0 +1,1 @@
+tjholowaychuk: The Django test client doesn't actually spawn a server at all. It just directly hits the routes and calls the views.

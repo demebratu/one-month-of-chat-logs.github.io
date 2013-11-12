@@ -1,0 +1,1 @@
+you can either do app.set('env', 'whatever')

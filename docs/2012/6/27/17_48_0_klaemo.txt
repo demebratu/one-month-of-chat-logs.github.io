@@ -1,0 +1,1 @@
+Phoenixz: well, if you didn't install it from github you won't have the latest fix. I don't think guiellermo has already pushed a new version to npm

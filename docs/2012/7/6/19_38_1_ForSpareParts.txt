@@ -1,0 +1,1 @@
+herzogharker: would it be enough to just clone the git repo of promised-io into node_modules?

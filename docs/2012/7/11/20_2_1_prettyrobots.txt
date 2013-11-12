@@ -1,0 +1,1 @@
+Anyone interested in a little module that helps you figure out a shebang line when you're running in Windows?

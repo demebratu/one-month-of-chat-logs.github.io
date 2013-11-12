@@ -1,0 +1,1 @@
+isaacs: i thought by setting $HOME to "" that it would use /usr/local/lib/nave

@@ -1,0 +1,1 @@
+(test.js just requires the flapjax library and logs it in the console, resulting in an empty object)

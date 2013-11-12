@@ -1,0 +1,1 @@
+bricker882, you could install the packages globally instead of locally

@@ -1,0 +1,1 @@
+You can just write a script that makes the 20% files, serve them directly to non-auth'd users via nginx.

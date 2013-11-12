@@ -1,0 +1,1 @@
+the class' name is Tokenizer, and the s_ct is the static v8::Persistent<v8::FunctionTemplate> in the public section of the class.

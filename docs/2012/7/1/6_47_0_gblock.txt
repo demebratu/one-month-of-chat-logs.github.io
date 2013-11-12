@@ -1,0 +1,1 @@
+williamcotton: doesn't look so bad to implement: http://redis.io/topics/protocol

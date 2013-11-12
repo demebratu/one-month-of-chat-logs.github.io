@@ -1,0 +1,1 @@
+nykac: it looks like you expected your module to be installed in the global dir, which is lib/node_modules relative to your binary. 

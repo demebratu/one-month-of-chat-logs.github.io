@@ -1,0 +1,1 @@
+my goal is to have something I can use to stream data to use in d3

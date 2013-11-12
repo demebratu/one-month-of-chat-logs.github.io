@@ -1,0 +1,1 @@
+http://nodemanual.org/0.6.9/nodejs_ref_guide/debugging.node.js.html I think I found it

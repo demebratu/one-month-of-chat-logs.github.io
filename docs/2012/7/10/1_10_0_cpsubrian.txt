@@ -1,0 +1,1 @@
+anyone know if a module/script exists to compare the output of two calls to `npm list`?

@@ -1,0 +1,1 @@
+so, how about my problem? killing main http-proxy kills service to all apps?

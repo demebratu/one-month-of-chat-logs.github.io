@@ -1,0 +1,1 @@
+tjholowaychuk: just thought, it could be that the bundle *has* no actions. Chocolat ignores any commands that it doesn't think will work, generally those that use textmate's ruby API

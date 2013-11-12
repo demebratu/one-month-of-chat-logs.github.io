@@ -1,0 +1,1 @@
+hm, kenne mich damit auch nicht wirklich aus, aber müsstest du nicht normalerweise ne antwort entweder automatisch schicken (request war in ordnung) oder von php an node manuell eine antwort schicken, wenn etwas eingegangen ist?

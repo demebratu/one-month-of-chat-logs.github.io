@@ -1,0 +1,1 @@
+is there any quick way to have a self-contained node server, eg one that can be run without installing much in the way of dependacies?

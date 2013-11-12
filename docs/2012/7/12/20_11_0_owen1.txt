@@ -1,0 +1,1 @@
+socket.io doesn't work with firefox. is it just me?

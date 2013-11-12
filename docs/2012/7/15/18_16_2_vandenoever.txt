@@ -1,0 +1,1 @@
+darkyen: e.g. reading video from a local file on device is slooow

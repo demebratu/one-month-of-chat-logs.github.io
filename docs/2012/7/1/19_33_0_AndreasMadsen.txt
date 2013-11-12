@@ -1,0 +1,1 @@
+is there a way to configure npm so it resolves dependencies in module directories and not node_module directories

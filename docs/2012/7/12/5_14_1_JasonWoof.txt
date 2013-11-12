@@ -1,0 +1,1 @@
+here's my my app wouldn't quit: cat = spawn('cat', [], { stdio: ['pipe', 'pipe', 'ignore'] })

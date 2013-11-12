@@ -1,0 +1,1 @@
+yes, so you write code that uses the configured storage class

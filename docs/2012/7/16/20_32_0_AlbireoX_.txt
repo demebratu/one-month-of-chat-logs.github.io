@@ -1,0 +1,1 @@
+deedubs: One feature I'd like to see is being able to click on a project and linking all of the developers/contributors/watchers of the project somehow together

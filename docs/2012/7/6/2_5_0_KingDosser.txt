@@ -1,0 +1,1 @@
+Hey Guys. I have some namespaces. Is it possible to have code outside the namespaces say a socket.on('setNickname' ...) so I don't have to do it in each namespace ?

@@ -1,0 +1,1 @@
+how do I transform a date into just the string that is in the mysql?

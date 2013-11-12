@@ -1,0 +1,1 @@
+afair you can't access the file data in browser-side js

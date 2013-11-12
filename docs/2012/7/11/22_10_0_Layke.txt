@@ -1,0 +1,1 @@
+I'm about to do some phantomjs scraping. Can I use nodejs modules from within it? I want to output some domElements innerHTML to a file in csv?

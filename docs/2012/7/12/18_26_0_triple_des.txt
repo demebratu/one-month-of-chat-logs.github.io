@@ -1,0 +1,1 @@
+I have to define foo in the server.js, I already know this way. I wanted to know if there was a way to create a timer without declaring it as variable in server.js

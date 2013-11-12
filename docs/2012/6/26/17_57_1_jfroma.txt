@@ -1,0 +1,1 @@
+possibilities, no it does for you dont remember the syntax right now but it is something like new Reader(path).pipe(new Writer(path))

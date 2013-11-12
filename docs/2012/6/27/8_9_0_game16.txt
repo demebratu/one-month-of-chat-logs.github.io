@@ -1,0 +1,1 @@
+I hope I'm doing this right : I created a separate db_connects.js file where I open the connection 

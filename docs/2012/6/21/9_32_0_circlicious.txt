@@ -1,0 +1,1 @@
+i am trying to pass a block fo text through jade via command line, but it throws error and doesn't work, any idea why? - http://pastie.org/4125410

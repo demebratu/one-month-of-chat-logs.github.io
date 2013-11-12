@@ -1,0 +1,1 @@
+s5fs: following this recipe: http://davestevens.us/articles/setting-up-nodejs-on-webfaction-revised

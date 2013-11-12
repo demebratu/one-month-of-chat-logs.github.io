@@ -1,0 +1,1 @@
+Installed Xcode, tried to reinstall nvm, same error.

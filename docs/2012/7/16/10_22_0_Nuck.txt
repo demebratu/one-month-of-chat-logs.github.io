@@ -1,0 +1,1 @@
+haha apparently NPM requires all-lowercase package names now.  Glad I got Travis in there before :3

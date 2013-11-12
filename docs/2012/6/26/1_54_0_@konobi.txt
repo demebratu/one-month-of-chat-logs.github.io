@@ -1,0 +1,1 @@
+TooTallNate: hhhmmm... any pointers... would be nice to compile in some .js and .node stuff into the binary (for platform specific stuff)

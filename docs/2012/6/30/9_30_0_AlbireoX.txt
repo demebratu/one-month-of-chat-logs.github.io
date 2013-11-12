@@ -1,0 +1,1 @@
+i might resort to setting up an apache server just so i can query these servers

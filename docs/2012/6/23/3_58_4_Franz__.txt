@@ -1,0 +1,1 @@
+but i receive a error: this.title.gettext is not a function

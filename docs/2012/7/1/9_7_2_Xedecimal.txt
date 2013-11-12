@@ -1,0 +1,1 @@
+something tells me the reason these daemons will not terminate, is because their streams are still being held open. However I'm terminating them is not terminating them enough to release them and let them go

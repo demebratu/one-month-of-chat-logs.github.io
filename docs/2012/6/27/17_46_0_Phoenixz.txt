@@ -1,0 +1,1 @@
+correction, first I get a 200OK, but empty file, then 304 not modified..

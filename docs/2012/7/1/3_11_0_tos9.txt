@@ -1,0 +1,1 @@
+Ah I see, the config key seems to be prefix, not root like the tut I was reading had it. Never mind.

@@ -1,0 +1,1 @@
+so uhh - has anyone noticed how easy it is to write unscalable node.js code? :/

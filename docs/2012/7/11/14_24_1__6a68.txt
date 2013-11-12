@@ -1,0 +1,1 @@
+but I mean, it seems like either code becomes a horrid mountain of callback spaghetti, or you use promises as lightweight anonymous callback sequencing

@@ -1,0 +1,1 @@
+dumb question. but, once I run a node using CLI, is it possible to run anything from the using CLI?

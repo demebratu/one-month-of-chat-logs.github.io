@@ -1,0 +1,1 @@
+(now that said, screen and tmux are an interesting problem in that they make that value dynamic)

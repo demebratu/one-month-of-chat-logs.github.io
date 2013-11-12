@@ -1,0 +1,1 @@
+I assume if I make a data buffer, and put strings in it, it will contain a string, and if I put data in an ascii buffer, it will convert to string?

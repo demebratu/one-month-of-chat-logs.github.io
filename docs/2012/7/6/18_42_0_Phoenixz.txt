@@ -1,0 +1,1 @@
+Hi there, on socket.io 0.9.6 with node 0.8, I keep (on random moments) getting Uncaught ReferenceError: io is not defined in my clients.. Checking, http://host/socket.io/socket.io.js gives 200 with an empty document, then 304, not modified... Emptying client cache and restarting server (sometimes) fixes this. Any idea on what might be the cause, and better, how to fix this?

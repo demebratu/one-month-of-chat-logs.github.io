@@ -1,0 +1,1 @@
+ljharb: got it. thanks. does it mean that node always stream the data back to it's clients?

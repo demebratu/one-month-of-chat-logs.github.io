@@ -1,0 +1,1 @@
+bazel: why not just use firebug or httpfox ?

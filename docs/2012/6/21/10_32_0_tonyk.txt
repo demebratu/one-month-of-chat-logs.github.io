@@ -1,0 +1,1 @@
+I remember a 32k char limit test on some configure scripts

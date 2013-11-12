@@ -1,0 +1,1 @@
+of clone the git repo and checkout to the 0.8.1 tag

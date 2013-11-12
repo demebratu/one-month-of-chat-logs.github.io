@@ -1,0 +1,1 @@
+bradleymeck: I'm writing a command line utility and I want to … what deoxxa said.

@@ -1,0 +1,1 @@
+vandenoever: ok. so strings are characters. what about buffers?

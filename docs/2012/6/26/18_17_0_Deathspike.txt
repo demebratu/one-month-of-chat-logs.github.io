@@ -1,0 +1,1 @@
+timoxley: Don't names like this conflict with real named functions? Anonymous seems like a better idea in that regard.

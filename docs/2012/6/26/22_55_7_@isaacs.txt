@@ -1,0 +1,1 @@
+mattrobenolt: yes, in fact, it's a efficiency loss at the moment, but that'll change soon in master.

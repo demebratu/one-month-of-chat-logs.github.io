@@ -1,0 +1,1 @@
+if you don't want your function to continue do this  "return callback(null, value)"

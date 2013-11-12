@@ -1,0 +1,1 @@
+llrcombs: oh, just use buffer.fill() for that

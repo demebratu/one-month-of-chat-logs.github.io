@@ -1,0 +1,1 @@
+not to mention that if you store state in the wrong place you will be surprised when you try to scale your program to multiple processes

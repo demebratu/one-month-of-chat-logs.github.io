@@ -1,0 +1,1 @@
+game16: What you do is once you open the connection in db_connect.js, return the object in the fucntion that opens it to the main file

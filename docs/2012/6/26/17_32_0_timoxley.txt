@@ -1,0 +1,1 @@
+Deathspike avoid making architectural decisions until you're more familiar with the system and the problem domain. Poor architecture is worse than none.

@@ -1,0 +1,1 @@
+you mean have the server "attach" the client?

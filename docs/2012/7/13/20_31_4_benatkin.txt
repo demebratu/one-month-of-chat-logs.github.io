@@ -1,0 +1,1 @@
+tjholowaychuk: I'm thinking just require a function to return js and css, when it gets plugged into the asset packager

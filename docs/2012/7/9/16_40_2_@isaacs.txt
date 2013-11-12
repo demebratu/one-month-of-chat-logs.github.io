@@ -1,0 +1,1 @@
+herzogharker: require.paths is gone.

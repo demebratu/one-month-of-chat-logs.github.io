@@ -1,0 +1,1 @@
+Sly, do you know of any http client wrappers out there that are more curl-like in how they function.  There's a lot of redundancy in the base http module if you're not going to maintain constantly open connections.

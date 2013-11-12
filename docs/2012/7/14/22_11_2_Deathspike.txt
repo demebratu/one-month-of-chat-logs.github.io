@@ -1,0 +1,1 @@
+Installer doesn't register, but the command prompt shortcut does. Once you run it once, you can use node forever.

@@ -1,0 +1,1 @@
+so when is it appropriate to do synchronous calls... say im reading a bunch of files to sort them by creation time and return that set in order

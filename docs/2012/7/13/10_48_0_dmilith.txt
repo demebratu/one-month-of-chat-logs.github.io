@@ -1,0 +1,1 @@
+mmalecki: only "Warning: invalid or missing user cookie." on Safari 6 (osx)

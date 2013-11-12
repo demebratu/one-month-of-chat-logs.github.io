@@ -1,0 +1,1 @@
+but in short, client data was stored inside a local variable - and that local variable is available via a closure to every request. Something like this,  function(blah) { var localvar ...  http.createServer(function(req, res) {... localvar is accessed

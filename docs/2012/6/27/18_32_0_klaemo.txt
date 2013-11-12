@@ -1,0 +1,1 @@
+chvck: you would have to require module1 in module2 for that to work. but maybe I misunderstood you

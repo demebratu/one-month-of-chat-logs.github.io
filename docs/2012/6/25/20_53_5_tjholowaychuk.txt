@@ -1,0 +1,1 @@
+tbranyen you could always use node-static and have unconditional in-memory caching :p

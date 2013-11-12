@@ -1,0 +1,1 @@
+attached={"43241634":{"plan":"free","id":"43241634","spot":2},"134f2bc4":{"plan":"free","id":"134f2bc4","spot":0},"15ea4245":{"plan":"free","id":"15ea4245","spot":1}}

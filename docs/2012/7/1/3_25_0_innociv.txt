@@ -1,0 +1,1 @@
+Uhh I guess this is running but how am I supposed to see what is using up so much cpu?

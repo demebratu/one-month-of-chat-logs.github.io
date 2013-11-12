@@ -1,0 +1,1 @@
+Also, runs on Windows and Travis CI without much fuss.

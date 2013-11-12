@@ -1,0 +1,1 @@
+milani: my use case is the following, I write a post in the php frontend, that is stored in a mysql database ( only friends could see it ), then I would like to notify my friends about new blog post

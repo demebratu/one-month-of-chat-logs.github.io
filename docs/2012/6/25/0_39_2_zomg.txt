@@ -1,0 +1,1 @@
+bnoordhuis: Yeah I guess there are certain things like that which are easier in specific languages, but it's still suitable as a general purpose language I think. You could say the same about Java or whatever too in comparison to Perl

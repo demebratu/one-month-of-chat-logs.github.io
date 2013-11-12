@@ -1,0 +1,1 @@
+the communication youre describing sounds like a perfect situation for a JSON REST API

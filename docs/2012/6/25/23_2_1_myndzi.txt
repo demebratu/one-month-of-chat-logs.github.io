@@ -1,0 +1,1 @@
+appears to be socket.setTimeout that caused it

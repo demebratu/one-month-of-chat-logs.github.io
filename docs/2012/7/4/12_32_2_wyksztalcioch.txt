@@ -1,0 +1,1 @@
+i instaled uglify-js module via npm, but jake doesn't see this: Error: Cannot find module 'uglify-js' at Function.Module._resolveFilename (module.js:338:15)

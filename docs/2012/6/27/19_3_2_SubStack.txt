@@ -1,0 +1,1 @@
+it can catch typos at compile-time

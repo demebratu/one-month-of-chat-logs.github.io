@@ -1,0 +1,1 @@
+prettyrobots: https://github.com/tuhoojabotti/Chromerly-URL-shortener/tree/master/_locales

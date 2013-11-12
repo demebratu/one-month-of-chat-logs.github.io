@@ -1,0 +1,1 @@
+where are the node libraries stored on windows?

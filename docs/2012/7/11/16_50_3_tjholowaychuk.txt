@@ -1,0 +1,1 @@
+but it wont parse as valid js

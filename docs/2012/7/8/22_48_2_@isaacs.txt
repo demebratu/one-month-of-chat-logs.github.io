@@ -1,0 +1,1 @@
+it's also odd with fs.link, since you might get an EEXIST *or* a ENOENT, which are opposites.

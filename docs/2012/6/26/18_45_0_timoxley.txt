@@ -1,0 +1,1 @@
+tehgeekmeister you'll see 'yellow lines' if it's building the module with node-waf or something

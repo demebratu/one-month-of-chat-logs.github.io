@@ -1,0 +1,1 @@
+node: Bert Belder v0.8 * rdedbfae / (AUTHORS .mailmap): Add a .mailmap file, and clean up AUTHORS somewhat - http://git.io/wWdgrw

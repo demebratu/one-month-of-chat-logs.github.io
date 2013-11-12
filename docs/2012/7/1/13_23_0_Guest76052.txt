@@ -1,0 +1,1 @@
+Hello, I'm very new to web development, do you have any documentation to understand the basics of how server/client works? I mean I want to understand what happens when I'm surfing on facebook and updating my status, to understand how this interaction (with php) works to better understand node later

@@ -1,0 +1,1 @@
+I remember seeing an interactive package.json example on a website where you got a description for each field on mouse-over. Do you guys have a link to that?

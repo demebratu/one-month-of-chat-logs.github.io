@@ -1,0 +1,1 @@
+I suppose now I'm getting into the sort of questions that would actually be more appropriate for #redis

@@ -1,0 +1,1 @@
+does learnboost up set some kind of environment variable? it would be useful to check if a server app is run by up or standalone

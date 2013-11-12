@@ -1,0 +1,1 @@
+simonadameit: but maybe try one of the streaming parser modules

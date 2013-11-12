@@ -1,0 +1,1 @@
+isaacs: where does one get $rev for this npmjs.org:push.sh script? "-H destination:'_design/app?rev=$rev'" 

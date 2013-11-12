@@ -1,0 +1,1 @@
+Do auth in Node, build a proper Amazon URL, then issue a 302.

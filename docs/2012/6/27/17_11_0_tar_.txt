@@ -1,0 +1,1 @@
+I just saw an example which replaced res.write with another function in order to capture all the data from the stream… is that common practice?

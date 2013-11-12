@@ -1,0 +1,1 @@
+isaacs: good idea. I think maybe since 'git' is running already for the post-receive, it's setting a path to some other place and then it doesn't recognize '.' as the repo

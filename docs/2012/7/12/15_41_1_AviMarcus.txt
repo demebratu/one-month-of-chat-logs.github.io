@@ -1,0 +1,1 @@
+everything else on first two pages has tiny ram allocations

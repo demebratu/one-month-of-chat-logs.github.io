@@ -1,0 +1,1 @@
+SubStack: Line buffering: You mean like `split` in the EventStream library you just linked me to.

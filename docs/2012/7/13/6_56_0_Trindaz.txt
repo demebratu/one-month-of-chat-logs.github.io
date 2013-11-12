@@ -1,0 +1,1 @@
+i WAS using utf-8 which wrecked everything, base64 seemed to solve it but the final output was truncated. piping the buffer straight to gzip is obviously what i'm going to do next.

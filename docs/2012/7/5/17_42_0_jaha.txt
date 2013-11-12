@@ -1,0 +1,1 @@
+Zipp: would vagrant require me to have duplicate environments runing and software installed on both VMs before running the node apps through them, ie: I have to install the right linux kernel, node, and its dependancies to both vms?

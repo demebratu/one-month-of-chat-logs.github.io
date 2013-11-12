@@ -1,0 +1,1 @@
+Hi, How can I check whether a request is http or https?

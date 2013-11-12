@@ -1,0 +1,1 @@
+konobi: you mean it could close between console.log and slim.stdin.write. ?

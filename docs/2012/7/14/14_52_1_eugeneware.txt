@@ -1,0 +1,1 @@
+e. Here's a cut down example of the kind of problem I'm trying to solve (just using a basic read/write from a file): https://gist.github.com/3111702  What's a good async pattern in node.js to handle this?

@@ -1,0 +1,1 @@
+and the fact that node-redis doesn't seem to handle buffers properly

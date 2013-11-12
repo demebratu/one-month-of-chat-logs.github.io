@@ -1,0 +1,1 @@
+SubStack: by the time you know if it exists, you should already assume that some other process has created it

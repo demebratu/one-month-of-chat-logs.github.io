@@ -1,0 +1,1 @@
+but I don't think it's an install issue. I'm thinking your paths are wrong somehow

@@ -1,0 +1,1 @@
+aheckmann: one more question, why would you use [{ type: Schema.ObjectId, ref: 'Person' }] over [Person.schema] ?

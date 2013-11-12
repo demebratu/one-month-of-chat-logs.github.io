@@ -1,0 +1,1 @@
+People accessing page from https:// are not able co communicate with Node/Socket otherwise

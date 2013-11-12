@@ -1,0 +1,1 @@
+unomi: Built in event emitter you say?

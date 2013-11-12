@@ -1,0 +1,1 @@
+So, is ok if I use the undocumented api, like util._extends or process._getActiveRequests or they are unstable or in test-mode?

@@ -1,0 +1,1 @@
+do you want me to run .. $sudo node myProgram.js --args node   ?

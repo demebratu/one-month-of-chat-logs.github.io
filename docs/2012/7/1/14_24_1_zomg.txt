@@ -1,0 +1,1 @@
+But yeah if you really want to be safe you would need to figure out somehow that the require is the require you want

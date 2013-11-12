@@ -1,0 +1,1 @@
+felixge, ok, so connection.end() waits for the query to execute

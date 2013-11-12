@@ -1,0 +1,1 @@
+there is no difference between clients and servers, that's just a convention we adopt for convenience

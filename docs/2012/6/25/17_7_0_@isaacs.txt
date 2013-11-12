@@ -1,0 +1,1 @@
+drudge: it'll do the ./configure and compile again, but it'll be a fast compilation, because only a few things change for that

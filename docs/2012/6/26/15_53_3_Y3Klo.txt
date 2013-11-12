@@ -1,0 +1,1 @@
+In Python, for example, we've virtualenv (which allows isolates packages, paths, etc.)

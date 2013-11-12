@@ -1,0 +1,1 @@
+jrajav: that was just an example to illustrate that one way of programming does not need to be the best way to do everything, be it oop/asynchrousness/whatever

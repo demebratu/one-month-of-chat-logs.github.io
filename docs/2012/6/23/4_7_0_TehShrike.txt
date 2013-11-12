@@ -1,0 +1,1 @@
+Nexxy: I haven't made a JQ plugin before - as I understand it, that involves adding a new function that would be called with $.whatever(), right?

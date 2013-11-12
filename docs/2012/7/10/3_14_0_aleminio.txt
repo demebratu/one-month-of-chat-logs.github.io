@@ -1,0 +1,1 @@
+yep, it doesn't give me that error when i'm setting it as an option, but i'm still curious about the other way and why it does that

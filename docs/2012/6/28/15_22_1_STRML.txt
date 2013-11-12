@@ -1,0 +1,1 @@
+Well, it's kind of required for AJAX apps, isn't it?

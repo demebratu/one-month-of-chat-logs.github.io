@@ -1,0 +1,1 @@
+ben_alman: you can put ~/.nave/0.8.2/bin in your PATH if you want

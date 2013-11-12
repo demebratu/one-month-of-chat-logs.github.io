@@ -1,0 +1,1 @@
+Error: npm doesn't work with node v0.8.1

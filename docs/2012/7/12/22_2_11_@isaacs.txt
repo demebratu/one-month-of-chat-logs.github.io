@@ -1,0 +1,1 @@
+tjholowaychuk: i find that frameworks usually have fewer and less granular tests than libraries that do a single thing.

@@ -1,0 +1,1 @@
+basically you would require('daemonize-me');

@@ -1,0 +1,1 @@
+I'm sending alot of json out of my app using express, any recommendations on how to minify the json ?

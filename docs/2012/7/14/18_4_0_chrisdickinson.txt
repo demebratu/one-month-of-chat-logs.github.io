@@ -1,0 +1,1 @@
+i remember getting into C++ a couple years later and loving it, in a stockholm-symdrome-y way; when a friend recommended python to me i wrote it off because "that'll never be fast enough!"

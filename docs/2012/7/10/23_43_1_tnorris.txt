@@ -1,0 +1,1 @@
+dsirijus: add an entry of "root" that points to the location of your public folder on the file system.

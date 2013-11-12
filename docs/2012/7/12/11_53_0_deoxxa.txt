@@ -1,0 +1,1 @@
+ootje: i'd put money on an array being faster in nearly all cases

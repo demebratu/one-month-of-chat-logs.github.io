@@ -1,0 +1,1 @@
+IMO one of the problems with node.js api is the `err` as the first argument.

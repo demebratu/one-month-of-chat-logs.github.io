@@ -1,0 +1,1 @@
+Hm, this might actuallyu have something to do with sequelize, just odd that it does not work when I do req.params.id, but if I just put 1 there (as in id=1) it works perfectly fine.

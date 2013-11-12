@@ -1,0 +1,1 @@
+Deathspike: that pattern that TJ laid out, of writing the handlers that get mapped to routes, where the route handlers are defined wherever, is a good one

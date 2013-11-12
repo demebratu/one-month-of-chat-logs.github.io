@@ -1,0 +1,1 @@
+is there any validity in accepting a package.json that excludes those fields? i can, of course, just use dummy values

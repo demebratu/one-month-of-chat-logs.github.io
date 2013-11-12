@@ -1,0 +1,1 @@
+I have no love for CS, but I like the idea of composable high-level async operators

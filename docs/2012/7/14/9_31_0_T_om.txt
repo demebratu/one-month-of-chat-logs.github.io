@@ -1,0 +1,1 @@
+deoxxa: npm install <package> - just always puts them in /var/www/node_modules - which seemed random a location, but then I guessed I must have been in that directory in my shell the first time i ever used it, so it got set as the default or something

@@ -1,0 +1,1 @@
+but is there any kind of monotonic clock available inside node.js?

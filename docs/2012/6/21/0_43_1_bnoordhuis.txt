@@ -1,0 +1,1 @@
+other_guy: yes, that's correct. but it also works like that in v0.6

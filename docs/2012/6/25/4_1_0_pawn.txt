@@ -1,0 +1,1 @@
+SomeoneWeird: I'm wondering if you could help me with something. I'm trying to send messages to users, but multi-line message. The problem I'm running into is freenode throttling me because apparently ever line is sent individually. How could I send one message with newlines?

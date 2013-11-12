@@ -1,0 +1,1 @@
+no. dnode only implements the rpc, but better than nowjs does. hook.io implements the multi-event event emitting thing.

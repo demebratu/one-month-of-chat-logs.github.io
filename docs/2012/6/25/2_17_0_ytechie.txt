@@ -1,0 +1,1 @@
+"readable" can be called on the request object from the request method, and it can be called from any method the request method calls directly, but fails if it's in a setTimeout.

@@ -1,0 +1,1 @@
+Phoenixz: npm install "url to the tarball" should work, or you but the git url in your package.json

@@ -1,0 +1,1 @@
+but with extremely lower timings.. in wide used OSes, when You're doing getNanoTime() you're dealing with measurement error bigger than unia ;]

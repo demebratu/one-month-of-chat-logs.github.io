@@ -1,0 +1,1 @@
+DamnYankee np, these are good resources: http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/ and http://howtonode.org/object-graphs

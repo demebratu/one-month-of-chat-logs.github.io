@@ -1,0 +1,1 @@
+Hello. I'm trying to make my node.js bot. I'd like to add a feature but I don't really know how. I want the bot to execute the code the user enters. So I don't want him to be able to use require and I have to find a way to do it in a separate thread so that if there is an error, the bot won't crash

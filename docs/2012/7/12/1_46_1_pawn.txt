@@ -1,0 +1,1 @@
+I use the req.session.user.userId to identify a logged in user. If every page load I'm creating a socket connection, how do I know which of the users is creating this socket?

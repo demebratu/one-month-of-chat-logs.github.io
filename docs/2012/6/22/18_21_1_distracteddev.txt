@@ -1,0 +1,1 @@
+they use the term "Compute-Units" for that Reason. You never really have a "process" on Heroku it seems. Makes for an amazingly scalable architecure. I am able to serve 1k requests a second on 6 dynos

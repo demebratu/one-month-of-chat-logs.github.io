@@ -1,0 +1,1 @@
+jondot: is the feed utf-8? if not, there's your problem

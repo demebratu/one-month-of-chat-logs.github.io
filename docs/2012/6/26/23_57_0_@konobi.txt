@@ -1,0 +1,1 @@
+i just install into a ~/local directory and than have a symlink for ~/local/node/bin -> ~/local/node-0.6.12/bin

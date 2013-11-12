@@ -1,0 +1,1 @@
+with i2c you could even have it automagically detect which sensors 

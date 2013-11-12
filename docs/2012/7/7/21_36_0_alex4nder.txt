@@ -1,0 +1,1 @@
+IceD^: if you only need it every once in a while, just ask the shell to resolve that shit for you.

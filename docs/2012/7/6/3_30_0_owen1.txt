@@ -1,0 +1,1 @@
+tim_smart: so what about a db call? or http call? how is it possible to do it and not interfere with the main thread?

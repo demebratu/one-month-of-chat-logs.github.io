@@ -1,0 +1,1 @@
+and yeah, if you want to scale horizontally, you design your app to use Node's clusters and take advantage of process-based concurrency

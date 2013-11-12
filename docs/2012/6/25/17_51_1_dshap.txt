@@ -1,0 +1,1 @@
+does node provide a way of handling all uncaught exceptions?  basically a top-level catch?

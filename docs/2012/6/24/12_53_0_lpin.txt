@@ -1,0 +1,1 @@
+parse it, get the host and the pathname

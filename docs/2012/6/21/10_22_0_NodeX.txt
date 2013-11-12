@@ -1,0 +1,1 @@
+tonyk : what about hex/ascii codes - they're made of those chars ?

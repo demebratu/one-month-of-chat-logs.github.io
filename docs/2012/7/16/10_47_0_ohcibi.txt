@@ -1,0 +1,1 @@
+i tried to install libxmljs via npm yesterday but i get an error that it cant find node.h. i played a bit around with paths and stuff and also tried to build from source, i made it to recognize node.h but then again it fails to find header-files referenced in node.h is this a bug of npm/libxmljs or is it my system? i'm on gentoo node.h is in /usr/include/node/node.h

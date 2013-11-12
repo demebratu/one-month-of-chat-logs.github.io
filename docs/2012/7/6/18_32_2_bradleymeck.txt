@@ -1,0 +1,1 @@
+SubStack: any chance we could white list dirs to search in browser-launcher rather than it just searching default path?

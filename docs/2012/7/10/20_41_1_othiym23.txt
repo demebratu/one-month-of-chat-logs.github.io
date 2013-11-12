@@ -1,0 +1,1 @@
+TimothyFitz: if you write your atexit handler as a function that's passed a callback, you can do a SIGINT handler that does the atexit stuff and then the callback just calls process.exit()

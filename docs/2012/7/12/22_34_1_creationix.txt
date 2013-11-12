@@ -1,0 +1,1 @@
+fs.readFile(arg1, arg2, ...)(callback, errback)

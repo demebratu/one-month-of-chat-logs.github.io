@@ -1,0 +1,1 @@
+hmz, removing /usr/local/lib/node_modules/npm and re-installing helped.. idk why npm didn't removed it

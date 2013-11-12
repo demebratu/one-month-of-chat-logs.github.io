@@ -1,0 +1,1 @@
+Anyone else having trouble building Node 0.8 on RHEL 6?

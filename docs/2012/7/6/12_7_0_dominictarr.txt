@@ -1,0 +1,1 @@
+parseReviews is sync once you take out readFile

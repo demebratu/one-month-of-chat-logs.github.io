@@ -1,0 +1,1 @@
+TooTallNate: I mean, the effert *in my opinion* best spent would be to use node-core and make something stable ;) now you also get all the problems from node-core and if node-core gets fixes then you miss it ;)

@@ -1,0 +1,1 @@
+I found out about redis, some kind of key-value pair module that stores data in mem....I'm trying to use to track a list of active users, I'm mapping 'username' to 'status', bascially i'm using set

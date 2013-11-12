@@ -1,0 +1,1 @@
+TimeTurner: until client forcibly closes his connection. So as long as client is up

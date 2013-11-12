@@ -1,0 +1,1 @@
+bnoordhuis: are there hooks, or is there a general mechanism for inserting monitoring into the kernel?

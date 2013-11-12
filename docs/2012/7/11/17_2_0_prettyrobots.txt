@@ -1,0 +1,1 @@
+Anyone know of, working on, recommend a library that builds pipelines that is close to working with bash.

@@ -1,0 +1,1 @@
+anyway, you can remove /pantene by using substring

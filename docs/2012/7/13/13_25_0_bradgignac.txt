@@ -1,0 +1,1 @@
+chuwiey: not sure how much you'll find at socket.io in terms of architecture

@@ -1,0 +1,1 @@
+var js_code = "var generated_code_var = unescape(\"" + escape(some_string) + "\");";

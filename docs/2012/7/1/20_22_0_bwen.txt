@@ -1,0 +1,1 @@
+anyone familiar with the "Range" header and streaming files with nodejs? I seems to be working but i'm having a hard time getting the browser to put the "Range" header in its request... seems inconsistent... any ideas?

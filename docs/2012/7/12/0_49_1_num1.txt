@@ -1,0 +1,1 @@
+othiym23, that too. I also want to intercept some requests and substitute a local file for the response, some domains I want to blacklist and have the request return an error

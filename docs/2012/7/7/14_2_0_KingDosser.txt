@@ -1,0 +1,1 @@
+querystring is return an object like this: { 'to_notify[]': '1' } - how do I access the value?

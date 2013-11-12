@@ -1,0 +1,1 @@
+williamcotton: there's a npm wrapper to the native lib

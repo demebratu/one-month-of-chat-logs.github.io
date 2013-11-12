@@ -1,0 +1,1 @@
+owen1: You may actually be interested in looking the the source code for EventEmitter. That's basically how events work at that level as well, just without an explicit loop

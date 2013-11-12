@@ -1,0 +1,1 @@
+kenperkins: i'm approaching it from the other side. i've had to patch up too many hibernate (not nhibernate) apps to have any love left for ORMs

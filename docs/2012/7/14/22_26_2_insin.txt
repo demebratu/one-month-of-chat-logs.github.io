@@ -1,0 +1,1 @@
+Node's PATH change worked for me on W7, no idea what governs PATH changes taking effect

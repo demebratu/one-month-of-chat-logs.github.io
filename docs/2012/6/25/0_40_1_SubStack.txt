@@ -1,0 +1,1 @@
+also when I needed to switch up the signatures on any of the components I had to update a lot of code

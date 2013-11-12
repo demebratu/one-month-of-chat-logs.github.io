@@ -1,0 +1,1 @@
+"man select" will tell you how select works

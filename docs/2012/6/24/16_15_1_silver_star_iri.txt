@@ -1,0 +1,1 @@
+How I can handle half dead Socket.io conection ? I have exactly the same problem as him  https://github.com/LearnBoost/socket.io-client/issues/124

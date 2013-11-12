@@ -1,0 +1,1 @@
+which reminds me, has anyone built weak reference support for JS / Node they're happy with?

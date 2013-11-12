@@ -1,0 +1,1 @@
+are you communicating to a process that the function always runs in, or are the node processes each executing that function in their context

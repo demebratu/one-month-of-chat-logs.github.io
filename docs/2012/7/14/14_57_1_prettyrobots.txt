@@ -1,0 +1,1 @@
+You can write to `data.txt.tmp`. Unlink `data.txt`. Then move `data.txt` into place.

@@ -1,0 +1,1 @@
+dsirijus: You just have to put it in any directory that your user account has r/w permissions to

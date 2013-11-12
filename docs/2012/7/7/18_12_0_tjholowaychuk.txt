@@ -1,0 +1,1 @@
+chrisdickinson when you do custom async stuff like say mongoose doing User.find() etc do you have to do anything special?

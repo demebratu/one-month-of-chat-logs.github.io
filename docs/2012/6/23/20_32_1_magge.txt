@@ -1,0 +1,1 @@
+bnoordhuis: ok... but isnt the utf-8 string from readdir compatible with a later stat as they both live in the utf-8 world ?

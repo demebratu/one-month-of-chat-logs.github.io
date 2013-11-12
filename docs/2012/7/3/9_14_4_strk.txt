@@ -1,0 +1,1 @@
+[TypeError: Object function log(msg, pref, level, cb) {

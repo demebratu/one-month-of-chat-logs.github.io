@@ -1,0 +1,1 @@
+Does the console not echo the return value of the last statement

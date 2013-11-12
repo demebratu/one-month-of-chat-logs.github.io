@@ -1,0 +1,1 @@
+need a way to output all arguments of a given function

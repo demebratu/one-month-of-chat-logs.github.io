@@ -1,0 +1,1 @@
+install it in another directory and run usual tests to check it works

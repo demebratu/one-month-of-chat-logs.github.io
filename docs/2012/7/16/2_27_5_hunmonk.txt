@@ -1,0 +1,1 @@
+timoxley: i'm actually very surprised there's not a sync version of exec, a lot of the filesystem ops i see have a sync version

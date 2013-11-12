@@ -1,0 +1,1 @@
+is there a way to create a gz file without using fs.createReadStream ( ie create a gzip directly from string or buffer instead of a file)

@@ -1,0 +1,1 @@
+Daegalus, much appreciated - I am new to linux/mac from Windows though. Is your point that tools like APT/YUM/PACMAN do downloading of resources and compiling for you, or is there yet more that npm will do for me besides downloading resources and compiling where needed locally? This is probably all the npm website right? I could just read there

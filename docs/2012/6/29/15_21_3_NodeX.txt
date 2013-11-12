@@ -1,0 +1,1 @@
+sockets are considered faster because they dot have TCP overhead

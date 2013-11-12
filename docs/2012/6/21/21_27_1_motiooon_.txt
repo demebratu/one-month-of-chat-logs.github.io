@@ -1,0 +1,1 @@
+for the server to know when receives data and when the receive was complete 

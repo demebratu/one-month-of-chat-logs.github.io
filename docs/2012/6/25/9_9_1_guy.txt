@@ -1,0 +1,1 @@
+jesusabdullah: what I am saying, there is no data passed from twitter stream upon deleting a tweet.

@@ -1,0 +1,1 @@
+othiym23: thanks for clarifying it. so those four events where done async with no threads. and i should thank libuv for that.

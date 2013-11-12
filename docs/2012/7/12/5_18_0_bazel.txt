@@ -1,0 +1,1 @@
+Charles can't do it. charles will create a self signed cert of the fly, and the comm will still be encrypted.

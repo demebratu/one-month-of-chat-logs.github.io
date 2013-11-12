@@ -1,0 +1,1 @@
+qbit_: you could probably do something fancy like keep a list of package names, and update it via npm ls -pl and some awk trickery

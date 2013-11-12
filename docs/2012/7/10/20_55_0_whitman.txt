@@ -1,0 +1,1 @@
+kylefarris, according to the docs it should work and as long as it returns the same results as running the same query from the command line then it's all good.

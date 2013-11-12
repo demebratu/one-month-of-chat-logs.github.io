@@ -1,0 +1,1 @@
+so, are any sort of iterators working in v8/node.js?

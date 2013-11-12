@@ -1,0 +1,1 @@
+but i really do not want to implement basic features everytime. i have better things to do. and 3rd party libs can be problematic, too. like outdated, no longer maintained or too much focus on browser support

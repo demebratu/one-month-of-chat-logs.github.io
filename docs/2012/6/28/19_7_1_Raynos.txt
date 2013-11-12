@@ -1,0 +1,1 @@
+node lives in /usr/local/bin/node

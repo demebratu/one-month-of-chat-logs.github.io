@@ -1,0 +1,1 @@
+when you run npm install and one of the lines shows up yellow, what does that mean?  is there a log file i should be looking at for more info?

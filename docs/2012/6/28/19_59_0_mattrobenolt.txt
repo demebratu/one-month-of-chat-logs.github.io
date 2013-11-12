@@ -1,0 +1,1 @@
+Think it'd be easier to to use the normal grep, then literally invert the selected set of tests later? Or fuck around with the RegExp initially?

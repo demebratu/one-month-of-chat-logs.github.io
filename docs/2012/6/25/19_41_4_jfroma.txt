@@ -1,0 +1,1 @@
+I just made a plugin for sublime text to make easy to add "requires" : http://screencast.com/t/tvdh8sIMhB ..it calculate the rel path to the current file

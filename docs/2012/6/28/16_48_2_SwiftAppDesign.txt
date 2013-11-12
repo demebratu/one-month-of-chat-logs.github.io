@@ -1,0 +1,1 @@
+i mean i want to send a request when a javascript function is called in a separate program

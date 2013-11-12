@@ -1,0 +1,1 @@
+if you install something with npm install -g, it goes to /usr/local/lib/node_modules

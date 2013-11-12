@@ -1,0 +1,1 @@
+anyone see a better way to write the following one liner: [].concat.apply([], [[1,2,3],[4,5,6]])

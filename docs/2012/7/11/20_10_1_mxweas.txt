@@ -1,0 +1,1 @@
+num1: 'Since the web has some absolutely horrible javascript on it, as of jsdom 0.2.0 jsdom.env will not process external resources (scripts, images, etc).'

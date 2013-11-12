@@ -1,0 +1,1 @@
+or you could just say console._log = console.log; console.log = function() { if (log) console._log.apply(console, arguments) }

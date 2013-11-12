@@ -1,0 +1,1 @@
+probably not quite so great for arbitrary DOM traversal, but seems no worse than jQuery from messing around with it

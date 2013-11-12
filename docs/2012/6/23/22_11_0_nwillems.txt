@@ -1,0 +1,1 @@
+maxogden: So I should use an event emitter - that emits FAIL when the key is taken, and when it finally succeeds emits end or some other appropriate value?

@@ -1,0 +1,1 @@
+@isaacs Off to change all my examples to pure JavaScript. (Because the library is now pure JavaScript.)

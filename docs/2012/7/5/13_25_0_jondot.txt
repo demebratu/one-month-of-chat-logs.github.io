@@ -1,0 +1,1 @@
+hi all. i'm having some problems with encodings for Hebrew RSS feeds. looks like in Ruby it 'just works'. in node, i'm getting gibberish

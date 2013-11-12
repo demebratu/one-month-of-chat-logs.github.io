@@ -1,0 +1,1 @@
+jsepia: var self = this; as the first line within MyServer.prototype.start function

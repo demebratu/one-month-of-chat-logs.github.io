@@ -1,0 +1,1 @@
+So whats wrong with using something like metaprogramming, where you create a function from another fucntion. We do that all the time, why not just create your route functions by calling another function that inserts the boilerplate for you? Or is this just not reasonable in practcie?

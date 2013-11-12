@@ -1,0 +1,1 @@
+you can't have one part of your node program running 0.6 and another part running 0.8

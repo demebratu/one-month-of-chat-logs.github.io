@@ -1,0 +1,1 @@
+axisys: cd node_modules/snmpjs ; rm -r node_modules/dtrace-provider ; sudo npm install dtrace-provider@0.0.8 ?

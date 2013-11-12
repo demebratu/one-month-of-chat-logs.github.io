@@ -1,0 +1,1 @@
+i thought i would be able to change the parent module's global variable directly but that didn't work either

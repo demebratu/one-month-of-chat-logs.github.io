@@ -1,0 +1,1 @@
+Can someone else confirm that --shared-v8 fails for them?

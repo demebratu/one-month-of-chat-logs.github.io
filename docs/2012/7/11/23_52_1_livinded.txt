@@ -1,0 +1,1 @@
+EhevuTov_: ya, once defcon is over I need to dive into libuv. I'm working on building proper sandboxing support into node and need to get into the binding layer to add some features

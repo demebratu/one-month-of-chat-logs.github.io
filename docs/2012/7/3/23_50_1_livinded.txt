@@ -1,0 +1,1 @@
+it's a great idea until you want to do something that's a lot harder with a statically linked binary than a dynamically linked binary

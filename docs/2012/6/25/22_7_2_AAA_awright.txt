@@ -1,0 +1,1 @@
+If it really needs to be easy to install it should be a package in an operating system distribution

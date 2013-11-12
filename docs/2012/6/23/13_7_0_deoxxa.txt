@@ -1,0 +1,1 @@
+i have a heap of these 3G router things sitting around at work - they have 256MB ram and a CF card for storage - i should set up a bunch of them with arduinos, wheels and webcams

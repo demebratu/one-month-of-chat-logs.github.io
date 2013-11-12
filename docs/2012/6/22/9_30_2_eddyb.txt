@@ -1,0 +1,1 @@
+jetienne: I am not the only one abusing && and || :D

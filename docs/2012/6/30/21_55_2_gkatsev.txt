@@ -1,0 +1,1 @@
+probably because curl doesn't care as much about the response header

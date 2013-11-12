@@ -1,0 +1,1 @@
+Zarel: use core if you're having problems with request performance

@@ -1,0 +1,1 @@
+circlicious: EPIPE happens when you try to write to a stream that has been closed

@@ -1,0 +1,1 @@
+anybody tried to build node 0.8.2 on bsd?

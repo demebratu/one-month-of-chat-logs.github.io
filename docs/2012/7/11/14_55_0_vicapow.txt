@@ -1,0 +1,1 @@
+memwatch says I'm only using 2.18mb of memory but if I look at the process in activity monitor it says my node process is using up 728mb

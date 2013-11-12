@@ -1,0 +1,1 @@
+livinded ... I think you're picking nits. The point that I was making is: write some C, make bytecode, use emscripten to compile to js

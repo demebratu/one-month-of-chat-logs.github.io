@@ -1,0 +1,1 @@
+https://github.com/bigeasy/stencil/blob/master/t/template/each.t

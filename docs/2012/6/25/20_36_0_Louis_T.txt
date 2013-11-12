@@ -1,0 +1,1 @@
+Franz__: are you creating the canvas element server or client side?

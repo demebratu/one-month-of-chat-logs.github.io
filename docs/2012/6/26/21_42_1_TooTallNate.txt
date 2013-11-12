@@ -1,0 +1,1 @@
+Mantic: in your case it looks like just make sure that /usr/local/bin is *before* /usr/bin i'm guessing

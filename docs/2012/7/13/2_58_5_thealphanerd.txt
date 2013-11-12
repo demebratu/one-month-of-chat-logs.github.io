@@ -1,0 +1,1 @@
+and a parent function that can poll the models all at once (based on a time stamp) and push the data into json files

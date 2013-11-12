@@ -1,0 +1,1 @@
+anyone know how i can get node to run on my retina display?

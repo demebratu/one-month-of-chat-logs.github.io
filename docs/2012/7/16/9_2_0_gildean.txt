@@ -1,0 +1,1 @@
+Karmaon: how is the error handled? is the project open source so we could look at the code?

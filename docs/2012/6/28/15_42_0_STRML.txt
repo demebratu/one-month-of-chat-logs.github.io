@@ -1,0 +1,1 @@
+:) And that's why I'm looking for a way around it. Considering the tutorial I linked to earlier it seems that google encourages taking HTML snapshots with something like crawljax and delivering those instead from the server. But since I don't use #! I would have to be sniffing user-agent.

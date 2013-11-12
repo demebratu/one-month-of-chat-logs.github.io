@@ -1,0 +1,1 @@
+sabermonk: in your program, check if stream.write(buf) === false

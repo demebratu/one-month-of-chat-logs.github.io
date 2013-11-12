@@ -1,0 +1,1 @@
+but generally speaking most people allocate at least one machine to the main http server plus a socket.io server if needed

@@ -1,0 +1,1 @@
+gyp ERR! rebuild error Error: Python executable "/opt/python2.7/bin/python2.7" is Python 3, which is not supported.

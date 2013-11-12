@@ -1,0 +1,1 @@
+what extension do people use for handlebars files?

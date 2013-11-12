@@ -1,0 +1,1 @@
+So, calling `process.exit` is generally a bad thing I take it.

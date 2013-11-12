@@ -1,0 +1,1 @@
+So maybe a dumb question, but why wouldn't node just automatically add itself to the PATH? Any reason?

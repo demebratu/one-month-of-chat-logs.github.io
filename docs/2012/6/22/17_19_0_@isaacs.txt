@@ -1,0 +1,1 @@
+jcoglan: what npm version did you publish with initially?

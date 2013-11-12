@@ -1,0 +1,1 @@
+I followed up with a comment https://github.com/sgentle/phantomjs-node/issues/24 but besides that I haven't found anywhere else online that would be experiencing a similar issue

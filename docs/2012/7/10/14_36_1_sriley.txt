@@ -1,0 +1,1 @@
+vicapow: nope, node-inspector is working here though i have to start it using node --debug-brk app.js instead of node debug app.js

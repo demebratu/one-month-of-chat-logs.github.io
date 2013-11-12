@@ -1,0 +1,1 @@
+milani: reason I am asking was because I am currently planning to work on the TideSDK-Node package once we get development started, and want to make an enclosed Node run Tide.

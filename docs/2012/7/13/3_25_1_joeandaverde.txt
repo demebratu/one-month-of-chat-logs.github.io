@@ -1,0 +1,1 @@
+here's what i've done: https://github.com/joeandaverde/joed/blob/master/joed.cpp

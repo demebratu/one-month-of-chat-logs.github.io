@@ -1,0 +1,1 @@
+but in short, yes, although there are a bunch of different ways to do it, and I'm not sure what the recommended convention is for module initializers

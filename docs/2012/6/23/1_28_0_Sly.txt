@@ -1,0 +1,1 @@
+other_guy, there are a few curl modules in NPM if I'm not mistaken.

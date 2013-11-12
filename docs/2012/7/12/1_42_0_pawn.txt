@@ -1,0 +1,1 @@
+Do I have to recreate the session data for the socket connection, or is there an built in way to do this if I'm using socketio.listen(expressApp)?

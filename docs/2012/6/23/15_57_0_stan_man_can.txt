@@ -1,0 +1,1 @@
+I've been trying to figure out node.js and just realized something, if the rest of my app is served by PHP, and I have one page that I need to allow the server to push to the browser, does that one PAGE need to be fully handled by node?

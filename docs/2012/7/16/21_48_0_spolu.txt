@@ -1,0 +1,1 @@
+pawn: yep memcache should be fine as well. Anything working in memory and accessible through network (so that it can scale beyond 1 instance) should be fine

@@ -1,0 +1,1 @@
+if you know of a proxy that can do it - tell me. proxy can act as MITM, but the communication between the client and the proxy will still be encrypted, only using a different certificate

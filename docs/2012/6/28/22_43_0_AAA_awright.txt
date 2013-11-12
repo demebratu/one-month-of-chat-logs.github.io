@@ -1,0 +1,1 @@
+ljharb: Character encoding isn't a problem, you can specify any encoding you want, including UTF-8 which is the *only* choice you get with Javascript. Because of UTF-8, you can't embed binary data in JSON either.

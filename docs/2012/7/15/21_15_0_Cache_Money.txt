@@ -1,0 +1,1 @@
+Aria:  I don't remember how I installed it, it was about 4-5 months ago.  I tried "$ npm install n" but came back with "npm WARN bins installing to /home/mas/bin, outside PATH"

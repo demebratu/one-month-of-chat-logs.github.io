@@ -1,0 +1,1 @@
+mmalecki: if give checked out, then did a `make node-v....tar.gz` and then unpacked that tarball, and then built it, it'd be better.

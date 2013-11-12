@@ -1,0 +1,1 @@
+vandenoever: a string in js is characters. but isn't everyting underneath is bits?

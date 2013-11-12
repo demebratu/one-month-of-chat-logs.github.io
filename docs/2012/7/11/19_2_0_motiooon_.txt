@@ -1,0 +1,1 @@
+isn't a buffer/ stream by default when reading a file ?

@@ -1,0 +1,1 @@
+so you just want to write tee in node?

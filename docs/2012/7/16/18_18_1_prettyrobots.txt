@@ -1,0 +1,1 @@
+cce: Beyond the language, I'd look at how to implement rest of thang in a JavaScript way.

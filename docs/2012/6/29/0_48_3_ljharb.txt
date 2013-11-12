@@ -1,0 +1,1 @@
+i'll agree you can write a whole shit ton of stuff that lets you treat your document as data. but that's all unnecessary if you just use a data serialization format like json or something in the first place

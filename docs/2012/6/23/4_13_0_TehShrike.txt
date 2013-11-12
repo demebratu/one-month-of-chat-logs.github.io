@@ -1,0 +1,1 @@
+We'll roll it out to customers on their own servers, for the most part, but we will probably also compile it as a PhoneGap app at some point (yay camera integration)

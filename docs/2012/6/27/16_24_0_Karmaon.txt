@@ -1,0 +1,1 @@
+vrlogrs: nohup logs by defalt to nohup.ou

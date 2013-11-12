@@ -1,0 +1,1 @@
+I want to just delete the node dir

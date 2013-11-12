@@ -1,0 +1,1 @@
+suggs: install from source, make sure you have a new enough python2 and stuff

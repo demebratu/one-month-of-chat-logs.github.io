@@ -1,0 +1,1 @@
+Jakey: Things like explode(delimiter, string), I was expecting it to be explode(string, delimiter)

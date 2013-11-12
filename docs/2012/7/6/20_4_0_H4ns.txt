@@ -1,0 +1,1 @@
+EhevuTov: thanks - i'll study node-dirty and if the code does not convince me, i'll look at leveldb.  i take it that there are node bindings for leveldb?

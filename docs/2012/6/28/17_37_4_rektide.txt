@@ -1,0 +1,1 @@
+and executes a block of code only if it's that file being executed directly by node

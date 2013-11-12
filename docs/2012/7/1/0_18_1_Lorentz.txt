@@ -1,0 +1,1 @@
+if sydney, there's sydjs where people there work with js, and some do node

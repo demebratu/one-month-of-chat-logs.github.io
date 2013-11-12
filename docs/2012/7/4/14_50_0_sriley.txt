@@ -1,0 +1,1 @@
+so for a multi core processor you probably want to be running the cluster module or multiple instances of node

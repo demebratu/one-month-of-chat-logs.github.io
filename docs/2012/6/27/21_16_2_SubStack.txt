@@ -1,0 +1,1 @@
+dherman: and unintendedly I think, `module.exports = ...` worked and so people started using that to expose functionality

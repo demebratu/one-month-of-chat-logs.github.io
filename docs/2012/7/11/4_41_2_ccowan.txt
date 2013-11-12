@@ -1,0 +1,1 @@
+seans887: search all your source for the aquire and release… in my code it's utils.pool.mysql.acquire and utils.pool.mysql.release

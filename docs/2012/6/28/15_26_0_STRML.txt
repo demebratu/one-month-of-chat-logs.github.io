@@ -1,0 +1,1 @@
+Well, I guess the difference is that you're creating static HTML pages that you can reach via _escaped_fragment-style URLs

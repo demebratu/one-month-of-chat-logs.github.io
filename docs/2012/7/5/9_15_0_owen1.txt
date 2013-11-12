@@ -1,0 +1,1 @@
+othiym23: right. i want give a node.js talk so i try to understand a bit under the covers

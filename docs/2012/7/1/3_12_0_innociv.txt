@@ -1,0 +1,1 @@
+Is that log because debugging isn't enabled on the script?

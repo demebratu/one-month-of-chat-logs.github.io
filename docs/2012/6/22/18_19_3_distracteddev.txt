@@ -1,0 +1,1 @@
+No, Process's go up and down all the time in Heroku

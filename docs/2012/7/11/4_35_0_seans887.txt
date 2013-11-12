@@ -1,0 +1,1 @@
+hey i have a general node server question: what are the common causes of a node server hanging (not shutting down, just not responding) and what can i do to debug it?

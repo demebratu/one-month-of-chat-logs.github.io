@@ -1,0 +1,1 @@
+phones and tablets are a lot slower than desktops.  I got around 20x slower for node http servers vs my laptop

@@ -1,0 +1,1 @@
+TehShrike: the thought of writing/maintaining documentation and tests for a 10,000 line piece of code is rather daunting.

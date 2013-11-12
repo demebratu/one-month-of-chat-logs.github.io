@@ -1,0 +1,1 @@
+Trindaz: you pull down the data and try it with gunzip/look at it in a hex editor?

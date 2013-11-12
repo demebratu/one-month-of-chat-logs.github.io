@@ -1,0 +1,1 @@
+so there is a loop that's periodically scanning all the available file descriptors open in the process and seeing if there's anything to be done with the data it has available

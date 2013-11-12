@@ -1,0 +1,1 @@
+Creating a pastebin site could be a good hello world app I guess.

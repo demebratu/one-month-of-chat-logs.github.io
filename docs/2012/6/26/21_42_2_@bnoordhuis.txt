@@ -1,0 +1,1 @@
+Mantic: well... a simple solution is to run `perl -i -pe 's|#!/usr/bin/env python|#!/usr/local/bin/python2.7|g' $(find -name \*.py)`

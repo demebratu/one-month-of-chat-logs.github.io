@@ -1,0 +1,1 @@
+actually i really like that - [].some and return true to break

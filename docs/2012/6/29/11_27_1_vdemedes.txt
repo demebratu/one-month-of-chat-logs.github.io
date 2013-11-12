@@ -1,0 +1,1 @@
+But when I put my credentials in the sample script here -> http://docs.sendgrid.com/documentation/get-started/integrate/examples/nodejs-example-using-smtp/

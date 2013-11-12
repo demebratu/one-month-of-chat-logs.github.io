@@ -1,0 +1,1 @@
+libuv: Ben Noordhuis master * r0fde108 / src/unix/core.c : linux: set close-on-exec flag with ioctl(FIOCLEX) - http://git.io/GbDRgA

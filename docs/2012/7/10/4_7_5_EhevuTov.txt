@@ -1,0 +1,1 @@
+prettyrobots, does it have to be streaming? Can you use a message queue library? I use zmq for some networking patterns

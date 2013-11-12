@@ -1,0 +1,1 @@
+and i might talk about libuv, event loop and epoll. depends on time.

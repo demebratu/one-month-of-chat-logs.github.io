@@ -1,0 +1,1 @@
+(0.6) i'm providing a createConnection function to http.request, it is being called, but sometimes the app just hangs and never returns; packet sniffing shows no request has been sent

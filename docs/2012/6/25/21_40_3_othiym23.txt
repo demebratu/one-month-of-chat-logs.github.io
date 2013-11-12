@@ -1,0 +1,1 @@
+arcanis: it sounds like you're reading a collection through the API and trying to represent it as a single object

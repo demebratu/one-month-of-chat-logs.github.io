@@ -1,0 +1,1 @@
+nickhs: do not try to extend any builtin except Object, bad things happen

@@ -1,0 +1,1 @@
+the baggage isn't anything as superficial as Math.whatever, what I'm talking about is insisting on baroque "Factories" and other incredibly overweight, unweildy abstractions, that are only really necessary in a language like java

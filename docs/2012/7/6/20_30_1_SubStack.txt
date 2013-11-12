@@ -1,0 +1,1 @@
+because when people have static types they invariably write really restrictive poorly documented interfaces that have type constraints that are so fucking particular

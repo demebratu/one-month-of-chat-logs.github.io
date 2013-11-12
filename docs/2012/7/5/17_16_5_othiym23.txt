@@ -1,0 +1,1 @@
+owen1: as for your explanation of working with streams, it's mostly correct. fs itself is just a module, not an EventEmitter on its own, but the ReadStream returned by fs.createReadStream *is* an EventEmitter; there were indeed 4 events, and they were all handled on a single thread

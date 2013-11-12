@@ -1,0 +1,1 @@
+bnoordhuis: ah cool, but your righth in order to make some clear example I should try benchmarking against same app on ruby and node.js  Thing is I wanted to run on a cheap instance, and try to write the code such a way that even with such limited resources, id still have some performance

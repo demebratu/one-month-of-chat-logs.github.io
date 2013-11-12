@@ -1,0 +1,1 @@
+having 2 names is not necessary when your function returns a single function

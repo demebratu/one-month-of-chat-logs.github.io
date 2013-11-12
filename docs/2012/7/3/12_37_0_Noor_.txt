@@ -1,0 +1,1 @@
+can I maintain an auth session cookie over all https.requests?

@@ -1,0 +1,1 @@
+williamcotton: you can try just going around redis and using it directly

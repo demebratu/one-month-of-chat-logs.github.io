@@ -1,0 +1,1 @@
+I don't understand the meaning of line 333 at https://github.com/andris9/fetch/blob/master/lib/fetch.js

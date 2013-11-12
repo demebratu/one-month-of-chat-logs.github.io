@@ -1,0 +1,1 @@
+arinel: two places: in your package.json and on new.npmjs.org in your profile. if those dont change it then its probably a caching thing

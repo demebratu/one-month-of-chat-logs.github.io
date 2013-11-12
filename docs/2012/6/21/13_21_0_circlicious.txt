@@ -1,0 +1,1 @@
+AAA_awright: what i am confused about is, when i use spawn to open new process directly, then does the arguments that i pass, say a string, does that get quoted/escaped ?

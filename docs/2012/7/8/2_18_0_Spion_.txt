@@ -1,0 +1,1 @@
+yeah and you can also write really clear code using goto.

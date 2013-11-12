@@ -1,0 +1,1 @@
+so I can't edit /lib/child_process.js to add console.logs ?

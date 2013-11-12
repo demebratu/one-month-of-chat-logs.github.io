@@ -1,0 +1,1 @@
+because that won't help in anything other than pure computational power. no increase in reqs/s or bandwidth or I/O speeds

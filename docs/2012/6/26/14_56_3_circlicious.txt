@@ -1,0 +1,1 @@
+i want to maintain each app separately in git repos and what i said above :) not sure ow to do it :S

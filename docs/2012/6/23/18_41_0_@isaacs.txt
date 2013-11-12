@@ -1,0 +1,1 @@
+TehShrike: the thing is, it's not just the ratio.  the absolute amount of functionality and code in any one place is *also* hazardous.

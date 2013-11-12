@@ -1,0 +1,1 @@
+Cheers. I have root = /home/me/.local/lib/node_modules in my ~/.npmrc, but npm still seems to want root, and still seems to be trying to install into /usr/lib. Anything I could have missed? Paste incoming of npm output if necessary.

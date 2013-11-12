@@ -1,0 +1,1 @@
+And in fact it can hurt average response times because the OS will context-switch between the two, dragging out the run time

@@ -1,0 +1,1 @@
+I have a symptom in which my node server after running for a couple of days will begin to duplicate console.log messages 6 in a row right now. I think its related to an eventemitter used for tcp server i'm opening and closing. Thought I would ask if was something obvious before posting code. If I restart the server it goes away.

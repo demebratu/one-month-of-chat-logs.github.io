@@ -1,0 +1,1 @@
+gblock: another interesting thing is that the file sizes match up between going in and going out, just the encodings are all whack

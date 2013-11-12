@@ -1,0 +1,1 @@
+Are you saying that the return of the final callback is the return of asinc.series()?

@@ -1,0 +1,1 @@
+"The ArrayBuffer is a data type that is used to represent a generic, fixed-length binary data buffer" - what does binary data buffer means?

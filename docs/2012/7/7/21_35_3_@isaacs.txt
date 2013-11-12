@@ -1,0 +1,1 @@
+IceD^: these functions can incur some nontrivial network IO, and often hit the disk, so they need to be async

@@ -1,0 +1,1 @@
+guys, sorry to bug into your discussion with silly question, but - is it possible to package a phyton script as an installable dependency for node module?

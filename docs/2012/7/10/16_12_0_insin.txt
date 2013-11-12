@@ -1,0 +1,1 @@
+anyone ever had to bundle punycode with browserify? It works in the browser as-is from its own git repo, so I list it as a depdency, but browserify says 'No wrapper for core module: "punycode"'

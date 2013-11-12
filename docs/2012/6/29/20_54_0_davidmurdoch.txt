@@ -1,0 +1,1 @@
+Anyone have better documentation on crypto.PBKDF2? http://nodejs.org/docs/v0.8.1/api/crypto.html#crypto_crypto_pbkdf2_password_salt_iterations_keylen_callback is a little lacking

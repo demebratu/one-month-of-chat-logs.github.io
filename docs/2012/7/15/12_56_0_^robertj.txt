@@ -1,0 +1,1 @@
+stupid question, what's the best way to call a series of functions each with the return value of the previous as the input value of the next?

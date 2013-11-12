@@ -1,0 +1,1 @@
+bmatusiak: Why not just do a async check + lock?

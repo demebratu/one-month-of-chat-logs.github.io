@@ -1,0 +1,1 @@
+I wouldn't do that again today, largely because the tools for doing everything in JS + CSS are so much better, but I didn't find it to be that big a pain at the time

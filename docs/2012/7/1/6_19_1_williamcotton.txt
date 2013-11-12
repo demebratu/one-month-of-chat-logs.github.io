@@ -1,0 +1,1 @@
+how would I go about flushing said buffer?

@@ -1,0 +1,1 @@
+I'd rather white-list some routes, in case I forget adding authentication middlewares to specific routes

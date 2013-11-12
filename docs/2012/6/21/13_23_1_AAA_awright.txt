@@ -1,0 +1,1 @@
+circlicious: When you start a new program on a shell it has to parse the line of text into an executable to open and a vector (Array) of arguments to open it with

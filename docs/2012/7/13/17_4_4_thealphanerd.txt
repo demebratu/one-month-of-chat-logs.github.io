@@ -1,0 +1,1 @@
+necros: http://www.jslint.com/lint.html

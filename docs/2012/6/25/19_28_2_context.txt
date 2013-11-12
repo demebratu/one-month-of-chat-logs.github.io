@@ -1,0 +1,1 @@
+emilsedgh_: whats wrong with letting nginx cache what it needs to ?

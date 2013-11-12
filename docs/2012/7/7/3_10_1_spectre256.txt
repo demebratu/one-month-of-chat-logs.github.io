@@ -1,0 +1,1 @@
+i haven't used the node debugger much but i did try that. the problem is because the function where the exception is thrown is a C function, i can't set a breakpoint

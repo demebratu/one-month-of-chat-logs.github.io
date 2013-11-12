@@ -1,0 +1,1 @@
+the whole null/undefined/unset thing really is not very well done in JS, imo

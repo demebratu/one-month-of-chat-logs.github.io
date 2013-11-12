@@ -1,0 +1,1 @@
+TimeTurner: this is fine when your ctors are no-ops, but EventEmitter is not any more, with the advent of domains

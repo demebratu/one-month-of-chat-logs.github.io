@@ -1,0 +1,1 @@
+because request is supposed to return a readable stream

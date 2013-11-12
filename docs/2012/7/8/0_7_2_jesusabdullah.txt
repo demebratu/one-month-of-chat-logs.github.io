@@ -1,0 +1,1 @@
+cause you can do var str = buffer.toString('utf-8') or whatever and then just work with a string

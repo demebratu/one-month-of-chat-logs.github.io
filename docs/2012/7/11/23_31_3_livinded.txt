@@ -1,0 +1,1 @@
+jarr0dsz: no, but it's bad idea to use web sockets on a non-single page app

@@ -1,0 +1,1 @@
+maxogden: actually, know if there's a way of specifying the npm cache folder on the command line?

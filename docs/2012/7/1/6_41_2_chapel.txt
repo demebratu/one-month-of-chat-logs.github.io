@@ -1,0 +1,1 @@
+is this what you are comparing? console.log(counter + s.length);

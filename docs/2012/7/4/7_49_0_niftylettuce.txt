@@ -1,0 +1,1 @@
+wltsmrz: so in examples u can simply do require('../')

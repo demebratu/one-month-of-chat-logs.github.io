@@ -1,0 +1,1 @@
+It works if I pipe outside the mkdir callback.

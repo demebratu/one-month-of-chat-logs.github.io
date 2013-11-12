@@ -1,0 +1,1 @@
+I think socket.io has much better docs now

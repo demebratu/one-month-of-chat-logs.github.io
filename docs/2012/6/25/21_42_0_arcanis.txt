@@ -1,0 +1,1 @@
+actually it's an ETL : I've got a Transformer which Extract the data from the api, and the result is forwarded to the Loader which store it in a sql database

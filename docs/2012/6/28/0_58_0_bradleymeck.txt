@@ -1,0 +1,1 @@
+its rude to change terminal background, but possible if you want to go into raw mode and just repaint it entirely

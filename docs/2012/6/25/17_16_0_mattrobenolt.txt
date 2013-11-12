@@ -1,0 +1,1 @@
+Yeah, I feel either way the SET call is going to cause problems. I don't know anyone who has used that outside of raw SQL.

@@ -1,0 +1,1 @@
+There are also a few "warts" in the gammar, they are the result of design compromises.  We've field tested it quite a bit over the years, you could normalize the grammar a bit more, but you'd lose some of the parsimony.

@@ -1,0 +1,1 @@
+isaacs: is it possible that iriscouch changed their defaults resulting in this new behavior?

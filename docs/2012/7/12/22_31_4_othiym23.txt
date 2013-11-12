@@ -1,0 +1,1 @@
+tjholowaychuk: my job pretty much requires me to confront Node's weaknesses on a daily basis, but some of them just seem unavoidable consequences of the design

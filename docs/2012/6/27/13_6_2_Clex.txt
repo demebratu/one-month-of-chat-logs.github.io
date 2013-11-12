@@ -1,0 +1,1 @@
+I can get /js/socket.io.js of course, but I can't actually use socket.io

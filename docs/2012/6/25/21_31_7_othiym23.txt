@@ -1,0 +1,1 @@
+just memoize by fragments rather than building one big representation that you serialize all at once

@@ -1,0 +1,1 @@
+chapel you can use simple shell scripts to launch them off https://github.com/jgallen23/mongroup

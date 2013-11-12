@@ -1,0 +1,1 @@
+i'm using new Class() in a function, but when i call that function on two separate instance objects (instance1 !== instance2), the instances of the class are the same

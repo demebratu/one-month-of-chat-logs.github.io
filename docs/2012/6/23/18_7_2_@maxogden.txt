@@ -1,0 +1,1 @@
+SubStack: is hella slow though, figuring out how to make the video streaming part faster

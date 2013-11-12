@@ -1,0 +1,1 @@
+covi: if you want it installed globally, add -g

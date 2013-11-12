@@ -1,0 +1,1 @@
+prettyrobots: If you want auto refactoring, don't choose JS

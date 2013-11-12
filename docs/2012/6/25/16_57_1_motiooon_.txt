@@ -1,0 +1,1 @@
+bnoordhuis: what does node 0.8 do that I don't have to use uncaughtExceptions anymore ?

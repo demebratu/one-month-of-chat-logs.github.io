@@ -1,0 +1,1 @@
+FWIW, the socket.io connections would probably use the same node throughout their lifetime so the limitation isn't as terrible as it sounds. In fact, having the connections shared across all nodes would probably result in the same event being handled multiple times, no?

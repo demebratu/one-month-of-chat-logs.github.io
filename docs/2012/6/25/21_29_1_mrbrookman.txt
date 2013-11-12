@@ -1,0 +1,1 @@
+Some days ago installing of 0.6.19 worked without problems.

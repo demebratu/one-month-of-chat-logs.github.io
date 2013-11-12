@@ -1,0 +1,1 @@
+Buffer associates document with their views and other information.

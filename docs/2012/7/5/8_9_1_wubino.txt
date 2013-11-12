@@ -1,0 +1,1 @@
+can I implement oauth for a json client?

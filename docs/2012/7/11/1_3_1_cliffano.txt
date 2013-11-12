@@ -1,0 +1,1 @@
+does registry.npmjs.org has a mirror ?

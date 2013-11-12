@@ -1,0 +1,1 @@
+Mantic: what's your python binary called? just python or python27 or ?

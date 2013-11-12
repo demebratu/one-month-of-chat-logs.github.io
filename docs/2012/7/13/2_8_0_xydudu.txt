@@ -1,0 +1,1 @@
+I rebuild nginx with tcp_proxy modle..but websocket connection still 502

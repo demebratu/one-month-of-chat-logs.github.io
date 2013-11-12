@@ -1,0 +1,1 @@
+so the whole app needs to be a single package

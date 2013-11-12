@@ -1,0 +1,1 @@
+or git clone and checkout at tags

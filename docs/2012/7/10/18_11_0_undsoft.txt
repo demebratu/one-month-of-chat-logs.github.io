@@ -1,0 +1,1 @@
+I'm using socket.io and express.js. Are variables defined in main scope of app (outside of any function) persistent among requests?

@@ -1,0 +1,1 @@
+I think that, like object inheritance and encapsulation, everybody comes up with their own pet flow control tools in javascript

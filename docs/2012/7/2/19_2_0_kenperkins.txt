@@ -1,0 +1,1 @@
+bradleymeck: Ditto, except that I write the logic as a module so I can integrate it into my admin UI as well

@@ -1,0 +1,1 @@
+strk: and it'll show you all instances of packages named zlib, and the path to them

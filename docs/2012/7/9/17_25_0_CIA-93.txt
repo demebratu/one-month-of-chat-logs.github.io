@@ -1,0 +1,1 @@
+node: isaacs v0.8 * rc4e9226 / test/simple/test-require-json.js : Fix test-require-json on Windows - http://git.io/So16yQ

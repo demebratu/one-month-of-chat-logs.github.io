@@ -1,0 +1,1 @@
+Object #<Worker> has no method 'suicide'

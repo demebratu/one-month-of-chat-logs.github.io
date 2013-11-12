@@ -1,0 +1,1 @@
+don't see what benefit that has over just making your own event emitter

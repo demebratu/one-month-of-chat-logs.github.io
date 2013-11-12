@@ -1,0 +1,1 @@
+and my applikation take 40 seconfs for an 200 mb csv file

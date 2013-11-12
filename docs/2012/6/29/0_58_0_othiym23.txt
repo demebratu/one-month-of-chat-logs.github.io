@@ -1,0 +1,1 @@
+seriously, the first four or five single-page browser apps I wrote used XML / XHTML as the message format between the back end and the app, and it was really not that painful to deal with

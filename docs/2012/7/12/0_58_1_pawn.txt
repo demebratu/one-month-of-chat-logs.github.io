@@ -1,0 +1,1 @@
+When I include the /socket.io/socket.io.js script in the browser, do I need to store this js file in my public directory?

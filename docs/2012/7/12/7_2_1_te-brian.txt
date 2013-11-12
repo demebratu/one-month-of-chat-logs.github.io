@@ -1,0 +1,1 @@
+lohkey: was running into race conditions where I couldn't catch the connect event in time

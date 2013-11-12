@@ -1,0 +1,1 @@
+nwillems: try: ln -s $(which python2) ~/bin/python

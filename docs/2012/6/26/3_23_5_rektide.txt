@@ -1,0 +1,1 @@
+Rather, libuv exposes some tweaking options iirc, does Node make them accessible anywhere? Can I control the number of threads in the thread pool, or other tewaks?

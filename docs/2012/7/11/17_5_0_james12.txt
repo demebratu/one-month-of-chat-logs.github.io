@@ -1,0 +1,1 @@
+ npm ERR! System Linux 2.6.16-xenU npm ERR! command "nodejs" "/usr/bin/npm" "install" "mysql@2.0.0-alpha3" npm ERR! cwd /var/www/html/....... npm ERR! node -v v0.6.18 npm ERR! npm -v 1.1.19 npm ERR! syscall connect npm ERR! code ETIMEDOUT npm ERR! message connect ETIMEDOUT npm ERR! errno {} 

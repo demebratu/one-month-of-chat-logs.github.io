@@ -1,0 +1,1 @@
+as console.log() outputs it right

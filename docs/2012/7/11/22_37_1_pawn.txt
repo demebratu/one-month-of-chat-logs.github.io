@@ -1,0 +1,1 @@
+jesusabdullah: Ah, I see. I didn't know that nowjs was USING socket.io.

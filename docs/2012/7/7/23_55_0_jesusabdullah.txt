@@ -1,0 +1,1 @@
+Hotroot: 8 bits is a byte. In ASCII each character is represented by a byte. In utf-8 encodings are chunked into bytes but any given character may take multiple bytes to encode.

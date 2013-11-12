@@ -1,0 +1,1 @@
+radiodario fair enough. just interested in what happened to it, as there isn't any mention of node_modules/.bin that I have seen anywhere, and npm bin still exists and works

@@ -1,0 +1,1 @@
+H4ns, assuming you want nosql, maybe is mongo atomicity enough: http://www.mongodb.org/display/DOCS/Atomic+Operations

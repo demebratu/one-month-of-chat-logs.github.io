@@ -1,0 +1,1 @@
+and mongo connection is a callback for restler().on('complete')

@@ -1,0 +1,1 @@
+cluster API doc uses cluster.autoFork() in the examples, yet this method doesn't exist according to the doc

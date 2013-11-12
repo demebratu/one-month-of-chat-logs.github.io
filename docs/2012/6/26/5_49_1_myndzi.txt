@@ -1,0 +1,1 @@
+hm nope, it's not global scope

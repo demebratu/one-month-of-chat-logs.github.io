@@ -1,0 +1,1 @@
+tbranyen: keep this in mind: If you're not sending a COM_CHANGE_USER after releasing a connection back into the pool, you're running big risks, as mysql connections are stateful

@@ -1,0 +1,1 @@
+set a variable in that object.

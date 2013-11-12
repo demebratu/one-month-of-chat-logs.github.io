@@ -1,0 +1,1 @@
+in the same vein, the client is a browser. the server is node. they're very different.

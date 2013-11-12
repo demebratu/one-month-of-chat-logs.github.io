@@ -1,0 +1,1 @@
+jesusabdullah: It's juggling buffers and using functions I've never seen before, like writeUInt32BE

@@ -1,0 +1,1 @@
+but haskell is pretty great for 3d graphics, the hopengl lib is really nice

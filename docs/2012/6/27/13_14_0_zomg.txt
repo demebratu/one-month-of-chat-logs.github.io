@@ -1,0 +1,1 @@
+And if that does nothing, try commenting out app.use(app.router)... I have no idea what app.router is, and at least in my express app I don't have that

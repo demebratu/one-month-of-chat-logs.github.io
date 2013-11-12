@@ -1,0 +1,1 @@
+can anyone help me with an assertion error writing to a socket?

@@ -1,0 +1,1 @@
+neat object literal syntax, objects are hashes, decent closures. yeah, it has slightly awkward syntax and type conversion but it doesn't matter much in practice :)

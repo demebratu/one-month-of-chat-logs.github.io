@@ -1,0 +1,1 @@
+v8 compiles my js into machine code. there is no interpretation, right?

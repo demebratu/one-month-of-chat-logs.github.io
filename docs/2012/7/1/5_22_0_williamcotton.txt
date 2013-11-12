@@ -1,0 +1,1 @@
+I'm doing bugger.toString('binary') on the way in to redis

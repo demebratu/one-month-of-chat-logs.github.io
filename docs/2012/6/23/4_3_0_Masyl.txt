@@ -1,0 +1,1 @@
+Haaargh… rendering html with dom manipulation. 

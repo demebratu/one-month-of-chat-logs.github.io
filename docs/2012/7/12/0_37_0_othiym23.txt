@@ -1,0 +1,1 @@
+pianoroy: you could probably also roll your own eventing system with Redis and pubsub without too much hassle, but I've only played around with that

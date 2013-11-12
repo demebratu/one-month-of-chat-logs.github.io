@@ -1,0 +1,1 @@
+If I write in my file "toto.com/toto hello world foo", it would be hard to know if the content is "hello" followed by a request on the domain "world" containing "foo", or a single body "hello world foo"

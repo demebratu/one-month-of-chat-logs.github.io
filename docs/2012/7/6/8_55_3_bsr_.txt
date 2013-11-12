@@ -1,0 +1,1 @@
+that command works when I just pasted it into bash, mysql seems to be working right

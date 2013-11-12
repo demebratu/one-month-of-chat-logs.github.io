@@ -1,0 +1,1 @@
+superjoe: nvm it does support conditional gets

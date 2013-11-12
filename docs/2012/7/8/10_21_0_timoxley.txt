@@ -1,0 +1,1 @@
+DamnYankee e.g. var MyThing = function() {}; MyThing.prototype = {toString: function() {}};

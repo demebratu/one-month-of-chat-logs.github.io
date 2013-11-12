@@ -1,0 +1,1 @@
+...It's like that guy who tries to re-implement Java classes and singletons in Javascript *shudders* http://kaijaeger.com/articles/the-singleton-design-pattern-in-javascript.html

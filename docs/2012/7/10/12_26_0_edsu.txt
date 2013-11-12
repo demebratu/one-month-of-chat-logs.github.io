@@ -1,0 +1,1 @@
+radiodario: i've had some luck w/ jsdom to run jquery, but haven't tried zombie

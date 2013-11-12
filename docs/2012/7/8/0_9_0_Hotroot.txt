@@ -1,0 +1,1 @@
+Well, I need to write in as ascii so it strips null, I guess I can just toString(unicode) when I need it back

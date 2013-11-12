@@ -1,0 +1,1 @@
+MrV you could do a for (var key in ... i suppose

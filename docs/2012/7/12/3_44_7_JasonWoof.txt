@@ -1,0 +1,1 @@
+seems that all (3 of) my spawned processes have exited, and I called process.stdin.pause() and called .end() on my stream created with fs.createReadStream()

@@ -1,0 +1,1 @@
+isaacs: chmod does it for the target I think

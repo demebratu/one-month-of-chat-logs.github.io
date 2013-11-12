@@ -1,0 +1,1 @@
+chrisdickinson: I read through the domains code, I don't think there is anything similar in the C++ APIs

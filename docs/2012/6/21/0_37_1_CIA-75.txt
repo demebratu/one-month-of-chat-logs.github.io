@@ -1,0 +1,1 @@
+libuv: Bert Belder master * rda59427 / src/win/fs.c : windows: don't set WT_EXECUTELONGFUNCTION for fs operations - http://git.io/wSyUzQ

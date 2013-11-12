@@ -1,0 +1,1 @@
+q: any variable substitution module? or still using + "" +?

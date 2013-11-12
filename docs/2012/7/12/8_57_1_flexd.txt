@@ -1,0 +1,1 @@
+I am trying to use req.params.id (for a request /monitors/show/:id), but I just get a reference error: attributes is not defined  from inside underscore.js :/

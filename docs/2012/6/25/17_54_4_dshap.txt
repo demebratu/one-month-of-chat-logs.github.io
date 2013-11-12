@@ -1,0 +1,1 @@
+basically any uncaught exception should return a 500 response

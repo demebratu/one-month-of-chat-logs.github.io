@@ -1,0 +1,1 @@
+SubStack: Yes. ccowan showed me that you can call pipe how ever many times you need, so I believe that will work great.

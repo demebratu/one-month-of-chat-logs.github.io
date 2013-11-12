@@ -1,0 +1,1 @@
+its got a freaking VM...which does garbage collection and what not

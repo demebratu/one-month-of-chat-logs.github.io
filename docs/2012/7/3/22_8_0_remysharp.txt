@@ -1,0 +1,1 @@
+I'm finding `npm publish` is just hanging - any way to tell it's doing anything of value?

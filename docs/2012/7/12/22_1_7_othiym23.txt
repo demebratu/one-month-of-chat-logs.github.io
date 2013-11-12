@@ -1,0 +1,1 @@
+holzp: I'd use Jade over EJS, but they're actually more or less complementary

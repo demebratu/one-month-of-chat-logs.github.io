@@ -1,0 +1,1 @@
+Shameless plug... just published ready.js to help you monitor multiple async operations and trigger listeners when they are all complete: https://github.com/thanpolas/ready.js#readme

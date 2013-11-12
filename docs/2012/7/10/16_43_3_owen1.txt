@@ -1,0 +1,1 @@
+the docs say that stream.pipe emulates the cat command - process.stdin.resume(); process.stdin.pipe(process.stdout);   can someone elaborate what does it mean?

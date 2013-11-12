@@ -1,0 +1,1 @@
+how to handle multiple connections using node_redis client and redis?

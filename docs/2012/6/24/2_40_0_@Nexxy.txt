@@ -1,0 +1,1 @@
+kuki, try just !=partial('room_list_view', {room:room})

@@ -1,0 +1,1 @@
+the problem is that state is *inherently* difficult because you have to follow it long-term

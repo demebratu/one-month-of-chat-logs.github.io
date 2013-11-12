@@ -1,0 +1,1 @@
+but lets say im working on a site for XX and i just want them to be able to fork and run whith out changing my crazy "fs reads from a DB and executes in a nother context" where context can be php JVM latex or node?

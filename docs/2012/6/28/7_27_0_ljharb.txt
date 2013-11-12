@@ -1,0 +1,1 @@
+rageous: also, don't use "new Array();". use "[]"

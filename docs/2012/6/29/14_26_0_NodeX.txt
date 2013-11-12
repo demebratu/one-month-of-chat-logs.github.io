@@ -1,0 +1,1 @@
+db.messages.find({"user_id": {$in : [1,2,3,4,5]}});

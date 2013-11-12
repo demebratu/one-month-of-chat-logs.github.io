@@ -1,0 +1,1 @@
+cgi is really just a proxy though, from the http server to the "web app"

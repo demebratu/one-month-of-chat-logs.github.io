@@ -1,0 +1,1 @@
+bnoordhuis:  Interesting..   if I run without argument,  it gives sementation fault.  If I run with argument, which I use 'optimist' to capture the argument, i get the loop fail one

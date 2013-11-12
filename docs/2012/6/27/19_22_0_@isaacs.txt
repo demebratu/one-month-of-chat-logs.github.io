@@ -1,0 +1,1 @@
+SubStack: well, you can't set foo's export X to something else entirely.  fs = require("fs");  fs.read = myRead <-- i actually do that a lot, though

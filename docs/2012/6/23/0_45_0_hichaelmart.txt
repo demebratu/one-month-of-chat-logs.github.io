@@ -1,0 +1,1 @@
+bnoordhuis: sorry, disconnected - did I miss any comments you had on your preferred method of getting strings from streams?

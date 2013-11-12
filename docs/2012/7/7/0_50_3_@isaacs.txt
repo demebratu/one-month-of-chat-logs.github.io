@@ -1,0 +1,1 @@
+Hotroot: if you know you have one write(), then that's ideal, yes

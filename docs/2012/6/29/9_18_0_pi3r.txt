@@ -1,0 +1,1 @@
+handlebars seems nice but i don't know how to precompile templates so they can be available from express

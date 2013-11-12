@@ -1,0 +1,1 @@
+so, yeah, promises were removed because the syntax, implementation, and coding-style couldn't satisfy everyone's wishes

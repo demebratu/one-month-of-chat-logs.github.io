@@ -1,0 +1,1 @@
+leev: ahh, yeah I was thinking that may be it as well. although node seems to be working the opposite way that most real routers work. usually the routers queries the DNS for a AAAA if the client has ipv6 and then A. weird

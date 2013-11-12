@@ -1,0 +1,1 @@
+bradleymeck: Command line program. Get bad input and I want to exit 1, but anything Node.js puts me in a callback reading stdin. Don't want a callstack.

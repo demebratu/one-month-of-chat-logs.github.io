@@ -1,0 +1,1 @@
+you shouldn't be using the "Function" constructor for anything anyways, and you can't reliably use `instanceof Function` to determine callability.

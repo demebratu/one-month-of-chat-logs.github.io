@@ -1,0 +1,1 @@
+pawn: it's a lot easier to grasp if you actually run them and can see things like the stream of websocket events that get logged by default as the socket.io server runs

@@ -1,0 +1,1 @@
+so you could pipe that to a validation stream

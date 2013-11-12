@@ -1,0 +1,1 @@
+are there any c++ extension writers on the channel that might be able to suggest how to debug this? https://github.com/peterbraden/node-opencv/issues/9

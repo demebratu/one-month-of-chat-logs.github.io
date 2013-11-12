@@ -1,0 +1,1 @@
+ku daemons are just processes, and irc has soo many extensions, id just pick up an existing one unless you want to write a ton of code

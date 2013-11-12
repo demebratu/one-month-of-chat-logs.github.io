@@ -1,0 +1,1 @@
+sort off. d3 provides labelled axes itself but you have to rotate the axes to the desired location

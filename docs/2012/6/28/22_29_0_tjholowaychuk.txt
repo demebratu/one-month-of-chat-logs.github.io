@@ -1,0 +1,1 @@
+tbranyen jquery doesn't use the throw thing prototype did does it?

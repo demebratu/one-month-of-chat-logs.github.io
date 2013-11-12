@@ -1,0 +1,1 @@
+SubStack: as opposed to actually writing to stdout

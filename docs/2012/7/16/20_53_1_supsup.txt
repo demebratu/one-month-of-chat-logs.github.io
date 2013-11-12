@@ -1,0 +1,1 @@
+makes no sense to me to jump into node.js if you don't even know javascript.

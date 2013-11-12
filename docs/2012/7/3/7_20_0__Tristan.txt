@@ -1,0 +1,1 @@
+ljharb: That's not what I mean. Say browser side function foobar does this: console.log('hello'); and on the server side I run remote.foobar() to get the word hello in my client side console. There is no example of that.

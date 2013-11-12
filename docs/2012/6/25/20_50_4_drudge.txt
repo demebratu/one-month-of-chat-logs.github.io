@@ -1,0 +1,1 @@
+game16: yes, just specify ejs as the view engine

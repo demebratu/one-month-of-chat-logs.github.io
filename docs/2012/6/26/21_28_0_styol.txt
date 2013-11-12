@@ -1,0 +1,1 @@
+is it a good idea to keep variable names, object keys, function names, etc small like a character or two? or does it not really matter since the js files aren't downloaded by clients? 

@@ -1,0 +1,1 @@
+mongodb is designed mainly to run in a private/trusted environment

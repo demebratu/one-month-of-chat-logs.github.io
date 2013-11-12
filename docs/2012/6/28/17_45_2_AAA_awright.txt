@@ -1,0 +1,1 @@
+What functionality is the application providing when someone calls it

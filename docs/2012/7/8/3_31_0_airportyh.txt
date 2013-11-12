@@ -1,0 +1,1 @@
+Leemp2: no, but have your read this? https://github.com/joeferner/node-serialport2/issues/7

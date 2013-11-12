@@ -1,0 +1,1 @@
+then if you have multiple instance of your node.js app running, nginx will act as a simple load balancer for all requests.

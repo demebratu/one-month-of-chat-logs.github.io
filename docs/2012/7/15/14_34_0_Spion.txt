@@ -1,0 +1,1 @@
+Gloorian, I'd instead start a new process and pipe to it

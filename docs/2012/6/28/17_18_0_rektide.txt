@@ -1,0 +1,1 @@
+what's a good way to detect if this script is the "main" script?

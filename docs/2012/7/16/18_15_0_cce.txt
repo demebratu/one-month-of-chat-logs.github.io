@@ -1,0 +1,1 @@
+prettyrobots: well, it has a very good chance of being MIT licensed straight-up in a while, just not yet

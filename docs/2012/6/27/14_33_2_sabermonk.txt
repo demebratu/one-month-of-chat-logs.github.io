@@ -1,0 +1,1 @@
+rs.stdout.pipe(process.stdout, { end: true });

@@ -1,0 +1,1 @@
+Deathspike, e.g. being able to use 'npm test' on your own app

@@ -1,0 +1,1 @@
+any event emitter created while a domain is active is automatically associated with that domain -- and any error events that come out of them get redirected to the domain error listener.

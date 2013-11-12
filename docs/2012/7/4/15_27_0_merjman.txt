@@ -1,0 +1,1 @@
+"As long as you use asynchronous APIs for all IO (FS, DB, network, etc) you are safe." -> So, a blocking function within a blocking function does NOT block the node

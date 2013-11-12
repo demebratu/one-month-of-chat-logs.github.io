@@ -1,0 +1,1 @@
+wookiehangover: is everything it does included in its own object? If so, fine. Otherwise, you get loads of global vars and break ALL THE THINGS

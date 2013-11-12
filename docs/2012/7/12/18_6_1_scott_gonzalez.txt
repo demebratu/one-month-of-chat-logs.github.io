@@ -1,0 +1,1 @@
+isaacs: Should there be an entry in my PATH for globally installed modules or is npm supposed to put the binaries somewhere that's already in my PATH?

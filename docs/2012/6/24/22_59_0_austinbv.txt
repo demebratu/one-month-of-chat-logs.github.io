@@ -1,0 +1,1 @@
+can you not require a directory and all the exports in the dir create the required object

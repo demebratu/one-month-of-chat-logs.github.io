@@ -1,0 +1,1 @@
+SubStack: socket.io does a pretty good job of operating in the presence of crappy corporate firewalls and such - how does socks perform in that regard?

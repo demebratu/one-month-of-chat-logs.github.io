@@ -1,0 +1,1 @@
+owen1: you heard wrong about the first option - what you do is bind to port 80, then drop root privileges

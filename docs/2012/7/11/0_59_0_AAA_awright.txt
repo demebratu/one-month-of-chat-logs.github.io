@@ -1,0 +1,1 @@
+I mean, you do lose the stack trace, but that's a good thing, you don't lose the variable scopes

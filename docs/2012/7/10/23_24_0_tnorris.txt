@@ -1,0 +1,1 @@
+dsirijus: check out an example nginx conf I created for my node instances: https://github.com/trevnorris/norrd/blob/master/conf/nginx.conf

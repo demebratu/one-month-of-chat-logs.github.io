@@ -1,0 +1,1 @@
+whenever the PHP portion of your app has something to push to the browser, it sends a message to the socket.io server

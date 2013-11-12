@@ -1,0 +1,1 @@
+A callback provides better, uh, code semantics (for lack of a better term). A callback is guarenteed to be called exactly once, whereas events may be called any number of times.

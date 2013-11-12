@@ -1,0 +1,1 @@
+and database calls is similar to http. it open sockets so it's also super efficient.

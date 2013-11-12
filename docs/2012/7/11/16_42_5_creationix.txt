@@ -1,0 +1,1 @@
+AAA_awright, and package.json is part of require.resolve

@@ -1,0 +1,1 @@
+isaacs: thanks for all the windows fixes you made for NPM btw, they're now getting reused in Jam ;)

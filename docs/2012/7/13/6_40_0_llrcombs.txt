@@ -1,0 +1,1 @@
+Trindaz: stop setting encodings because you should be using raw buffers for this and passing the data from the request directly into gunzip

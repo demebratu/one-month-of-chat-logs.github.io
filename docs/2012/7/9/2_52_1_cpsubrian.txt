@@ -1,0 +1,1 @@
+rrjamie: That got me thinking… so my 'Model' class creates event-emitter instances .. but could the constructor itself be an event emitter?

@@ -1,0 +1,1 @@
+Hey guys, quick theoretical question: Im tryign to impose api request limits per client and cache the the api responses between timeouts. Should I be using some kind of caching solution (memcache or redis)? or do I just store the cached data in a db and update it appropriately?

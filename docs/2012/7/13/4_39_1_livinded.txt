@@ -1,0 +1,1 @@
+Trindaz: write out the raw data and trying using the gunzip binary

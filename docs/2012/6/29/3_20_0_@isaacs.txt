@@ -1,0 +1,1 @@
+tokyodan: or you can use the tarball, or check out from git, or whatever you like

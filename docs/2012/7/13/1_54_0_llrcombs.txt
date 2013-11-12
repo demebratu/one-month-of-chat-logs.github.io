@@ -1,0 +1,1 @@
+12 version header bytes (4 nulls there), 8 useful header bytes, 24-ish data, 4 more version, 44 nulls, and a null-terminated wide-character XML string that probably won't hit more than about 100 characters

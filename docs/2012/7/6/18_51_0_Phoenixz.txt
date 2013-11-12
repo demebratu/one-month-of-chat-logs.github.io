@@ -1,0 +1,1 @@
+Stephen: well, that is the thing.. Maybe it is not ready yet, then why after... say,  30 seconds, it just stays not-ready.. ? (and without giving me an error message I can work with :)

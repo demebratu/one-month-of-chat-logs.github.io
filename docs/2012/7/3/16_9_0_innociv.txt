@@ -1,0 +1,1 @@
+http://nodejsdb.org/db-mysql/ I did "export MYSQL_CONFIG=/usr/bin/mysql_config" in debian, and I'm getting "node-v0.8.1/node_modules/db-mysql/wscript:34: error: The program ['mysql_config'] is required

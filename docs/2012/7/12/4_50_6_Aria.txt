@@ -1,0 +1,1 @@
+Nuck: And utf-8 allows nul.

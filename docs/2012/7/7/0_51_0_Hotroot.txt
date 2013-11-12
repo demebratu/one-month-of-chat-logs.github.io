@@ -1,0 +1,1 @@
+Well, I can still stream.write afterwards, it doesn't close the socket. It's just proper because it knows that specific piece of data is done, right?

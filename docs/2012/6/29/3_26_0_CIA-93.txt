@@ -1,0 +1,1 @@
+libuv: Ben Noordhuis master * r05e4ca5 / (3 files): test: fix test-gethostbyname to not use a DNS server on localhost - http://git.io/LMkisQ

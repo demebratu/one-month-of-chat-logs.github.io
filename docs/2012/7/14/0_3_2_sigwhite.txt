@@ -1,0 +1,1 @@
+tjholowaychuk: yeah, I'd usually prefer using redis for this like for the rest of my "global" state.

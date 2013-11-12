@@ -1,0 +1,1 @@
+yields: If you take a look to all the functions in node (specially FileSystem API), by default all the functions are asynchronous. And the pattern is async(callback). It does not make sense to me having a require that looks like sync prefixed functions

@@ -1,0 +1,1 @@
+is it a change in node-0.8 to get a parsed http.response.body (ie: an object for json Content-Type) ?

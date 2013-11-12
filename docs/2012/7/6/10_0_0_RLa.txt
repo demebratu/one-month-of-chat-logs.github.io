@@ -1,0 +1,1 @@
+http://ariya.ofilabs.com/2012/07/lazy-parsing-in-javascript-engines.html <- does it give any benefits at all?

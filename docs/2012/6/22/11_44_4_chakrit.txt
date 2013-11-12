@@ -1,0 +1,1 @@
+dr0id why not just render client-side?

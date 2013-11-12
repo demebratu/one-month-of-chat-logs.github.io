@@ -1,0 +1,1 @@
+for example.. I could stack GLSL-like semantics and host language into same file, without the usual troubles.

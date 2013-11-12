@@ -1,0 +1,1 @@
+If I handle SIGINT, then node.js doesn't shut down any more. I could call process.exit() but it felt like I was going in the wrong direction.

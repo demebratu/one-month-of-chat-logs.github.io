@@ -1,0 +1,1 @@
+so I just wrote a little script so you dont have to qualify local binaries for zsh

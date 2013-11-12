@@ -1,0 +1,1 @@
+so I noticed that "npm install", in presence of an npm-shrinkwrap.json file, still refuses to install the listed versions if they say they won't work with the running node version

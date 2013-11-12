@@ -1,0 +1,1 @@
+you can create a module which monitors the load and spawns or closes processes as needed

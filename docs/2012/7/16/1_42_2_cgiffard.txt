@@ -1,0 +1,1 @@
+but if you want CLI, I think the package has to do that itself

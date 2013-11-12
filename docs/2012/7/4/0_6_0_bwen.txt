@@ -1,0 +1,1 @@
+Spion: sorry I didnt know you meant the node module cluster. I though you meant the concept of having a cluster of webservers... I didnt use this module yet

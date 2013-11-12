@@ -1,0 +1,1 @@
+does this count as an application that prints its own source code?

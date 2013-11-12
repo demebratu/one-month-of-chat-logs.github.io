@@ -1,0 +1,1 @@
+its the way you work in js.

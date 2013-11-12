@@ -1,0 +1,1 @@
+looks like its the end of a print statement saying thers no C compiler. (even thou i think i do have it)

@@ -1,0 +1,1 @@
+http://nodejs.org/api/all.html#all_util_inherits_constructor_superconstructor what's the difference between util.inherits(MyStream, events.EventEmitter); and Mystream.prototype = new events.EventEmitter; ?

@@ -1,0 +1,1 @@
+Deathspike: lol. thanks, I was just going to ask how to get out of req.params

@@ -1,0 +1,1 @@
+Is there a reason people still include index.js only to link to some lib/* script, niftylettuce?

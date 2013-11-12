@@ -1,0 +1,1 @@
+for db as suggested... i can use sqlite... but can it hande 50,000 to 100,000 rows

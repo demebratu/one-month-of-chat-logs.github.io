@@ -1,0 +1,1 @@
+regality: one other winston question if you don't mind - something that i haven't been able to figure out…i'm trying to use 2 different log files - one for errors and one for activity.  i can't add 2 file transports, so how do i specify a separate log file for different logging levels?

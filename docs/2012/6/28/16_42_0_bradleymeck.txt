@@ -1,0 +1,1 @@
+isaacs: sorry to pester but have you noticed odd spikes in memory usage from node-tar?

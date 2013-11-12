@@ -1,0 +1,1 @@
+yeah, i want to kill the bash script (easy) and any of it's child processes

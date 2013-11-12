@@ -1,0 +1,1 @@
+austinbv: you could also have the master detect changes in the child

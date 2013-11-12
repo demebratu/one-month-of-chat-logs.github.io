@@ -1,0 +1,1 @@
+jrajav: yup, that page describes how to start a child process without waiting for it to finish

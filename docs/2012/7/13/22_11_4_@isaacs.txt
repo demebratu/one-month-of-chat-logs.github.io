@@ -1,0 +1,1 @@
+mmalecki: i use nave because i prefer to install from releases.  if i want to install from git, i can already do that, from git

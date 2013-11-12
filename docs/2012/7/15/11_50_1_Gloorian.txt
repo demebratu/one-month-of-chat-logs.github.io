@@ -1,0 +1,1 @@
+It's with a bot and I want to listen the rss feed everytime and call a callback when a new item comes

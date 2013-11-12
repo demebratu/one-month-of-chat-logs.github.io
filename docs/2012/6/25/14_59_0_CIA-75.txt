@@ -1,0 +1,1 @@
+node: isaacs v0.8 * r7823474 / doc/blog/release/node-v0.8.0.md : blog post for v0.8.0 (+6 more commits...) - http://git.io/s1d08Q

@@ -1,0 +1,1 @@
+Okee: but there's a good chance you might run into issues with homebrew. i really suggest either learning to build from git or just use the installer on nodejs.org

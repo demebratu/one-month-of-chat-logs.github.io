@@ -1,0 +1,1 @@
+I'm looking to "throttle" or "debounce" a function.  I have a function that may be called 5 times in a few ms.  I want it to build up an array with all the arguments it receives, and then after 2 seconds (or whatever), do some operations on the arguments it received over the last few calls.  Does throttle or debounce make sense, or should I be looking at a different/better way?

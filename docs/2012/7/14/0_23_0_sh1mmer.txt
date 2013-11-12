@@ -1,0 +1,1 @@
+well I think dap's tool work on SmartOS to extract a heap

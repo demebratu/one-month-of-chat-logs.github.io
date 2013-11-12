@@ -1,0 +1,1 @@
+remove the check for a user, but I'm wondering if there is another way to not require log in on publish to the registry. Any hints?

@@ -1,0 +1,1 @@
+if strings weren't capable of storing *ANY* series of bites then why is it possible for the console output to show such bizare characters for string values?

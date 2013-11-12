@@ -1,0 +1,1 @@
+I found my problem with https, the version i am using of node.js (v0.6.19), doesnt throw an error when I do:  require("crypto").createCredentials({ ca: "stupid thing with bad line endings" } )

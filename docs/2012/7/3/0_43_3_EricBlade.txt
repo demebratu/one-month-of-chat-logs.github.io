@@ -1,0 +1,1 @@
+hey guys, anyone offer a suggestion for what might be going wrong with my fs functions? all of them are returning either ENOACCES or EBADF, when called in one particular piece of code, but work fine from another

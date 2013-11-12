@@ -1,0 +1,1 @@
+hi. I tried to build the sqlite3 module, but when using it, I get an undefined symbol error for v8::ObjectTemplate::SetAccessor(..) - how can I fix this?

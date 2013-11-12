@@ -1,0 +1,1 @@
+tjholowaychuk: in express-resource is there a way to get the resource id in the handler?

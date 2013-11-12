@@ -1,0 +1,1 @@
+Noldorin: a while ago I had a node issue where it wasn't picking up the node_modules folder location for requiring globally installed modules. I had to manually specify it

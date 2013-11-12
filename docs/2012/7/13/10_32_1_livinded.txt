@@ -1,0 +1,1 @@
+node.js, postgres, socket.io as of right now. I'm probably going to end up adding in 0mq so I can separate administration from user facing and possibly redis so I can load balance

@@ -1,0 +1,1 @@
+I don't think it's very different than that person who tries to implement Java singletons in Javascript

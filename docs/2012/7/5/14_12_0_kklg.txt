@@ -1,0 +1,1 @@
+Zipp, I have it, but my active installation is 2.6.7. Do you think that could affect it? The addon did compile correctly; I'll try again with 2.7.2, though.

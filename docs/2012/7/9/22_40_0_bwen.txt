@@ -1,0 +1,1 @@
+well... is the package.json ever validated? When would of I noticed my json wouldnt of been parsable ?

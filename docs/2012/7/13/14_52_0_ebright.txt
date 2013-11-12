@@ -1,0 +1,1 @@
+my app.js already includes var foo = require('/routes/foo.js')

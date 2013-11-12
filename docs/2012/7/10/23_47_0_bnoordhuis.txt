@@ -1,0 +1,1 @@
+pianoroy: compiling with -O2 or -fno-inline-functions or -fno-function-sections will fix it

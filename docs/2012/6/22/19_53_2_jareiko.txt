@@ -1,0 +1,1 @@
+gkatsev: but the process seems to just exit, and not wait for the DB query to complete

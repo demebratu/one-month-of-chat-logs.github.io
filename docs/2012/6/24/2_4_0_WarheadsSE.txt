@@ -1,0 +1,1 @@
+If you have more than 1 thread of execution: you'll want to just watch the directory for files

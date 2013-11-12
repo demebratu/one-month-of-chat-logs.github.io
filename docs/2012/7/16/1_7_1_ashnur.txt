@@ -1,0 +1,1 @@
+SkareCrow: right. I am trying to use node's internal debugger, and this is an error I get 

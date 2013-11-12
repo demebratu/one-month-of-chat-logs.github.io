@@ -1,0 +1,1 @@
+what is that weird data in child_process.spawn's stdout/stderr callbacks ?

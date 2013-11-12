@@ -1,0 +1,1 @@
+does npm preserve environment variables during the build process?  if not, it wouldn't be able to find my mysql_config binary, and that'd mess it up.

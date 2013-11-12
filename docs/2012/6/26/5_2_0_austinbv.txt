@@ -1,0 +1,1 @@
+so can you check the exit status of a last run and shelled out command

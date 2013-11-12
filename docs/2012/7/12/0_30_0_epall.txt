@@ -1,0 +1,1 @@
+bnoordhuis: according to http://tldp.org/HOWTO/TCP-Keepalive-HOWTO/usingkeepalive.html, one can set tcp_keepalive_probes to have the OS notify the application that (outgoing) keepalive probes are failing. Is that supported in node.js?

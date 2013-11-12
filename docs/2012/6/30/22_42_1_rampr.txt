@@ -1,0 +1,1 @@
+tbranyen:  gkatsev, when I send Accept Encoding: gzip as part of the headers I could see the same problem in curl too

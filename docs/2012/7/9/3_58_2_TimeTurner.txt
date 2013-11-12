@@ -1,0 +1,1 @@
+anyone seen performance improvements or the like with redis vs memcached?

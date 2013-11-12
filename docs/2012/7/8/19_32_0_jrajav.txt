@@ -1,0 +1,1 @@
+Put the main code you want to run after making that check - call it init() - in a separate function

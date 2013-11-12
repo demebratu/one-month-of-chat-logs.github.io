@@ -1,0 +1,1 @@
+othiym23, something like "store an int with the length of the url, store the url, store an int with the length of the data, store the data, repeat" ?

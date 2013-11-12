@@ -1,0 +1,1 @@
+basically just a small message queue with various socket types for different patterns

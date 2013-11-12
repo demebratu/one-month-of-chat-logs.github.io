@@ -1,0 +1,1 @@
+yes, I want users to download a image after they purchased it, and when they hit the download button I want them to download the photo

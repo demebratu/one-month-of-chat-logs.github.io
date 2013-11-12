@@ -1,0 +1,1 @@
+if the object is array like, you can get each item out as it comes.

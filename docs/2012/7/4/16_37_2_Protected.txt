@@ -1,0 +1,1 @@
+So you're telling me if all of this was happening inside a function scope, it would not work?

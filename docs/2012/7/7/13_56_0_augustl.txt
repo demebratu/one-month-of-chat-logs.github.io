@@ -1,0 +1,1 @@
+yep, it's very different from Ruby's global variable based environment

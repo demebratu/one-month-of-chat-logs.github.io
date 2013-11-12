@@ -1,0 +1,1 @@
+Why not just use socket.io which falls back to long polling XHR or other options? :)

@@ -1,0 +1,1 @@
+i'm sending plain text from python to node via amqp

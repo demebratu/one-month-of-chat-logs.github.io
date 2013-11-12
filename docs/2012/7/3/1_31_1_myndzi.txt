@@ -1,0 +1,1 @@
+process.nextTick -> socket._destroy -> socket.emit -> socket.onclose -> error

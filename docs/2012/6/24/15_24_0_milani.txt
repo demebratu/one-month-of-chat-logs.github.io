@@ -1,0 +1,1 @@
+SomeoneWeird, It should be on ECMAScript spec.

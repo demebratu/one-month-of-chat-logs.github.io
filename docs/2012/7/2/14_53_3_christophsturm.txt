@@ -1,0 +1,1 @@
+with the new cluster api is it possible to redeploy a master without downtime?

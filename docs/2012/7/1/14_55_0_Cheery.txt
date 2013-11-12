@@ -1,0 +1,1 @@
+I've thought about something like coffeescript -thing.. that would work for writing web apps.

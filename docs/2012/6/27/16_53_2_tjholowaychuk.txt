@@ -1,0 +1,1 @@
+well two now, app.render and res.render

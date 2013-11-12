@@ -1,0 +1,1 @@
+Raynos: yes, `ln -s $(which ggrep) ~/bin/grep` or something

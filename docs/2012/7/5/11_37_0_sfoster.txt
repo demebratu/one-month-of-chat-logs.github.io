@@ -1,0 +1,1 @@
+If it were me I would keep it simple and just write the user count to a file whenever I updated the db and just have node watch that file. But that's just because I'm a front-end dev and leary of databases :)

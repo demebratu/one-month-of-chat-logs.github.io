@@ -1,0 +1,1 @@
+What you pass as args is what Node.js would read almost exactly, maybe unless there's a NUL character somewhere in the stream, and Node.js prepends the program name to the arguments list for you

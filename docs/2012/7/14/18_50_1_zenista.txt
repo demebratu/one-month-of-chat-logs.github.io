@@ -1,0 +1,1 @@
+3 termainals will connect to a server which i think is node.js

@@ -1,0 +1,1 @@
+hi, when I run ack within execFile or exec, it hangs "forever" as if it is waiting for input, I've scoured the docs looking for a way to disable it but I can't figure out what's going on. https://gist.github.com/7591af9406e8436c0f4c is a test script. As you can see I've enabled just about every option I can. Any ideas on ways to debug the issue or force it to return, etc.?

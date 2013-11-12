@@ -1,0 +1,1 @@
+austinbv: gist, pls.  code, error, packaeg.json, `npm ls` output

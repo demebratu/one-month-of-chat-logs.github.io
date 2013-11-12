@@ -1,0 +1,1 @@
+tjholowaychuk: yeah me too. for people who really only feel ready to dev on a static server, I think the new RequireJS syntax is clever

@@ -1,0 +1,1 @@
+zenista: I like express. For the db, sqlite. For app bundling on windows, if that's important, you might be better off building the backend in python. Node is excellent for packaging up the js & css though.

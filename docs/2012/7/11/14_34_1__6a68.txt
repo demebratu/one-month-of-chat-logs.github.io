@@ -1,0 +1,1 @@
+in a browser context where pieces are loaded asynchronously and in unpredictable order

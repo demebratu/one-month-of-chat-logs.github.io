@@ -1,0 +1,1 @@
+when reading a file like this fs.readFile(all_photos[i], "utf8", function(err, result){

@@ -1,0 +1,1 @@
+dherman: anyways it seems like dropping export this() in favor of `export value` would have the benefits of all that typo stuff while embracing the commonjs style of doing object-based exports that are usually just single functions

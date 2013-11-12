@@ -1,0 +1,1 @@
+owen1: Hmm, I know gtk uses a bunch of file descriptors for event registration and triggering.

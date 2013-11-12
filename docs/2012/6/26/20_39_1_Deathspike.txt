@@ -1,0 +1,1 @@
+That scatters method bodies from registration? That's kind of messy, isn't it.

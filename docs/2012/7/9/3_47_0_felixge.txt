@@ -1,0 +1,1 @@
+I'll add connection pooling support once I find the time

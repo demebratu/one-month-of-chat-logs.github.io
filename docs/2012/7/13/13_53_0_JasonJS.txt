@@ -1,0 +1,1 @@
+dob_: Gotcha - I was going to suggest cheaping out and going with a pure browser side solution but that just won't cut it for that volume :)

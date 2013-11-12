@@ -1,0 +1,1 @@
+server_name _; makes me think Igov loves Scala.

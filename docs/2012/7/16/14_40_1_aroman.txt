@@ -1,0 +1,1 @@
+part of my concern is shipping those errors over the wire via socket.io

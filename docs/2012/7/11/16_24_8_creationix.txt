@@ -1,0 +1,1 @@
+confuses me in my editor when working on 5 libraries all with index.js files

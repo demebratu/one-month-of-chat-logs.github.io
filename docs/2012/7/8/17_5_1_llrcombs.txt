@@ -1,0 +1,1 @@
+lazy loading = loading something only when it's needed

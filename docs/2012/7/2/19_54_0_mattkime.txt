@@ -1,0 +1,1 @@
+hm...looks like the exit event is only called if process.exit() is called, is that correct?

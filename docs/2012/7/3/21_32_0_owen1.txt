@@ -1,0 +1,1 @@
+i have a variable in server.js. how to access it from within a function that is exported from a module? http://pastebin.com/MaH1vDQa i use mapletree as my routes library.

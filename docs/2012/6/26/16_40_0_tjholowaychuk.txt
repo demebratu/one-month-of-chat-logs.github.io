@@ -1,0 +1,1 @@
+augustl it can be as simple as var conf = require('./config/' + app.settings.env)

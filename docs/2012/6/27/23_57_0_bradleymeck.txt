@@ -1,0 +1,1 @@
+creationix can you fix the casing on 'Math' in the gist, tripped me for a sec

@@ -1,0 +1,1 @@
+Nuck: like WebSocket? socket.io provides JSON comunication

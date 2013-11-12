@@ -1,0 +1,1 @@
+hi, i m using child_process.kill( ) to kill a certain process , but its not not getting killed at that instant, and next line i have is a return stmt, if return is called w/o child getting killed . i get errors.. How to make sure a process is killed instantly?

@@ -1,0 +1,1 @@
+How do you resolve Vyacheslav Egorov's statement about "--harmony" options being stable when they include features that are no longer part of ES6?

@@ -1,0 +1,1 @@
+prettyrobots: regex seems a bit overkill.. and according to jsperf, about 70% slower than doing it with regular string ops :)

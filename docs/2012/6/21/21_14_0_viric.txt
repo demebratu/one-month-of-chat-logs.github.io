@@ -1,0 +1,1 @@
+hm should 'npm install sqlite' work with v0.6.19?

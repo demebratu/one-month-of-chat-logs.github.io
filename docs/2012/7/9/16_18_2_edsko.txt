@@ -1,0 +1,1 @@
+oh, just an npm package (for command line access to Windows Azure, cloud services). 

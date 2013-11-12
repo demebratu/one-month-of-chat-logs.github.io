@@ -1,0 +1,1 @@
+aheckmann: ok, but then how do I transform the buffer in a binary type

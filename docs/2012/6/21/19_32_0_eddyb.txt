@@ -1,0 +1,1 @@
+WarheadsSE: can you paste the result of this in query for me? objdump -T /usr/lib64/libv8.so | grep IsNull

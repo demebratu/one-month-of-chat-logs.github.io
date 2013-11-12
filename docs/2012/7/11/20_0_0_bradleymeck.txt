@@ -1,0 +1,1 @@
+ku, what about a log server with queryability via web?

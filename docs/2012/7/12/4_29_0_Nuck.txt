@@ -1,0 +1,1 @@
+See, I was thinking I'd base my API roughly on socket.io's

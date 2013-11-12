@@ -1,0 +1,1 @@
+RLa: but the problem is, when I google javascript "classes", I fall on 5 different ways of creating and handling classes. So I'm not sure how to access them in JS

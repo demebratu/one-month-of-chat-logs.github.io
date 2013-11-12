@@ -1,0 +1,1 @@
+is there a memory and array management lib, possibly something with a machine sequencer so i can just rewrite everything in asm primitives and convert it over?

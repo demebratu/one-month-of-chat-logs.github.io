@@ -1,0 +1,1 @@
+I don't think SQL servers really have a very large connection pool by default so the better solution is generally sharing the connection

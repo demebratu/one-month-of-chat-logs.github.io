@@ -1,0 +1,1 @@
+benatkin: If all Node.js dependencies were handled with submodules, would that be reason enough for "nodejs" to depend on "git" in package repositories? I have a nodejs_version parameter added to .gitmodules for all the packages I depend on, so you know if a submodule in a child directory is redundant or not

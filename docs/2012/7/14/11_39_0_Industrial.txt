@@ -1,0 +1,1 @@
+I have a templates/layout.haml and index.haml and in my app.coffee: app.engine 'haml', consolidate['haml-coffee'] app.set 'view engine', 'haml' app.set 'views', __dirname + '/templates'

@@ -1,0 +1,1 @@
+anyone know why node.h wouldn't be found during node-gyp npm install (native module) on windows?

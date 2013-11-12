@@ -1,0 +1,1 @@
+tjholowaychuk: I'd rather a not-quite-complete css parser tell the user it didn't understand something than just try to work with it

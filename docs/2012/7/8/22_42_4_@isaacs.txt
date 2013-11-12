@@ -1,0 +1,1 @@
+dmilith: if you can remove some of the dependencies and show it's a node problem, i'll happily dig into it

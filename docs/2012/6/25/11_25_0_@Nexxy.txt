@@ -1,0 +1,1 @@
+as long as your redis stays running your sessions should persist

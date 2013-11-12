@@ -1,0 +1,1 @@
+wubino: I like to have node set up in ~/local/node

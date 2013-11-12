@@ -1,0 +1,1 @@
+is the json pretty printing broken in 6.19? stringify(obj,null,'    ') doesnt prettify. numbers dont work there either. i'm a bit lost

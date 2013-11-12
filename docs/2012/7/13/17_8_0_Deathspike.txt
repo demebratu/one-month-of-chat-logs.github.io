@@ -1,0 +1,1 @@
+Would it generally be considered bad practive to use ONLY everyauth for i.e. twitter/facebook/google instead of local sign up (to avoid writing a bunch of login and reg stuff)

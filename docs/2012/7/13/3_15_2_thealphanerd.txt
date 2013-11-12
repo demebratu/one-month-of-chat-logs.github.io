@@ -1,0 +1,1 @@
+xeodox: cat make | grep uninstall

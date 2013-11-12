@@ -1,0 +1,1 @@
+tjholowaychuk: my target api is app.resource('users', { store: store }) lol

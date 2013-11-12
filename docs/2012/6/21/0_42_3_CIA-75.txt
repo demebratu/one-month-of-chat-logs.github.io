@@ -1,0 +1,1 @@
+node: Ben Noordhuis watchFile * rca78bfa / (5 files in 3 dirs): fs: make fs.watchFile() work on windows - http://git.io/0dsDPA

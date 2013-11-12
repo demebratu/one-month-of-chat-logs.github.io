@@ -1,0 +1,1 @@
+It's been having some performance issues so I've been considering just bypassing the buffering step

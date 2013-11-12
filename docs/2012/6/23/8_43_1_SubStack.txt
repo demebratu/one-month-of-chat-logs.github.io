@@ -1,0 +1,1 @@
+marlun: jquery isn't packaged as a commonjs module

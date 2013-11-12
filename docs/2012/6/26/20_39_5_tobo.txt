@@ -1,0 +1,1 @@
+our app was a massive mess with routes defined inline

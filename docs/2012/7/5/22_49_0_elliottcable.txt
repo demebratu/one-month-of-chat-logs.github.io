@@ -1,0 +1,1 @@
+There used to be a utility function for copying all of the members of a require() onto the global namespace, something like that. I forget the specifics, this was years ago.

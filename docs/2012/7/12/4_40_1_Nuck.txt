@@ -1,0 +1,1 @@
+Well, if I'm using a JSON parser, that's not streaming, so it doesn't really matter how fast the data comes in, I'm buffering either way

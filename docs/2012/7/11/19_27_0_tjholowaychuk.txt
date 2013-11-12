@@ -1,0 +1,1 @@
+better to manually do 3.0.0 later and make sure your tests all pass etc

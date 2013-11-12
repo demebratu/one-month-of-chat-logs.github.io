@@ -1,0 +1,1 @@
+My understanding is that the point of globally installed modules is that you an access them from anywhere, yeah

@@ -1,0 +1,1 @@
+yes that's correct i need to know how many sockets can stay open per process

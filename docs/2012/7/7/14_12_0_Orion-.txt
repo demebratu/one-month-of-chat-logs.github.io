@@ -1,0 +1,1 @@
+I have a cleartextStream related question: how can we be sure to be able to write to a writable stream ? it seems that testing for stream.writable is not enough. I can write to it and later receive a 'close" event.

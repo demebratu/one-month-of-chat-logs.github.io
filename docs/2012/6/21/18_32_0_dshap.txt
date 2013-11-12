@@ -1,0 +1,1 @@
+AAA_awright: but aren't i "defining" the callbacks on each iteration of the loop?

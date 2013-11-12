@@ -1,0 +1,1 @@
+smathy: He says that /JavaScript/ is slow. That makes absolutoly no sense. Speed is dependant on the VM/compiler

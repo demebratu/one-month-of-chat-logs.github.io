@@ -1,0 +1,1 @@
+Hi there. If I do an `npm install -g` of a module, and then try to do `require('module')` in a js file, shouldn't it be able to find it, since it's global? It works if I first do `npm link <module>`, but ideally I wouldn't want to do that

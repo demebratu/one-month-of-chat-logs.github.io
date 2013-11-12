@@ -1,0 +1,1 @@
+Are there any other independent JS interpreters out there?

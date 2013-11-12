@@ -1,0 +1,1 @@
+I would deal with it in a different way ... proxy_pass http://127.0.0.1:PORT/$host/; - then in your Node app manage the varing domains with routing

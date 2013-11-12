@@ -1,0 +1,1 @@
+TooTallNate: you should log an issue and tell them how to fix it https://github.com/justinlatimer/node-midi/issues

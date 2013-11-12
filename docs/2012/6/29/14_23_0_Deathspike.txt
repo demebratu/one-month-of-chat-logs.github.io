@@ -1,0 +1,1 @@
+I come from SQL so that's new to me, can you elaborate a little on that solution, NodeX? (I'm considering using Mongo and Couche anyway)

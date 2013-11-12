@@ -1,0 +1,1 @@
+so like, imagine that I'm uploading to a server, and storing it in redis, and you start downloading before the upload is finished

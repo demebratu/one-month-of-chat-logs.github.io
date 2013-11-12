@@ -1,0 +1,1 @@
+Eh, very basic question, how do I trim a particular char of a js string (i.e. trim(':') to remove prefix and suffix character)?

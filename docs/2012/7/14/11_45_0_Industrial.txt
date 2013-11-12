@@ -1,0 +1,1 @@
+thinks https://github.com/visionmedia/super-sockets is pretty cool but has no idea how to design the system to keep all the nodes healthy/alive and how to be sure no message is able to drop somewhere in the middle of the network or how to test against that :\

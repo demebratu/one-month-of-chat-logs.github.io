@@ -1,0 +1,1 @@
+hey guys, i was just reading http://book.mixu.net/ch3.html and i'm wondering if there's any downsides to keeping client requests open and storing the response object in an array when implementing long polling with node?

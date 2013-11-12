@@ -1,0 +1,1 @@
+sriley: Good idea. It's a login-based app though but I think I could index a small number of important public pages this way.

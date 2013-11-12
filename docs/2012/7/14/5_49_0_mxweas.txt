@@ -1,0 +1,1 @@
+I think he's looking to use fft's to split out the base frequency from samples and autotune them

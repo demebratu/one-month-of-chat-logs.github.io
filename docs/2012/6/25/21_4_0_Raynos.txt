@@ -1,0 +1,1 @@
+mikeal mentions "if you dont care about security" ( https://gist.github.com/505b680d5c9ee7748c79 ). What security concerns are there with this code?

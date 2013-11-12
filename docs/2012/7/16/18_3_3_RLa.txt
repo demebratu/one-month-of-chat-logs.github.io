@@ -1,0 +1,1 @@
+but i had all dev tools like gcc etc already installed, so that was easiest solution

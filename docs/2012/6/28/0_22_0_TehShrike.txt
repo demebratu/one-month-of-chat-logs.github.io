@@ -1,0 +1,1 @@
+Anyone here write command-line node scripts that take in JSON arguments?

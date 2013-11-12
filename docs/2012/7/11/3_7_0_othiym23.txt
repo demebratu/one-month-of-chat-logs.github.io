@@ -1,0 +1,1 @@
+and its depdencies feel(?) lighter-weight than jsdom's

@@ -1,0 +1,1 @@
+then put them in an array and iterate

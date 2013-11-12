@@ -1,0 +1,1 @@
+I've written streaming splitters before, and everything gets complicated when your delimiter is longer than a single character

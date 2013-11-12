@@ -1,0 +1,1 @@
+Oh and I can write, say, test.js and run a bunch of tests on the running server (using superagent or whatever)?

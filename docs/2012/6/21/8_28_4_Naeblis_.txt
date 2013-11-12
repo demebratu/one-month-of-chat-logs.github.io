@@ -1,0 +1,1 @@
+and if I have the file running on the same location as the JSON, how will I get the data then?

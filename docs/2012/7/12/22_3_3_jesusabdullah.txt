@@ -1,0 +1,1 @@
+I suspect that a framework can be composed of such libraries

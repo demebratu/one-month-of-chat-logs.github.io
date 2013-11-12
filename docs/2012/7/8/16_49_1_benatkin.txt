@@ -1,0 +1,1 @@
+wookiehangover: the people who come from front end dev could use help, but the compilation step and smaller community is a deal-breaker, not to mention the quirks

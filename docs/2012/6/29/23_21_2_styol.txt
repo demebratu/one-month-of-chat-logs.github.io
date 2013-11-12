@@ -1,0 +1,1 @@
+othiym23: ah, I did see an example with util.. will try that. Presently the listener is in a separate module where I'm able to .emit and receive the event. I should try the util approach first before asking further questions. Thanks again

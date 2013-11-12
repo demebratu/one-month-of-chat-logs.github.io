@@ -1,0 +1,1 @@
+yea, I did that before and I got that to work.  But now that I upgraded to node 0.8.x, the $HASH part doesn't match now, so not sure if it's related to the upgrade

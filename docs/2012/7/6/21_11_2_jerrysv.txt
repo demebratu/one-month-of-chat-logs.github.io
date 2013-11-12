@@ -1,0 +1,1 @@
+someone forked my node-judy test project a while back and implemented it with something like ffi

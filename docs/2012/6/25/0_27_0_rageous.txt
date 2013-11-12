@@ -1,0 +1,1 @@
+So, I worked throug the first six chapters of eloquent javascript yesterday and the nodebeginner.org tutorial, and now I'm trying to get sqlite working right.

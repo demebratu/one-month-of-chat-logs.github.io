@@ -1,0 +1,1 @@
+And it's outlined in Google's guidelines: https://developers.google.com/webmasters/ajax-crawling/docs/getting-started

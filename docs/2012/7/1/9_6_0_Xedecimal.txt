@@ -1,0 +1,1 @@
+right now I have to connect to mongod, and send an admin command to tell it to turn the server off from the inside out, apache is even harder, I have to bundle a pskill executable from msinternals to force the tree to be killed because it'll just respawn itself

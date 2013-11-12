@@ -1,0 +1,1 @@
+I just want a link I can add to a readme, where a web app can serve up an AMD wrapped module or a module that attaches itself to the global namespace

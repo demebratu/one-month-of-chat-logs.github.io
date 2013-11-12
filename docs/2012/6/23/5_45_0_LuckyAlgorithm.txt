@@ -1,0 +1,1 @@
+And that function, readAndSend, is a the top of the pasted file

@@ -1,0 +1,1 @@
+mkh: if you are just testing one node instance (not a clluster) you could just use a node cluster to or other instance(s) to load test it

@@ -1,0 +1,1 @@
+Anyone? No one knows how to get a list of subdirectories? Like fs.readdirSync but without listing files, on dirs

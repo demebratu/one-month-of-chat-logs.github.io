@@ -1,0 +1,1 @@
+tjholowaychuk: it does a toString(), finds require's, and adds them to the list of deps to load before actually calling the function it toString()'d on

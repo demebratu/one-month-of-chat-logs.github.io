@@ -1,0 +1,1 @@
+Hello all. I have a quick question. I have a base class that is in controller.js. I have a separate file called testController.js that uses Object.create to create a subclass of the object defined in controller.js. What I want to do is figure out, from within the base class, the name of the file that contains the subclass. Any ideas? __filename always returns controller.js.

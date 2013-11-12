@@ -1,0 +1,1 @@
+chrisdickinson: You might want to join #libuv to ask, I'm not sure if domains are implemented at that level but it's worth asking

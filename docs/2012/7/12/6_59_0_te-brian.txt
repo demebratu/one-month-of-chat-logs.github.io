@@ -1,0 +1,1 @@
+just leveled up by using jquery deferreds .. feels kinda good ;)

@@ -1,0 +1,1 @@
+Hi folks. I'm trying to help a friend get node up and running via nvm on his machine

@@ -1,0 +1,1 @@
+is there anything like a "30 days of node.js" series of walkthroughs or something y'all would recommend?  don't just wanna read a book, and want more than "hello world", want to dive in and write some actual code to learn.  been poking around google, but not finding what looks like a good set of walkthroughs/tutorials.

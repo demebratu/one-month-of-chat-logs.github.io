@@ -1,0 +1,1 @@
+You can also add a `"main"` attribute to your package.json. Go read about package.json.

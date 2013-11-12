@@ -1,0 +1,1 @@
+particulary: http://nodejs.org/api/process.html#process_process_kill_pid_signal

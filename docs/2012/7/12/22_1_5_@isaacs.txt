@@ -1,0 +1,1 @@
+Anyone wanna mess around with the npm-www site?  It's really easy to start working on now: https://github.com/isaacs/npm-www/#getting-started

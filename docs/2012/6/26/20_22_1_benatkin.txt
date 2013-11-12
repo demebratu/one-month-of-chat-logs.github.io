@@ -1,0 +1,1 @@
+I love this concept, especially with the improved IO performance in 0.8 https://github.com/visionmedia/search

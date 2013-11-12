@@ -1,0 +1,1 @@
+ya, we are using browserijade with browserify, it's working really nice

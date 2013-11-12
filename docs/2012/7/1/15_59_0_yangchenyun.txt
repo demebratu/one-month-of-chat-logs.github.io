@@ -1,0 +1,1 @@
+Hi, I stumbled upon an intriguing question about the global object in a nodejs module.

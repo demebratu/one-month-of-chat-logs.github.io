@@ -1,0 +1,1 @@
+why initialize a new emitter if you already have one in the top scope?

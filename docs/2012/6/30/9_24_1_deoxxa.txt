@@ -1,0 +1,1 @@
+well that's not the minecraft protocol - that's the gamespy query protocol

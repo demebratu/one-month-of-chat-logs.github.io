@@ -1,0 +1,1 @@
+or do cp.stdin.end('h1 hello')

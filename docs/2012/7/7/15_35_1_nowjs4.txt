@@ -1,0 +1,1 @@
+august1: And how do i hide all the "GET" log messages?

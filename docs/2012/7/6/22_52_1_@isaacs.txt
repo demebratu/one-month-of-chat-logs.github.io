@@ -1,0 +1,1 @@
+Hotroot: ie, pick some maximum length you'll accept.  if the user doens't send you a content-length, then return a 411.  if they send you a CL bigger than your desired size, send them a 413

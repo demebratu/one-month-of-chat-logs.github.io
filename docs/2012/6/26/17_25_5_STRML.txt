@@ -1,0 +1,1 @@
+Deathspike: Depends on your DB, but a simple models/views/controllers stack using Express is really common

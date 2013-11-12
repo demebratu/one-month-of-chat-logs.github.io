@@ -1,0 +1,1 @@
+so i have some javascript that normally runs in the browser that looks like this: var x = "foo"; var y="bar"; I would like to import these declarations into an object in node in order to run some tests on these variables. require will strip these away because they are globals. any idea how i could work around this without rewriting the files in question?

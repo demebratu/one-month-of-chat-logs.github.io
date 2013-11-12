@@ -1,0 +1,1 @@
+just a question... does anyone know if there is a deployment system allready developed using nodejs? i mean something like capistrano or such

@@ -1,0 +1,1 @@
+owen1: Basically a event loop is: while (fd = select()) { dosomestuff(fd) }

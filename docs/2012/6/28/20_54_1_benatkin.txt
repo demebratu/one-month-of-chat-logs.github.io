@@ -1,0 +1,1 @@
+...could uninstall npm when there's a working node but a borked npm installation

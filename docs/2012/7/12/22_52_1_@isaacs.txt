@@ -1,0 +1,1 @@
+creationix: you can't do multi-val as-is, because (success, value=fooSync()) is already valid js

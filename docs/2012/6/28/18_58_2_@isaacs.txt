@@ -1,0 +1,1 @@
+or maybe a local couchdb that he pushes to a cd

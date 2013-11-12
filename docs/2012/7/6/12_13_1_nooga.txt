@@ -1,0 +1,1 @@
+socket server would handle clients in "realtime" two-way communication and the http server would serve some assets 

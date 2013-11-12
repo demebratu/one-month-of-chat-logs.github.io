@@ -1,0 +1,1 @@
+how do you find out what data members net.Socket object has>

@@ -1,0 +1,1 @@
+jesusabdullah: i guess i don't understand something here. in ruby i have multiple instances of my app by running a few thin/unicorn servers. and it doesn't matter if i am on single or multicore.

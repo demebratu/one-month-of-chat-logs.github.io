@@ -1,0 +1,1 @@
+hey, how do i enable  -fexceptions in my binding.gyp file?

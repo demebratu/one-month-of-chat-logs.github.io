@@ -1,0 +1,1 @@
+are there events i can listen for when running vm.runInNewContext to know that the vm has exited?

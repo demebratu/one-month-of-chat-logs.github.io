@@ -1,0 +1,1 @@
+Nexxy: it's super easy to use dnode with shoe: https://github.com/substack/dnode#dnode-in-the-browser

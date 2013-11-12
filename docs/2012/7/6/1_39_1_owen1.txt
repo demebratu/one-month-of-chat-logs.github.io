@@ -1,0 +1,1 @@
+othiym23: ok. so when my callback is being processed my app isn't running. cool. but what about the processing of the io operation itself (getting data from the db, saving a file, etc)? how is that being executed without interfering with the main thread?

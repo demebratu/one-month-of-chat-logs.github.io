@@ -1,0 +1,1 @@
+which I think it is. problem is, "python" is 2.4  "python2.7" is python 2.7, etc. So somehow I need to either alias or change the default "python" path

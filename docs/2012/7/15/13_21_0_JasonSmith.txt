@@ -1,0 +1,1 @@
+I just tried using "constructor" as an object key and it seems to work fine. Obviously you lose the .constructor value from the prototype chain but meh

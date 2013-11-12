@@ -1,0 +1,1 @@
+Raynos: you can also try running the app under gdb directly: "gdb node", and then at gdb prompt "run <node command-line params>"

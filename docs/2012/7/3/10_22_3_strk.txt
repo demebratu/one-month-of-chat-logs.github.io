@@ -1,0 +1,1 @@
+is require('../package') not supported by node-0.4 ?

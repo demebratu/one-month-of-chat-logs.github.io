@@ -1,0 +1,1 @@
+idea is to break out core functionality (such as i2c) into packages

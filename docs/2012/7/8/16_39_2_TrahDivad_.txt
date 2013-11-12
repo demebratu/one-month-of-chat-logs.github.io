@@ -1,0 +1,1 @@
+isaacs: I'm starting to grasp the value it adds. Could you describe in one or two sentences the main costs it adds?

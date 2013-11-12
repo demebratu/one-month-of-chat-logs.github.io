@@ -1,0 +1,1 @@
+newforms has the same problem with inflexibility as Django's (it's still very much a port), but you can do thing at the field level with it in templates

@@ -1,0 +1,1 @@
+prettyrobots: I'm actually writing my own database. I'm building a nosql database on top of leveldb. It doesn't allow multiple operations to be wrapped in a transaction.

@@ -1,0 +1,1 @@
+context: trying to help my friend get nvm/node up and running in osx

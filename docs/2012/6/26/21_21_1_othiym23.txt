@@ -1,0 +1,1 @@
+Deathspike: then try setting NODE_ENV to production in the system properties

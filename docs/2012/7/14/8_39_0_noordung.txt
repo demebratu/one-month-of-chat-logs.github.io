@@ -1,0 +1,1 @@
+Hi guys. I'm trying to build a native extension I wrote for node, but when I require it I get an error like: undefined symbol: _ZN9Tokenizer4s_ctE

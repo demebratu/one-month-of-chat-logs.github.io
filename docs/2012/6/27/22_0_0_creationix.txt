@@ -1,0 +1,1 @@
+if we're willing to tell people they need a main namespace module in their app/package then there is no need for cyclic dependencies

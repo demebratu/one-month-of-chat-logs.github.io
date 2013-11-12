@@ -1,0 +1,1 @@
+So I should make a package.json (google'ing that) and create a html helper to set the version on each resource?

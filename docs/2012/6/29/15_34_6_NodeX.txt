@@ -1,0 +1,1 @@
+nginx is lightning fast at static files so it pays to let it do it's thing

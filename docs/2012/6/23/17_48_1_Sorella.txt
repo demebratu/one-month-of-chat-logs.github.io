@@ -1,0 +1,1 @@
+used to put a semicolon at the end of each file just to be sure, but that's a terrible way of doing such stuff.

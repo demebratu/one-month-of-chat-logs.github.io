@@ -1,0 +1,1 @@
+but all the source code for phantomjs-node is already in the repo that I'm pulling from with git so I assumed I wouldn't need to use npm at all

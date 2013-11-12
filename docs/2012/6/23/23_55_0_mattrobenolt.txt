@@ -1,0 +1,1 @@
+isaacs: Oh, I can escape it. My day job is mostly Python. I CHOOSE to write Javascript.

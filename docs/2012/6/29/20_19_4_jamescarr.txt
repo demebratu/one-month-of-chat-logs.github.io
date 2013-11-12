@@ -1,0 +1,1 @@
+I guess the other option is to simply pause the stream until the first one is completed. Even then, users could call save in a loop, which triggers getting indexed into ES as well

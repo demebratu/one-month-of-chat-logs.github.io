@@ -1,0 +1,1 @@
+[root@Gregorys-MacBook-Air Calendar]$ npm -v

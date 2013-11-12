@@ -1,0 +1,1 @@
+but you can use node-xmpp to make a simple chat bot, can't you? no browsers involved

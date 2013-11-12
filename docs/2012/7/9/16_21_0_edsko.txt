@@ -1,0 +1,1 @@
+there is a /usr/lib/node_modules/azure/lib/azure.js and a /usr/lib/node_modules/azure/bin/azure.js

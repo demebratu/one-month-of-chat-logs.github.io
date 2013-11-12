@@ -1,0 +1,1 @@
+but I have my database defined in the main app.js (var db = require('nano')('localhost:5984/my_couch') ) and now I don't know how my routes files can access my db

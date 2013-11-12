@@ -1,0 +1,1 @@
+if I use buffer.toString('binary') then all 107766 bytes of the image file I'm uploading are in that redis list

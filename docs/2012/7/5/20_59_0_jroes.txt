@@ -1,0 +1,1 @@
+sounds like random 404s, I'm getting http 404 https://registry.npmjs.org/jade/jade/-/jade-0.26.0.tgz

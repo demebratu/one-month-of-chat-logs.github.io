@@ -1,0 +1,1 @@
+@karmaon are you sure its network latency? if you have queries that need to be executed in a blocking manner on the same connection well they have to block each other to maintain expected state. this is useful.

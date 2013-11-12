@@ -1,0 +1,1 @@
+remysharp, npm config set loglevel info

@@ -1,0 +1,1 @@
+isaacs npm is still spamming the console when it finished the installation eventhough I have set the loglevel to silent. Am I missing something here?

@@ -1,0 +1,1 @@
+my ideal language would probably be ruby but compiled or running on the jvm

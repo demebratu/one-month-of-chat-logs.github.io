@@ -1,0 +1,1 @@
+Hi all, I've just started using nodejs + mongodb. This is my really first time and I need to understand where to use correctly the next() function. Is it correct the usage of next() in my code? (just a few lines) https://gist.github.com/73d96d11c64c112e7143

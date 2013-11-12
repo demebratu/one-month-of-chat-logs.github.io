@@ -1,0 +1,1 @@
+adding redisstore causes performance degradation

@@ -1,0 +1,1 @@
+How do I install node & npm in a local /home/USERNAME/node_install folder ?

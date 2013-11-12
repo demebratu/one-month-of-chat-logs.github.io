@@ -1,0 +1,1 @@
+octane-- perhaps, but I can't say for sure. In general, you can catch uncaughtExceptions by doing process.on('uncaughtException', function(err){…}) but it's not good practice to catch uncaughtErrors without then taking some action to fix the state of the application.

@@ -1,0 +1,1 @@
+tjholowaychuk: do you think there is a need/desire for a node based tool that is robust or at least as useful as monit?

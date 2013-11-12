@@ -1,0 +1,1 @@
+mikeal: Have you implemented digest authentication in request yet? :p

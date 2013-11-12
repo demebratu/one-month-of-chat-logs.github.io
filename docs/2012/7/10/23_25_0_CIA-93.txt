@@ -1,0 +1,1 @@
+node: isaacs v0.6.20-release * r952e513 / (ChangeLog src/node_version.h): 2012.07.10 Version 0.6.20 (maintenance) - http://git.io/75L3Nw

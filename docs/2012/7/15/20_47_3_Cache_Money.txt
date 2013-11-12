@@ -1,0 +1,1 @@
+what i'd like to experiment with is have my buddy in another city Telnet into the ip address, and then chat with him

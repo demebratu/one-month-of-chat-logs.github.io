@@ -1,0 +1,1 @@
+the sudo bash thing didn't work either

@@ -1,0 +1,1 @@
+RLa, not sure if i can use  http://en.wikipedia.org/wiki/Server_Name_Indication with the https module. HTTPS seems to be implemented on top of tls and tls has this SNICallback: http://nodejs.org/api/tls.html#tls_tls_createserver_options_secureconnectionlistener

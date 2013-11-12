@@ -1,0 +1,1 @@
+It looks like app.use(express.static(__dirname + '/static')); is screwing GET /socket.io/socket.io.js

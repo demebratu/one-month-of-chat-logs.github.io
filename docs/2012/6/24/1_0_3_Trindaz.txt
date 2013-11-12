@@ -1,0 +1,1 @@
+I installed phantomjs once manually, then once again using brew. Is -g a switch for brew?

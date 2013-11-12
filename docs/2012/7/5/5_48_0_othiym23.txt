@@ -1,0 +1,1 @@
+owen1: the AngularJS tutorial has a bunch of examples of testing with Jasmine in the browser

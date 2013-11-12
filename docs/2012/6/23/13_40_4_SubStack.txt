@@ -1,0 +1,1 @@
+well and socket.io has a bunch of stuff that's very hard to turn off

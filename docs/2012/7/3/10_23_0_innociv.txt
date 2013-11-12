@@ -1,0 +1,1 @@
+Can I set the pidfile in my script instead of using flags?

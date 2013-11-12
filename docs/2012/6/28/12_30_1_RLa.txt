@@ -1,0 +1,1 @@
+for stylus i created special mixins which add it automatically for things like background-image

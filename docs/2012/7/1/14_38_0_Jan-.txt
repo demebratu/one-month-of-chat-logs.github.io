@@ -1,0 +1,1 @@
+Did nobody think it would be a bit problematic to create a "javascript" (or rather sort of javascript-based) interpreter that wouldn't be able to use any preexisting library code at all?

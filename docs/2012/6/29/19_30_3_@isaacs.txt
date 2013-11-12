@@ -1,0 +1,1 @@
+so you can use package.json, and even use the registry

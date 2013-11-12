@@ -1,0 +1,1 @@
+more of a js question, than node specific, but anyone know why the following happens: http://pastebin.com/UzrrjuzP

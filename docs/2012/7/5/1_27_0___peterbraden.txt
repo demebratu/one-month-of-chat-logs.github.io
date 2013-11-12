@@ -1,0 +1,1 @@
+bnoordhuis - how do I link to another library without hardcoding the header paths?

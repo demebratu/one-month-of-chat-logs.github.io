@@ -1,0 +1,1 @@
+ljharb: seems its sinatra/ rails only? or could one integrate this easily in a ruby on rails app also?

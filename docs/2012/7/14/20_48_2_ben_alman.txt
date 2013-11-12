@@ -1,0 +1,1 @@
+i see the --debug in NAVE_CONFIG but nothing i do seems to change this

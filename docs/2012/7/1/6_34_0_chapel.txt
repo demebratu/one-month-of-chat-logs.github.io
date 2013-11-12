@@ -1,0 +1,1 @@
+williamcotton: did you set return_buffers on the one you are doing rpop?

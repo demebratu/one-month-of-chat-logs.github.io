@@ -1,0 +1,1 @@
+So basically I have to treat data as a stream

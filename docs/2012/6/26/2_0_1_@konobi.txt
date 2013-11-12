@@ -1,0 +1,1 @@
+and node already understands the npm package layout iirc

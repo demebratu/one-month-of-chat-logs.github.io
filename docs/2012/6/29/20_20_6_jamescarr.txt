@@ -1,0 +1,1 @@
+how does Mongoose handle this? I noticed you can do all kinds of operations and they don't really happen until you connect

@@ -1,0 +1,1 @@
+Hotroot: was having a similar problem: http://stackoverflow.com/questions/10489168/node-send-large-json-over-net-socket

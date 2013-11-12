@@ -1,0 +1,1 @@
+vrlogrs: the cool thing about async is that you don't need semaphores or locks

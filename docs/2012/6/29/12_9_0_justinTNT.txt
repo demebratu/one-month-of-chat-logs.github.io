@@ -1,0 +1,1 @@
+either move the module or set NODE_PATH to include that /usr/lib64 one.

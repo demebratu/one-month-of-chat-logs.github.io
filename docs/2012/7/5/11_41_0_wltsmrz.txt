@@ -1,0 +1,1 @@
+When did firefox begin to default websocket support, again?

@@ -1,0 +1,1 @@
+bnoordhuis: Me too :) cool.. By the way.. another strange thing.. did then sudo make install, then it seemed to start to compile again and fail again... weird.. one sec, compiling again with that option..

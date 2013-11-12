@@ -1,0 +1,1 @@
+tbranyen: it takes ~140ms to do canvas2dcontext.drawImage and canvas.toDataURL

@@ -1,0 +1,1 @@
+this would probably be a breeze to implement in lua's c bindings

@@ -1,0 +1,1 @@
+I've used promises a *lot* on the client, so it was surprising to see straight-up continuation passing style used instead

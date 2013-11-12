@@ -1,0 +1,1 @@
+Without seeing the code, I'm going to hazard a guess that you have a local variable in your function that has the same name as the one you are trying to access in the outer function

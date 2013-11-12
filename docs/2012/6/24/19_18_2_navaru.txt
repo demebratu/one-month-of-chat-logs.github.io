@@ -1,0 +1,1 @@
+I have a basic js question, would this be the same:     A: Model.prototype.action = function () { ... }      as     B: function action () { ... }; Model.prototype.action = action ?      When using new Model() ... would A create new functions or point to the anonymous ones?

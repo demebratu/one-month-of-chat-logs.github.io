@@ -1,0 +1,1 @@
+do I still need to follow this: https://github.com/glennblock/node-inspector-windows, or should npm install -g node-inspector do everything that should be done?

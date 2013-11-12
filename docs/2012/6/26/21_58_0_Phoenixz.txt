@@ -1,0 +1,1 @@
+tjholowaychuk: Dont see much differences in the history.md file.. Is express 2.5.latest compatible with node v0.8.0?

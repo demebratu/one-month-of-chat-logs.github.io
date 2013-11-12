@@ -1,0 +1,1 @@
+isaacs: --shared-v8 works perfectly fine when I also include --shared-v8-includes=somevalue (doesn't matter what value, it just has to be truthy)

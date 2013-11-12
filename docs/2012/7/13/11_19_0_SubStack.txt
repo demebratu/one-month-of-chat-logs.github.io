@@ -1,0 +1,1 @@
+Number() can take a string value I think

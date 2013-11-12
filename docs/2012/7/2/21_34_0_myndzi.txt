@@ -1,0 +1,1 @@
+i've installed everything by hand, it seems to be stalling on explicit git urls

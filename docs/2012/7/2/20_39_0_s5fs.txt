@@ -1,0 +1,1 @@
+bradleymeck: understood. in this case Zamarok is strugging to compile 0.8.0 so I suggested 0.8.1 as I expect that to be a bit more stable. that being said is there any "odd point releases are unstable" type versioning in node?

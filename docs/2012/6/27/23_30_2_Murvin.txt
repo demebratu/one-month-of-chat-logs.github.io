@@ -1,0 +1,1 @@
+i dunno how i can debug that now.. coz my program was working with 0.6.7 and 0.6.18(or 19), and it is a large program now.

@@ -1,0 +1,1 @@
+hey, what is the best way to prepare a string for using it as a parameter in a process.exec call?

@@ -1,0 +1,1 @@
+austinbv: i usually just make it a package.json 'scripts' member, or install whatever it is globally to use it on the cli

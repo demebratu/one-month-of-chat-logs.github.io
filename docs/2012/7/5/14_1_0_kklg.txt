@@ -1,0 +1,1 @@
+That's from the REPL; when I try in a script I get this: http://pastebin.com/CNijLU3y

@@ -1,0 +1,1 @@
+hi, when using child.exec ( <executable>) how to pass a an arg if the <execuable> requires an option ( yes/no ) to continue?

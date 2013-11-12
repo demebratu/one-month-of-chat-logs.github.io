@@ -1,0 +1,1 @@
+Nuck: json strings can contain almost any unicode character; unicode defines nul as a character; that said, I bet a lot of implementations barf on that.

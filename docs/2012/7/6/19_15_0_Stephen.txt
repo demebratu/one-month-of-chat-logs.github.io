@@ -1,0 +1,1 @@
+Actually, it's loads asynchronously, so it only takes a moment.

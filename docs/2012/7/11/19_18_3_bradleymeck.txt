@@ -1,0 +1,1 @@
+cocacola: look into ObjectWrap and if needed InternalFields

@@ -1,0 +1,1 @@
+kenperkins, I'm working on a model layer for Riak that works on top of the js pure version of Riak-js that has some handy features like easily handling conceptual objects that are actually comprised of multiple riak objects

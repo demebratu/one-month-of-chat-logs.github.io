@@ -1,0 +1,1 @@
+hey guys - very random question:  anyone know how I can initiate a pyton or ruby script to run from node?

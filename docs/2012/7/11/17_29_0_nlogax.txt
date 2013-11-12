@@ -1,0 +1,1 @@
+I have an app with a plugin API, would like to piggyback onto Node's module loader. How can I add a path to the set of paths Node will look in?

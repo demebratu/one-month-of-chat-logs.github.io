@@ -1,0 +1,1 @@
+timoxley: I've run into a lot of code written using exports.blahblabh and less that assigns module.exports

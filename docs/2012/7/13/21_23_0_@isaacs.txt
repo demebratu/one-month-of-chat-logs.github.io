@@ -1,0 +1,1 @@
+hunterloftis: no, don't set npm install as the dir.

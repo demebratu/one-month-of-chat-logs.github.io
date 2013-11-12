@@ -1,0 +1,1 @@
+It'll give you the helpers you desire without you having to extend prototypes and write them yourself

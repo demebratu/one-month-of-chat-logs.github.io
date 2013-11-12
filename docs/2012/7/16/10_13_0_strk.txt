@@ -1,0 +1,1 @@
+there could be an unpleasant side effect of throwing exceptions from http response handlers

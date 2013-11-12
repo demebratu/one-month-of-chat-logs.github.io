@@ -1,0 +1,1 @@
+I also see a big push for Node in the direction of Desktop applications and UI apps. WxWidgets, GTK, OpenGL, CEF, etc.

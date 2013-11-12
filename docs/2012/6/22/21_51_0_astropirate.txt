@@ -1,0 +1,1 @@
+otavio: websockets is a very thin abstraction over regular TCP so w/e you need for a good ol' tcp connecction

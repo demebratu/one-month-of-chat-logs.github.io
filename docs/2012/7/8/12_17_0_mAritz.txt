@@ -1,0 +1,1 @@
+anyone here know why fs.watchFile seems to take somewhere between 1 and 4 seconds until it notices that i touched a file?

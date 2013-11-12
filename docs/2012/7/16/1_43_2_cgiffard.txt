@@ -1,0 +1,1 @@
+Noldorin: I haven't noticed any. Just typing 'locate' will prompt you to start its launchd job

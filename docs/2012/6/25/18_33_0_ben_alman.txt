@@ -1,0 +1,1 @@
+is it possible to, when installing a package with npm, to tell it to ignore version mismatches and to install it anyways?

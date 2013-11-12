@@ -1,0 +1,1 @@
+#3 is ok, but a little less hygenic, and not as simple to install (have to update your bashrc, not just put a script somewhere)

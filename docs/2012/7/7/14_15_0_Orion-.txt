@@ -1,0 +1,1 @@
+why doesn't stream.write() throw an error when the socket write could not be honored ?

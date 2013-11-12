@@ -1,0 +1,1 @@
+node: isaacs v0.8.2-release * ra6a2edb / (AUTHORS ChangeLog src/node_version.h): 2012.07.09, Version 0.8.2 (Stable) - http://git.io/Y915Ow

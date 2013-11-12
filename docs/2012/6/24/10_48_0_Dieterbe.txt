@@ -1,0 +1,1 @@
+is http://learnboost.github.com/cluster/ the same as http://nodejs.org/docs/latest/api/cluster.html ? the api's seem so different

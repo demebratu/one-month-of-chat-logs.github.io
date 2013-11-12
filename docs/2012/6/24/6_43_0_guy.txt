@@ -1,0 +1,1 @@
+This starts server on port 82 and works Okay if accessed through http://, but fails (because of insecure connection) if accessed through https://

@@ -1,0 +1,1 @@
+milani: yeah, that was before node-gyp was really supported as well as it is now.  you should be using a newer 0.6

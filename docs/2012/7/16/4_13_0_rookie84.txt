@@ -1,0 +1,1 @@
+owen1: thanks for answering, I really don't understand how node.js works like what kind of apps would it create? :)

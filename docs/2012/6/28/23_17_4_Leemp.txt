@@ -1,0 +1,1 @@
+npm won't let you upload a package that sets itself as a dependancy anyway

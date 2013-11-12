@@ -1,0 +1,1 @@
+http://pastebin.com/412nqxZU  I am trying to extend the Array object (yes, I know, bad, horrible, want to do it anyway, I want a normal .remove() method), but its not working.. Extending String works w/o problem, but Array not.. why? See http://pastebin.com/412nqxZU

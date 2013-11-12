@@ -1,0 +1,1 @@
+Node.js is recommended for app that involves bank accounts and money? is secure?

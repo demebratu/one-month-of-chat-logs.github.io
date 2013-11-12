@@ -1,0 +1,1 @@
+Hi ppl. I'm trying to learn Node.js from a Rails background and I have a question: how do production projects handle database migrations? I've seen node-migrate that looks like Rails migrate for relational-databases but only supports MySQL, and then I've read about the "magic" of NoSQL/MangoDB automatic migrations.

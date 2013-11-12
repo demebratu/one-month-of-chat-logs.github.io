@@ -1,0 +1,1 @@
+does read () send the no. of bytes to be read

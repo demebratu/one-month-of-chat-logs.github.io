@@ -1,0 +1,1 @@
+as you can see, i am setting the databse twice, if i don't do that, the second query will fail, telling me that the databse isn't set

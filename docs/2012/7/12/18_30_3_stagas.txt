@@ -1,0 +1,1 @@
+Deathspike: still you can check the node's element and see if it's a div

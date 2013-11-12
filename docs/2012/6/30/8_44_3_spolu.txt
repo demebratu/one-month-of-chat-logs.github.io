@@ -1,0 +1,1 @@
+deoxxa: http://github.com/spolu/envi not quite finished yet at all but if you like vi and dwm, I hope you'll give it a try :)

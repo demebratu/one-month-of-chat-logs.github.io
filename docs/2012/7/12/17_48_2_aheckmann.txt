@@ -1,0 +1,1 @@
+TrahDivad_: you have to manually run your query and wait to send the response until after it returns

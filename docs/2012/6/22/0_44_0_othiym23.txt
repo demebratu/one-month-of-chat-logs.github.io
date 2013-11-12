@@ -1,0 +1,1 @@
+EvilPacket: is there anything stopping you from using a child process to run openssl to generate your certs?

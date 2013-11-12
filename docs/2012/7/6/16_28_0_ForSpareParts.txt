@@ -1,0 +1,1 @@
+Hi, everyone. I'm new to Node and I was thinking about making a simple blog app to hack on -- something that exposes a JSON API and then does all its interesting rendering client-side, perhaps with Ember. Any recommendations for databases, modeling tools, frameworks, that sort of thing?

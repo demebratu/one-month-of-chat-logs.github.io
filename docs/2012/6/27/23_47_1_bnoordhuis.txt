@@ -1,0 +1,1 @@
+Murvin: try the principle of exclusion, i.e. does your app /not/ crash when you don't load add-on x

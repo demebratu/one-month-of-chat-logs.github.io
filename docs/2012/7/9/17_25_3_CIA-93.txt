@@ -1,0 +1,1 @@
+node: isaacs v0.8 * ra4da630 / doc/blog/release/v0.8.2.md : v0.8.2 blog post - http://git.io/bvkBNw

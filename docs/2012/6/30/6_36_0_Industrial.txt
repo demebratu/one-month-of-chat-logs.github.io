@@ -1,0 +1,1 @@
+I used substack's Seq to implement this function that recursively loads each node in each dir in parallel, eventually returning the dir tree as a nested object so I can 'res.send templates.admin.index env'

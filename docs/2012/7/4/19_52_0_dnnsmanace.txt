@@ -1,0 +1,1 @@
+i am trying to send an emoji icon in node and it crashes the whole thing

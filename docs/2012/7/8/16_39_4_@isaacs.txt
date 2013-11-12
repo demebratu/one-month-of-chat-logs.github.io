@@ -1,0 +1,1 @@
+TrahDivad_: debugging, context-switching, confusing behavior around var scope, and if you use any non-trivial features, the JS it generates is unintelligible and strange.

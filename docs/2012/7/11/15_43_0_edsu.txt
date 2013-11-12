@@ -1,0 +1,1 @@
+can someone help me figure out why my npm package installs but is not requirable? http://search.npmjs.org/#/wikichanges

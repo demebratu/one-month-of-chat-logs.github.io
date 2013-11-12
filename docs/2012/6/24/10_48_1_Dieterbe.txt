@@ -1,0 +1,1 @@
+btw what i was actually looking for, is a way to kill all children when the parent receives sigterm.

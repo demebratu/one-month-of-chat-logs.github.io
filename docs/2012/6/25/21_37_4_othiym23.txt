@@ -1,0 +1,1 @@
+arcanis: so why would you need to store the length at memoization time?

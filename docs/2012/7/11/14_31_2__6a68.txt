@@ -1,0 +1,1 @@
+it just seems...funny? to me that such a concept isn't furnished by node itself

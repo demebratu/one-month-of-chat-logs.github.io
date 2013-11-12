@@ -1,0 +1,1 @@
+we have a caching local dns w/o rate limit, no errors logged and everyone else in the system works great

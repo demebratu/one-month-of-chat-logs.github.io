@@ -1,0 +1,1 @@
+owen1: node uses libuv as bindings that are wrapped in a JS api. http://www.2bs.nl/nodeconf2012/#1 for more info

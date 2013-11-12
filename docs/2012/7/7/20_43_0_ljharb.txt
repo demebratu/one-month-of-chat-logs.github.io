@@ -1,0 +1,1 @@
+nakkor: if it's a date object, foo instanceof Date should absolutely work

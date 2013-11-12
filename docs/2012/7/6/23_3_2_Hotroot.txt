@@ -1,0 +1,1 @@
+If I set encoding type to string, do I still have to worry about this buffer junk, or will it wait for the string to end?

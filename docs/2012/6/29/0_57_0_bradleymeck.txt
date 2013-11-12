@@ -1,0 +1,1 @@
+working with xml in anything is painful, it is only xml libs that mitigate using DOM Level2 in Java

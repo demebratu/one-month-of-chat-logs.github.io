@@ -1,0 +1,1 @@
+jesusabdullah: and streamparser() doesn't emit any delete or _delete events just the same.

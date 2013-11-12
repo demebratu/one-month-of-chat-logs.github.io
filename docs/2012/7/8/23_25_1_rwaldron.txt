@@ -1,0 +1,1 @@
+Im having a hardtime with this "blind faith" attitude. Strings don't hold references to eachother - but because vyacheslav said they do, should we now also believe that?

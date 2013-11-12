@@ -1,0 +1,1 @@
+bwen: your scripts {} is NOT a command to be ran

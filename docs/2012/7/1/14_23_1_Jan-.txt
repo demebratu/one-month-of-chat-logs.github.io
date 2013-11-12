@@ -1,0 +1,1 @@
+I suppose I can check if require('fs') returns something useful

@@ -1,0 +1,1 @@
+isaacs: have you ever thought of adding the ability for npm to add local npm binaries to $path?

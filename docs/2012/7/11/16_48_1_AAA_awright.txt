@@ -1,0 +1,1 @@
+Not even that it's runtime, it's that you have to assign the function to a variable, instead of a name

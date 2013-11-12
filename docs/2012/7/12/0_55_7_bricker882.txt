@@ -1,0 +1,1 @@
+What about this question: Once a node server is running, if I theoretically removed the node_modules directory, would that cause immediate problems?

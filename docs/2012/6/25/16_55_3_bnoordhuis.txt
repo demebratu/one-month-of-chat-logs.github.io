@@ -1,0 +1,1 @@
+tbranyen: using uncaughtException for that is like using a chainsaw to clip your toenails

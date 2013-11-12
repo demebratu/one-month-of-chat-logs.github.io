@@ -1,0 +1,1 @@
+motiooon_ this should get you started http://stackoverflow.com/questions/6926016/nodejs-saving-a-base64-encoded-image-to-disk

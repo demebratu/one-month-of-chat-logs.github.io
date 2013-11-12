@@ -1,0 +1,1 @@
+So does that mean socket.io can now handle redis as just another transport for server-server communication alongside the server-client transports?

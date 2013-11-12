@@ -1,0 +1,1 @@
+Phoenixz: I think you'd need to check what your `this` is in that function

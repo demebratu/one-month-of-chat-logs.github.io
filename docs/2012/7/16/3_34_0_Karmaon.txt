@@ -1,0 +1,1 @@
+SkareCrow, no, every query is added to the queue

@@ -1,0 +1,1 @@
+eg. function one(next) { doSomethingAsync(function() { next(); }); }

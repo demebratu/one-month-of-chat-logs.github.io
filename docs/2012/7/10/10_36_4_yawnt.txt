@@ -1,0 +1,1 @@
+cause these are the same guys that explained how js classes are called prototypes

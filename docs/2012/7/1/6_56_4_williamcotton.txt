@@ -1,0 +1,1 @@
+if I do client.lpush(key + "-data", buffer.toString(), function(err, reply) {

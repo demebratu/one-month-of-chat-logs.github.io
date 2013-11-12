@@ -1,0 +1,1 @@
+whats the v8 command to see whether its installed?

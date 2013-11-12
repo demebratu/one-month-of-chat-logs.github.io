@@ -1,0 +1,1 @@
+why even use javascript, you might make a typo

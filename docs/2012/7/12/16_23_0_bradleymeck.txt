@@ -1,0 +1,1 @@
+Deathspike: JS does not have a DOM, DOM is a standard for multiple Languages, ppl just associate it with JS because of browsers

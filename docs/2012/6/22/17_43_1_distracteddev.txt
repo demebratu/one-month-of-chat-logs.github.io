@@ -1,0 +1,1 @@
+If I needed to schedule a function that needs to be run 24 hours from now, how would I do that? I cannot simply use a setTimeout because the process is not guaranteed to live that long

@@ -1,0 +1,1 @@
+ideas on what could go wrong between "HTTP: outgoing message end" and actually sending it ?

@@ -1,0 +1,1 @@
+Has anyone else experienced problems with socket.io in node 0.8 and the clientside 'io' object not getting set?

@@ -1,0 +1,1 @@
+So you're going to get an ordered sequence of events. You're not dealing with the threadpool here.

@@ -1,0 +1,1 @@
+benatkin: does it fire a header event? i haven't dug far enough into his code to find out

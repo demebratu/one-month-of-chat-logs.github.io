@@ -1,0 +1,1 @@
+such as .. function (cb){ check_system_resource(<res_name>) { cb(null,true); } }

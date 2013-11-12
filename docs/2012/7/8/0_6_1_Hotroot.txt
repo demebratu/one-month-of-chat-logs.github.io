@@ -1,0 +1,1 @@
+So if I buffer.write("string", "ascii"); do I still have to buffer.toString, or can I just do mystring = buffer or something like that?

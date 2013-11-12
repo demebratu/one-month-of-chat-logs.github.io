@@ -1,0 +1,1 @@
+ashnur, just taking a peak the line giving the error is trying to trim a line from stdin

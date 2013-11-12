@@ -1,0 +1,1 @@
+I'm just not going to completely rewrite the entire object structure of my code so it works in Node.

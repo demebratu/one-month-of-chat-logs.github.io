@@ -1,0 +1,1 @@
+isaacs: this isn't for a package that will ever be published as an npm module

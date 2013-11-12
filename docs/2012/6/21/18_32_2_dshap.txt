@@ -1,0 +1,1 @@
+AAA_awright: with a different value for "i" in each definition?

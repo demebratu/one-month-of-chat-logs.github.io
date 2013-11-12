@@ -1,0 +1,1 @@
+all I can say is spozed to use not gpl and spozed to cache in memory ... couchdb seems big compared to redis but still fast

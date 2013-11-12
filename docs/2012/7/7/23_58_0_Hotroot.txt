@@ -1,0 +1,1 @@
+Then what's the point of buffer.fill(0) if it's all just a clump of data?

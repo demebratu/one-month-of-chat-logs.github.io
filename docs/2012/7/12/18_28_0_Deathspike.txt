@@ -1,0 +1,1 @@
+stagas: That implements cheerio-soupselect, which is an outdated thing of what cheerio itself implements, and I can't find it there either.

@@ -1,0 +1,1 @@
+one eats 100% of given cpu core's time, one doesn't use any

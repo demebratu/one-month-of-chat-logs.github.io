@@ -1,0 +1,1 @@
+Everyauth question: I want to register different types of users and so I need different registerViews. Is there any way to do that?

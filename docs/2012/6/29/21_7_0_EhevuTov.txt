@@ -1,0 +1,1 @@
+for instance, Unix is mostly written in C, which lends to these small programs that pipe to other programs

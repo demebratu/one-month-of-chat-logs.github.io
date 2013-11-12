@@ -1,0 +1,1 @@
+and probably using async.series would be something like that

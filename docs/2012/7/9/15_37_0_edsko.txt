@@ -1,0 +1,1 @@
+context: ok, installed the new version of nodejs and npm, and reinstalled azure. Now I have a /usr/bin/azure, but when I run it I get

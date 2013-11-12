@@ -1,0 +1,1 @@
+for in loops will loop through non-native functions added to the array prototype

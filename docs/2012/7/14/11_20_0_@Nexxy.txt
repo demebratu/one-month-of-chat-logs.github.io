@@ -1,0 +1,1 @@
+saschagehlich, he recommends piping your json through jsmin if you really need comments

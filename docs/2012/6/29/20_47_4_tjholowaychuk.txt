@@ -1,0 +1,1 @@
+our entire app is regular node modules now in ./lib to differenciate from regular ./node_module deps

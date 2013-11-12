@@ -1,0 +1,1 @@
+the description says "Run the supplied function in the context of the domain, implicitly binding all event emitters, timers, and lowlevel requests that are created in that context." but I'm not sure if that should cover every callback possible

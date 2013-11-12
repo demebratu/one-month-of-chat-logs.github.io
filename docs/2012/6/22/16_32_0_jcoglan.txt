@@ -1,0 +1,1 @@
+I just ran `npm install vault` and it has no lib directory

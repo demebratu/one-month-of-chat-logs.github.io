@@ -1,0 +1,1 @@
+or does callback() imply the end of that function?

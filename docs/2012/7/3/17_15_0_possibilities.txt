@@ -1,0 +1,1 @@
+ok, cool, problem is i don't have control over what's in the bash script, so i guess i have to go spelunking in `ps` output to find all the child pids?

@@ -1,0 +1,1 @@
+and the functions that Map, Set, and WeakMap DO have are API stable

@@ -1,0 +1,1 @@
+Piotras: note that in short-lived scripts it probably never gets invoked

@@ -1,0 +1,1 @@
+I just grabbed node v0.8.2, I go to ./configure, and I get a syntax error.  Did node jump to a new python version?

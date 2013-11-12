@@ -1,0 +1,1 @@
+I'm trying to loop over all the clients in a socket.io room, and for each of them, do a client.get('gizmo', function () {}), building up an array of all the gizmos.  I cannot figure out how to do this because the client.get is async.  how do you know when the loop and each callback has finished?

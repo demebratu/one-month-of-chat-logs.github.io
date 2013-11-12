@@ -1,0 +1,1 @@
+i have some programs that depends on node and some global modules being on the path, the problem i have with nvm is that if i use it i can setup my bash profile to load nvm at the start of bash but i dont have a node version on the path..

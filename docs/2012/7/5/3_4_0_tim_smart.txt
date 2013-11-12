@@ -1,0 +1,1 @@
+_Tristan: If you are a fan of globally, you can export the npm directory to your NODE_PATH

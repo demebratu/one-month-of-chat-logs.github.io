@@ -1,0 +1,1 @@
+timoxley: I def. agree that you should use ONE of module.exports or assigning values to exports.*

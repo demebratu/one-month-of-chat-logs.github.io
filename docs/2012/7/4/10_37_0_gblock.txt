@@ -1,0 +1,1 @@
+Trindaz: we also have a mock server in our azure module tests that you could pull. It basically sets up a proxy and lets you record request / responses.

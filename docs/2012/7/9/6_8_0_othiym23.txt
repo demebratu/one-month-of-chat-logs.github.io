@@ -1,0 +1,1 @@
+yeah, being able to run tests without the test-runner is pretty sweet

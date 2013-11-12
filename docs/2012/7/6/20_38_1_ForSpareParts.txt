@@ -1,0 +1,1 @@
+dmilith: Yeah, I'll check out that stack. I notice redis is a KVS -- this is reminding me of my NoSQL deficiencies. Any really good explanations of how to do cool shit with NoSQL you could recommend?

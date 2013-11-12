@@ -1,0 +1,1 @@
+So you are suggesting to have one fucntion but a flag for sync vs async? or just async only?

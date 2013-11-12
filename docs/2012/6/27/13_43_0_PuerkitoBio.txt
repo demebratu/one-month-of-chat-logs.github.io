@@ -1,0 +1,1 @@
+FYI, app.use(app.router) allows you to control the position of the router middleware in the list of Express middleware

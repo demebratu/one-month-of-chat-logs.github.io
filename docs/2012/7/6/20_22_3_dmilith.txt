@@ -1,0 +1,1 @@
+{ [Error: EEXIST, symlink './dupa'] errno: 47, code: 'EEXIST', path: './dupa' }

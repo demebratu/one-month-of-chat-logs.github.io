@@ -1,0 +1,1 @@
+I've just created a fresh express app. And when I call res.sendFile(blah) in one of my routes I get: TypeError: Object #<ServerResponse> has no method 'sendFile'

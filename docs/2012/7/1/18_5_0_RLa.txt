@@ -1,0 +1,1 @@
+no, because that would be the function not its invocation

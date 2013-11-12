@@ -1,0 +1,1 @@
+does anyone using the v8 debugger? node debug server.js ?   how to print variables?

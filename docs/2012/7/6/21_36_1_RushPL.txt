@@ -1,0 +1,1 @@
+like ctrl+c, I say use undocumented API ;-) it's not the first time it changes.

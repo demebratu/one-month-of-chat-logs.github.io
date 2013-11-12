@@ -1,0 +1,1 @@
+I'm having trouble pulling out POST from the request. I also need to get my head around doing it async

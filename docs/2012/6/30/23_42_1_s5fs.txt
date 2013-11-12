@@ -1,0 +1,1 @@
+niteshade: the alias just tells the configure script where to find the python program, nothing too fancy

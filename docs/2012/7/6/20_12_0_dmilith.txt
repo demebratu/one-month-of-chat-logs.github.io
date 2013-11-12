@@ -1,0 +1,1 @@
+I have such simple sh script bin/app which just checks for requirements, launches redis and then node svr

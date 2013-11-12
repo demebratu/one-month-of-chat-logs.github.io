@@ -1,0 +1,1 @@
+vrlogrs: So you need to break your code up into pieces, and assemble them with some flow control. Things like the seq or async module,  which let you say "first do this" or "first do these", then do this, then do that, at a higher level than most languages do.

@@ -1,0 +1,1 @@
+looks like you could do a python http server with inline c++/assembly to make a webapp in assembly

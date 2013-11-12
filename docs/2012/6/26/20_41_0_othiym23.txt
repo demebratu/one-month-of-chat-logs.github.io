@@ -1,0 +1,1 @@
+Deathspike: less flippantly, once you wrap your head around the way Node / JS do things and learn to trust duck typing (and write looooooots of tests), you end up with a lot of short, relatively DRY route handlers calling from a smallish library of helper functions

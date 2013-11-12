@@ -1,0 +1,1 @@
+mmalecki, variable is created with v8 API with v8::Array::New so it's array of objects 

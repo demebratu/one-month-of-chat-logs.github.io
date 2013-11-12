@@ -1,0 +1,1 @@
+in fact I'm complementing the fact that it JS allows the dev to use many different paradigms

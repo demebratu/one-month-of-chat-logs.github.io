@@ -1,0 +1,1 @@
+sooo... anyone know if and how its possible to define virtual attributes/columns on models in jugglingdb?

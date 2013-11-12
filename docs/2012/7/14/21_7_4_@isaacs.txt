@@ -1,0 +1,1 @@
+right, so, #4 is: `which node` is a symlink to /path/to/version/bin/node

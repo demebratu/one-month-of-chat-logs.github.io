@@ -1,0 +1,1 @@
+Ok… but is it the kind of setup I could really do during an npm install ? Or call in a child process?

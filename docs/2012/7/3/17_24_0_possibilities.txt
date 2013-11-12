@@ -1,0 +1,1 @@
+alex4nder or others: come to think of it, when i run said bash script manually and kill it using crtl + c it and all of it's subprocesses die. i wonder why starting spawning it in node doesn't work the same way?

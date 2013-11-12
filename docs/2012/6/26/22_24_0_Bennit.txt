@@ -1,0 +1,1 @@
+how do you write to node-inspector's console?

@@ -1,0 +1,1 @@
+but anyways, i love the idea of nave prepending the proper local install dir to the path

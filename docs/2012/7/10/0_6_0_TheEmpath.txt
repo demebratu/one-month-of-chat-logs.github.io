@@ -1,0 +1,1 @@
+i went from procedural to oo to protoype and i find prototype to be the most flexible

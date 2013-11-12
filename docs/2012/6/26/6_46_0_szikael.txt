@@ -1,0 +1,1 @@
+is there any easy way to update node.js or shell i delete old one an install new one 

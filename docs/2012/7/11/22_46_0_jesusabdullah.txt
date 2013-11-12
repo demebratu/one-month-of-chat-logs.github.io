@@ -1,0 +1,1 @@
+hook.io also uses dnode under the hood to expose callbacks so you don't have to implement a call/response protocol

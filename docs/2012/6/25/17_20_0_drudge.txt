@@ -1,0 +1,1 @@
+isaacs: any optimizations for this? https://gist.github.com/2989972

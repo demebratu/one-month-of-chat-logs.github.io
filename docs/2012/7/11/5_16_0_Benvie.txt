@@ -1,0 +1,1 @@
+I did that thought too. function execSync(cmd){ exec(cmd + ' >& copy done'); while (!fs.existsSync('done')); }

@@ -1,0 +1,1 @@
+SubStack: well, i'd say, curation belongs at the app level, not the library level, and i don't htink that there should be any other levels.

@@ -1,0 +1,1 @@
+and "build/Release" for a normal built

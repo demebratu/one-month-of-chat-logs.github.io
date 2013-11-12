@@ -1,0 +1,1 @@
+is it that multiple functions executing in async cannot execute at the same time but one after another, altho order cannot be guaranteed ?

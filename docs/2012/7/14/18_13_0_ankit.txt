@@ -1,0 +1,1 @@
+Do someone know how to play better with ejs framework in nodejs

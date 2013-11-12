@@ -1,0 +1,1 @@
+hey all, do i have to run node.js from my own server, or are there any hosts who can run it for me?

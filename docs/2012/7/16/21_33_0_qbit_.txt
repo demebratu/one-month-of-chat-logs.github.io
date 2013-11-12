@@ -1,0 +1,1 @@
+isaacs: thanks.. guess i will make a list of the submodules my private packages need .. filter only those into my couch repo.. and then do a --registry dance for the rest..

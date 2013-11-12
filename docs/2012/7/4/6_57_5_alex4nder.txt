@@ -1,0 +1,1 @@
+cconstantine: with node fibers you can avoid coding like that

@@ -1,0 +1,1 @@
+Trying to install node on smartos

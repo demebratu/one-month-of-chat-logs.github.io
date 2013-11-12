@@ -1,0 +1,1 @@
+At the very end, objects are just special types of data. It helps if they have a well defined interface too.

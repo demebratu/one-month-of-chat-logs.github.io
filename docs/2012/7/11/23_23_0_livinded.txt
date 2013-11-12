@@ -1,0 +1,1 @@
+if they end up reloading the url is still correct and you can send them the page they are supposed to see

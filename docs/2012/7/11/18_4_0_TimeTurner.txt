@@ -1,0 +1,1 @@
+that's how events are performed. whenever you want to notify the listeners of a particular event that something has happened you have to explicitly emit an event before/during/or after it happens

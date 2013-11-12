@@ -1,0 +1,1 @@
+lotsa small, focused bits of functionality over monolithic abstractions

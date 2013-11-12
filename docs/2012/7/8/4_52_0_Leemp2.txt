@@ -1,0 +1,1 @@
+airportyh: Any idea about OS compatibility with USERPROFILE? (is it the same for xp, etc?)

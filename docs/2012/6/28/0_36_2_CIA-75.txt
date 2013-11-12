@@ -1,0 +1,1 @@
+node: Shigeki Ohtsu master * r60ff789 / LICENSE : LICENSE: update Closure Linter to Apache 2.0 - http://git.io/VzQTwg

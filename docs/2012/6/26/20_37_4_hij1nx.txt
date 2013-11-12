@@ -1,0 +1,1 @@
+mmalecki: I'm not going to write dtrace scripts just to emulate what node-pcap does perfectly well

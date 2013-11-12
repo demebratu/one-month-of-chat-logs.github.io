@@ -1,0 +1,1 @@
+Deathspike: it's a strong JavaScript convention to reserve initial caps for Constructor functions

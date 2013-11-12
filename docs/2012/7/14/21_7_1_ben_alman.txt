@@ -1,0 +1,1 @@
+benatkin: the problem is that if you're running multiple node-related tasks concurrently something in a nother shell might all of a sudden start using the wrong version of node

@@ -1,0 +1,1 @@
+I'm having weird problem, I use this code https://gist.github.com/9811a7969e4411797c1b to send an email via SendGrid but nothing happens, callback does not get fired

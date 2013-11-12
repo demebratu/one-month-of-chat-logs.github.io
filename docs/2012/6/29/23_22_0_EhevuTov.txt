@@ -1,0 +1,1 @@
+dsirijus, you should have a dir return from 'echo $NODE_PATH'

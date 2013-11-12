@@ -1,0 +1,1 @@
+I've seen some people writing a function that wraps decodeURIComponent in try/catch. The function is called and returns the same as decodeURIComponent. There's basically no reason for it.

@@ -1,0 +1,1 @@
+robx: no, I am looking it up in Drupal via a REST server (using restler for that)

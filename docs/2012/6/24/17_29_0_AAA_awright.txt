@@ -1,0 +1,1 @@
+mmalecki: Because it started out as a load of crap and I haven't bothered with it ever since, I prefer Git anyways, since submodules preserve revision history not only for your project but the links between what you use and their histories. Listing dependencies in a package.json necessarily can't do that.

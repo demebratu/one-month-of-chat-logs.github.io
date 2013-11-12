@@ -1,0 +1,1 @@
+we have an account, which has many users, who have many windows open at the same time. if the unique id is generated per browser window/tab, we can send messages to all users on an account, one specific user on an account, or even one window for one user on an account

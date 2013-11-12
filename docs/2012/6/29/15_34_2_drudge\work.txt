@@ -1,0 +1,1 @@
+Ded: you can omit the static handling and just proxy everything

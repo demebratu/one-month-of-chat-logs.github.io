@@ -1,0 +1,1 @@
+What do you think about a server monitoring system (ala. nagios) made in node? :p

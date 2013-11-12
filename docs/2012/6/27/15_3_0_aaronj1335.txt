@@ -1,0 +1,1 @@
+sabermonk: i didn't ask how to install node on windows :) i found a bug in process.argv, and i'd like to see if i can submit a patch instead of just a PR

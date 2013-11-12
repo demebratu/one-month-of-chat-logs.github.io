@@ -1,0 +1,1 @@
+dsirijus: hah, yeah. that might. honestly it might be simpler to figure out now how to route all static files through nginx.

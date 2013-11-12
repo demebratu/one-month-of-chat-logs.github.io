@@ -1,0 +1,1 @@
+You can always put your tasks in some persistence layer and reload them on start.

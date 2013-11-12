@@ -1,0 +1,1 @@
+arcanis: sounds like you should be wrapping some kind of lazy stream around the API crawl in the first place

@@ -1,0 +1,1 @@
+just was wondering if somebody packaged that type of thing into a lib already

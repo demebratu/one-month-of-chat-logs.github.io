@@ -1,0 +1,1 @@
+at this point in res.send() HEAD is still correct so it's definitely curl

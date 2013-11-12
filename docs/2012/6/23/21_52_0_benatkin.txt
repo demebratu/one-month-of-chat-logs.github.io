@@ -1,0 +1,1 @@
+simonadameit: hmm, well I'd grab the source and use the vm api to isolate it

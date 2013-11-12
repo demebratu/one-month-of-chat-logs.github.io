@@ -1,0 +1,1 @@
+fx: It's very popular and allows you to send real-time messages to any browser, any device, etc. Exactly as you would with websockets, the client basically tries to use websockets, and falls back to other methods when it doesn't have that.

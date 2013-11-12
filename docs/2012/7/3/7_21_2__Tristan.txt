@@ -1,0 +1,1 @@
+there's no reason why the two nodes shouldn't be peers. There's no reason why a client should be allowed to run remote functions, but not the other way around.

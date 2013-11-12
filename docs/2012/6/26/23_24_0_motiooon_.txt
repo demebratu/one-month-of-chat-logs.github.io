@@ -1,0 +1,1 @@
+how do I serve back an image in response ?

@@ -1,0 +1,1 @@
+iirc, Mocha is one of many libraries that try to detect the run environment, which conflicts with Browserify

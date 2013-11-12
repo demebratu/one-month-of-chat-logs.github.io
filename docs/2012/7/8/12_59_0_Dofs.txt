@@ -1,0 +1,1 @@
+Hi all, I am pretty new to Node.js. I am thinking of making a WebCrawler in Node.js, but is this a wrong tool for the job. Would node.js be bad, since I need to crunch the results from the crawler?

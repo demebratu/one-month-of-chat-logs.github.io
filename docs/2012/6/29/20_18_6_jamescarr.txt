@@ -1,0 +1,1 @@
+I mean, indexes all instances of that model

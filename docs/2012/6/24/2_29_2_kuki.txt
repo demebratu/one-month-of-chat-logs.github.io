@@ -1,0 +1,1 @@
+this is the way i render the partial in my view: !=partial('views/room_list_view', {room:room})

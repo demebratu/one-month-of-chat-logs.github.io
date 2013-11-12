@@ -1,0 +1,1 @@
+How would I get the full request URL on express from the req. object?

@@ -1,0 +1,1 @@
+TimothyFitz: ie, if you didn't stop it, your application would get killed before your code would run.

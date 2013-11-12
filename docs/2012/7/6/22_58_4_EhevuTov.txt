@@ -1,0 +1,1 @@
+Hotroot, you could prefix your stream with a size. Like, make the first byte of your payload the size, and if it goes over that size, then disconnect

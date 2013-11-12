@@ -1,0 +1,1 @@
+but this slim_test.js doesnt have any require('express') its just the code i pastebin'ed - from your one

@@ -1,0 +1,1 @@
+mAritz there's "border-radius: top 5px" and "absoluite"

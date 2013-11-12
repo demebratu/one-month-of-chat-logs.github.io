@@ -1,0 +1,1 @@
+I have geddy and jake installed via npm. But when I try to run geddy, it cannot find the command jake.

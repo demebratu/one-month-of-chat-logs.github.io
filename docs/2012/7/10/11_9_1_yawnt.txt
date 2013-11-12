@@ -1,0 +1,1 @@
+how can you have an oauth provider that totally abstracts the model logic?

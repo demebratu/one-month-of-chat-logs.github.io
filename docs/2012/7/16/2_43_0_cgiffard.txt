@@ -1,0 +1,1 @@
+timoxley: how does chai catch the thrown error to run the test?

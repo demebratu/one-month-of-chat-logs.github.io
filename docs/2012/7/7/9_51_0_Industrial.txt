@@ -1,0 +1,1 @@
+I want to move my static js dirs to public/js/jam/require.js where I have my app.js at public/js/app.js

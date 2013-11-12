@@ -1,0 +1,1 @@
+and runvnc just looking at nowjs - that means i can set a function that will be passed and evalled on the server, that will run in the server's context? that's a huge security hole

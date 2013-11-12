@@ -1,0 +1,1 @@
+my goal was to allow drag-and-drop execution, and then let them delete from history

@@ -1,0 +1,1 @@
+Nope… I reaaaally don't want control over any machine. I'm building the project so that it's deployable on most cloud services (including heroku and other PaaS)

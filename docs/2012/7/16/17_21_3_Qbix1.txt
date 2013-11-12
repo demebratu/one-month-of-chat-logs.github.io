@@ -1,0 +1,1 @@
+but the question is, socket.io chooses transport based on browser

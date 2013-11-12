@@ -1,0 +1,1 @@
+prettyrobots: process.stdout.write('\033[0G')

@@ -1,0 +1,1 @@
+Well I was asking that once the user connects to the whole node server, is there a way to do setUsername for the whole socket and not for each namespace or will it persist over both?

@@ -1,0 +1,1 @@
+i could write to file, but i guess thats extra work and not sure how would that perform with lots of people using the app

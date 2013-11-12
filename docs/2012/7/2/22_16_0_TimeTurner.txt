@@ -1,0 +1,1 @@
+do you have code for socket.io to query redis for the session stuff where connect-redis stores it?

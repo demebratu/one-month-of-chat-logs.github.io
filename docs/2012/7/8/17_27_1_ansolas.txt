@@ -1,0 +1,1 @@
+ throw arguments[1]; // Unhandled 'error' event

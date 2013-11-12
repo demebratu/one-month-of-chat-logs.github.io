@@ -1,0 +1,1 @@
+radiodario: there's a command for that, `npm rebuild`

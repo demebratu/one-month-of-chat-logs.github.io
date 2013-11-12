@@ -1,0 +1,1 @@
+whats with the "export JOBS=2" in all the "how to install node" tutorials?

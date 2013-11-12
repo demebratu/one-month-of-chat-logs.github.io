@@ -1,0 +1,1 @@
+Nuck oddly this thing i had is faster than the zmq bindings right now hahaha

@@ -1,0 +1,1 @@
+SwiftAppDesign: it sends something to the browser, just make whatever it sends to the browser a script that queries back to the server it came from

@@ -1,0 +1,1 @@
+I don't know about Arm, (I cross-compiled for a PalmOS using gcc back in '98) but if you can't find an answer here, you might want to look there

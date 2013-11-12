@@ -1,0 +1,1 @@
+guy: I'm saying, the object being passed to processTweet doesn't have a delete property on it

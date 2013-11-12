@@ -1,0 +1,1 @@
+TehShrike: so when i call an async i/o this i/o is being executed in ANOTHER thread. not the main thread and the callback is executed in the MAIN thread.

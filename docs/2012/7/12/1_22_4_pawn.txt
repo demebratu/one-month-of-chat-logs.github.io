@@ -1,0 +1,1 @@
+llrcombs_: my controller modules are required using a helper global called Controller. It works liek this:   app.get('/somewhere/over/the/rainbow', Controller('rainbow').getSomewhere);

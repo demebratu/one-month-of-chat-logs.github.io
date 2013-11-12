@@ -1,0 +1,1 @@
+it's really annoying to have both http and https versions of your app otherwise

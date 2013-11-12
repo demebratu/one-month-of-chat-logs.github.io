@@ -1,0 +1,1 @@
+Also, does socket.data go off when the incoming data starts, or when it has been fully read into the buffer?

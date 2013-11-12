@@ -1,0 +1,1 @@
+ljharb: Whitespace in XML has well-defined behavior. Variable typing isn't supposed to be applied to markup languages, only serialization formats, which JSON is, which XML is not.

@@ -1,0 +1,1 @@
+long polling, ajax push? im not sure on all the terms im digging docs on comet but i can;t find the answer

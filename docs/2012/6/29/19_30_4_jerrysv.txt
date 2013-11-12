@@ -1,0 +1,1 @@
+isaacs: in essence, i built a module/require system for plv8, was trying to take a shortcut :)

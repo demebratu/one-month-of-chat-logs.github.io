@@ -1,0 +1,1 @@
+dsirijus: I was thinking of using https://github.com/tautologistics/node-htmlparser for a scraper, but I haven't yet

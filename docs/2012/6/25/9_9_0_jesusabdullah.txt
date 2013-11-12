@@ -1,0 +1,1 @@
+nobody said it wasn't a bug in the software. What's the raw data getting passed in? Where's the information getting lost to?

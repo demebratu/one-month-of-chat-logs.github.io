@@ -1,0 +1,1 @@
+related question - './foo.txt' - it looks like relative to module dir, not to the `pwd`

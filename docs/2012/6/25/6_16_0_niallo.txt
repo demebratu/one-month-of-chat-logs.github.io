@@ -1,0 +1,1 @@
+to answer my own module question, i just try fs.stat'ing ./node_modules/blah if not found try __dirname + "/node_modules/blah" - from the globally-installed executable script.

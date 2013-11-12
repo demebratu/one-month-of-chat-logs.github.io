@@ -1,0 +1,1 @@
+I don't personally like Ruby, for example, but it does allow closures and blocks

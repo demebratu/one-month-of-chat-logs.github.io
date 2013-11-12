@@ -1,0 +1,1 @@
+Masyl: I get "TypeError: undefined is not a function"

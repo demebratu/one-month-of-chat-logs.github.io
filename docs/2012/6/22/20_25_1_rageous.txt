@@ -1,0 +1,1 @@
+owen1: I believe it's installed. I tried both npm install formidable and npm -g install formidable, but it continues to say it cannot be found, despite its existence in the modules directory.

@@ -1,0 +1,1 @@
+compilation works, but when i do make install it fails

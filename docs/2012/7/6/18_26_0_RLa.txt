@@ -1,0 +1,1 @@
+but then won't the connection be destroyed when domain is dispose()d

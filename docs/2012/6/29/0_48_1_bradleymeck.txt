@@ -1,0 +1,1 @@
+the fact that every language i know uses a .attributes and .children when they are combined in the markup makes me sad

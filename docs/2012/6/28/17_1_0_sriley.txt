@@ -1,0 +1,1 @@
+in that case you dont really need to use js for this then?

@@ -1,0 +1,1 @@
+I've used streams over rpc too but they don't fit very well unless you make them a primitive

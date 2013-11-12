@@ -1,0 +1,1 @@
+Don't understand. Does this mean I cannot get just one column form the database?

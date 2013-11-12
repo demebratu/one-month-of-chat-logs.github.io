@@ -1,0 +1,1 @@
+myndzi: node-binary is close, but I think it's a bit lower level than i need. More context: I'm getting an image file out of GridFS with node. It arrives as a Buffer. I want resize the image. The tools i've found (node-gm, etc.) take a file path or readStream. Is there a way to do this without saving the file to disk?

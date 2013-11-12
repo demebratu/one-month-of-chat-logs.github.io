@@ -1,0 +1,1 @@
+the thing that domains do, largely, is tighter control over event emitters and errors

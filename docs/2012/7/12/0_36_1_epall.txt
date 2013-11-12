@@ -1,0 +1,1 @@
+bnoordhuis: I'm looking to better understand my options with TCP keepalive, and also what access node gives me. Looks like I can set TCP_KEEPIDLE, but not TCP_KEEPCNT

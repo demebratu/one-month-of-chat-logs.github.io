@@ -1,0 +1,1 @@
+Semantics would be kinda hard, and we'd really not like "close enough".

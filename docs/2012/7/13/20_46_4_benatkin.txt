@@ -1,0 +1,1 @@
+maxogden: I like your idea of having a repo, could just be for documenting what components should be, could have a reference implementation if a spec gets figured out

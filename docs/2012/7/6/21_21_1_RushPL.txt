@@ -1,0 +1,1 @@
+I am having problems with password prompt in the "commander" module and I would like to find out why.

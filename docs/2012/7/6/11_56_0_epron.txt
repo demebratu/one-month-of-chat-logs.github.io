@@ -1,0 +1,1 @@
+hello guys. I am fairly new to node.js. I am trying to do some scraping on some data that are paginated. The URL takes a page_num argument. However I am not sure how I can aggregate the results that come async since I don't know how many pages I'll have to scrape in the first place. Any ideas?

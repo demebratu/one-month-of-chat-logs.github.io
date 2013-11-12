@@ -1,0 +1,1 @@
+Because the concept of all the code files in a project sharing and communicating via a global namespace has been fundamental to Javascript since its inception.

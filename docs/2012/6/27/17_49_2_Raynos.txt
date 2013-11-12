@@ -1,0 +1,1 @@
+are there unofficial hacks to put comments in package.json ?

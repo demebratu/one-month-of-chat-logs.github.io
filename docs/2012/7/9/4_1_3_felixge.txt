@@ -1,0 +1,1 @@
+TimeTurner: feel free to use a "NoSQL" db for the job, but don't be surprised if you find yourself developing relational database features in your app code :)

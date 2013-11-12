@@ -1,0 +1,1 @@
+is there a problem building node on cent 6.2? I'm actually about to build a vm to deploy a node project and was planning on using it

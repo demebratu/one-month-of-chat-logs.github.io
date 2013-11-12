@@ -1,0 +1,1 @@
+running code inside a vm with vm.runInNewContext blocks, but doesn't wait for asynchronous code inside the vm to finish. are there events i can listen for to know that the vm is done?

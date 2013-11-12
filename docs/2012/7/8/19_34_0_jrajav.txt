@@ -1,0 +1,1 @@
+If you only call exec in one branch, then go straight to init() in the other one

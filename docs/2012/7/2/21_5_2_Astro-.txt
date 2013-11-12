@@ -1,0 +1,1 @@
+where do I find instructions on how to migrate my library's wscript to node 0.8 gyp?

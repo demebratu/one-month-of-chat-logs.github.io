@@ -1,0 +1,1 @@
+I was mostly just amused to see people claiming that LiveScript influenced the design of Oak and hence Java was named after JavaScript

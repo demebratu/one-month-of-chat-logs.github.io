@@ -1,0 +1,1 @@
+what does socket pooling means? i noticed agent.maxSockets and it's default is 5.

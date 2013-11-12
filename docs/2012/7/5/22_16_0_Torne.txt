@@ -1,0 +1,1 @@
+hrm. apparently both the locked-up nodejs processes on this machine are waiting in do_exit

@@ -1,0 +1,1 @@
+in the global scope, "this.foo" and "foo" might be the same. try wrapping it in an anon function

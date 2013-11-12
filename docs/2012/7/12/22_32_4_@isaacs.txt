@@ -1,0 +1,1 @@
+tjholowaychuk: nice compared to handling errors in browser JS, or in PHP

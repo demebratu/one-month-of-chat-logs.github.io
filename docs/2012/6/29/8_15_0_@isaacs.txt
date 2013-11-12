@@ -1,0 +1,1 @@
+lrvick: probably wanna filter the readdir results by .match(/\.js$/) or some such

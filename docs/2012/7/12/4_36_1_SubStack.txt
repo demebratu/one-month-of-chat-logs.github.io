@@ -1,0 +1,1 @@
+Nuck: streams aren't about efficiency, they're about composability and backpressure

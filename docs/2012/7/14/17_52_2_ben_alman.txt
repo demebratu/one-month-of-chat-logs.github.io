@@ -1,0 +1,1 @@
+then set a prop you check later, like exports.foo = this === global;

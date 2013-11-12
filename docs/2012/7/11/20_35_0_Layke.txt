@@ -1,0 +1,1 @@
+I had node previously compiled from sources. I now just installed from repo.

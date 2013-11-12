@@ -1,0 +1,1 @@
+Admittedly, it wasn't hard to figure out.  Search what package contains mysql_config

@@ -1,0 +1,1 @@
+it's the same as like x = {y: undefined} vs x = {y:1}; delete x.y; x

@@ -1,0 +1,1 @@
+ben_alman: yeah when you run nodebrew use it changes it on all shells for me. not great if you switch a lot.

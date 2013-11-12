@@ -1,0 +1,1 @@
+myndzi: why is /opt/python2.7 python 3?

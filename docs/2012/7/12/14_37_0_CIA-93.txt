@@ -1,0 +1,1 @@
+node: Ben Noordhuis v0.8 * r202df30 / (common.gypi configure deps/v8/build/common.gypi): build: disable unsafe optimizations - http://git.io/NP-lHA

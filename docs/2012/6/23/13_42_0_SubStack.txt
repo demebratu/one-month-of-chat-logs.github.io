@@ -1,0 +1,1 @@
+it's a very thin wrapper on top of sockjs to give it consistent streaming

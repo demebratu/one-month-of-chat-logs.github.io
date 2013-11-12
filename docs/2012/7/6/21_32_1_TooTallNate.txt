@@ -1,0 +1,1 @@
+RushPL: sure, that's easy enough to do without "keypress" events, just use "data" events

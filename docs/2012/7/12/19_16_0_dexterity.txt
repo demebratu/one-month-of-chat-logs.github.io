@@ -1,0 +1,1 @@
+Just uninstalled nodejs, when I type "man node" I get a wierd man page: http://hastebin.com/fevuloquga.xml

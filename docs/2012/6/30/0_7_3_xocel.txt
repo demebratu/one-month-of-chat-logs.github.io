@@ -1,0 +1,1 @@
+When compiling is there an equivalent configure option to 0.6's --libdir= in 0.8.1 ?

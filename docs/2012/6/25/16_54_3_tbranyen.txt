@@ -1,0 +1,1 @@
+bnoordhuis: we had an error with JSON.parse from malformed data returned by an arbitrary server

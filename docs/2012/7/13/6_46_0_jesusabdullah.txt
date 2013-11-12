@@ -1,0 +1,1 @@
+Trindaz: Because strings *are* capabable of storing pretty much any bytes, but they're not the right abstraction. Using strings for binary data is a ****hack**** at best

@@ -1,0 +1,1 @@
+if you dont want your content taken by other people then put it behind authentication

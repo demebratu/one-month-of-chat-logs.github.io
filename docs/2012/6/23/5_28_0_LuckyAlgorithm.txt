@@ -1,0 +1,1 @@
+Everythings installed, Redis, Mongo, all the modules.. it starts up.. but doesn't work..

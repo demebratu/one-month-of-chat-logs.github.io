@@ -1,0 +1,1 @@
+... And what should it matter if npm can't handle symlinks? That's its own fault, not Node.js

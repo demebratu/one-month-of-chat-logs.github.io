@@ -1,0 +1,1 @@
+What is the jade equivalent of !=partial('header', { foo: 42 }) with "include" ?

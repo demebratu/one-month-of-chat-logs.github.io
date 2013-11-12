@@ -1,0 +1,1 @@
+Does anybody know if there has been discussions about making promises a central part of future node versions?

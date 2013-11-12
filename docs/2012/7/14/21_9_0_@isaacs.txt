@@ -1,0 +1,1 @@
+ben_alman: you're pretty good at bash.  you should send me a pull req :)

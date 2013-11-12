@@ -1,0 +1,1 @@
+you shouldn't need to pipe it to process.stdout

@@ -1,0 +1,1 @@
+was wondering if anyone can answer this.  I am using socket-io, but the url for websocket must contain a path...  i.e. client websocket should connect not to ws://1.2.3.4 but to ws://1.2.3.4/my-ws..

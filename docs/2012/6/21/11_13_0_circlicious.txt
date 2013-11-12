@@ -1,0 +1,1 @@
+had to set content type of res.send

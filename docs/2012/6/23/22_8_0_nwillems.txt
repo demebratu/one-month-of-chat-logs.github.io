@@ -1,0 +1,1 @@
+Hello. this might be more of a JS question but. When working with Redis, I would like to use SETNX, and if the given key is taken, try another one. As I see this, it could result in DEEP nesting of function calls, is there a smart way?(If the problem has a name, I'm very willing to google that instead)

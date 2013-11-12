@@ -1,0 +1,1 @@
+isaacs those 0.8 performance benchmarks on the blog would be a lot more meaningful if they also displayed the percentage improvement. people are bad at maths in the head

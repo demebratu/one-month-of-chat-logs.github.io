@@ -1,0 +1,1 @@
+so, node-bj is version 0.0.3bogeyatsix-1.0, but node_mdns (same author) is version 0.0.3orlando-1.0. Is Orlando > Bogeyatsix, or the opposite??

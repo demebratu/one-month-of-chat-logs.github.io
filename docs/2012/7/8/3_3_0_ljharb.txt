@@ -1,0 +1,1 @@
+so then you have three states to worry about - null, string, and array

@@ -1,0 +1,1 @@
+i'd be surprised if it were heap, as it's perfectly fine dealing with multiple chunks and strings that are that big all the time

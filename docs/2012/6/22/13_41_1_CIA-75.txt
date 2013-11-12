@@ -1,0 +1,1 @@
+node: Bert Belder master * r2dccebd / tools/msvs/msi/product.wxs : windows msi: set icon for add/remove programs dialog - http://git.io/QtcDsQ

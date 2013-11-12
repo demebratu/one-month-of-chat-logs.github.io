@@ -1,0 +1,1 @@
+prettyrobots: awesome. I'm building a mongodbish json query interface on top of any key value store (can point it to leveldb, redis, sqlite, etc).

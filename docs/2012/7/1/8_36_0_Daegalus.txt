@@ -1,0 +1,1 @@
+I wonder if I can compile V8 to pure CLR, then I can put V8 Anywhere

@@ -1,0 +1,1 @@
+Your CLI should be as clean and simple as possible.

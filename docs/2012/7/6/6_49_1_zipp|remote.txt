@@ -1,0 +1,1 @@
+You can get around it (on *nix at least) by increasing the number of files your node-running user can have open

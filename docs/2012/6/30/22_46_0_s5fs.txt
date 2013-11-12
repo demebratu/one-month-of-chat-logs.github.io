@@ -1,0 +1,1 @@
+Killswitch: hm. I'd delete /usr/bin/node, re-download the tarball and recompile/reinstall. just make sure you are "josh@node" for the entire install (although i think 'make install' requires root)

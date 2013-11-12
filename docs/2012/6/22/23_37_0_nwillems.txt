@@ -1,0 +1,1 @@
+traviscooper: Hmm - strange. When I try installing hiredis and redis from npm it fails at some exception(not due to) with a syntax error.

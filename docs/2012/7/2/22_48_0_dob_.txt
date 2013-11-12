@@ -1,0 +1,1 @@
+do you know if it's possible to register more than one form for a mongoose auth password registration? I need one form form for users and one for administrative users. 

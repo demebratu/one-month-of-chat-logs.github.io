@@ -1,0 +1,1 @@
+wiherek: you want to thread a value along a chain of functions that run in series?

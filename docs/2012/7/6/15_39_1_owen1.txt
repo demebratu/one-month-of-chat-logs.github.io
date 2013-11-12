@@ -1,0 +1,1 @@
+so when i make http call, the dns lookup is also non-block?

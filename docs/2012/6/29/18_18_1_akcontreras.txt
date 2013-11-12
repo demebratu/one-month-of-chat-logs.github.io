@@ -1,0 +1,1 @@
+File "./configure", line 266 o['default_configuration'] = 'Debug' if options.debug else 'Release' SyntaxError: invalid syntax

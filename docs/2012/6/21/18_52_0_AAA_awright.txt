@@ -1,0 +1,1 @@
+dshap: Maybe if it was threaded, but Node.js is not, the I/O won't be called until you finish the tick

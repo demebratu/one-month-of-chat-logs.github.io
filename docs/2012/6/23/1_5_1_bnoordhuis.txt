@@ -1,0 +1,1 @@
+austinbv: export PATH=$PATH:path/to/node_modules/.bin

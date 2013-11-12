@@ -1,0 +1,1 @@
+do I have to add the project's path to the require.paths in every file to avoid using relative paths between them?

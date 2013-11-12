@@ -1,0 +1,1 @@
+JavaScript not having a super() and all

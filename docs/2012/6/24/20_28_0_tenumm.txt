@@ -1,0 +1,1 @@
+milani: In my case I have to call callback and I am not getting change to call scope_local.Close. Is that ok?

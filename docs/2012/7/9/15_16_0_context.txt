@@ -1,0 +1,1 @@
+does the user you are installing as have acess to write to /usr/local/bin

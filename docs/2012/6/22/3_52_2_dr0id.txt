@@ -1,0 +1,1 @@
+I don't know how heroku is better, maybe its "cloud". but I just don't wanna host on my VPS right now. :P

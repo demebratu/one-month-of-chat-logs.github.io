@@ -1,0 +1,1 @@
+the node version is the latest version in ubuntu

@@ -1,0 +1,1 @@
+Heroku does something quite fancy when the app fall in low-usage. They automatically decommission unused dynos after a while and we don't have to pay until they are needed. Will you eventually do something like that 

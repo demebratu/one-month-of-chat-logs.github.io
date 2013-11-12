@@ -1,0 +1,1 @@
+plato: do you mean the task() function should "activate" the next event, in a linked-list fashion?

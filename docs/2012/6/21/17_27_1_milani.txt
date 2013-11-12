@@ -1,0 +1,1 @@
+isaacs: node-gp tries to download http://nodejs.org/dist/v0.6.7/node.lib and 404 is returned.

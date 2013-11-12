@@ -1,0 +1,1 @@
+when i do vm.createContext({}), is not this context supposed to have things like setInterval and setTimeout..?

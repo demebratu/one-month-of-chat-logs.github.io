@@ -1,0 +1,1 @@
+Any recommendations for mysql driver for node? :/ db-mysql no longer seems to work on 8.0

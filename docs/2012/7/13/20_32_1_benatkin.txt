@@ -1,0 +1,1 @@
+tjholowaychuk: an object with one function for each, that is

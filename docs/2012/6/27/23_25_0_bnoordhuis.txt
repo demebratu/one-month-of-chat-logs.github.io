@@ -1,0 +1,1 @@
+Murvin: something that the c code uses to keep track of if the event loop's alive

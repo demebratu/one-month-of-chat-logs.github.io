@@ -1,0 +1,1 @@
+then what's the reason for loading things a number of ms after everything's ready, rather than immediately?

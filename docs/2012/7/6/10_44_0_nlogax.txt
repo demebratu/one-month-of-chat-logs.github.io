@@ -1,0 +1,1 @@
+I wonder if it would make sense to do the platform check for 'darwin' as well, and use xcode in that case. Or if there are people who want to work on those things but do not have it installed (if it even requires Xcode/dev tools to be installed to be able to create the project files?)

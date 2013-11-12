@@ -1,0 +1,1 @@
+tbranyen: the only time connection pooling may make a difference is on high latency connections to your db

@@ -1,0 +1,1 @@
+right - that will be a syntax error. (function(..){...}) is a funciton object

@@ -1,0 +1,1 @@
+connection.end() is asynchronous.  Calling this will wait for your queries to finish before closing the connection, but will not block your thread execution.

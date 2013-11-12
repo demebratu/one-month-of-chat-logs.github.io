@@ -1,0 +1,1 @@
+s5fs: still happening.  I even put the alias in my ~/.bash_profile, and it loads after logout and login

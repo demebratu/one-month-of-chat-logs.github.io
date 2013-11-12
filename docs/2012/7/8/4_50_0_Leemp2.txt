@@ -1,0 +1,1 @@
+Does nodejs have any Cross-OS API to find the users home directory?

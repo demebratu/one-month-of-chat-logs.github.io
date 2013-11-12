@@ -1,0 +1,1 @@
+what would you guys think of an "event recorder" project? put a script on your site and it will start recording all user input when requested. you can end recording at any time and output it to a file. then this file can be replayed in a headless browser e.g. phantomjs

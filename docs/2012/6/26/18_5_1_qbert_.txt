@@ -1,0 +1,1 @@
+timoxley, I just grepped for it, its req.socket.remoteAddress

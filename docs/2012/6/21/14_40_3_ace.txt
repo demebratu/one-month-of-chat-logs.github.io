@@ -1,0 +1,1 @@
+is there a project that make it possible to make a classic application that you download and then run locally/offline

@@ -1,0 +1,1 @@
+quick jsdom question, is there anyway I can hook into the resource fetches? I'd like jsdom to process an entire document, but for me to keep track of all network requests, and potentially blacklist requests that shouldn't go through

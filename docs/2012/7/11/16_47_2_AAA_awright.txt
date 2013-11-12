@@ -1,0 +1,1 @@
+Generally people don't require() executable CLI programs so there's no issue here

@@ -1,0 +1,1 @@
+kind of strange that lchmod and lchown isn't available in 0.8 though

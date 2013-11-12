@@ -1,0 +1,1 @@
+afaik, the node installer has installed npm as part of installing node for all of 2012

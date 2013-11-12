@@ -1,0 +1,1 @@
+you dont need a route, should be similar to http://j-query.blogspot.co.uk/2012/02/expressjs-dynamic-helpers-vs-middleware.html

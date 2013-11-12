@@ -1,0 +1,1 @@
+AAA_awright: yea i actually tried something similar a few minutes ago and it works.  i defined a function outside of the for loop that takes "i" as a parameter and then i call that function within the for loop

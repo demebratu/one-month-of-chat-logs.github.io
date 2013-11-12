@@ -1,0 +1,1 @@
+tnorris: because its passing args to Math.random

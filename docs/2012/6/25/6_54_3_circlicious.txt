@@ -1,0 +1,1 @@
+denysonique: in the spawn() if you have proper path to the command and then EM_pATH it should work

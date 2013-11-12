@@ -1,0 +1,1 @@
+now if coffee-script is a rabbit hole, choosing a fork of coffee-script is much worse

@@ -1,0 +1,1 @@
+isaacs: Please see http://github.com/substack/node-browserify#readme

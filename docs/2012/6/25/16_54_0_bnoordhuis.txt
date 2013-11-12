@@ -1,0 +1,1 @@
+tbranyen: only use it to write something to a log and exit

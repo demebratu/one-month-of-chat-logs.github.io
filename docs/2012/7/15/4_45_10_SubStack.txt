@@ -1,0 +1,1 @@
+in the usual mvc design ala rails you've got model/ view/ controller/ and each of those has a ton of stuff in them

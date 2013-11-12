@@ -1,0 +1,1 @@
+arch pacman -S python install 3.x now

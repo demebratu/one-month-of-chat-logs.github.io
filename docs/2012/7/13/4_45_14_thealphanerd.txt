@@ -1,0 +1,1 @@
+jesusabdullah: I'm thinking of doing an npm package to do i2c… you knowif anyone has done anything like that?

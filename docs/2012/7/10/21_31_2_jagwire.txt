@@ -1,0 +1,1 @@
+Believe it or not, I'm working in a java environment similar to second life. I was looking to use Node for some of the interesting networked scripting pieces. Anyhow, thanks for the prompt help!

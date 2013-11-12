@@ -1,0 +1,1 @@
+can I tell npm-install not to look at npm-shrinkwrap.json ?

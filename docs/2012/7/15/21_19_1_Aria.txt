@@ -1,0 +1,1 @@
+Farming out to memcache means an asynchronous call; that's an order of magnitude more expensive.

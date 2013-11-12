@@ -1,0 +1,1 @@
+isaacs: package.json's name must match current basename of wd if you do not set unsafe-perm or it gets angry, if you set unsafe perm the name does not have to match

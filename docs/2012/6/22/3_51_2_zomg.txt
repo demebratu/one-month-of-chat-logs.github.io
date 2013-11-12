@@ -1,0 +1,1 @@
+jmcantrell: doesn't work at all for me so it probably doesn't support whatever api is used for the autocompletion in shells

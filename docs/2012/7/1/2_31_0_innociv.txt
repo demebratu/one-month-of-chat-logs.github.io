@@ -1,0 +1,1 @@
+But it's already using 100% of cpu.  If I stop it and add that it won't be.

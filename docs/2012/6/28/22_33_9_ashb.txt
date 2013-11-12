@@ -1,0 +1,1 @@
+simple YAML. full YAML is stupid

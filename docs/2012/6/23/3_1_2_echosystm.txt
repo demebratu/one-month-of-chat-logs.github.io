@@ -1,0 +1,1 @@
+the mysql request will go into the run loop and the script will continue to execute, hence why console.log gets called

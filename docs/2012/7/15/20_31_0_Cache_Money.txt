@@ -1,0 +1,1 @@
+I have a simple chat server running on my Linux VM, on localhost:8080.  I want to connect to it using Telnet from my Windows Host machine, any suggestions?

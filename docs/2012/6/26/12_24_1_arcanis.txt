@@ -1,0 +1,1 @@
+hmm, why does this code doesn't work ? Am I wrong with my streams ? http://pastebin.com/60saBT6k

@@ -1,0 +1,1 @@
+it spawns a thread does the blocking io and then calls the callback

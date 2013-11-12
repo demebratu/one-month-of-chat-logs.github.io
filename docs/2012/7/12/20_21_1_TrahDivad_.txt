@@ -1,0 +1,1 @@
+I found a weird behavior with express by accident. If I return a a Q promise from my routing, it seems to execute it for me. has somebody else encountered that?

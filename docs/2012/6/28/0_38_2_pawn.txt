@@ -1,0 +1,1 @@
+node-mysql question: db.escape, does it wrap quotes around strings?

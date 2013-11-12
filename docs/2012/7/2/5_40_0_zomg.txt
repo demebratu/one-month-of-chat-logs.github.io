@@ -1,0 +1,1 @@
+Yeah, keeping the connection open forever seems to work just fine with mongo

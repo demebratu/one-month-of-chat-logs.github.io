@@ -1,0 +1,1 @@
+https://github.com/caolan/async/ solves this problem quite well

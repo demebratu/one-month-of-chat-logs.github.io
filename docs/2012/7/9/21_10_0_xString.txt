@@ -1,0 +1,1 @@
+Question: I'm doing a simple http request to search.twitter.com/search.json and when I ask for 1 tweet, all is well. When I ask for 2 tweets, not so much and 3 tweets, just forget it.  The error I receive is "Unexpected end of input" we receiving the request.  Is there some type of limit that I'm unaware of in node?

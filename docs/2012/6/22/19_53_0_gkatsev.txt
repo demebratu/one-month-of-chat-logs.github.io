@@ -1,0 +1,1 @@
+you wait for a callback by putting all you want to do when the callback returns into the callback and then not doing anything else.

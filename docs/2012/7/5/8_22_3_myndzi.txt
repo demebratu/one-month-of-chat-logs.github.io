@@ -1,0 +1,1 @@
+capture the set-cookie header, then supply the required cookies in a cookie: header each request

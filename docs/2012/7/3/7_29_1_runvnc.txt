@@ -1,0 +1,1 @@
+you think that json rest is more maintainable than dnode?  I think that json rest is not more maintainable, and its only right if you want external parties or departments to have a json api

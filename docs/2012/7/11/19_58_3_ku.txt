@@ -1,0 +1,1 @@
+bradleymeck, isn't node.js mostly oriented towards hosted? even IRC

@@ -1,0 +1,1 @@
+prettyrobots: I actually write almost all my server side code on the browser and send it over web sockets to node.js in a giant eval() loop

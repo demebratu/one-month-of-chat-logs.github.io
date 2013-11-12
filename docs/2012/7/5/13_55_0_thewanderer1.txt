@@ -1,0 +1,1 @@
+hi. if I set a timeout with a callback, at what stage will it get executed? at event loop iteration? or can it interrupt another function's execution to return into it later?

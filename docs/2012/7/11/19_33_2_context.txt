@@ -1,0 +1,1 @@
+you cant send the second query to the db in parallel if it depends on the first

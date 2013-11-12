@@ -1,0 +1,1 @@
+the object initializer has more to do once the prototype has been specialized

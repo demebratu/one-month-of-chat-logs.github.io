@@ -1,0 +1,1 @@
+but then how do I know i'm at the end of the forEach. its sync? its gonna wait for the call back?

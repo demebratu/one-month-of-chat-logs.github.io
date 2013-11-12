@@ -1,0 +1,1 @@
+anyone know of any work towards recognizing text in images w/node?

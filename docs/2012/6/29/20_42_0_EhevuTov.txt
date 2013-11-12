@@ -1,0 +1,1 @@
+Qbix1, require() defaults to look for your modules in ./node_modules so you won't have to explicitly tell it somewhere else

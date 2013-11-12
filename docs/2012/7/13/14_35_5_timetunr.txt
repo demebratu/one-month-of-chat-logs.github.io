@@ -1,0 +1,1 @@
+this way npm can resolve all the modules together and check which modules are essentially dupes

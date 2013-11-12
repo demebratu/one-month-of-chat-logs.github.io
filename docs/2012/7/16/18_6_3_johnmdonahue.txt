@@ -1,0 +1,1 @@
+Okee: this is my process for installing http://johnmdonahue.com/2012/installing-node-from-github/

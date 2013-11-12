@@ -1,0 +1,1 @@
+can't you do: var x = module1.y

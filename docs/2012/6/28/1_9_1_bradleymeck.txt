@@ -1,0 +1,1 @@
+is there a way to force nodewaf to think it is on a 64bit machine and --dest-cpu=x64?

@@ -1,0 +1,1 @@
+jetzt gibts aber das problem, dass php synchron und node.js asynchron arbeitet

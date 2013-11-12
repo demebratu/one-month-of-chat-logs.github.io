@@ -1,0 +1,1 @@
+Deathspike: Node isn't like a lot of web frameworks, in that it's focused on cohesion over completeness or conventionalizing everything; it makes it a pain to learn but fast to use

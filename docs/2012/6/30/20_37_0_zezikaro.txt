@@ -1,0 +1,1 @@
+does anyone know why npm gave me lots of error 3 when trying to install, then it ran out of stack, and said it installed just fine?

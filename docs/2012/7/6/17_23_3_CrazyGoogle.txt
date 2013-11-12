@@ -1,0 +1,1 @@
+should i close Scope in method that just do nothing ?

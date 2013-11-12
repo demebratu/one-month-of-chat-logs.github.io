@@ -1,0 +1,1 @@
+how do one expand path in node, e.g. '~/foo.txt' to '/home/iced/foo.txt'

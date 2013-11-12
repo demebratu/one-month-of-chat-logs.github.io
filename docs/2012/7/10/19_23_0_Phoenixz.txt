@@ -1,0 +1,1 @@
+I have a string _r_lkj234r and I need that converted to /r/lkj234r, so I do '_r_lkj234r'.replace('_', '/'); and I end up with /r_lkj234r.... Should replace not replace all instances??

@@ -1,0 +1,1 @@
+i saw in a example someone posted here atht he used paused:true, bufferSize

@@ -1,0 +1,1 @@
+jesusabdullah: process.nextTick tells node to stop running the current function, and continue the event loop, right?

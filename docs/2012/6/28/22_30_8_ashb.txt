@@ -1,0 +1,1 @@
+but the main thing i liked was it gave you multi line literals and for each loops

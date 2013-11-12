@@ -1,0 +1,1 @@
+but assert.deepEqual(false, []) throws too, despite false == [] = true

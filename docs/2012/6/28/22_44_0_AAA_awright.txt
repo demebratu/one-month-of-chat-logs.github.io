@@ -1,0 +1,1 @@
+ljharb: You can have multiple XML elements in succession, just stream multiple XML documents or fragments, most XML parsers can be setup to do that. You have the exact same problem with JSON.

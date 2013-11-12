@@ -1,0 +1,1 @@
+never mind, got it, it has to be in the public folder

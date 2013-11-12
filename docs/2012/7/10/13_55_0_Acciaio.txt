@@ -1,0 +1,1 @@
+I can't install node.js v8.2 http://pastebin.com/0FTiqpCQ and I can't understand what I'm missing

@@ -1,0 +1,1 @@
+fs.readdir und dann die ganze platte :D

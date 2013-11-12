@@ -1,0 +1,1 @@
+Daegalus: do you think node.js can replace ruby on rails or django for building web apps? or is it still useful just for realtime apps?

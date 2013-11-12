@@ -1,0 +1,1 @@
+bawigga: It doesn't add it to PATH.

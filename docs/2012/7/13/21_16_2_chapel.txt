@@ -1,0 +1,1 @@
+AlbireoX: versus a string you setup, though, if the string is unique, then it will be as fast

@@ -1,0 +1,1 @@
+kiur: well, I wrote a small test that will upload a file (from a php script, using curl) and the node script will receive the file, write it to disk, then close with req.end() and the curl instance just stays open until I kill the node server 

@@ -1,0 +1,1 @@
+isaacs: if i did an install first, then usemain does it symlink or recompile?

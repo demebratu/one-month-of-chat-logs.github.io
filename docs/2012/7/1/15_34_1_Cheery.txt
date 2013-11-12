@@ -1,0 +1,1 @@
+there's operations into this model, splice, build, collapse, modify. they provide undo operation when applied.

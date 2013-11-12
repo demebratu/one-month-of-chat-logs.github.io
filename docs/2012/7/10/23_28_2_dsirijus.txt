@@ -1,0 +1,1 @@
+tnorris, i have, say, five apps on one domain.com/appN, and similar on plenty of otherdomain.com/appM

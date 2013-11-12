@@ -1,0 +1,1 @@
+jonpacker, functionally it's like a future/promise, except without all the extra syntax and library

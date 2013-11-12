@@ -1,0 +1,1 @@
+Nuck: Have you ever tried to json-ify a buffer? It shits **everywhere** XD

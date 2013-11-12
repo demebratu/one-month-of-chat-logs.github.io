@@ -1,0 +1,1 @@
+moved everything back into app.js and all is well again

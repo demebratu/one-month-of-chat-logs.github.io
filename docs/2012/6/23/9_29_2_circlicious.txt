@@ -1,0 +1,1 @@
+theres a node lib that allowsyou to just require('lib') in your code and execute a function while it also provides with a binary to achieve the same goal. why is executing the binary slower than doing it in the node code itself?

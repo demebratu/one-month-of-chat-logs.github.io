@@ -1,0 +1,1 @@
+milani: TideSDK is just APIs. it will allow people to easily port things using the TIdeSDK as an API endpoint. 

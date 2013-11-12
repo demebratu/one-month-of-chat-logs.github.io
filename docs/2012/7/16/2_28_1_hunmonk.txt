@@ -1,0 +1,1 @@
+timoxley: i only need to get it on app startup

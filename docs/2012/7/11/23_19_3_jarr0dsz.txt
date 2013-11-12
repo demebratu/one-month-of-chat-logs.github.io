@@ -1,0 +1,1 @@
+livinded: the ajax reload of the page i just change browser url when i recieve data from server on the client channel

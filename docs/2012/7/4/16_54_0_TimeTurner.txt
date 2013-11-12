@@ -1,0 +1,1 @@
+having a different scope in anything other than functions is a major headache for dynamic stuff

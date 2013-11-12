@@ -1,0 +1,1 @@
+mAritz: Seems there's a js wrapper for it already: https://github.com/rsms/node-imagemagick/

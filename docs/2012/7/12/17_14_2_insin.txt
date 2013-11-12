@@ -1,0 +1,1 @@
+just called window.atob on it and there were some intelligible bits, is it mixed?

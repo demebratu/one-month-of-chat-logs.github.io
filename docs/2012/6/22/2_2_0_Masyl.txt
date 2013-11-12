@@ -1,0 +1,1 @@
+A content admin could ssh to any content server in the network (with the standard ssh client or a more specific tool) and he would be ask to authentify with a set of user/pass that is specific to the content server user database.

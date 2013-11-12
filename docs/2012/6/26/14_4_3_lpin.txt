@@ -1,0 +1,1 @@
+can't compile node 0.8.0 from sources fedora 14 https://gist.github.com/2995961

@@ -1,0 +1,1 @@
+Okay, can somebody explain how in the hell I get NSSocket to run over TLS?  I keep trying to make it use TLS, but when I Wireshark it, it's sent in plaintext

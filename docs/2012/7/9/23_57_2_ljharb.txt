@@ -1,0 +1,1 @@
+needing syntactical sugar and operators is a silly crutch.

@@ -1,0 +1,1 @@
+benatkin: npm shouldn't be distributed with Node.js at all, it's some pretty severe bloat

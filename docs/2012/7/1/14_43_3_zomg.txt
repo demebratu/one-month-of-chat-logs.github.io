@@ -1,0 +1,1 @@
+And if you really wanted to, you could probably build some custom loader to load stuff which doesn't conform to node style

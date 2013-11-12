@@ -1,0 +1,1 @@
+lamefun2: but also it's a bad idea to ever use unverified user input.

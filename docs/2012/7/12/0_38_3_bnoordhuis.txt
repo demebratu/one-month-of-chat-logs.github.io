@@ -1,0 +1,1 @@
+epall: that's correct. it's because not all operating systems have a similar sockopt

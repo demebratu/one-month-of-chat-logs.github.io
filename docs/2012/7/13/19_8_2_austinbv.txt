@@ -1,0 +1,1 @@
+install and uninstall work so that makes sense

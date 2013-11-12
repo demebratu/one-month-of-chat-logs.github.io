@@ -1,0 +1,1 @@
+        newMysql.query('USE '+MY_DATABASE);

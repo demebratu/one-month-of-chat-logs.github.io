@@ -1,0 +1,1 @@
+is it accurate to say that in a node website i have 'state' that is created by using clojures (the external vars are accessable to any function inside)?

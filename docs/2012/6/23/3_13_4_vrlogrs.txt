@@ -1,0 +1,1 @@
+in that case, if the parent is returning a variable .. will the parent function wait for the callback functions before it returns?

@@ -1,0 +1,1 @@
+Hi all, newbie question. I have installed node on my Mac and setup express.js, but where can I see the console.log messages from my server.js file?

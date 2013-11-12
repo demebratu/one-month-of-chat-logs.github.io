@@ -1,0 +1,1 @@
+vandenoever:  from the phoneGap api Docs

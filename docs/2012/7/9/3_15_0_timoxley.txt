@@ -1,0 +1,1 @@
+isaacs if I have a continuously running build tool for development, e.g. grunt, is there (or should there be) a default npm script I could use for that? all of the built-in scripts, e.g. update/publish/install etc seem to be about terminating scripts that run once.

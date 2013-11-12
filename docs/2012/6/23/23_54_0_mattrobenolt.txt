@@ -1,0 +1,1 @@
+isaacs: It may cause me to never write Javascript again.

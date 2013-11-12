@@ -1,0 +1,1 @@
+Daegalus, I think you need to develop tide core, then patch it to support languages, a wrapper around tide API.

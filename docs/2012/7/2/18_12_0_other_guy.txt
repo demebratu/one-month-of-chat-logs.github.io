@@ -1,0 +1,1 @@
+bnoordhuis, most of the trouble with them is that everybody takes their cues from ActiveRecord anymore.  Hardly anyone does anything interesting when they build them out.

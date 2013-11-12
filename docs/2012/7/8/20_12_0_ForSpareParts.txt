@@ -1,0 +1,1 @@
+quick question: What editors or IDEs do you guys recommend for Node development? In particular, do you know of any that provide really good contextual documentation? 

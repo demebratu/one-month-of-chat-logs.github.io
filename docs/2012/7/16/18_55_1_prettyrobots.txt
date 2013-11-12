@@ -1,0 +1,1 @@
+@maxogden: a) I'm writing a template language and jsonp is a client side data source.

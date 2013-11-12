@@ -1,0 +1,1 @@
+tom21: for native mobile your options are severely constrained, but look at apache cordova if that's what you're into

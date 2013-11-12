@@ -1,0 +1,1 @@
+since MemoryStore for sessions doesn't work for multiple processes (production) does that mean that node.js devs always have to use a database like Redis when using Node.js?

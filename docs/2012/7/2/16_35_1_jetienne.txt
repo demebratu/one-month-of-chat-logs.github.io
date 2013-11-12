@@ -1,0 +1,1 @@
+http://jeromeetienne.github.com/slides/tquery.webglcamp/#1 with a modification to support offline and writing slides in markdown

@@ -1,0 +1,1 @@
+is it better to use nodejs with redis or couchdb

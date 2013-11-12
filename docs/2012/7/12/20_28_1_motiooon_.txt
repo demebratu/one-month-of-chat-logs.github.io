@@ -1,0 +1,1 @@
+I'm thinking at this point that is a weird closure that the nested functions are generating

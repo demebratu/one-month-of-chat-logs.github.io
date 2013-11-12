@@ -1,0 +1,1 @@
+hi, i'm trying to do a multi part upload to S3 and I need to split a file into smaller 10 mb pieces. any ideas how i could do that?

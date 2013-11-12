@@ -1,0 +1,1 @@
+tjholowaychuk: if a lib does one thing, chances are there are tests that test that one thing.

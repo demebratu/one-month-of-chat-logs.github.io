@@ -1,0 +1,1 @@
+the editor itself I'm trying to make generic as possible

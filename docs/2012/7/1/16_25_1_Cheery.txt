@@ -1,0 +1,1 @@
+joeytwiddle: the current model places editing points into places where they simply don't make any sense

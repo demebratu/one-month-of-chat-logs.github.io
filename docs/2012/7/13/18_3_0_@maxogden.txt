@@ -1,0 +1,1 @@
+hellopat: lotsa docs on that stuff here http://nodejs.org/docs/latest/api/modules.html

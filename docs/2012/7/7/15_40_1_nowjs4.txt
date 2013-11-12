@@ -1,0 +1,1 @@
+jrajav: Isn't there something better than less? I want colors in my logger, object explorer. Like Firebug does

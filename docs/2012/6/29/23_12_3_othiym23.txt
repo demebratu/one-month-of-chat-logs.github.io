@@ -1,0 +1,1 @@
+dsirijus: installed for me with no problem under 0.8.0

@@ -1,0 +1,1 @@
+stermi: i also recommend reading all of it. Don't treat it as a JS Bible, but it has soem good practices, and teaches you some important things about JS

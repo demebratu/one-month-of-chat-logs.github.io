@@ -1,0 +1,1 @@
+Or, if you use tmux or screen, get used to lowest-common-denominator.

@@ -1,0 +1,1 @@
+Looks like it justs gets trasformed into a 1ms timer https://github.com/joyent/node/blob/master/lib/timers.js#L175

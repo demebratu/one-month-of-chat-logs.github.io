@@ -1,0 +1,1 @@
+I'm thinking python/django because the udacity courses I'm doing atm are based around python

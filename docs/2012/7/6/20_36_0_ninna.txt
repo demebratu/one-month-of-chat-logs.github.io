@@ -1,0 +1,1 @@
+EhevuTov, ok I've been using http.request and it times out before I am half way through. Will this do a better job of managing memory leaks also?

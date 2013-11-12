@@ -1,0 +1,1 @@
+Deathspike and RE nested closures, a good general rule is 3 levels of indentation and you're out. YMMV.

@@ -1,0 +1,1 @@
+you may end up with some 'this' context weirdness but otherwise it will be pretty straightforward

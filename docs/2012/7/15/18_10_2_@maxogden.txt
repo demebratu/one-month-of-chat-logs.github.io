@@ -1,0 +1,1 @@
+webrtc doesnt implement readable mic capture streams in any browser yet though

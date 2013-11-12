@@ -1,0 +1,1 @@
+I'm hoping for better fs.watch() support on Windows, but I'm not holding my breath :-P

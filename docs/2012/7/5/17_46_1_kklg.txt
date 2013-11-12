@@ -1,0 +1,1 @@
+Zipp: I asked TooTallNate and he had the answer. The problem was that my module name was different than my target_name in my binding.gyp file.

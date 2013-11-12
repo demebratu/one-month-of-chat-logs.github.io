@@ -1,0 +1,1 @@
+(nvm is a simple bash function that tweaks PATH and builds node with a custom PREFIX)

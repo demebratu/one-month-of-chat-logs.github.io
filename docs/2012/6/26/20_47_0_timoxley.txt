@@ -1,0 +1,1 @@
+Deathspike once you've got an app up and running, and a good idea of what parts of the app will change, then you can start concreting pieces in by adding abstractions

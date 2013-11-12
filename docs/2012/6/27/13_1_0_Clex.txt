@@ -1,0 +1,1 @@
+I tried that : http://fpaste.org/TEQu/raw/ but http://localhost:3000/socket.io/socket.io.js keeps 404. Any idea?

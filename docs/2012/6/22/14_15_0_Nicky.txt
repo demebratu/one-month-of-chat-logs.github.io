@@ -1,0 +1,1 @@
+hi, anyone by any change knows how could I debug getting undefined symbol when compiling though gyp?

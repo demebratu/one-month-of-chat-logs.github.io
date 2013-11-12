@@ -1,0 +1,1 @@
+konobi: I'm trying to build proper sandboxing. The current node module for it doesn't allow whitelisting of the stdlib

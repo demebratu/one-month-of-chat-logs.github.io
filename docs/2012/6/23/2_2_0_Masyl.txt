@@ -1,0 +1,1 @@
+So let me get this straight in my little brain… the client still connects to the standard port, but my app creates a different user that has my app as it's default shell ? 

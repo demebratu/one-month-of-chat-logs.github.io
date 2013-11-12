@@ -1,0 +1,1 @@
+version2beta: I'd recommend jade too, but there are a bunch of ports of Django/Jinja templates too

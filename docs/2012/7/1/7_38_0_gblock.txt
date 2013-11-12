@@ -1,0 +1,1 @@
+williamcotton: that would quickly allow you to at least nail down if it is node_redis or not

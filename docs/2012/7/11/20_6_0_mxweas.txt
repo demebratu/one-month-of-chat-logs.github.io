@@ -1,0 +1,1 @@
+connect has some comments that say it's so V8 can deoptimize just decodeURIComponent. Can anyone elaborate on this a little?

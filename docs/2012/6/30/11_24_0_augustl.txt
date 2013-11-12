@@ -1,0 +1,1 @@
+will any of the FS APIs that takes a callback fail if the callback is not provided?

@@ -1,0 +1,1 @@
+hello peeps, which tool can i use to parse v8.log in ubuntu ?

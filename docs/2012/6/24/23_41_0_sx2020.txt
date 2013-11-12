@@ -1,0 +1,1 @@
+I need help. Whenever I want to work on a new app, I create a new ubuntu server on rackspace cloud. this is a bad, expensive habit. any suggestions for using one machine better or using free servers somewhere or something?

@@ -1,0 +1,1 @@
+isaacs: is there a "why" behind usege of all-lower-hyphen-css-case for long-file.js rather then others like long.file.js ? beside the asthetic of the - sign?

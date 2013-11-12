@@ -1,0 +1,1 @@
+i gt this silly npm question. Im making a modification on a package, and i would like to re-package it and be able to install it on my server. 

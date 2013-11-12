@@ -1,0 +1,1 @@
+AviMarcus: Yes. Actually, ugh! The big thing is that I rewrote it to be pure JavaScript and JavaScript friendly.

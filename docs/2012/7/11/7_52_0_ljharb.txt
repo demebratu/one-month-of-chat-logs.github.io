@@ -1,0 +1,1 @@
+i'd say just write data to a test database through the models, verify it with the direct mongo client, and read it through the models

@@ -1,0 +1,1 @@
+Anyone here know how to tell npm to place my modules binary file into /usr/bin or at least somewhere thats on the users path?

@@ -1,0 +1,1 @@
+Or it's just procedural-taught people who can't wrap their heads around proper event-based programming

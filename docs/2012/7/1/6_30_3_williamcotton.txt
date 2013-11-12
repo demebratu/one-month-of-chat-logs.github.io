@@ -1,0 +1,1 @@
+var client = redis.createClient(null, null, {return_buffers: true});

@@ -1,0 +1,1 @@
+maxogden: actually i tried the example in the docs that uses a file stream, and that works, but i need to create a node-canvas object with the result, not save it to my computer

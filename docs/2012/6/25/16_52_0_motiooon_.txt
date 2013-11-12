@@ -1,0 +1,1 @@
+bnoordhuis: so you say to use process.on('uncaughtException')?

@@ -1,0 +1,1 @@
+i mean, it's basically designed to do exactly what npm needs from a db.

@@ -1,0 +1,1 @@
+isaacs: I am bothered by the fact that people continue to use Github's "follow project" functionality to indicate interest in a project, as opposed to starring the project in npm.

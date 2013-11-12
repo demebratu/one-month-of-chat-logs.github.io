@@ -1,0 +1,1 @@
+TonkaTruck, it does come with npm if you're installing a recent version

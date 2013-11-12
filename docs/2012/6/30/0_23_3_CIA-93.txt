@@ -1,0 +1,1 @@
+node: Ben Noordhuis v0.8 * rb9abb64 / doc/api/fs.markdown : doc: fs.lchmod() is only available on OS X - http://git.io/H6vnHA

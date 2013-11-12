@@ -1,0 +1,1 @@
+because then you can just .pipe() streams from the server into the client

@@ -1,0 +1,1 @@
+austinbv: are you able to require and use repl without the Timecop include?  I just tested on 0.8.0 with a dummy module and didn't get the same error

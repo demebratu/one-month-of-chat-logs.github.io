@@ -1,0 +1,1 @@
+ku, probably 10-20x runtime when doing cpu tasks i would bet, but network is still going to be the bottleneck that kills you first on modern machines

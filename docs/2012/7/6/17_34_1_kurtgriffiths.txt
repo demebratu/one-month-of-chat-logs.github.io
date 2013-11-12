@@ -1,0 +1,1 @@
+We just host our own Graylog2 server

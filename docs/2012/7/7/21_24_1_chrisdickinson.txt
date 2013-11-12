@@ -1,0 +1,1 @@
+attempting to hop through the steps required to make node-sqlite3 support domains as a learning process.

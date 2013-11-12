@@ -1,0 +1,1 @@
+or just do 'debug && debugger'  and then debug will be true for dev and false for prod

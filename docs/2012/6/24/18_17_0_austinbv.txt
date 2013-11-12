@@ -1,0 +1,1 @@
+triple_des: so far you are just describing how adding dependecies out side of node slow down an app

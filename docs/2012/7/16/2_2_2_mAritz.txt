@@ -1,0 +1,1 @@
+is there any easy way to handle bitmaps in nodejs? specifically i want to get a part of a bitmap and send it to the browser on request.

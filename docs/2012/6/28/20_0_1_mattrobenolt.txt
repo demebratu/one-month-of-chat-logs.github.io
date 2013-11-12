@@ -1,0 +1,1 @@
+Would you want to muck the initial input RegExp to filter, or filter as normal, then invert?

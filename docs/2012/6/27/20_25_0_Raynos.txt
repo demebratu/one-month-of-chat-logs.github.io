@@ -1,0 +1,1 @@
+is there some binary stuff I should know about that might make it default builds to a Debug rather then a Release folder

@@ -1,0 +1,1 @@
+substack: when we have modules why bother? there's no benefit separating auth into a stand-alone app

@@ -1,0 +1,1 @@
+right click on that and select "Network adapters…"

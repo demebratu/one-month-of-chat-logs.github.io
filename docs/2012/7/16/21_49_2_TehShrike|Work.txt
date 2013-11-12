@@ -1,0 +1,1 @@
+SubStack: In node-optimist, how did you decide to make argv a property with a getter, instead of just a function to call?

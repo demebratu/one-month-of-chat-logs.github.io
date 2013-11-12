@@ -1,0 +1,1 @@
+happosade: definitely, node is all js on the developer side so you should know js from front to back

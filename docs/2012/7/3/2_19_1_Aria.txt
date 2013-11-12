@@ -1,0 +1,1 @@
+And then make sure you use the greatest common denominator among the terminals you use if you use tmux or screen

@@ -1,0 +1,1 @@
+Would like it work in Node.js and the browser.

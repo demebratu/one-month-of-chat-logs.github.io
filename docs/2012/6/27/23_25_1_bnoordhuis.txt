@@ -1,0 +1,1 @@
+Murvin: when you say 'start running node' what do you mean exactly? just `node`?

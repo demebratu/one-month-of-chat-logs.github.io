@@ -1,0 +1,1 @@
+yay, running RPi on 4xAA (5V, 500mA output) from my charger

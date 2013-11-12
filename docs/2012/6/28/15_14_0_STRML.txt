@@ -1,0 +1,1 @@
+Has anyone here successfully set up an HTML snapshot utility that lets Google crawl your page? I'm using ExtJS on my frontend and Node on the back and I'd like it to filter out the googlebot and serve static HTML

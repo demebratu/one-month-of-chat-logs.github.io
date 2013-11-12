@@ -1,0 +1,1 @@
+Hotroot, I could easily be wrong, but you might have to make a closure to do that counter?

@@ -1,0 +1,1 @@
+how do i check if I called uv_poll_init() on a handle already?

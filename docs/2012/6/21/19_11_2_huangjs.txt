@@ -1,0 +1,1 @@
+hey, i had a strange problem that the session from everyauth seems not saved, so req.loggedIn isn't there. what could be the problem?

@@ -1,0 +1,1 @@
+I'm not familiar with native v8/node code, but there should be NaN identifier somewhere

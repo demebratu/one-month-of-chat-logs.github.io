@@ -1,0 +1,1 @@
+If I do "<path to python 2.7> ./configure" that should work right?  Because I'm getting a syntax error (not the same one given on the instal page)

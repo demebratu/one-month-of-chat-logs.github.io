@@ -1,0 +1,1 @@
+i'll just say that there is a thread pool that node uses in an efficient way. and the main thread is never blocked.

@@ -1,0 +1,1 @@
+Raynos: I just tried installing a bunch of packages. worked fine.

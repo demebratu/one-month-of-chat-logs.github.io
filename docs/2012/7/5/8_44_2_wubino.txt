@@ -1,0 +1,1 @@
+is node.js no longer a scripted language?

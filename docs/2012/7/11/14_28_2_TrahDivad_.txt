@@ -1,0 +1,1 @@
+I know that mongoDB can have other types than ObjectId for _id, but I have the impression that mongoose does not expect that. Is that true?

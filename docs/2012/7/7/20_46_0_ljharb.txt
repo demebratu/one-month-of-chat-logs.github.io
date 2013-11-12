@@ -1,0 +1,1 @@
+nakkor: then just do type === Date. it will be the same Date object if so

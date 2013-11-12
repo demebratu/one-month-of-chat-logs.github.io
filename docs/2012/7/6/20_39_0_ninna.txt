@@ -1,0 +1,1 @@
+EhevuTov, maybe..would it help if I turned off socket pooling? I'm going to be running the application via Heroku Cedar

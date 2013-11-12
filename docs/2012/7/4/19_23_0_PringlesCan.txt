@@ -1,0 +1,1 @@
+thanks for the suggestions… i wasn't sure if multiple requests might get chunked together improperly… i'm still not used to non-procedural programming

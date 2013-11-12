@@ -1,0 +1,1 @@
+I just got the same error under Ubuntu 12.04, so I guess it isn't a Windows thing...?

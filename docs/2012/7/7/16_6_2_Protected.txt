@@ -1,0 +1,1 @@
+It's probably possible to make this more readable (by breaking javascript, hehe)

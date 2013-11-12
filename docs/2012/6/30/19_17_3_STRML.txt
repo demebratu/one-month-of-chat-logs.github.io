@@ -1,0 +1,1 @@
+I run that in concert with cluster so if any child process dies, cluster reboots it, and if the cluster dies, upstart reboots it

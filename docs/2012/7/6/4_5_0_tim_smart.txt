@@ -1,0 +1,1 @@
+Linux has `epoll` which is a efficient way of polling for changes on file descriptors.

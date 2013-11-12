@@ -1,0 +1,1 @@
+hi all.i made the mistake of installing npm while in my projects folder (running kubuntu). is there any way to safely move the node_modules folder?

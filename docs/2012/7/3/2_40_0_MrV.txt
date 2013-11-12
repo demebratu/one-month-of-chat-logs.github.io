@@ -1,0 +1,1 @@
+Aria: is there a generally accepted workflow for deploying a node project with modules that have this type of binding? 

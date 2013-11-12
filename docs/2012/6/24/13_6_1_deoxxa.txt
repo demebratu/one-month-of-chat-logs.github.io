@@ -1,0 +1,1 @@
+> require("url").resolve("http://i.should/", "not/../read/the/docs")

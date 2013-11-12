@@ -1,0 +1,1 @@
+all i was hoping to find out if anyone did benchmarks on a decent app and what are the numbers per core and what is the memory footprint. Everyone is saying nodejs is using little cpu and memory

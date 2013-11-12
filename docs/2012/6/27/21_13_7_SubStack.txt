@@ -1,0 +1,1 @@
+empirically we have discovered in node that modules that have a single export that is a single function tend to be preferrable

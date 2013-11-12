@@ -1,0 +1,1 @@
+hey guys, quick question: is there anything like doc() or help() in python to get documentation from the live console? googled about and found nothing

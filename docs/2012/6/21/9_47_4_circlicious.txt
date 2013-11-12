@@ -1,0 +1,1 @@
+and i guess in bash its best to quote with double quotes

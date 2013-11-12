@@ -1,0 +1,1 @@
+Would like to create a gui for the webscraping - think firebug or alike

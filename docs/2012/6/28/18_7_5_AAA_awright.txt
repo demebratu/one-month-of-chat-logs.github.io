@@ -1,0 +1,1 @@
+Raynos: Cutting out v8 compiles Node.js in 30 seconds for me: ./configure --openssl-use-sys --shared-zlib --shared-v8 --without-npm

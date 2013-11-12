@@ -1,0 +1,1 @@
+hi, I just encountered that assert.deepEqual(NaN, NaN) throws an assertion error

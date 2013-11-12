@@ -1,0 +1,1 @@
+tom21: whereas the ruby and cpython interpreters are such that the barrier is much much less significant. So, if I had a server that I wanted to use, say, blas functions with, I'd probably go python due to the existing scientific computing ecosystem

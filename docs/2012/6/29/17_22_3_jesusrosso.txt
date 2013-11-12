@@ -1,0 +1,1 @@
+I'm having a nodejs http server in production that exits with code 0 and no message. Any how can I debug this ? I run with strace and the last thing that I see before the exit is: https://gist.github.com/3019359 . any help?

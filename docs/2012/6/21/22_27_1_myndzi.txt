@@ -1,0 +1,1 @@
+i was trying to pass a parameter to affect the behavior of these functions without success, i expect there's some weird scoping stuff going on that i don't understand

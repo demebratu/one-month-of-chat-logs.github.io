@@ -1,0 +1,1 @@
+pooya: bad assumption. Don't use globals, don't expect "this" to resolve to global.

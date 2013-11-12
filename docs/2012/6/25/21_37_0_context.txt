@@ -1,0 +1,1 @@
+avimarcus_: or make a proper package for whatever distro you are using

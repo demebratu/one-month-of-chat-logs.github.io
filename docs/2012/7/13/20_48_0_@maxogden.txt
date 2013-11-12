@@ -1,0 +1,1 @@
+tjholowaychuk: that style of augmentation is endorsed by isaacs actually

@@ -1,0 +1,1 @@
+cgiffard: i'd expect locate to use the same database that Finder does. is that the case?

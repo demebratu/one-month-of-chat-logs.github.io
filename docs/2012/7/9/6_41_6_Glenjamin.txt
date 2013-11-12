@@ -1,0 +1,1 @@
+i've got winston so far, but it's missing a "categorise these as <x> without making a new writer" feature

@@ -1,0 +1,1 @@
+isaacs: same story :/ I wonder if setting GIT_WORK_TREE is breaking it? (setting that to checkout to the deployment dir)

@@ -1,0 +1,1 @@
+dherman: while you guys have been working on this stuff for a while, node.js happens to be the only large scale (amount of use and popularity) project that has a successful and well defined module system that has been tested and iterated over

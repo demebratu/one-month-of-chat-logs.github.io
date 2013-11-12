@@ -1,0 +1,1 @@
+I just like the syntax. it's like python but with better libraries

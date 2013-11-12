@@ -1,0 +1,1 @@
+owen1: dont forget that it supports many more languages as plugins than irssi

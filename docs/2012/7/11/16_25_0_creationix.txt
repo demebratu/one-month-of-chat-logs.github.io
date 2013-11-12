@@ -1,0 +1,1 @@
+AAA_awright, no, the main field in package.json works

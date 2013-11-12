@@ -1,0 +1,1 @@
+isaacs: i just do a straight pack untar and get package/ "package" != package.json's name, so i could rename or i could sudo -u

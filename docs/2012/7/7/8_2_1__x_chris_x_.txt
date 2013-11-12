@@ -1,0 +1,1 @@
+ja, klar, zuerst gibt es natürlich einen request von php an node.js

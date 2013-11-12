@@ -1,0 +1,1 @@
+from mirc to javascript, big step up right? :P

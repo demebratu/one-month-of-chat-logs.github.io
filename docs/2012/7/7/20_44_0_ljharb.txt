@@ -1,0 +1,1 @@
+nakkor: then it's not a date object, it's the date constructor. why are you checking types in that manner?

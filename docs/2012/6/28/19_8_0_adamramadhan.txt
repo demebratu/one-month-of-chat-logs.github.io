@@ -1,0 +1,1 @@
+hello can anyone help me on what pattern should i use http://stackoverflow.com/questions/11249562/what-pattern-should-i-use-for-making-a-listen-bot-in-node-javascript ? anyone have a same problem?

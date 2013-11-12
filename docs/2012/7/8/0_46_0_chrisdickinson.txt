@@ -1,0 +1,1 @@
+basically: call EventEmitter on your constructor functions, use MakeCallback if available, and attach the current domain to any object that will be calling into javascript.

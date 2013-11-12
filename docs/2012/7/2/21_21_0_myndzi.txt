@@ -1,0 +1,1 @@
+is there a way to make npm download a package and keep it even if it has an error?

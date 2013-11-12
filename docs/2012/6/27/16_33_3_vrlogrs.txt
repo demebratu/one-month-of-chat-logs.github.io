@@ -1,0 +1,1 @@
+so:  "nohup node script.js cmd 2> &1 > script.log &"

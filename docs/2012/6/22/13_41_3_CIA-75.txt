@@ -1,0 +1,1 @@
+node: Bert Belder master * ra1b2741 / tools/msvs/msi/product.wxs : windows msi: use .url files for documentation and website shortcuts - http://git.io/Aglw5A

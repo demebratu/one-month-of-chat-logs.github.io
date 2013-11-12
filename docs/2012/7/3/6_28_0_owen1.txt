@@ -1,0 +1,1 @@
+i have a usersCollection object (mongo) that i defined in server.js. how to make it available in my dataAccess function? it exist in a seperate module.

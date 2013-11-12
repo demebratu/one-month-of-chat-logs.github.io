@@ -1,0 +1,1 @@
+Yeah. I found this doing some Googling. https://github.com/ncb000gt/node.bcrypt.js I don't understand it fully, but I guess it's a start.

@@ -1,0 +1,1 @@
+TrahDivad_: yeah, you have to set the indexes yourself, only the _id field is inexed on default iirc

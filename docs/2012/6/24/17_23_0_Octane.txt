@@ -1,0 +1,1 @@
+in an evented IO framework like node, how can i wrap my API requests in a general authorization function that waits for the authorization function to return before firing the actual API request?

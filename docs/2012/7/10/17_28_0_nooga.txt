@@ -1,0 +1,1 @@
+now I got this: TypeError: Object #<Promise> has no method 'findById'

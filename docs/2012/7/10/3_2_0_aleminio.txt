@@ -1,0 +1,1 @@
+but if i run a query to select a db again, it works fine. why is it acting that way?

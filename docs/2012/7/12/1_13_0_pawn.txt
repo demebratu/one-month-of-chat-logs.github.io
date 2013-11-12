@@ -1,0 +1,1 @@
+If I'm trying to build a chat application out of the already existing messaging application that goes through HTTP. If var io = require('socket-io').listen(app); is inside app.js how do I expose the io variable to my other controller modules without making io global or something?

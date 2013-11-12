@@ -1,0 +1,1 @@
+so, yes, if there's latency between you and the client, the client could get a lie in that the phone could be off the hook again before they got the notiec.

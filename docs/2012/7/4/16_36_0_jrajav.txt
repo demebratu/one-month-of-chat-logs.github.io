@@ -1,0 +1,1 @@
+Protected: Unless you defined a function scope encompassing that example, test is defined as a global variable

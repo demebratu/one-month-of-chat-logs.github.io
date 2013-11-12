@@ -1,0 +1,1 @@
+so, our app uses zmq (zeromq.node), which uses libev and relies on waf. Anybody knows a fork of it that uses libuv and gyp ?

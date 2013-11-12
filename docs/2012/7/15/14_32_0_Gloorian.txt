@@ -1,0 +1,1 @@
+Spion: I think for Repl, I need a stream. I'll use Input.write();

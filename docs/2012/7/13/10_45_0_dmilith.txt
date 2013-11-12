@@ -1,0 +1,1 @@
+monolithic kernels just cannot be realtime in that "system realtime" mean. 

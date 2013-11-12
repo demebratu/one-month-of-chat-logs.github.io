@@ -1,0 +1,1 @@
+package up all your deps as a bin and ship it off <3

@@ -1,0 +1,1 @@
+bnoordhuis: well, single-threaded could mean using signal and signal handlers that interrupt execution... but I'll assume this is just executed in the event loop, then

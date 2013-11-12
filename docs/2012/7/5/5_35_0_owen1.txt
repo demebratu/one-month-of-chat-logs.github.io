@@ -1,0 +1,1 @@
+othiym23: i heared something about joyent rewriting some c code into node. are there any blogs/writeups about this?

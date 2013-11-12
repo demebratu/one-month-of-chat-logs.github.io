@@ -1,0 +1,1 @@
+If you do what PHP does, it scales just fine. For things PHP is good at.

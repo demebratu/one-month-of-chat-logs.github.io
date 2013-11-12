@@ -1,0 +1,1 @@
+Array.isArray(something).should.equal(true); works 

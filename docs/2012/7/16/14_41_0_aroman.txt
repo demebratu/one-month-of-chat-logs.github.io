@@ -1,0 +1,1 @@
+should I let my browser see the stack trace of an error from, say, mongoose or other I/O?

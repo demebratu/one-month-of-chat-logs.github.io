@@ -1,0 +1,1 @@
+edsko: does `sudo azure` works?

@@ -1,0 +1,1 @@
+isaacs: I mean, i see it has .help() which outputs help, but that just returns it, rather than giving it to the user. I'll google nomnom though, ty :)

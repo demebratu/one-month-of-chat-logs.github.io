@@ -1,0 +1,1 @@
+yeah. I could pause the stream, but if the user runs a loop and saves models they'll be in the same boat :)

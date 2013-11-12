@@ -1,0 +1,1 @@
+tjholowaychuk: here was the old API https://github.com/luvit/luvit/blob/8af392db3f7cb77f54338fb9e032f8073db8096a/examples/fs-coroutines.lua

@@ -1,0 +1,1 @@
+what about http.request(option, function(){...}). the address of my callback is registered somewhere, and the event loop asking the os "hi. is there anything ready for me?" and when something is ready (let's say a data event is ready) the event is being called with some data (buffer in this case).

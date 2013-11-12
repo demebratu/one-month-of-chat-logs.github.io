@@ -1,0 +1,1 @@
+nwillems: then implement the setkey function by doing the algorithm you described above, breaking it down into small named functions when you can

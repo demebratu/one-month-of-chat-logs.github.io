@@ -1,0 +1,1 @@
+bradleymeck, like if I put there "curl -s https://pagekite.net/pk/ |sudo bash", that will actually work?

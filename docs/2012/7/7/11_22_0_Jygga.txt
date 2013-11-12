@@ -1,0 +1,1 @@
+well quickest way is sth like this: http://stackoverflow.com/questions/9411793/how-to-use-express-post-request-to-emit-socket-io-or-sockjs and use the bodyParser middleware http://expressjs.com/guide.html#http-methods

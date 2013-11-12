@@ -1,0 +1,1 @@
+we went from using deferreds/promises in the browser, to implementing node.js continuation passing in the browser for everything in the browser

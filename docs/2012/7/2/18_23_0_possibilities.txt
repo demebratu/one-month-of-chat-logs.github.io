@@ -1,0 +1,1 @@
+trying to add tests to a command line node app that makes tons of changes to the filesystem. can anyone point me to a project(s) i should be learning from?

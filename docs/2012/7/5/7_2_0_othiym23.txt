@@ -1,0 +1,1 @@
+but creationix used it to build luvit, so it's probably good enough

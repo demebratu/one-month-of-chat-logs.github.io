@@ -1,0 +1,1 @@
+get the error when i "require( '<module>' )"

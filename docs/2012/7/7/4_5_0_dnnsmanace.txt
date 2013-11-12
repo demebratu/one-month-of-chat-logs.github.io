@@ -1,0 +1,1 @@
+wow looks like i just fixed it... looked through the code of the module, it was adding a linebreak

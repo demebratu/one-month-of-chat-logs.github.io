@@ -1,0 +1,1 @@
+but i'm saying i'd certainly be shocked if an engineer i worked with proposed using an RPC model to communicate between client and server, especially one that obscured the nature of their communication in the first place.

@@ -1,0 +1,1 @@
+My computer boots to the framebuffer login, but I still use xterm usually.

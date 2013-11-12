@@ -1,0 +1,1 @@
+RLa: there will be a nodejs-legacy package that provides a node binary, but it's only for upstream compability, and no other packages are allowed to reference it

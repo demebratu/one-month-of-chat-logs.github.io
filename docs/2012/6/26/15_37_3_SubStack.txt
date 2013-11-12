@@ -1,0 +1,1 @@
+creationix: speaking of, I guess that weakref stuff is working pretty well for folks at getting rid of memory leaks

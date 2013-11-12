@@ -1,0 +1,1 @@
+what is the prefered method of using multiple cores w/ node? The built in cluster module, or the learnboost cluster module?

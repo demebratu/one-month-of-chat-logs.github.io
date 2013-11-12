@@ -1,0 +1,1 @@
+wink_: if you use a redis store to back socket.io you should be fine

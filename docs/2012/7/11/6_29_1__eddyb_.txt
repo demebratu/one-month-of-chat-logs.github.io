@@ -1,0 +1,1 @@
+a model where you have direct interaction between node.js and the rendering engine, that's what we need

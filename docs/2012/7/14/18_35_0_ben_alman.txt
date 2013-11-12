@@ -1,0 +1,1 @@
+version / module changes in your package.json can show in your git diffs without having to commit the modules themselves

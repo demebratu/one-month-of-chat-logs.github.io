@@ -1,0 +1,1 @@
+adams: there was also a suggestion to try installing node 0.8

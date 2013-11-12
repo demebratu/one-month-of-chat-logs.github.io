@@ -1,0 +1,1 @@
+If you're not getting your methods in the returned objects, then you're either querying them weirdly or defining your methods wrong =)

@@ -1,0 +1,1 @@
+the offending line is var zlib = require('zlib');

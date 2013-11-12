@@ -1,0 +1,1 @@
+mappum: Buffers are garbage collected just like any other JS object

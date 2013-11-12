@@ -1,0 +1,1 @@
+llrcombs, thealphanerd: solved the gunzip problem. My request code was forcing the encoding to utf-8 so the data was wrecked before even trying to unzip. Gotta be base64 all the way. New problem of truncated results, but at least the leading snippet that I get is totally valid html!!! THANKS!!!

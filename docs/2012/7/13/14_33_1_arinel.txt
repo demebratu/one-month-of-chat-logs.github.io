@@ -1,0 +1,1 @@
+I have a bit of a special case here. if two modules are unaware of each other, how would I resolve routes such as: /([A-Za-z0-9]+)  , where one module would do one thing, and the other something else? these modules could potentially run on separate machines.

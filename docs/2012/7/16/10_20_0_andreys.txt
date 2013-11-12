@@ -1,0 +1,1 @@
+does that mean that basically everything works via dns.lookup, and dns.resolve is left for those who want to resolve their hostnames manually?

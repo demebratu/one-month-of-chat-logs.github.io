@@ -1,0 +1,1 @@
+chuwiey: our accounts are an existing concept. that was just an example of how to expand the unique ID concept. if you only need to target single users, a single unique id should suffice

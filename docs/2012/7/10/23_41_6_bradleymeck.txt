@@ -1,0 +1,1 @@
+isaacs: "path.basename(wd) !== pkg.name" must be true if you dont set unsafe-perm? is there a reason?

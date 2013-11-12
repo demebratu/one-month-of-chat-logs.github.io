@@ -1,0 +1,1 @@
+that's what I have been trying to do looking at like FS in node vs fs.*Sync

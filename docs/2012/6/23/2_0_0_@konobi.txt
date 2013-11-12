@@ -1,0 +1,1 @@
+add command="..." to the key line in authorized keys

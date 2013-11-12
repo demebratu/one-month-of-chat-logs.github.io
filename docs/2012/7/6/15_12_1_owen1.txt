@@ -1,0 +1,1 @@
+Cymor: oh. so my js code is compiled to the lowest level possible

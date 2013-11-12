@@ -1,0 +1,1 @@
+how can I send an arraybuffer with xhr  from browser to a node.js http server?

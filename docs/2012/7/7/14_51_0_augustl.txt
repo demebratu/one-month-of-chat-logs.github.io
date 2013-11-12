@@ -1,0 +1,1 @@
+TGYoshi: what do you mean utf-8 strings?

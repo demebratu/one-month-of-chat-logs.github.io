@@ -1,0 +1,1 @@
+right now i'm using nginx with long polling but i'm looking into switching to http-proxy

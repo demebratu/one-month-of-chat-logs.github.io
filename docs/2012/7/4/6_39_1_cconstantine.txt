@@ -1,0 +1,1 @@
+but when I'm not compiling through snockets I need to do a node.js require()... how do I do that only when not in a browser?

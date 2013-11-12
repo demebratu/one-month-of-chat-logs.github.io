@@ -1,0 +1,1 @@
+Use some regex or something, wouldn't take long to code.

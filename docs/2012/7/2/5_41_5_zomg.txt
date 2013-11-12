@@ -1,0 +1,1 @@
+What I do is pretty similar to how mongoose docs shows it, nothing special really

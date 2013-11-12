@@ -1,0 +1,1 @@
+Buffer in node is just the HTML5 typed array, you can google that

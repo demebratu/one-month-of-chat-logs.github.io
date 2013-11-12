@@ -1,0 +1,1 @@
+okay i understand that but its basically a webapp + this realtime thing on top of it

@@ -1,0 +1,1 @@
+hey anyone have much experience with mongoose? im just getting started and feel like im making some wrong decisions, hoping someone can point me in the right direction

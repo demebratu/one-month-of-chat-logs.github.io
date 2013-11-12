@@ -1,0 +1,1 @@
+dnnsmanace: Have you looked at the putStream method.

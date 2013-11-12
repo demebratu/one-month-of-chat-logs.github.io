@@ -1,0 +1,1 @@
+semi off topic.. Anyone know about an alternative to phantomjs? Want to automate some browser testing from a Node script, but phantom is proving hard to work with

@@ -1,0 +1,1 @@
+bradleymeck: well, actually, with node-tar i kinda cheated, since tar comes in these nice 256-byte blocks

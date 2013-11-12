@@ -1,0 +1,1 @@
+jmwhittaker, you can var fname = module.exports = fn; or just module.exports()

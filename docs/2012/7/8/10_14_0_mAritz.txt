@@ -1,0 +1,1 @@
+hm, i tried nodemon a year ago, i think. if i remember correctly it sucked. :/

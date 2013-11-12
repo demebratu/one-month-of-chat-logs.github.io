@@ -1,0 +1,1 @@
+jfroma: Object.keys(process.binding('natives'))

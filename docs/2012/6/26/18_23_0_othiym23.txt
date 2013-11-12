@@ -1,0 +1,1 @@
+Deathspike: it makes a very good point in that it does make stacktraces easier to follow

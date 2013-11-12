@@ -1,0 +1,1 @@
+owen1: it can never be classical, because javascript does not have classes. it can only desperately attempt to be classical.

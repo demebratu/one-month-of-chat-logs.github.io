@@ -1,0 +1,1 @@
+thealphanerd: Exactly. And if you can't auto-detect (like a thermocouple using an analog signal) you could configure it just by clicking, "ytes this is a type T thermocouple" and maybe adjust some constants

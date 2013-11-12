@@ -1,0 +1,1 @@
+bnoordhuis: I've just checked - ZLib is the only one that doesn't support it :-)

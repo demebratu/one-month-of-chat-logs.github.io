@@ -1,0 +1,1 @@
+i played with using a git hook to copy source controlled system files to their respective places but id like to limit the amount of shell scripting im maintaining to a minimum

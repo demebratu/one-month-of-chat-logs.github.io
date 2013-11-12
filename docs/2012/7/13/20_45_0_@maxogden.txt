@@ -1,0 +1,1 @@
+tjholowaychuk: is it similar to uikit where theres a build step that puts templates into closures

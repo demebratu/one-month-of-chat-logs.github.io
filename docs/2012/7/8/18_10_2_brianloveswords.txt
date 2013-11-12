@@ -1,0 +1,1 @@
+Unfortunately you can't just arbitrarily pick a spot in the middle to stream from because of the way that the files are encoded, so you're going to need to figure out how to decode them (or find a module on npm that does it for you!)

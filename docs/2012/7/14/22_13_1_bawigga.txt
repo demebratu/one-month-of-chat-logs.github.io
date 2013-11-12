@@ -1,0 +1,1 @@
+So I just looked at my Environment Variables, and the nodejs dir was added to Path

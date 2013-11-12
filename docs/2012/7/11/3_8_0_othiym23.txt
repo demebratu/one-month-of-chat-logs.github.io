@@ -1,0 +1,1 @@
+can I just say it's a pure pleasure to be writing a simple little server after all this time spent writing gnarly metaprogrammy instrumentation code?

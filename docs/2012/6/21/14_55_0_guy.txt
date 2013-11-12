@@ -1,0 +1,1 @@
+should I bind them to repl.start().context = {} ?

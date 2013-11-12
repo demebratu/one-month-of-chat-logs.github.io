@@ -1,0 +1,1 @@
+I've written code myself that uses require() to dynamically load js files.

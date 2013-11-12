@@ -1,0 +1,1 @@
+But then what? I can't just look at what is using up all the cpu. It looks like the normal debugger for a client script

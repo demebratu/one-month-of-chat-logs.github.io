@@ -1,0 +1,1 @@
+and the client: https://github.com/oren/node.js-presentation/blob/master/code/5-socket-io/public/myscript.js

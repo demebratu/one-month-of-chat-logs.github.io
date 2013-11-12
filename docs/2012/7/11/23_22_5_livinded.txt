@@ -1,0 +1,1 @@
+use pushState to change the url in the address bar

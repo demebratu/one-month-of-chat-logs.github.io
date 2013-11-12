@@ -1,0 +1,1 @@
+ircretary: tell tjholowaychuk to re-publish hamljs without the symlink'd index.js

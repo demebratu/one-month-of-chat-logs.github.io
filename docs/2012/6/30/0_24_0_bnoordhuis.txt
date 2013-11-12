@@ -1,0 +1,1 @@
+augustl: no, it depends on open(O_SYMLINK) working

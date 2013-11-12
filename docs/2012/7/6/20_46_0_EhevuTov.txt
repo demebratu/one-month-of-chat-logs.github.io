@@ -1,0 +1,1 @@
+ninna, ah, then yeah, you probably want to increase or get rid of http://nodejs.org/docs/v0.8.1/api/http.html#http_agent_maxsockets

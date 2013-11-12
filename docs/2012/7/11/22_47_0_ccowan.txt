@@ -1,0 +1,1 @@
+Question for everyone using a VM based provider. Currently we have 2 web servers, 2 DB servers, a Redis Server and Search Server. Do you you split all your different types of services? I'm wondering why I'm doing this instead of just buying 2 bigger servers and puttnig everything on one  machine (the second being a backup machine)

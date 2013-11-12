@@ -1,0 +1,1 @@
+marlun: oh yeah you can .register() your template extensions too, that could work

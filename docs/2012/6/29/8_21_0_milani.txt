@@ -1,0 +1,1 @@
+isaacs: is there a plan to support platform specific dependencies on npm?

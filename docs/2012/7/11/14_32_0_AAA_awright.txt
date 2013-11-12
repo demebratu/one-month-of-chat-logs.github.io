@@ -1,0 +1,1 @@
+micheil: Javascript really is an event-oriented language that revolves around callbacks, I think by accident or design it's very well designed for the callback model. I was using Node.js right around when we abandoned callbacks and before then I implemented Mozilla's JS engine for handling events in servers (game servers, specifically, no HTTP)

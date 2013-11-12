@@ -1,0 +1,1 @@
+strk: or grab semver and use that to compare against process.whatevertheversionkeyis

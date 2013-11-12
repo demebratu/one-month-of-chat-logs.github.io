@@ -1,0 +1,1 @@
+there's a method in the utils module which will give you an object containing the form data which would have been submitted for a given form - you could validate against that and use the error object to display validation errors/whatever you need to do with it

@@ -1,0 +1,1 @@
+owen1: Basically it justs polls some file descriptions to see if something has changed, and if it sees a change it then notifies you.

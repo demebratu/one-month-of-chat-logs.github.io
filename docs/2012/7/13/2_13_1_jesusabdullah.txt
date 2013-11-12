@@ -1,0 +1,1 @@
+http://github.com/nodejitsu/node-http-proxy is capable of proxying websockets in production

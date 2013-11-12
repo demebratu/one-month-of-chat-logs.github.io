@@ -1,0 +1,1 @@
+my x-www-form-urlencode  looks like "  sessid : 12312    sessname: 34242 " now i want this number to my variables   

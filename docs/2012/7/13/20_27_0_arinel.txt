@@ -1,0 +1,1 @@
+maxogden: thanks! however, I have just published a package and when I do "npm owner ls" it shows my old email. Is there a way to change that email ?

@@ -1,0 +1,1 @@
+Hi, can anyone explain how nodejs handles async vs sync stuff? I know it's

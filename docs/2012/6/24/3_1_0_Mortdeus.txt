@@ -1,0 +1,1 @@
+how did you fix it? The npm registry version of libxml doesnt have the patch that fixes the o3 headers. 

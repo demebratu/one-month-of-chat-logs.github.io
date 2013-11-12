@@ -1,0 +1,1 @@
+possible jshint or jslint (lol Crockford)? I've never been able to get either of them to finish running on my code

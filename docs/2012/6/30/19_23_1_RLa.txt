@@ -1,0 +1,1 @@
+williamcotton, if you are doing something very simple, just put your response writing code in setTimeout

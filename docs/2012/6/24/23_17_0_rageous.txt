@@ -1,0 +1,1 @@
+gblock: Manual installation of modules is done by simply placing them in the node_modules dir?

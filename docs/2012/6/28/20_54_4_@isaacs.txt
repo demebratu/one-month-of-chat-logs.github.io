@@ -1,0 +1,1 @@
+benatkin: or just make uninstall, make install, make link

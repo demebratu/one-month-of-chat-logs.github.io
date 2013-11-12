@@ -1,0 +1,1 @@
+innociv: send the signal to the process to put it in debug mode

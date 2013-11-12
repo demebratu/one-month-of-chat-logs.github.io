@@ -1,0 +1,1 @@
+how to deal with a db connection and node? should i open the connection on each request to my website (assuming the request needs data from my db) or is it possible to open a connection once and use it for all the requests?

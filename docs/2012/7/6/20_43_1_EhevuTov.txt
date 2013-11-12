@@ -1,0 +1,1 @@
+ninna, I think the socket pooling is per host, so unless you're creating more than 5 connections to the same host, I don't think this would be an issue, unless I'm mistaken

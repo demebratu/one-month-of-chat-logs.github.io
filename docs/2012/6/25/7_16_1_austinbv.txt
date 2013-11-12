@@ -1,0 +1,1 @@
+I think I am gonna turn off syntatic jshint is just too annoying

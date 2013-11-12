@@ -1,0 +1,1 @@
+authentication within socket.io mixed with express and cookies and sessions

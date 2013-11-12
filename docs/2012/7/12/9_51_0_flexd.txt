@@ -1,0 +1,1 @@
+Group.find(parseInt(req.params.id)).success(function (group) adding the parseInt() fixed the bug..

@@ -1,0 +1,1 @@
+unless a module uses native functions or has a compiled extension or whatever, you can use it in the browser

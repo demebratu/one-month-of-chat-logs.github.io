@@ -1,0 +1,1 @@
+darrenlooby: Behind the scenes at some point, I'm sure. Many of the networking modules have some concept of reconnect/keep-alive. If the one you are looking at does not you may need to manually look for 'end' and 'error' events and kick off the reconnect manually.

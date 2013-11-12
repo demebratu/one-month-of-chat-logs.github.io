@@ -1,0 +1,1 @@
+is there any reason I shouldn't use cheerio for quick and dirty HTML parsing?

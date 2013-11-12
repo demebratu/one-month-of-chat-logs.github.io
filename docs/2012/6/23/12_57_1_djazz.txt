@@ -1,0 +1,1 @@
+keyboard, mouse, ethernet and bluetooth - all working

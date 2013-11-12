@@ -1,0 +1,1 @@
+Look at the bottom… when getProfileId is being called, we give it an anonymous function … this anonymous function will receive the callback and the arguments you sent it

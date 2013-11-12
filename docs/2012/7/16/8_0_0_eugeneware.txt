@@ -1,0 +1,1 @@
+gates: You could send it a signal (do they exist under windows?) or just kill it from the VC++ side (ie. keep a handle to the process and then kill the process).

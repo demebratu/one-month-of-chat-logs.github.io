@@ -1,0 +1,1 @@
+TooTallNate: So every time you access an environment variable, it's read frmo the actual environment?

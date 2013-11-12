@@ -1,0 +1,1 @@
+hook.on('**::ping', function (data, cb) { cb(null, "pong

@@ -1,0 +1,1 @@
+anyone who says that programming wiht node's callbacks is like programming in C has never done asynchronous programming in C

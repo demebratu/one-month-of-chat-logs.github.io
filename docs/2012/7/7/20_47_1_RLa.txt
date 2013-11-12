@@ -1,0 +1,1 @@
+Function instanceof Function gives true

@@ -1,0 +1,1 @@
+cce: I have a fleeting desire to hack at a JavaScript/Node.js implementation of the language.

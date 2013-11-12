@@ -1,0 +1,1 @@
+also, where's your 'index_load' listener registered?

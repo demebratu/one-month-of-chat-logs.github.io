@@ -1,0 +1,1 @@
+../deps/uv/src/unix/stream.c:732: uv__stream_io: Assertion `!!(events & EV_READ) ^ !!(events & EV_WRITE)' failed.  Does this message ring any bells? Its killing my node.js server every 5 mins! :(

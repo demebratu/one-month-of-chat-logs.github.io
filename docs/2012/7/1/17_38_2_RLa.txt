@@ -1,0 +1,1 @@
+most, if not all node db drivers already give you objects

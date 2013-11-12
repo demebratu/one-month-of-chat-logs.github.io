@@ -1,0 +1,1 @@
+Are you calling app.listen(3000) before or after having socket.io initialized?

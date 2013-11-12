@@ -1,0 +1,1 @@
+core.blah = function() { do my stuff... oldblah.apply(this, arguments); }

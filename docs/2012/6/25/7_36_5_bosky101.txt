@@ -1,0 +1,1 @@
+what do i have to change in the zlib example to use child-process , spawn instead of createReadStream ?

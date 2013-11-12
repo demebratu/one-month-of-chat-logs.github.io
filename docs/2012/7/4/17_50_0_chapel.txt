@@ -1,0 +1,1 @@
+depends on the point of the site, if static is the focus, use something like nginx, if dynamic is the main focus, then use something dynamic

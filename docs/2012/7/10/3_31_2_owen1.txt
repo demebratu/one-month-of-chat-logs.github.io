@@ -1,0 +1,1 @@
+socket.io uses tcp and not http so it's faster with less crazy handshaking, right?

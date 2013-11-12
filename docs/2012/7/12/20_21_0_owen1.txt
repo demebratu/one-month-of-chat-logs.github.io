@@ -1,0 +1,1 @@
+chrome is fine. in ff the server doesn't send the message to the client

@@ -1,0 +1,1 @@
+i can do this and i am doing this and it'd be great if node could indicate and flag that the current thing running is the entry point into the system

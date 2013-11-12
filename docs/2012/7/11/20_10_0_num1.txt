@@ -1,0 +1,1 @@
+let's say I'm working with really crazy code, and getting the urls isn't a matter of parsing out anything that looks like http://[...]. Also many of those urls won't get called during load, and I'd like to know about the ones that do. Scripts and iframes

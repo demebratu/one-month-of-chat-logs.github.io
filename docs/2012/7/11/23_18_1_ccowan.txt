@@ -1,0 +1,1 @@
+deltab: My answer to the spike is to scale up the server. If we are on a 4 GB or 8GB and we have 10x head room. We really would only need to scale up for anything over 10x.

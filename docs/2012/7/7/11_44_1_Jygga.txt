@@ -1,0 +1,1 @@
+KingDosser are you asking how to send a post request from rails in a node.js related channel?

@@ -1,0 +1,1 @@
+don't mvc assume and usually describe mvc components as objects?

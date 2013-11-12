@@ -1,0 +1,1 @@
+when i have the stdin stream in node and feed it from another program, will the 'data' event always be called only once with a buffer which contains the whole message, or may messages produce multiple 'data' events, so that i have to collect input and see when it is finished?

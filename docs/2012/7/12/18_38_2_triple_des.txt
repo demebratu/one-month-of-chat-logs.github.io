@@ -1,0 +1,1 @@
+maybe I have to formulate my question a little better: How do I create a 'var timerX' on the fly (like for example when a client connects).

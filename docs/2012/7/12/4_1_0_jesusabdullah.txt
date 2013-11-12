@@ -1,0 +1,1 @@
+JasonJS: we use nssocket for that in prod, it's pretty solid

@@ -1,0 +1,1 @@
+and I make sure that it has permissions to read/write any file in my project by running a script every time I deploy

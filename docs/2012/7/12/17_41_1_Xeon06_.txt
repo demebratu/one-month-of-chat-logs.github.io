@@ -1,0 +1,1 @@
+I'm trying to make a simple HTTP get request and get the response status code. Here is my code http://pastebin.com/ymLTuFhW

@@ -1,0 +1,1 @@
+anyone has experience in serving some static files on windows environment? 

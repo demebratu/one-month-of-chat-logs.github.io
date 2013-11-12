@@ -1,0 +1,1 @@
+you can just have a rule which checks for the cpu usage and just restart the node process

@@ -1,0 +1,1 @@
+Deathspike you can do something like require('./controllers/blah')(app)

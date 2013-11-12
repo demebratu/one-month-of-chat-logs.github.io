@@ -1,0 +1,1 @@
+SomeoneWeird: I don't see any throttling info on the docs for node-irc.

@@ -1,0 +1,1 @@
+Deathspike: Ah I see, so by default it's not activated for normal cmd shells?

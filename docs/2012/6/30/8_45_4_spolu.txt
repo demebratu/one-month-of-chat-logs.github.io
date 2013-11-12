@@ -1,0 +1,1 @@
+deoxxa: that's exactly the point! I'm rewriting the vi mode entirely and it starts to feel natural

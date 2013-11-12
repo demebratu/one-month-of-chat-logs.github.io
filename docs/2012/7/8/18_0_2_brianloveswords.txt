@@ -1,0 +1,1 @@
+ansolas: oh yeah, you can't start streaming from the middle if you're trying to actually get the file to be listenable because you need the headers of the file (or at least firefox does).

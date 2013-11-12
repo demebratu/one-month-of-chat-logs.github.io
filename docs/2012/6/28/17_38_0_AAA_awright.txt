@@ -1,0 +1,1 @@
+rektide: You should seperate it out. Any library logic SHOULD be in an external file and require()d from the application

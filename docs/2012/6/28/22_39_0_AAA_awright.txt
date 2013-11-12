@@ -1,0 +1,1 @@
+XML is marking up information which is already serialized, the information it is marking up already has an inherent order.

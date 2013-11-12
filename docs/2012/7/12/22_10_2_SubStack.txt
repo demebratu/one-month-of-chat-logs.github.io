@@ -1,0 +1,1 @@
+isaacs: so I think it's wise to realize that programmers will tend to build pieces that are too big and to consciously correct for that tendancy

@@ -1,0 +1,1 @@
+and you check that the cookie exists and retrieve the data associated with it

@@ -1,0 +1,1 @@
+I still like CoffeeScript. But, this library made more sense as JavaScript.

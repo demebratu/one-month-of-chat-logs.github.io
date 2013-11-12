@@ -1,0 +1,1 @@
+node: Joe Shaw master * r38250f9 / AUTHORS : authors: update email address - http://git.io/hqzqhg

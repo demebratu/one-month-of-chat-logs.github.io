@@ -1,0 +1,1 @@
+is it binary ? how do i convert it to plain text (i guess utf8?)

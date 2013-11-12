@@ -1,0 +1,1 @@
+node-mysql: if an array is used for a parameter for a prepared statement, what does the node-mysql module do?

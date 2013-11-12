@@ -1,0 +1,1 @@
+I haven't worked with express yet...just making a little socket.io thingy for my first node project.

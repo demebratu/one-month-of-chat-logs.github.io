@@ -1,0 +1,1 @@
+So, the difference is that you're emitting events that update everyone who's listening (multi-agent/client), vs emitting an event on one agent.

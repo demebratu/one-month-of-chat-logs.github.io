@@ -1,0 +1,1 @@
+tjholowaychuk, yep. I need to generate an ES mapping for the schema once before models are submitted for indexing

@@ -1,0 +1,1 @@
+then in all future functions, pass the function in as a variable

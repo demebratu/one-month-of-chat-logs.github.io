@@ -1,0 +1,1 @@
+It's not something i wanted to do, but with the applications i needed to fit Mocha/etc into, it was just a pain trying to get them to play nice in all the possible environments since they did so much "magic", and a lot of them had a very limited API

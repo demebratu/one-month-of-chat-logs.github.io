@@ -1,0 +1,1 @@
+Jan-: heh, it's widely viewed that the single global namespace that browser-side javascript development has is a pretty huge mess and is nothing something one would want on the server side

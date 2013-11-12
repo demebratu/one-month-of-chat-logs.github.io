@@ -1,0 +1,1 @@
+Is there any way to define a model to check POST body against in Express (instead of checking each field one by one)?

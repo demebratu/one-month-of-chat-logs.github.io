@@ -1,0 +1,1 @@
+then again I'm not an expert, but Node.js philosophy seemed quite consistent

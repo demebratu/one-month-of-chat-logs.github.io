@@ -1,0 +1,1 @@
+prototype has structure, but it also allows structures to be smashed together so easily

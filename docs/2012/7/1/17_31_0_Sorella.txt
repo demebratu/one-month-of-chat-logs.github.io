@@ -1,0 +1,1 @@
+tankpilot, hm, do MVC patterns even fit the FP paradigm?

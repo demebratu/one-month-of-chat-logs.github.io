@@ -1,0 +1,1 @@
+bnoordhuis, looks like it. i was able to manually use iconv on the incoming text and it worked, because i do know the source charset. looks like ruby is able to detect the encoding and also issue conversion to utf8

@@ -1,0 +1,1 @@
+    o['variables']['node_prefix'] = options.prefix if options.prefix else ''

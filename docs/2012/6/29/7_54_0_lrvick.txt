@@ -1,0 +1,1 @@
+Then have a node tool that can search for and compile all files in a search path into a single file again

@@ -1,0 +1,1 @@
+I was wondering since node.js is single-threaded, is everything else halted when sending data to a slow lingering connection? or does that lib uses threads? 

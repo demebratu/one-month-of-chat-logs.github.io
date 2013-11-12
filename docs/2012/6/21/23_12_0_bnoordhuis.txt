@@ -1,0 +1,1 @@
+lohkey: yes, it's a fallback mechanism for when the browser doesn't natively support websockets

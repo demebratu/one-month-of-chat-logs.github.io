@@ -1,0 +1,1 @@
+Karmaon: i believe that the first one will not send the text to the server until res.end() will be called

@@ -1,0 +1,1 @@
+I guess a way to make this question more generic: under what circumstances does node terminate?

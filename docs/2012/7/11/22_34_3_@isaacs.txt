@@ -1,0 +1,1 @@
+piscisaureus_: while we're on the subject: ownership and modes of Junctions and Symlinks - does Windows have these?

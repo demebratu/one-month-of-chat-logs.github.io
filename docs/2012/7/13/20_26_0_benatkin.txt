@@ -1,0 +1,1 @@
+tjholowaychuk: it's easy to see people who use the Backbone.extend{foo:function() {})} people not minding an extra wrapping

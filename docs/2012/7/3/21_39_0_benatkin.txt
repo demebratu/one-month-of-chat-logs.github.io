@@ -1,0 +1,1 @@
+I'd like feedback on my new module that parses and converts JSON+comments, and describes it as a distinct format to avoid breaking stuff http://github.com/benatkin/eon

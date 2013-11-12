@@ -1,0 +1,1 @@
+chilts: I'm not trying to install the package, I created the package, and now whenever a user called "npm install -g 'my module'" I want it to place my executable on that users path

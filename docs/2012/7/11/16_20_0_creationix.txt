@@ -1,0 +1,1 @@
+I'm just sharing my experience that if you feel you *need* a lib folder, you're usually better off breaking it up

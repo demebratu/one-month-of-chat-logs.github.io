@@ -1,0 +1,1 @@
+dshap: if you compare the raw http for both requests you will most likely find missing headers or other difference. try using `npm install request` instead it tends to take care of that stuff for you

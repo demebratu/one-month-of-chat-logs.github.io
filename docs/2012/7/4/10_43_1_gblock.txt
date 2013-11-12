@@ -1,0 +1,1 @@
+Trindaz: It is really designed for integration testing / simulating the response on the server based on the request.

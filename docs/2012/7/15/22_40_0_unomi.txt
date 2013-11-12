@@ -1,0 +1,1 @@
+then still though, mongrel2 can deal with websockets. .. I have no idea why I am apparently arguing against just using node.js

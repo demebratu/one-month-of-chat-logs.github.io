@@ -1,0 +1,1 @@
+function bar() { ... } ... other code added by that damn intern ... somethingAsync(bar);

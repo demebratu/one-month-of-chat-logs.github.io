@@ -1,0 +1,1 @@
+as far as I can tell, jsdom.jsdom() sets up a dom, gets the options setup, then writes to innerHTML, then calls close() and finishes

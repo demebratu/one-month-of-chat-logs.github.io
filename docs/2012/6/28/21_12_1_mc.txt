@@ -1,0 +1,1 @@
+wget nodejs.org/dist/v0.6.19/node-v0.6.19.tar.gz && tar xf node-v0.6.19.tar.gz && cd node-v0.6.19 && ./configure && make && sudo make install

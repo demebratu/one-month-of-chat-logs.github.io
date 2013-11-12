@@ -1,0 +1,1 @@
+ok, this server is designed to run a bash script that logs me out of my mac when it receives any request on port 8000, its being hosted on my pc, and i want a way to send a request to that server when a button is pressed on a webpage

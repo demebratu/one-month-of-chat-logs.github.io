@@ -1,0 +1,1 @@
+but, your x server runs independently of cocoa

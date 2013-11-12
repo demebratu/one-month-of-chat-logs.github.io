@@ -1,0 +1,1 @@
+Qbix1, you should totally check out npm's 'package.json'. You'd love it

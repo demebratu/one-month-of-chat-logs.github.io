@@ -1,0 +1,1 @@
+anyone have any thoughts on a state-machine for consuming binary protocols? or know of an existing one that can accept partial content?

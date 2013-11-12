@@ -1,0 +1,1 @@
+marlun: I don't know how underscore templates work but if you can give a string to a render function you can do that with expority

@@ -1,0 +1,1 @@
+Protected: If it was defined in a function scope, both 'func' and 'method' would close around test

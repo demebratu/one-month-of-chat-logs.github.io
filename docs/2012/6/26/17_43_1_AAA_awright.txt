@@ -1,0 +1,1 @@
+isaacs: In configure in function configure_v8 after line 316 the following needs to be added so --shared-v8 by itself doesn't throw an error: "  o['variables']['node_shared_v8_includes'] = b(options.shared_v8_includes)"

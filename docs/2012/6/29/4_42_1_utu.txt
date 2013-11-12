@@ -1,0 +1,1 @@
+what's a good way to control printing of debug messages (console.log)? e.g. in C you can use #define and a flag to toggle

@@ -1,0 +1,1 @@
+myndzi: split didn't simply work for me. some regex magic and everything was great.. just wanted to thank you.

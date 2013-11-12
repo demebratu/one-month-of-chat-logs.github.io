@@ -1,0 +1,1 @@
+app.resource('forum' == req.forum_id or something

@@ -1,0 +1,1 @@
+austinbv: the main advantage is it shows in your git diffs; the main disadvantage is that it shows up in your git diffs

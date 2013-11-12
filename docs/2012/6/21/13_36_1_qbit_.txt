@@ -1,0 +1,1 @@
+if anyone else here is running openbsd: http://deftly.net/node-dev.tgz 0.7.12 port files 

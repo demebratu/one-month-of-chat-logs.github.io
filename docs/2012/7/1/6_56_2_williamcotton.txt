@@ -1,0 +1,1 @@
+then in redis, I'm at 103609 bytes

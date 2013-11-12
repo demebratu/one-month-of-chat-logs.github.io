@@ -1,0 +1,1 @@
+adamramadhan: i think it might be that the router gets confused sometimes.  it should be a whole different top-level route

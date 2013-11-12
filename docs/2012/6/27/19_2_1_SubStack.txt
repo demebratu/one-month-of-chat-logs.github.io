@@ -1,0 +1,1 @@
+what the fuck, eich is seriously basing his argument in favor of awful complicated import destructuring syntax because people will make a typo?

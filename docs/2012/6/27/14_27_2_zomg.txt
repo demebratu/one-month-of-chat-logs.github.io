@@ -1,0 +1,1 @@
+Or load the file's contents and use eval() to get it in the scope

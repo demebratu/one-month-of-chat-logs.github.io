@@ -1,0 +1,1 @@
+Node's zlib takes raw buffers as input, not strings

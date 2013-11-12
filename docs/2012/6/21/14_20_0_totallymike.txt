@@ -1,0 +1,1 @@
+/dev/null is super fast when you write your logs to it

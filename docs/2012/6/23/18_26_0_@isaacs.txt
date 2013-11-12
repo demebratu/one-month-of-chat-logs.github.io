@@ -1,0 +1,1 @@
+austinbv: no, but you can add node_modules/.bin to your PATH

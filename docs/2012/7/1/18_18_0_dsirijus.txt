@@ -1,0 +1,1 @@
+here's the thing, this is development server (lucifer)... kation.hr is on another server's (satan) dns, i'd have to make a A entry for every app i want then

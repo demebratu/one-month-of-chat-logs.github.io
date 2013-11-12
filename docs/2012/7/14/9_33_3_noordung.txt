@@ -1,0 +1,1 @@
+Me again, I'm getting a v8 error that Handle<Object> (from args.This()) cannot be cast to Handle<Value>... :/

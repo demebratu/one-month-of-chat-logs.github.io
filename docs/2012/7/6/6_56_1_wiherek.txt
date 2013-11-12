@@ -1,0 +1,1 @@
+is there any reason for using express instead of just connect when building a single-page app?

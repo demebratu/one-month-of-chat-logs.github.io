@@ -1,0 +1,1 @@
+does socket.io use redis pub/sub at all?

@@ -1,0 +1,1 @@
+jesusabdullah: ok... initially I thought you write your js files and run them with node to start your server. sorry if I write some confusing stuff, as I said I'm new to all this ^^

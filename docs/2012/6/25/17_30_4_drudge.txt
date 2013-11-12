@@ -1,0 +1,1 @@
+isaacs: i guess it may be cleaner to specify the NAVE_DIR myself

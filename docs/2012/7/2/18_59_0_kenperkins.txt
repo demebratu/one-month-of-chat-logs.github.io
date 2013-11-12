@@ -1,0 +1,1 @@
+I know lots of people prefer node for asynchronous heavy projects (realtime this or that), but I love node simply because of the ease of working in Js on the client and server. having the server be event based is icing.

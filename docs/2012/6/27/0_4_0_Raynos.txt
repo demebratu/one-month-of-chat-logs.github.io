@@ -1,0 +1,1 @@
+isaacs: I need to manually copy the "correct bits" into "$NAVE_ROOT/0.8.0" ( https://github.com/isaacs/nave/blob/master/nave.sh#L357 ). Any recommendation on how to do that?

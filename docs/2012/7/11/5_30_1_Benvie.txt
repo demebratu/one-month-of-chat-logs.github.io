@@ -1,0 +1,1 @@
+that is a callback but it happens both in a deterministic order, and synchronously

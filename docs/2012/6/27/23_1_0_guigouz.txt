@@ -1,0 +1,1 @@
+I'll iterate and have a flag to check if the message is complete (have a 03) or not.

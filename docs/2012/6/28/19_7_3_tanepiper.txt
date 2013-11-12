@@ -1,0 +1,1 @@
+tjholowaychuk: ahh, ok cos i'm getting the indexOf error that's raised in the issues too, i'll just force @ version it

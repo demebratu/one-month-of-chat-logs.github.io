@@ -1,0 +1,1 @@
+Raynos: try using gdb (you'll need to use that to read the coredump anyway)

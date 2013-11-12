@@ -1,0 +1,1 @@
+npm install seems to just not return for no reason. I wanted to see whether it's a problem with the npm server in which case other people have problems too

@@ -1,0 +1,1 @@
+if you need to fry up css, you should fry it up on the server rather than in the browser

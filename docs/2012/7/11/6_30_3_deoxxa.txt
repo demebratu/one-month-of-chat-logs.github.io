@@ -1,0 +1,1 @@
+i'd really love it if i could press a button in chrome and get a node.js instance that was bound to the current tab

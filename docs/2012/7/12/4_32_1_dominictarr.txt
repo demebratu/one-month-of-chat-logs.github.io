@@ -1,0 +1,1 @@
+each part of socket.io should be a seperate module that you can use if you want.

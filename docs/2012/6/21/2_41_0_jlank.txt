@@ -1,0 +1,1 @@
+could someone help me understand why the video stream in this gist gets set to "readable": false ? https://gist.github.com/2963507

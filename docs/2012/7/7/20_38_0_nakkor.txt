@@ -1,0 +1,1 @@
+if I want to pass Date, such as var type = Date; how can I tell if type is a date? instanceof and typeof don't work :/

@@ -1,0 +1,1 @@
+Hi, why does new Date.getTime() say undefied is not a function?

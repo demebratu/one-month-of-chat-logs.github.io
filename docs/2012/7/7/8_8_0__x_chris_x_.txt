@@ -1,0 +1,1 @@
+ja, klar, z. b. auch direkt für den node.js-http-server

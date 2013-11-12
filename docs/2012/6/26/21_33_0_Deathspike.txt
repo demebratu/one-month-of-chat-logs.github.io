@@ -1,0 +1,1 @@
+No, V8 compiles and doesn't retain names and such in memory. Normally, you might care about the size due to transmission to the client but if you exclusively use the file on the server, there's no reason to care. Otherwise, there are always minifiers.

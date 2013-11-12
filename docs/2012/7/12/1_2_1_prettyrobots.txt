@@ -1,0 +1,1 @@
+When I write to console in Windows using stdout write, it will apply colors.

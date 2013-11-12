@@ -1,0 +1,1 @@
+anyone know offhand how to log response body when using http-proxy? I have req.on('data'), …) works fine for post data, but resp.on('data', …) is never fired

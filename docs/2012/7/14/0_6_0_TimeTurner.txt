@@ -1,0 +1,1 @@
+socket.io already keeps a list of sockets in redis

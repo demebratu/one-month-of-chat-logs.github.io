@@ -1,0 +1,1 @@
+zeus: try this as an example : https://github.com/jshint/node-jshint/blob/master/package.json#L15

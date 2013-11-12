@@ -1,0 +1,1 @@
+I'm using the cluster module with unix sockets… when I disconnect my workers and exit my master process, the socket file is not automatically deleted like it is when not using cluster, so on next run the workers fail to listen() because of EADDRINUSE. Am I missing something ?

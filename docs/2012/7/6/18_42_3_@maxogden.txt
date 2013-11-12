@@ -1,0 +1,1 @@
+http://isaacs.couch.xxx/registry/promised-io

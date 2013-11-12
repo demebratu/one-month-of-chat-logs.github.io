@@ -1,0 +1,1 @@
+i want to run the same set of functional tests using both phantomjs and selenium. is there an abstraction layer that makes this easy?

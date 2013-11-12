@@ -1,0 +1,1 @@
+sure, I'm trying to create a server that will run a .sh when any request is sent to port 8000, how do i do that? i have tried several ideas, but none will work

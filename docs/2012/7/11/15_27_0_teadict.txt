@@ -1,0 +1,1 @@
+Well, yes, maybe an abstraction layer such as an IDE could erase what I said about comfyness of languages

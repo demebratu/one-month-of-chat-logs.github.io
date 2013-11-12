@@ -1,0 +1,1 @@
+and not hack my framework to use absolute paths

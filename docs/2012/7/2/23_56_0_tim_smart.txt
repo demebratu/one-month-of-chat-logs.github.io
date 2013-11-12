@@ -1,0 +1,1 @@
+require('http').createserver(function (q, r) r:done('website') end):listen(8080) <- luvit code is quite similar

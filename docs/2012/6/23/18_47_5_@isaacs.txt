@@ -1,0 +1,1 @@
+innociv: well, if you think that your ability to write an infinite loop is a bug, then yes ;)

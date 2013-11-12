@@ -1,0 +1,1 @@
+Why does everyone always throw that first: Use something else! I just want to make my life easier in JS, is that so bad? :/

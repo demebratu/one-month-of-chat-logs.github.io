@@ -1,0 +1,1 @@
+i assume i only need the single JS but having a full rails api would be great to have it implemented so say I would not include just the single sockets.io but use juggernaut would that work too?

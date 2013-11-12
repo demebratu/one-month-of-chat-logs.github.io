@@ -1,0 +1,1 @@
+why would you feed an already escaped string to escapeStr

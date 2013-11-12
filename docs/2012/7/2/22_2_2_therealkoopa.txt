@@ -1,0 +1,1 @@
+I just figured rather than sending two "requests" even though they are different, I could just do it when the main request is handled with express.

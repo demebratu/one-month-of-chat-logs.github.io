@@ -1,0 +1,1 @@
+hi all, I'm trying to use npm with the most recent git of node, and it doesn't seem to play nice. any way to install npm with "0.9.0-pre"?

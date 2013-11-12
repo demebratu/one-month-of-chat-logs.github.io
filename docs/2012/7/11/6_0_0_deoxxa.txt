@@ -1,0 +1,1 @@
+prettyrobots: it's perfectly reasonable if you want to exit with a specific return code

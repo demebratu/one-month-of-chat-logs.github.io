@@ -1,0 +1,1 @@
+muchzill4 also, callbacks don't inherently make your code async.

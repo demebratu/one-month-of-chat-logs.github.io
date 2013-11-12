@@ -1,0 +1,1 @@
+has anyone written up a decent response to this yet? http://blog.bearstech.com/2012/07/nodejs-is-a-toy.html

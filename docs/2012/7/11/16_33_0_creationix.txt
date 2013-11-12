@@ -1,0 +1,1 @@
+package.json is the node way to declare module entry points and dependencies

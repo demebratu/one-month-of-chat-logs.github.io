@@ -1,0 +1,1 @@
+whato to add to this so i get http requests also proxied to the same server? http://pastie.org/4174257

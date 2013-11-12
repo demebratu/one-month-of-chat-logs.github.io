@@ -1,0 +1,1 @@
+this, just without the two inner es.pipe's https://github.com/tblobaum/redis-stream/blob/master/index.js#L28-43

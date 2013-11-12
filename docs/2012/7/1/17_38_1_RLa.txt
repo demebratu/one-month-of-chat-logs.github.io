@@ -1,0 +1,1 @@
+i find orms less useful in dynamic languages than in static languages

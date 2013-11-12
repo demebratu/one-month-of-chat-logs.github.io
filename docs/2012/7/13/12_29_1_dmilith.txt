@@ -1,0 +1,1 @@
+why it's config_linux not config_freebsd9 ? :o

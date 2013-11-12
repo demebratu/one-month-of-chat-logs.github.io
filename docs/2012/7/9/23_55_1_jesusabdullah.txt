@@ -1,0 +1,1 @@
+othiym23: it's like all the bad stuff about coffeescript, plus all the bad stuff involved with hiding how callbacks work

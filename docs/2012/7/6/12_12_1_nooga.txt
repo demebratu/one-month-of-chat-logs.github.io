@@ -1,0 +1,1 @@
+is it a good idea to put a socket server and a http server in one node.js script?

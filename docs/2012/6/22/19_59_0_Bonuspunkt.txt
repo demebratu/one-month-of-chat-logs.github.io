@@ -1,0 +1,1 @@
+isaacs have you seen https://github.com/isaacs/npm/issues/2552 ?

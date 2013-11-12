@@ -1,0 +1,1 @@
+isaacs: I posted some more investigation at https://github.com/isaacs/npm/issues/2597 and would love to try any suggestions you have for working around the environment variable issue

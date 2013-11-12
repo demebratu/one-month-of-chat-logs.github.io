@@ -1,0 +1,1 @@
+SubStack: Then I'm back at modifing the dependency files which I was supposed to get away from if using the xxx-browserify modules? :) 

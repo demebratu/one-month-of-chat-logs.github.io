@@ -1,0 +1,1 @@
+is there a way to have a callback for .kill - method?

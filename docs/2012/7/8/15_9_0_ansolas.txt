@@ -1,0 +1,1 @@
+should this work ? fs.stat('wonderland_-_steve_oood.ogg')

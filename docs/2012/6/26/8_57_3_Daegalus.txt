@@ -1,0 +1,1 @@
+I used Django, never touched rails because I do not like Ruby in any way shape or form. Now I do node if i need web stuff.

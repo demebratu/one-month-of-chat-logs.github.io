@@ -1,0 +1,1 @@
+Or if you like seeing the world burn: var func = function(){/*...*/}; func.name = "Fancy Name"; exports.someFunction= func;

@@ -1,0 +1,1 @@
+prettyrobots: Have you seen ever seen a Haskell/Erlang/Scheme developer using Windows as platform?

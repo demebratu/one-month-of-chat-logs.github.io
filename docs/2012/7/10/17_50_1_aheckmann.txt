@@ -1,0 +1,1 @@
+nooga: Category = someModel.find(callback)

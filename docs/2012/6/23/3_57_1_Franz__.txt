@@ -1,0 +1,1 @@
+i have   this.title = new GUI.TextInput({'parent':this.container,

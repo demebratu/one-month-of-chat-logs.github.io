@@ -1,0 +1,1 @@
+So 'get' is the redis command you want to use

@@ -1,0 +1,1 @@
+newMysql.query("select * from questions",function(err, results, fields) {

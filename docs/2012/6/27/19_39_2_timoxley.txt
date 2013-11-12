@@ -1,0 +1,1 @@
+It seems the new proposals are introducing unnecessary risk by introducing new concepts that work radically differently to rest of the language. 

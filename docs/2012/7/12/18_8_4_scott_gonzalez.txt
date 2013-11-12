@@ -1,0 +1,1 @@
+isaacs: Though I am running npm 1.1.0-3.

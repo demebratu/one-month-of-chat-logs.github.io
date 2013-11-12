@@ -1,0 +1,1 @@
+VeXii: the Python issue is why I asked pianoroy if his configure crashed out -- failing on compile is a different issue ;)

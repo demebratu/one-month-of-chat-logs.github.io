@@ -1,0 +1,1 @@
+well, i know the module exports are cached, that is, for a = require('foo') in one module and b = require('foo') in another module, a === b

@@ -1,0 +1,1 @@
+I'm trying to write a command-line utility that connects to the DB, does a query and prints the result

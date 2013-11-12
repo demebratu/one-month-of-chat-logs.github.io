@@ -1,0 +1,1 @@
+isaacs: Is any of the config stuff factored out of npm yet? I'm using npm-registry-client to do some querying and it's pretty slick, but I feel like a bit of a jerk setting my own registry and cache locations.

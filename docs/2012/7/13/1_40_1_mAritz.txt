@@ -1,0 +1,1 @@
+any modules that do json strinify but including functions? (i don't want to eval them, just display)

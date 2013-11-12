@@ -1,0 +1,1 @@
+timoxley: it's generally a better pattern to use exports.blah instead of setting module.exports to a single global object at the end

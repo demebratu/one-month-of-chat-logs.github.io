@@ -1,0 +1,1 @@
+SubStack: the lightbulb is starting to come on.  If you had multiple restricted functions that could only be called by certain authenticated users, would you have the auth function pass an object back to the callback that had all of those functions as properties?

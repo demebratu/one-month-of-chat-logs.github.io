@@ -1,0 +1,1 @@
+What are some recommended libraries for image uploading with s3? So far I'm thinking I'll use knox for the s3, and node-imagemagick for resizing. What is good for multipart uploads, or is it best to just roll my own on that one?

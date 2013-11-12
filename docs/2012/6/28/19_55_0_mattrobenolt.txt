@@ -1,0 +1,1 @@
+Is there an anti-grep? Say, all tests EXCEPT what was matched?

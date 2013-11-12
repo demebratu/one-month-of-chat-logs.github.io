@@ -1,0 +1,1 @@
+it looks like I can either just give it to jsdom in full "fetch and process everything" mode, and add a hook into resourceLoader that lets me look at every request

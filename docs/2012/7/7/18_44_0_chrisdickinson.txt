@@ -1,0 +1,1 @@
+tjholowaychuk: interesting, it seems like 3rd party compiled modules don't automatically send errors to the active domain.

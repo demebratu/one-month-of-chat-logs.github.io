@@ -1,0 +1,1 @@
+Lorentz: there's a project to patch the kernel to support DTrace, but much like the systemtap patches, there's a very small chance it will ever get applied to a mainline kernel

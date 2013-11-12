@@ -1,0 +1,1 @@
+and then I have duplicate all my routes in node and nginx

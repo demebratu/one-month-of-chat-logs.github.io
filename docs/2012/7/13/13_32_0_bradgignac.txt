@@ -1,0 +1,1 @@
+chuwiey: using that technique, you could use just about any protocol: redis, http, even writing a temp file to disk (i don't recommend that last one)

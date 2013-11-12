@@ -1,0 +1,1 @@
+And is there anything besides your setup that would cause a spike? Database, other processes that are spiking?

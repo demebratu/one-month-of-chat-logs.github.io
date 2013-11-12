@@ -1,0 +1,1 @@
+i.e. telnet client on port 8124 can pass data to telnet client on 8125 - but not the reverse.. what am i missing here?

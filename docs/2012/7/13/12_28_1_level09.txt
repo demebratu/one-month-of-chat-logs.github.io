@@ -1,0 +1,1 @@
+perfect, hope it will be easy to integrate with socket.io

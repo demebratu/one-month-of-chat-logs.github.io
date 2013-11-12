@@ -1,0 +1,1 @@
+once you have websockets in place it's no different than thick clients connected via tcp

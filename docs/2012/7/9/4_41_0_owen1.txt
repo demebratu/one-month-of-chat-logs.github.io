@@ -1,0 +1,1 @@
+http://vimeo.com/40554843 mikeal presantation, watch 7:30-8:00.  he say that node, unlike ruby/php allow you to move your cache from an external process into the node (request) process. can someone explain why and how? 

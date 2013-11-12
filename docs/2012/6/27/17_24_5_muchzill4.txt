@@ -1,0 +1,1 @@
+So, for example, if I have sync foreach loop and inside it I want to perform

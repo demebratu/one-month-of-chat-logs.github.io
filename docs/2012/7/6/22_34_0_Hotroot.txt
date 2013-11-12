@@ -1,0 +1,1 @@
+So, I'd like to use socket.setEncoding and make it ascii, but if it exports a string, how do I prevent someone from sending a huge amount of data?

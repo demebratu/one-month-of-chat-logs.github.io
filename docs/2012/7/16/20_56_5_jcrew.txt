@@ -1,0 +1,1 @@
+but seriously, they're exactly the same, one of them just doesn't compile until the browser cross compiles the script to java

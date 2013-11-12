@@ -1,0 +1,1 @@
+wiherek: because foo(); bar(); is exactly right for sync functions

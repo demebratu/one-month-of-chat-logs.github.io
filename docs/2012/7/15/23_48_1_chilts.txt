@@ -1,0 +1,1 @@
+you need to tell package.json where to find them

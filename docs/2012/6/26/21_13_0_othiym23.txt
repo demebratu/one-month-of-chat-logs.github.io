@@ -1,0 +1,1 @@
+Deathspike: probably, through some combination of a module like mongoose and some middleware, although I haven't done that myself

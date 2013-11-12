@@ -1,0 +1,1 @@
+motiooon_: that makes it return a buffer in the body, and a buffer is what you need to send an image file to the browser

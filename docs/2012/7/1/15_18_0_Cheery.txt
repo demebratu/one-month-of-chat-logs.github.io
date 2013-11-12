@@ -1,0 +1,1 @@
+well I try to get away from text representation entirely because parsing puts up awkward requirements on programming languages

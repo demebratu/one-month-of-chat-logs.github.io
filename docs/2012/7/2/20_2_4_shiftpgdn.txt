@@ -1,0 +1,1 @@
+This type of response MUST NOT have a body. Ignoring data passed to end().

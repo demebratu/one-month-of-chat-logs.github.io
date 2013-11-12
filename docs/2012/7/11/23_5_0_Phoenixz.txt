@@ -1,0 +1,1 @@
+bnoordhuis: I got the node.js github git, git co v0.8.2, ./configure, then make, then I got this error: "terminate called without an active exception"

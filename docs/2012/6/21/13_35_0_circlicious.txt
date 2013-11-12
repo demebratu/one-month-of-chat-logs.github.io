@@ -1,0 +1,1 @@
+AAA_awright: actually what we started at was, i was executing a command via exec that had user input string. so i was worried about security. while it seems like the problem is solved with spawn as i dont need to worry about quoting/escaping the user string. and i was just curious about why? :)

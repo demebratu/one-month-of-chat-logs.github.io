@@ -1,0 +1,1 @@
+but i wanner keep files in a mongo db. but it wanner write the code so it can work on a normal FS aswell

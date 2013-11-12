@@ -1,0 +1,1 @@
+jergason, so basically memorizing things in variables from the outside closure of a function serving a request must be forbidden. Things like var queue = []; http.createServer(function(req, res) { if (stuff) queue.push(req.something); else { res.end(queue.pop()); } }) will break as soon as you cluster the http server.

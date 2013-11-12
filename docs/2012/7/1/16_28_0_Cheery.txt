@@ -1,0 +1,1 @@
+basicly it's a document model where an element is a composite structure of one identifier and zero or more holes

@@ -1,0 +1,1 @@
+I've a forloop and inside the for an async function. The function need to use the counter of the for but as you can see it changes while the async function is runned

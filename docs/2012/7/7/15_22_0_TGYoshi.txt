@@ -1,0 +1,1 @@
+Weirdest is that console.log(nickname) ALWAYS worked

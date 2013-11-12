@@ -1,0 +1,1 @@
+context: it's not leaking memory, it's holding onto big wads of it; that's memoization in a nutshell

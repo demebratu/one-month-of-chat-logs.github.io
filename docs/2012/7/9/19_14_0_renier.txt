@@ -1,0 +1,1 @@
+hey, can anybody explain url.resolve? Why does this url.resolve('http://hatchery.rchland.ibm.com/npm/registry/_design/app/_rewrite', './-/all/since?stale=update_after&startkey=1341817985000') yields this 'http://hatchery.rchland.ibm.com/npm/registry/_design/app/-/all/since?stale=update_after&startkey=1341817985000'? (missing the _rewrite path)

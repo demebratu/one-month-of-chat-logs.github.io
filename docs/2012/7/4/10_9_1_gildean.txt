@@ -1,0 +1,1 @@
+wltsmrz: no, not really, it's just when you create a user you have to make a hash with a salt, so i decided that the salt could be posted in the form

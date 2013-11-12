@@ -1,0 +1,1 @@
+But it would be good to figure out what it takes to get a brand new machine into a working dev environment

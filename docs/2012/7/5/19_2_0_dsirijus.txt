@@ -1,0 +1,1 @@
+wow, this npm knows about every package i've encountered anywhere... npm install just works, it's great!

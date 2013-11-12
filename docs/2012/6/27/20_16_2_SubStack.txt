@@ -1,0 +1,1 @@
+there's already a thing on npm that does xdg-open/open/start to launch browsers

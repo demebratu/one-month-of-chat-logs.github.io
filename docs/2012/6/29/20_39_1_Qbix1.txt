@@ -1,0 +1,1 @@
+so I just installed with npm non-globally in framework folder as well as app folder

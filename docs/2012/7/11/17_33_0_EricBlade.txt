@@ -1,0 +1,1 @@
+ok , so, say i'm using an older version of node that does not use the interprocess communication channels that were introduced recently.  i need to get a virtually unlimited amount of data to/from a child node process.  is there a better way than using files?

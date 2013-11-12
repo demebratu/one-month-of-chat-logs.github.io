@@ -1,0 +1,1 @@
+i've already put together a nice "restful" (read: json over http with sane verbs) api because it's used by some scripts

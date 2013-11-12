@@ -1,0 +1,1 @@
+maxogden: just tried request - seems like i'm no longer getting 403, but if i try to save the body it doesn't save as a valid image file on my computer…any ideas?  i tried setting the encoding to 'binary' already

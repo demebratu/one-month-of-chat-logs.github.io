@@ -1,0 +1,1 @@
+lyaunzbe: node itself can store the response, if it all fits in RAM, to be its own cache. That's one potential option.

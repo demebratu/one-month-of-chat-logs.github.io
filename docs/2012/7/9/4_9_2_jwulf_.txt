@@ -1,0 +1,1 @@
+ccowan, depends on whether the performance overhead of opening connections warrants writing code to manage connections

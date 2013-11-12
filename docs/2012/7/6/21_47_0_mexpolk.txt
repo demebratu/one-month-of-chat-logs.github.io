@@ -1,0 +1,1 @@
+Yes: I think they don't honor the non-blocking pattern, It would be awesome to use AMD modules as the default mechanism

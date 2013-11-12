@@ -1,0 +1,1 @@
+you *do* want bundled, in a sense---most test harnesses internally keep track of which assertions are made, etc.--I believe t.assert does this in tap

@@ -1,0 +1,1 @@
+how to check if given object (not function) is an array ? 

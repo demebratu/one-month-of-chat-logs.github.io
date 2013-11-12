@@ -1,0 +1,1 @@
+magnusmafn: i'd think most people here have read most of that, yes. (i assume you mean http://nodejs.org/docs/latest/api/index.html)

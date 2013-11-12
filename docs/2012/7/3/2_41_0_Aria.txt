@@ -1,0 +1,1 @@
+MrV: Build locally and pack it all up and send to server, or run build on the server.

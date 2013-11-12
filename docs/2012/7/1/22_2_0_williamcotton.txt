@@ -1,0 +1,1 @@
+but it is sort of serendipitous, because I was going to use File/FileReader on the client side as the next step, and that needs base64

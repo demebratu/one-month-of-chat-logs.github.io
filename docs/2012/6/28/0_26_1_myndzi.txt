@@ -1,0 +1,1 @@
+but other than that, how you process command line args is pretty much a matter of preference

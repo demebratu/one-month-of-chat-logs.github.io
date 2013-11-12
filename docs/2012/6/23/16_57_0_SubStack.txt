@@ -1,0 +1,1 @@
+put this at the top of backbone: var $ = require('jquery-browserify')

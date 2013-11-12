@@ -1,0 +1,1 @@
+rektide: You want the logic? Because it can be logically seperated, thereby reducing redundancy

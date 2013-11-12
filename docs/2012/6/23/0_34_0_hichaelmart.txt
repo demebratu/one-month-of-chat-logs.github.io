@@ -1,0 +1,1 @@
+bnoordhuis: any idea how many readable streams in core *don't* support setEncoding?

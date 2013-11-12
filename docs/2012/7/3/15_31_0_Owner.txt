@@ -1,0 +1,1 @@
+ive done this...you can send compiled node and libraries and everything to other systems and they will run with user permissions very easily

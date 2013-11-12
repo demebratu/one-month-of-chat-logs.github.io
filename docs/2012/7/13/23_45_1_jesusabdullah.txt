@@ -1,0 +1,1 @@
+pooya: not that this is necessarily a good idea. I like to attach like a handful of methods to the scope of my repl, keeping everything else unexposed

@@ -1,0 +1,1 @@
+i created a capped collection called "messages" in Mongo

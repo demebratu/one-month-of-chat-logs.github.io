@@ -1,0 +1,1 @@
+Yeah, you could always use protected files behind Amazon CloudFront.

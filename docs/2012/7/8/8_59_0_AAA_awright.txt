@@ -1,0 +1,1 @@
+owen1: Many processes will do nothing while waiting on a response from I/O, so you need more processes if you want to be able to use 100% CPU. Read up on blocking vs. non-blocking operations.

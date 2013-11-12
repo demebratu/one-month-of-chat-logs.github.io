@@ -1,0 +1,1 @@
+howdy folk :) Question: I'm testing with mocha atm, and with module.exports = ... I made my js modules available for the test, but have anyone an idea how to prepare the modules to also use in the browser?

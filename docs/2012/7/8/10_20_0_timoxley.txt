@@ -1,0 +1,1 @@
+DamnYankee FYI prototypes are object instances, not constructors

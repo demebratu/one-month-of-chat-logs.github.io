@@ -1,0 +1,1 @@
+whats the best practice to deal with potential errors in the application

@@ -1,0 +1,1 @@
+I want to run several node applications on port 80  (say example.com/foo and example.com/bar). what is the recommended way of doing this? I found node-http-proxy, it looks good. But I also see that people discourage others from running node as root.. but I want port 80, what to do?

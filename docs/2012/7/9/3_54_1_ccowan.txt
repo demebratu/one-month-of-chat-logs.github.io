@@ -1,0 +1,1 @@
+I did notice an improvement when I used connection pools

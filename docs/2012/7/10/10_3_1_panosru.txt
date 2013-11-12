@@ -1,0 +1,1 @@
+also with DI you can automate few things and besides DI helps a lot in DDD/ES/CQRS stuff

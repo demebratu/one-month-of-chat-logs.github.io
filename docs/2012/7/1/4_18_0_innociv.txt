@@ -1,0 +1,1 @@
+And the "pause script execution" button immediately replays after I pause.

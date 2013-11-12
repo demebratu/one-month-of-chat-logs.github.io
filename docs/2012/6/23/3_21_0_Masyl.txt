@@ -1,0 +1,1 @@
+Here's a golden rule: If your building a function that does async calls, your function must also be async an return it's value through a callback.

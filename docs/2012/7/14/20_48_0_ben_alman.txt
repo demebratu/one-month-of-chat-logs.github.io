@@ -1,0 +1,1 @@
+can anyone tell me what i have to set with nave to log much, much less when compiling?

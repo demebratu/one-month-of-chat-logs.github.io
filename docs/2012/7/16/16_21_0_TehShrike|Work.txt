@@ -1,0 +1,1 @@
+jcrew: how does it make the star schema easier?  By storing the data from the outer tables in the rows of the central table?

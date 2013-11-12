@@ -1,0 +1,1 @@
+There's emailing, like outbound stuff, but that's pretty basic and not a "core feature".

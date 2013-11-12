@@ -1,0 +1,1 @@
+Noldorin: While locate might get its data from fsevents, I'm nearly 100% sure it maintains a totally distinct DB

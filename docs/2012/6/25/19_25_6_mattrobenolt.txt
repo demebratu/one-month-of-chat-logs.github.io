@@ -1,0 +1,1 @@
+If anything, your disks might have trouble streaming 200 files at once.

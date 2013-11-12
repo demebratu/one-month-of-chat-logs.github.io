@@ -1,0 +1,1 @@
+Whenever I see this when people talk about node.js - "callback spaghetti" i ask myself what the hell are they talking about

@@ -1,0 +1,1 @@
+I did *not* install node.js 0.6.7 with apt-get. I used the source file from github

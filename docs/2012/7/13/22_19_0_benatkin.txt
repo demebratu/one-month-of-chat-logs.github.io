@@ -1,0 +1,1 @@
+I looked and saw that the coffeescript docs don't encourage people to do what coffee-cleanse stops, the coffee-script code just provides a means to do so. suggested adding a warning though https://github.com/jashkenas/coffee-script/issues/2441

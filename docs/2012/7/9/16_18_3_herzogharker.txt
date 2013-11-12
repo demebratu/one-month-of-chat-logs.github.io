@@ -1,0 +1,1 @@
+edsko: have you just tried running "azure"

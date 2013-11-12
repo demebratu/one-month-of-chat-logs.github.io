@@ -1,0 +1,1 @@
+Nexxy: When doing $ = require('./vendor/jquery') $ becomes an object but jQuery(...) does however work.

@@ -1,0 +1,1 @@
+anyone seen this before? (node installed via arch linux package on a raspberry pi) tried installing some modules and getting big fail: https://gist.github.com/3104920

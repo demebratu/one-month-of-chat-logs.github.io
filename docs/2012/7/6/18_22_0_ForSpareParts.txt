@@ -1,0 +1,1 @@
+Would somebody else mind installing bogart from npm and telling me if it works? I'm getting some kind of SSL protocol error when it gets to promised-io, and I don't know if it's me or the server. Not much about it on google.

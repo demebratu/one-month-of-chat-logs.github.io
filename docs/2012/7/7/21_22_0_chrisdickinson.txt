@@ -1,0 +1,1 @@
+isaacs: somewhat belated follow-up question: is MakeCallback new to node 0.8? should compiled modules start preferring to use it when available?

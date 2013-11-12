@@ -1,0 +1,1 @@
+And there is a way to send a program close signal and close the program when your code decides it is done

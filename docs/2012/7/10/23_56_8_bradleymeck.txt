@@ -1,0 +1,1 @@
+isaacs: frustration == 0 when a workaround is easy

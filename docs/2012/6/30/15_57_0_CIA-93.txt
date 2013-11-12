@@ -1,0 +1,1 @@
+node: Ben Noordhuis v0.8 * rf78ce08 / configure : build: handle output of localized gcc or clang - http://git.io/8FgXkw

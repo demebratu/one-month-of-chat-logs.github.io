@@ -1,0 +1,1 @@
+its a patch to someone elses js lib making it a module

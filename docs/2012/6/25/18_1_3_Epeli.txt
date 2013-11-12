@@ -1,0 +1,1 @@
+Node.js documentation should explain why process.nextTick is used in the domain.run() example.

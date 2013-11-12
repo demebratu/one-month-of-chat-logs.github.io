@@ -1,0 +1,1 @@
+Is there a comfortable tool to "log" node.js messages on mac?

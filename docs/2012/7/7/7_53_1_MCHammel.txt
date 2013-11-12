@@ -1,0 +1,1 @@
+du willst doch ursprünglich von nad an php schicken? das machst du und schickst jedes mal ne antwort von php zurück an node. wenn keine antwort ankommt, weißte, dass php den timeout hat?

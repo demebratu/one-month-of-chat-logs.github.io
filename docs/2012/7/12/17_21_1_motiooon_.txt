@@ -1,0 +1,1 @@
+timoxley: the storage service receives binary or buffer/stream and I have a base 64 string

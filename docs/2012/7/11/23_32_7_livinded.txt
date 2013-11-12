@@ -1,0 +1,1 @@
+and socket.io makes it so a retarded 7 year old can build a real-time app

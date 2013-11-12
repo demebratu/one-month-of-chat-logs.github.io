@@ -1,0 +1,1 @@
+thanks... i might as well create init1(), init2(), init3() and init9442() for every time node lacks the functionality to do someone synchronously... https://github.com/joyent/node/issues/1167

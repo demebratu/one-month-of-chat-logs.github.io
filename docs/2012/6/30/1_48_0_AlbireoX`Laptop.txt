@@ -1,0 +1,1 @@
+Ians-MacBook-Pro:savagegames-site simplyianm$ mongod --version

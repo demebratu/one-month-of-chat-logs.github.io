@@ -1,0 +1,1 @@
+node: Nathan Rajlich v0.8 * r713b924 / (2 files in 2 dirs): Revert "events: don't delete the listeners array in removeListener()" - http://git.io/wVGpJA

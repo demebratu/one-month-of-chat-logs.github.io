@@ -1,0 +1,1 @@
+Aria: I'm getting events from an asterisk server (via nami), then I'm writing those events to my clients.

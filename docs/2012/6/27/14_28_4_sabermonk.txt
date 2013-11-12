@@ -1,0 +1,1 @@
+hi, how to use stream.pipe to route the output os a process to certain file

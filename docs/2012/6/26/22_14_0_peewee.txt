@@ -1,0 +1,1 @@
+Is there a cleaner way to check if a module is available than wrapping it in a require try/catch block?

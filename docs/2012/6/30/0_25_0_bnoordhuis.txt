@@ -1,0 +1,1 @@
+i think it was added as a workaround for some npm issue

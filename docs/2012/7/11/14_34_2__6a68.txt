@@ -1,0 +1,1 @@
+so, you have this one-many sequence where, once the base library loads, it fires all the waiting dependent callbacks

@@ -1,0 +1,1 @@
+in a form that will be easy to throw into node-sox once I have it working

@@ -1,0 +1,1 @@
+luto_: I think node-inspector allows you to take heap snapshots.

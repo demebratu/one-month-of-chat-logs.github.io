@@ -1,0 +1,1 @@
+the mysql protocol is sequential, so you can't execute anything in parallel over a single connection

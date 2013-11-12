@@ -1,0 +1,1 @@
+it could emit events for 'restart', etc

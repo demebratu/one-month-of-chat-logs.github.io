@@ -1,0 +1,1 @@
+isaacs: is it ok, if i'm creating a package.json for the sole purpose of installing devDependencies that i create a package.json with just engines and devDependencies properties?

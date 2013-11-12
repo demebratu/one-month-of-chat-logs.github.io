@@ -1,0 +1,1 @@
+node: Ben Noordhuis v0.8 * r07e5877 / configure : build: disable strict aliasing in v8 with gcc 4.5.x - http://git.io/J3JxIQ

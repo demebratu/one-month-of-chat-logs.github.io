@@ -1,0 +1,1 @@
+distracteddev https://github.com/isaacs/node-tap/ it looks like you can do BDD-y type things with tap

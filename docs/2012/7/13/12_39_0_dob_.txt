@@ -1,0 +1,1 @@
+I want to implement an advanced generic table rendering. Currently I am using jade as template engine. I want features like paging, sorting and filtering.

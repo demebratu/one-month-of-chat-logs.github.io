@@ -1,0 +1,1 @@
+And when that action is done, the loop resets and it continues to monitor the other fd's.

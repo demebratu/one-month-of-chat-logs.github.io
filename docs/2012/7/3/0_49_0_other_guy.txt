@@ -1,0 +1,1 @@
+I seriously don't get it.  It solves only superficial "problems" while adding about a half dozen real problems, and at the end of the day you don't get anything awesome out of the language transformation process like you do with Streamline.js

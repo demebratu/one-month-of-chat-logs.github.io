@@ -1,0 +1,1 @@
+isaacs: seems there's a couchDB failure over at http://search.npmjs.org/

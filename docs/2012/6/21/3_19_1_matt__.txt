@@ -1,0 +1,1 @@
+node.js exits without any error in my console. is there any way i can find errors in some logging file? (under arch linux arm)

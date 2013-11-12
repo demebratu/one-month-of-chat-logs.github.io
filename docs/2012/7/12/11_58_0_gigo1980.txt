@@ -1,0 +1,1 @@
+i have a big csv file an will create some json objects that i can push to mongo

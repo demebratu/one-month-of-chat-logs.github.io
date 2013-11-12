@@ -1,0 +1,1 @@
+tjholowaychuk: So you could implement a stream api on top of that yeah?

@@ -1,0 +1,1 @@
+Isn't there a project now for streams between server and browser? 

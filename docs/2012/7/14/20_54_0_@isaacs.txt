@@ -1,0 +1,1 @@
+but really, it'd be better if nave just did a DESTDIR install, and set the PATH to $NAVEDIR/usr/local/bin

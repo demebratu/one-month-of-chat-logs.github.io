@@ -1,0 +1,1 @@
+hi, compiled node 0.8 and wanted to use etherpad-lite git but no luck so far. anybody else here with this problem?

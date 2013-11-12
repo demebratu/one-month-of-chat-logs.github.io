@@ -1,0 +1,1 @@
+I'm trying to package something, and I did "npm install . -g" to check if it would work. If I do require('~/.npm/thingy/') it works fine, but if I do require('thingy') it can't find it.

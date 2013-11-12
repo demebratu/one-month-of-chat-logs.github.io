@@ -1,0 +1,1 @@
+tjholowaychuk: maybe also change the .load thing to use a key value store, like with session

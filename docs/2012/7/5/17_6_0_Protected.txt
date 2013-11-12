@@ -1,0 +1,1 @@
+Would anyone here like to recommend a synchronism module to a newbie? Preferrably with a syntax as minimalistic as possible? I ask because there seem to be a lot of those.

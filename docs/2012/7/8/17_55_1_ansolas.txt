@@ -1,0 +1,1 @@
+i tried starting a stream of an oogg file in the middle like this:var stream = fs.createReadStream('wonderland_-_steve_oood.ogg',{start:7633, paused:true,bufferSize:1024});

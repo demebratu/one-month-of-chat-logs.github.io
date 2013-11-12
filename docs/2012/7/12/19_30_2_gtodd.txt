@@ -1,0 +1,1 @@
+bnoordhuis: the iconv issue seems to have occurred on other platforms as well

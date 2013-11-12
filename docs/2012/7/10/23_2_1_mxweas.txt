@@ -1,0 +1,1 @@
+However, pipe registers for the same event so it can close the writeStream.

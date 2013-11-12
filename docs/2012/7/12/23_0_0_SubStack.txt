@@ -1,0 +1,1 @@
+isaacs: existsSync could just throw those errors then

@@ -1,0 +1,1 @@
+bnoordhuis: how does this work, the kernel sends messages to kmsg in real time?

@@ -1,0 +1,1 @@
+consider you have invokeShellCommandWithParam(userinput) { shell('head "-' + escape(userinput) + '"'); }

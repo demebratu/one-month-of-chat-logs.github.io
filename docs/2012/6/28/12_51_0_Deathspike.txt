@@ -1,0 +1,1 @@
+I would use consolidate.js (which I expect it does, by default..) but that doens't seem to be up to date for 0.8 yet.

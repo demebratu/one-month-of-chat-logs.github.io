@@ -1,0 +1,1 @@
+does npm cheat and whitelist sunos by default?

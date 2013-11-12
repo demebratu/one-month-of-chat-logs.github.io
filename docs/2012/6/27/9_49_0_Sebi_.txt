@@ -1,0 +1,1 @@
+Hey, Some question... How do I track keystrokes in Node 0.8.0? I ask because joyent says in their changelog "process.stdin.on('keypress') will not be emitted by default, as it's an internal API."#

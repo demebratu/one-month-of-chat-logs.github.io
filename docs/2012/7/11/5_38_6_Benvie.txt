@@ -1,0 +1,1 @@
+the windows registry bindings work but they really need an adapter or something built on top of them

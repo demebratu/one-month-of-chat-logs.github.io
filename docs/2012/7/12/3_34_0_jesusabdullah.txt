@@ -1,0 +1,1 @@
+I've defined some object, and it's *referenced by* 'a', meaning I've attached it to some namespace

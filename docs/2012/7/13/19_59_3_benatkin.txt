@@ -1,0 +1,1 @@
+only cheap because it runs once per module

@@ -1,0 +1,1 @@
+Deathspike if you're writing clean code, it's easy to refactor later, but if you make a shoddy abstration choice early on it can be hard to change that later.

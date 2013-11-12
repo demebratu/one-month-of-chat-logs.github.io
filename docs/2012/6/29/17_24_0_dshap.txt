@@ -1,0 +1,1 @@
+mafnnode: if i do "sudo npm install" right now, it works, but that is bad

@@ -1,0 +1,1 @@
+Example provides this: var page = require('webpage').create(); 

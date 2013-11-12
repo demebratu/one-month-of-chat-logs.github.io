@@ -1,0 +1,1 @@
+Whats the recommended way of handling dependencies in modules you require with browserify? For example Backbone.js requires underscore and jquery. I know about browserify-jquery/backbone but would prefer not to use them at first? Should I read them and use bundle.prepend() to add them before the rest of the code? 

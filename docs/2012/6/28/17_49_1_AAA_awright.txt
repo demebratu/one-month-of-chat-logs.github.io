@@ -1,0 +1,1 @@
+The way you're talking suggests you don't understand what a Node.js module is. "node filename.js" is the same thing as "require('filename.js')"

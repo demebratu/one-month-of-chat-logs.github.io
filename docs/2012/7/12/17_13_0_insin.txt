@@ -1,0 +1,1 @@
+some sensible bits appear if you decode it as base64

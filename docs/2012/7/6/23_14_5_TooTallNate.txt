@@ -1,0 +1,1 @@
+RushPL: it was just never documented, and hence never supported

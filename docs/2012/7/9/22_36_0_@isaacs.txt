@@ -1,0 +1,1 @@
+yeah, in my attempt to make test failures easier to read, it swallows all errors.  that's a mistake.

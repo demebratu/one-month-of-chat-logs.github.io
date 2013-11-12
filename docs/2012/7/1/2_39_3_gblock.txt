@@ -1,0 +1,1 @@
+innociv: ps -A | grep node

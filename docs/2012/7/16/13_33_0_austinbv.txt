@@ -1,0 +1,1 @@
+with mocha chai can you do the equilivent to rspecs =~ with arrays

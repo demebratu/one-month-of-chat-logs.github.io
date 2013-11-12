@@ -1,0 +1,1 @@
+A friend told me there is a chess website, which is open sourced and it's mainly built on Scala.. I asked him if it was http://live.chess.com and he kinda said yes but was not sure... Does anyone know something about this?

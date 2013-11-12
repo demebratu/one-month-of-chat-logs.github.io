@@ -1,0 +1,1 @@
+so if I try to read a property of a null value or something, then I don't want my entire server to crash with all of it's connections

@@ -1,0 +1,1 @@
+perhaps you have multiple versions of npm and the older one is getting preference in your PATH

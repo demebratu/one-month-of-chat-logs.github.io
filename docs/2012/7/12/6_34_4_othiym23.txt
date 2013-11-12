@@ -1,0 +1,1 @@
+so uh anyway now that everyone's awake, is there a good reference to D3 out there for server-side nerds?

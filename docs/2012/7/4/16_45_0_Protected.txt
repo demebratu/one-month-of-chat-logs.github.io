@@ -1,0 +1,1 @@
+I need to be able to access the outer object's connection without storing it in the inner object, because it may change

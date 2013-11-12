@@ -1,0 +1,1 @@
+is there any way to start repl with local scope instead of global scope

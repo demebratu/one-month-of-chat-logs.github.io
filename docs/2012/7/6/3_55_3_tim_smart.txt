@@ -1,0 +1,1 @@
+Not sure about nginx, but I am pretty sure that is the case.

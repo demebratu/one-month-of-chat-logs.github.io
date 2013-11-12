@@ -1,0 +1,1 @@
+Benvie: I'd create a `package.json` for `regedit` and reserve the space on NPM with a 0.0.0 pre-release. But that's just me.

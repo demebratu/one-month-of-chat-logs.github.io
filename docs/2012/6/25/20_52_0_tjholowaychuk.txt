@@ -1,0 +1,1 @@
+tbranyen if you mean http caching it's max-age=0 by default

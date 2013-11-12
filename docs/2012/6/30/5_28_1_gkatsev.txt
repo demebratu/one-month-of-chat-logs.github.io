@@ -1,0 +1,1 @@
+hm... I like how google decided to install chrome 32bit on my 64bit linux :/

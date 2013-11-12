@@ -1,0 +1,1 @@
+jesusabdullah: we are taking about each app in it's own process, right? if that's the case, does it matter if it's 1 core of multi?

@@ -1,0 +1,1 @@
+creationix: but you don't need a library to do future/promise, you just do it the way you did it?

@@ -1,0 +1,1 @@
+but that way the session variable is kept indefinitely

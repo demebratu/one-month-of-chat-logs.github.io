@@ -1,0 +1,1 @@
+http://wiki.commonjs.org/wiki/Packages/1.1#Package_Descriptor_File

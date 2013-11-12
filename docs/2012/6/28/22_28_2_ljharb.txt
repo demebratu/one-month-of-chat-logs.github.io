@@ -1,0 +1,1 @@
+tjholowaychuk: it'd be nice if there was a forEach that could return false to break out of the loop

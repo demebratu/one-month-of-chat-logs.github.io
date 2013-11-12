@@ -1,0 +1,1 @@
+ah, but then you would have to parse all the control sequences

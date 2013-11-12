@@ -1,0 +1,1 @@
+where does npm create the link? .. I see a link in ~/bin/...,, is this right?

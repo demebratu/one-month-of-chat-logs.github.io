@@ -1,0 +1,1 @@
+that there's no reason every module would not do something when handed stdio by node

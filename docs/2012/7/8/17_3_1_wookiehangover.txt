@@ -1,0 +1,1 @@
+benatkin: I just rarely have a frontend project that needs to support < ie9 AND doesn't include underscore or lodash

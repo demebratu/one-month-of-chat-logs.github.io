@@ -1,0 +1,1 @@
+java: creationix's solution's pretty easy

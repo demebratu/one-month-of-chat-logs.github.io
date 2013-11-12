@@ -1,0 +1,1 @@
+jhsto: i just started using node about a week ago, i built my first app using express, you might find some clues in how i made this: https://github.com/gildean/NodeBlog

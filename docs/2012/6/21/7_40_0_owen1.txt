@@ -1,0 +1,1 @@
+ljharb: http://stackoverflow.com/questions/1557386/prototypal-vs-functional-oop-in-javascript  but here they say functional == traditional OOP

@@ -1,0 +1,1 @@
+context, I mean that I don't know if the output is being written to stdout at the time that I make the call to console.log or at a later time

@@ -1,0 +1,1 @@
+tjholowaychuk, could you publish a new version of connect 1.x with that pull request you just merged in

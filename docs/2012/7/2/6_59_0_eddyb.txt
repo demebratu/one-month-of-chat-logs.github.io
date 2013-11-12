@@ -1,0 +1,1 @@
+chjj: so I took a look again at your term.js and I think I can make it so that it doesn't always have a focused terminal

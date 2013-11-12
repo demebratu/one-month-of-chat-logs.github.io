@@ -1,0 +1,1 @@
+Well epoll isn't that high level, libuv has a bit of magic for mapping it to the callback.

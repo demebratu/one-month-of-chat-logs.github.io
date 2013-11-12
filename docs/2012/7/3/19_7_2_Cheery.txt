@@ -1,0 +1,1 @@
+next I'd need to implement an interpreter and construct a verlet simulator which I can use for layouting

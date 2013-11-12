@@ -1,0 +1,1 @@
+ok so use npm to install phantomjs (*not* phantomjs-node) with the -g option?

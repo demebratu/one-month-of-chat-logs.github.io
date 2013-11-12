@@ -1,0 +1,1 @@
+dominictarr: Well, I'm thinking I'll build an EventEmitter system on it, and leave RPC to be Somebody Else's Problem

@@ -1,0 +1,1 @@
+strk i'm guessing you should install jshint global so you can use the command line "jshint <file>"

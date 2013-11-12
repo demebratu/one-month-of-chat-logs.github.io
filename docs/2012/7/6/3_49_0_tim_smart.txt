@@ -1,0 +1,1 @@
+owen1: Yes. It means you can continue to handle incoming requests over http, while the thread pool is in the background churning away.

@@ -1,0 +1,1 @@
+my test is making a call to redis that checks for ratelimit and gets the user session

@@ -1,0 +1,1 @@
+what if I wanted to share this server on my VM to another computer not on my network?

@@ -1,0 +1,1 @@
+Deathspike: I think the bug is on the first line.  'require("express")'.  there'syer problem ;P /cc tjholowaychuk 

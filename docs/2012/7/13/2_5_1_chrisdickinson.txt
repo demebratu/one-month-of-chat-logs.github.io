@@ -1,0 +1,1 @@
+a shame. nginx makes running django et al much easier.

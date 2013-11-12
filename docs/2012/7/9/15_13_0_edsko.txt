@@ -1,0 +1,1 @@
+context: (running bash) hash -r does not help. I don't think it's installed at all. /usr/local/bin/azure does not exist

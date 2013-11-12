@@ -1,0 +1,1 @@
+ctrl+d is pref since it wont nuke background jobs

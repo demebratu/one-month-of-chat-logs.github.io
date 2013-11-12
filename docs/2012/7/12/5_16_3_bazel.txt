@@ -1,0 +1,1 @@
+I understand. but this is a pet project of mine, not something that will be used publicly. I understand the security ramifications. I understand that it will defeat the purpose of using https in the first place. I was asking how to do it, not why not to do it.

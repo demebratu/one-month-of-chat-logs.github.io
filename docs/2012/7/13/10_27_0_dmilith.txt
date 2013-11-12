@@ -1,0 +1,1 @@
+I have patch for 0.8.1, but I need to make it again for 0.8.2, which is painful

@@ -1,0 +1,1 @@
+fx: require is a standard part of node, so that's server-side. You want to use the client-side example bits in the browser, not the other way around :)

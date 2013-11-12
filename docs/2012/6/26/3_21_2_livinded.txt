@@ -1,0 +1,1 @@
+but maybe I want to give them access to fs.readSync

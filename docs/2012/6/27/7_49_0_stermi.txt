@@ -1,0 +1,1 @@
+I think that the best way to solve my problem is to pass to findOne the value of the i parameter (not the pointer) and use that value as final for the function. But can I "extend" the signature of a callback function like findOne (mongodb function)?

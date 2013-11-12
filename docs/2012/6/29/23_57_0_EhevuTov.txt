@@ -1,0 +1,1 @@
+dmilith, I wait until it's on the port system before I install. I haven't tried 0.8 manually, yet. I'm assuming if you're having an issue, that's why the port also isn't updated yet to 0.8

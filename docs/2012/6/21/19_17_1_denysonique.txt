@@ -1,0 +1,1 @@
+WarheadsSE: I was hoping for something as simple as: a post request in jQuery: $.post("/test", { name: "John", time: "2pm" } );

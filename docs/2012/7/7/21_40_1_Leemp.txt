@@ -1,0 +1,1 @@
+Is it possible to set up your own host host for packages, while retaining the ability to use pattern matching with versions?

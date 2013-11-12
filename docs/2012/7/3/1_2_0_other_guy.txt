@@ -1,0 +1,1 @@
+To be completely fair to the CoffeeScript folks… it's really not their fault.  I should be bitching a blue streak at the module developers that decided to build core useful functionality on top of a weird esoteric abstraction that is, at best, highly annoying to debug.

@@ -1,0 +1,1 @@
+jkevinburton: most likely require('connect').utils does not have a function 'parseCookie' in it, thus you are assigning an 'undefined' into the variable

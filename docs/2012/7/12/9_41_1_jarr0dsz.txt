@@ -1,0 +1,1 @@
+juggernaut is ruby on rails implementation of node.js and websockets. its bsically a wrapper so to say

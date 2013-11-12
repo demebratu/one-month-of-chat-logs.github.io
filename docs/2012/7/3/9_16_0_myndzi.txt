@@ -1,0 +1,1 @@
+contents of program files\nodejs: node_modules (with npm, lib, etc.), node_etw_provider.man, nodejsvars.bat, npm, npm.cmd

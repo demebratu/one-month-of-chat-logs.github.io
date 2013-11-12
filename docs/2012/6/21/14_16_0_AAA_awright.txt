@@ -1,0 +1,1 @@
+Bah, MongoDB keys can't contain "."? What is the world coming to

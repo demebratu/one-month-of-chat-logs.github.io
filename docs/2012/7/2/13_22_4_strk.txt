@@ -1,0 +1,1 @@
+I mean, why doesn't "npm install" just use the one installed globally ?

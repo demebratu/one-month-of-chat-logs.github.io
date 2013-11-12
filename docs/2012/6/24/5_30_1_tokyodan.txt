@@ -1,0 +1,1 @@
+I can execute 'node -v' and it returns 'v0.6.19'.

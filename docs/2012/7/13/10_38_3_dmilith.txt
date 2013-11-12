@@ -1,0 +1,1 @@
+(I said almost, cause with proper tweaking software with GC can achieve short enough pauses time)

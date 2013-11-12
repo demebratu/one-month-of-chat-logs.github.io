@@ -1,0 +1,1 @@
+nickhs: nope, .prototype only applies to functions and it only gets added when you use `new`

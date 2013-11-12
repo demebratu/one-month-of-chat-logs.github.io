@@ -1,0 +1,1 @@
+wereHamster, you can create a directory somewhere, symlink "python" in that folder to point to python2, and then use "PATH=/path/to/your/folder:$PATH make"

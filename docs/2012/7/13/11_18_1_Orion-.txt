@@ -1,0 +1,1 @@
+I'm writing a native node module and wonder how to Set a NaN V8::Number ?

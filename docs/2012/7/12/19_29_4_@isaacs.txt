@@ -1,0 +1,1 @@
+hunterloftis: i suspect that git's post-receive hook is putting something in the environment that confuses `git checkout`

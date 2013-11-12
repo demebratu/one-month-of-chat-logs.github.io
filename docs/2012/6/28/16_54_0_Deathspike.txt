@@ -1,0 +1,1 @@
+You serve some HTML+JS from your HTTP server (on port 8080) to the browser and want to get some MORE information from the SAME SERVER after it has been served?

@@ -1,0 +1,1 @@
+and node-cron is useless depending on job for multiple dynos in which case... how do you decide which dyno runs said cron.. ?

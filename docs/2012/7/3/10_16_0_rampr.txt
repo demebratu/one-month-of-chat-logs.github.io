@@ -1,0 +1,1 @@
+innociv:  you can use something like if cpu usage (user) > x% then restart

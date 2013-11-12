@@ -1,0 +1,1 @@
+if you run `python tools/test.py --mode=release simple/test-regress-GH-1697` there's a fair chance it'll pass 2 out of 3 runs

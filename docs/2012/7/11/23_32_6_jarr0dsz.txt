@@ -1,0 +1,1 @@
+what exactly does faye do then? it sends data to a certain channel on the client

@@ -1,0 +1,1 @@
+but I'd like to not throw output of that command to console

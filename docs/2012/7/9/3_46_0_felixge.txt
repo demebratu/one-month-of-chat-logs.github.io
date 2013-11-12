@@ -1,0 +1,1 @@
+jwulf_: don't try connection pooling if you're a noob

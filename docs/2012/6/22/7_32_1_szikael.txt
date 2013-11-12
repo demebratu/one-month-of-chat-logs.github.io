@@ -1,0 +1,1 @@
+i have function first(){  somthing}   and function second(){ something }  i want to call them  first and if the first succed then do next   

@@ -1,0 +1,1 @@
+wiherek: it's because you're calling the callbacks right away

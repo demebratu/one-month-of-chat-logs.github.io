@@ -1,0 +1,1 @@
+but yeah es5 already has map/reduce

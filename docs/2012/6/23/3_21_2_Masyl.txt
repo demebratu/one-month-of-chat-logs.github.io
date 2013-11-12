@@ -1,0 +1,1 @@
+So your function declaration would look like this:   function R5_login (cn, nm, ss, callback) {

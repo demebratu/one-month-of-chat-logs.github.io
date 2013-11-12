@@ -1,0 +1,1 @@
+can I report bug in documentation in here? I was scratching my head on how to sync a zlib stream until I found out that documentation is missing mention of the flush() function http://nodejs.org/api/zlib.html - it is in the source code fortunately :)

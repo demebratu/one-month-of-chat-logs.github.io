@@ -1,0 +1,1 @@
+that node has that indicates the current thing being executed is the entry point

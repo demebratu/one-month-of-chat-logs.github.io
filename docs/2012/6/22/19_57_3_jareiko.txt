@@ -1,0 +1,1 @@
+eg, how does a connect/express app prevent exit?

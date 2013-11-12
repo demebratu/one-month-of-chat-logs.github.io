@@ -1,0 +1,1 @@
+does express changes it way to handle error with Node.0.8?   app.error  doesn't work anymore

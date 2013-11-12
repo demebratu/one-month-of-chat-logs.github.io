@@ -1,0 +1,1 @@
+or maybe we should just fix the npm search experience so that we rely less on advertisemetns..

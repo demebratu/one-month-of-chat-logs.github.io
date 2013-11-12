@@ -1,0 +1,1 @@
+echo 'h1 hello' | bundle exec slimrb works! in bash

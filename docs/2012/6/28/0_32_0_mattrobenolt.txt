@@ -1,0 +1,1 @@
+I think you're more looking for configuration files instead.

@@ -1,0 +1,1 @@
+anyone know of a way to 'provide' globals to a require()d module

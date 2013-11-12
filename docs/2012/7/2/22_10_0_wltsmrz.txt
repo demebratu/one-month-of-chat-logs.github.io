@@ -1,0 +1,1 @@
+You should be able to parse the cookies for the connection session ID, TimeTurner

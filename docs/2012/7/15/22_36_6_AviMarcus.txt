@@ -1,0 +1,1 @@
+of course, you could also mean "my php website is slow and we want it to be fast, so we figured we'd rewrite it in the hottest new buzzword because that must be faster"

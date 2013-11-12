@@ -1,0 +1,1 @@
+upb: Nope. Not that. It was an abstraction layer that exposed the Stream interface on the client.

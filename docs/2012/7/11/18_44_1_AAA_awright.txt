@@ -1,0 +1,1 @@
+A better practice is have quick expiration times on your certificates

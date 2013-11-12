@@ -1,0 +1,1 @@
+Is there a way to specify the resolvers, in code, that the DNS lib uses to query?

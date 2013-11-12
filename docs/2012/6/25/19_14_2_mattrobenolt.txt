@@ -1,0 +1,1 @@
+emilsedgh_: http://wiki.nginx.org/X-accel

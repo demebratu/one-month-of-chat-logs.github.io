@@ -1,0 +1,1 @@
+or I can run jsdom with options.delayClose set so nothing gets run, then manually go through and load iframes and script elements and manipulate the dom

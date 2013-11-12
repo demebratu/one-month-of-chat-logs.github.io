@@ -1,0 +1,1 @@
+I have the same error as in this thread, but I am using Py2.6: https://groups.google.com/forum/?fromgroups#!topic/nodejs/b8NCoJauipc

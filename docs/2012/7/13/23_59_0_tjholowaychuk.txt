@@ -1,0 +1,1 @@
+just "async safety" but once you're used to closures that's really natural

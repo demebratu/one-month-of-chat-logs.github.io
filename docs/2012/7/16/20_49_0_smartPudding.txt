@@ -1,0 +1,1 @@
+yes, with closurescript you can compile to js

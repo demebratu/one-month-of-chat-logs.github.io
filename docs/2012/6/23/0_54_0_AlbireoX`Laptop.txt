@@ -1,0 +1,1 @@
+Hi, how could I make Mongoose return Models from Model.find as opposed to normal objects?

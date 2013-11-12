@@ -1,0 +1,1 @@
+hi i'm having trouble installing zombie i have the latest version of nodejs and npm

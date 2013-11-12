@@ -1,0 +1,1 @@
+I mean, that thing has gone from a WebSocket fallback layer that also provides events, to some enormous beast that tries to solve everything realtime

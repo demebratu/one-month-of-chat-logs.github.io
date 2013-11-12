@@ -1,0 +1,1 @@
+num1: if it's too much stuff, you can go back to using jsdom (Zombie is written on top of zombie), but Zombie is closer to being a headless browser than jsdom is

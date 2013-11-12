@@ -1,0 +1,1 @@
+Looking at it as objectively as I can, it looks like CoffeeScript is better.  However, I don't mind the extra characters involved in JS that much, and I don't want to alienate any JavaScript coders from anything I might publish.

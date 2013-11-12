@@ -1,0 +1,1 @@
+we should replace it with a function that unlinks the file, and then returns false.

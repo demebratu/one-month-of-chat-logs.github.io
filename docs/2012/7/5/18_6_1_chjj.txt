@@ -1,0 +1,1 @@
+eddyb: https://github.com/chjj/tty.js/pull/36

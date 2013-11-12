@@ -1,0 +1,1 @@
+anybody familiar with nowjs? i want the client to prevent trying to reconnect on a lost connection

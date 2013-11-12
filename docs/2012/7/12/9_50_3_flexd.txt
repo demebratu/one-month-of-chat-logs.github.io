@@ -1,0 +1,1 @@
+Hm, I think this is actually a sequelize bug :/

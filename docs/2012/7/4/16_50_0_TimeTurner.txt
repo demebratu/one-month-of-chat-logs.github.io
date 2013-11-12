@@ -1,0 +1,1 @@
+properties of the function that are called within the returned function

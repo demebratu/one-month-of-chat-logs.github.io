@@ -1,0 +1,1 @@
+TooTallNate: but you have to admit that your code is a terrible code duplication

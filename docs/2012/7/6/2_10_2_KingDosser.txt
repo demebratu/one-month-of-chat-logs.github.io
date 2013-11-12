@@ -1,0 +1,1 @@
+Am I able to have some code outside of these namespaces that socket.sets a username?

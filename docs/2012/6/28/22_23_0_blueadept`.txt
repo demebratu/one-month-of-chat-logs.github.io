@@ -1,0 +1,1 @@
+tj: quick style preference, do you still write your for loops with an i incremental, or do you use the ecmascript forEach function in its place?

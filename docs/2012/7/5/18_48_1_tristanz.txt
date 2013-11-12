@@ -1,0 +1,1 @@
+What do I put in package.json to install from HEAD of git repo rather than have it pick up a particular tag?

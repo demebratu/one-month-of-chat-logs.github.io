@@ -1,0 +1,1 @@
+myndzi: gyp was made the default, waf was ditched in 0.8

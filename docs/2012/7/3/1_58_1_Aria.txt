@@ -1,0 +1,1 @@
+Lua's like a good JS that doesn't work in the browser.

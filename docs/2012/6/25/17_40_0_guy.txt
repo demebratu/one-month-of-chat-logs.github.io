@@ -1,0 +1,1 @@
+https://github.com/Sannis/node-mysql-libmysqlclient/issues/88

@@ -1,0 +1,1 @@
+Hotroot, the bits come in as chunked data passed a certain size. So you'd want to count the chunks and if you get past, say 1000 chunks, destroy or end() the socket connection

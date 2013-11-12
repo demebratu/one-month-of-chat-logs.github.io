@@ -1,0 +1,1 @@
+taterbase: That's weird. I use http.get in simplecrawler and it works fine for me on 0.6.19

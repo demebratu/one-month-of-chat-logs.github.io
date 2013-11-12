@@ -1,0 +1,1 @@
+how come that setTimeout doesn't block the request? is libuv treat it similar to i/o call and add the function to some queue?

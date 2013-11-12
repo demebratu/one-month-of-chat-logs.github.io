@@ -1,0 +1,1 @@
+isaacs: `npm bin -g` reports /usr/bin, but I just ran `npm install -g shelljs` and the shjs bin is not there.

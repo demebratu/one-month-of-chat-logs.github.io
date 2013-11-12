@@ -1,0 +1,1 @@
+I've run into this with Node not printing unflushed buffers on exit

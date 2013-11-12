@@ -1,0 +1,1 @@
+hi @all.  Question regarding require paths: if I restructure my app and I move a file to a new directory on different level, is there any way to modify the require paths so I don't have to change the string?

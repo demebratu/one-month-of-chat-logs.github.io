@@ -1,0 +1,1 @@
+isaacs: Hey man, anything I can do to help track down a resolution to https://github.com/isaacs/npm/issues/2597 ? Manually doing 'npm install' when our post-receive hooks fail is sucking :/

@@ -1,0 +1,1 @@
+How can I return a value from within a callback?

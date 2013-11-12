@@ -1,0 +1,1 @@
+I'm wondering when we can stop worrying about providing websocket fallbacks.

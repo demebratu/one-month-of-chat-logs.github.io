@@ -1,0 +1,1 @@
+Can someone give me a pointer on installing node from the command line on the Macbook Pro Lion?  I am getting an error message indicating the package is invalid.  I am using the following command line sudo installer -pkg node-v0.8.2.pkg -target /

@@ -1,0 +1,1 @@
+My biggest gripe with Socket.io is how bloaty it's gotten

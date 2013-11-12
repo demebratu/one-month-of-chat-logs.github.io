@@ -1,0 +1,1 @@
+I tried setting up nfs via http://tumblr.intranation.com/post/4669998243/sharing-files-with-virtual-machines-using-nfs

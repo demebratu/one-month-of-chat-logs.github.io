@@ -1,0 +1,1 @@
+And put it in a known location, maybe /etc or a home directory, if my app has one, /home/myapp

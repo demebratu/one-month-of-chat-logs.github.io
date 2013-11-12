@@ -1,0 +1,1 @@
+i think the applet stuff is left over from javascript

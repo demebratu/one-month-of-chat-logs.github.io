@@ -1,0 +1,1 @@
+othiym23: Is there any way to pass a variable into an included file (i.e. pass the 'app' variable, the server, to the controller I am including, so it can register its funcs..)?

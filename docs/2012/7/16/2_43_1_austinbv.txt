@@ -1,0 +1,1 @@
+so how do you use .to.throw with just throw 'some message'

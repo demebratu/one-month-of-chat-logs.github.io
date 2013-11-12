@@ -1,0 +1,1 @@
+It's a tool that buffers a stream and shows no more than a screen at a time

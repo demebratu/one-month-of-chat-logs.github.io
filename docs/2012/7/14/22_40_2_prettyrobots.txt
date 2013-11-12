@@ -1,0 +1,1 @@
+I find it very nice that when a test fails, I can just run the test directly.

@@ -1,0 +1,1 @@
+tjholowaychuk: but people who use Foo.prototype.baz = function() {} find it a bit awk

@@ -1,0 +1,1 @@
+ben_alman: npm will whine without name and version

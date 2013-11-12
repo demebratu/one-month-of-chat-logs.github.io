@@ -1,0 +1,1 @@
+  return binding.open(pathModule._makeLong(path), stringToFlags(flags), mode);

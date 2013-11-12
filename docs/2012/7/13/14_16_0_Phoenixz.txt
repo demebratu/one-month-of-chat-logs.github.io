@@ -1,0 +1,1 @@
+question, if I want to store raw data (say an image) in a variable, then write it to disk, what would be recommended? just a simple var data = ''; and on each req.on('data', reqdata) do data += reqdata; ? Or should I use buffers? I don't have file size available and from what I've seen, I need to specify array or size..

@@ -1,0 +1,1 @@
+oh i just noticed an x64 version of node. not sure hwy i never had this installed

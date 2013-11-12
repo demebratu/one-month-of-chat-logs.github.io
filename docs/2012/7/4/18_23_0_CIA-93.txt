@@ -1,0 +1,1 @@
+node: Maciej Małecki v0.8 * r6a11f3e / (lib/repl.js test/simple/test-repl.js): repl: fix crashes when buffering command - http://git.io/7fMRdQ

@@ -1,0 +1,1 @@
+substack that kinda only works when your app does nothing

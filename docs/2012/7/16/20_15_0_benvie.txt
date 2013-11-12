@@ -1,0 +1,1 @@
+require('appjs').createWindow({}).on('ready', function(){ console.log(this) })

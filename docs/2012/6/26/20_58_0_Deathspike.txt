@@ -1,0 +1,1 @@
+All the tools are there, templating, routing, binding a server, database -- so mvc or mvvm, whatever -- just.. not organized.

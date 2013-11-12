@@ -1,0 +1,1 @@
+yeah, I'm guessing when you did that $PATH?you pointed it to one point, and you probably need a :./ in your path

@@ -1,0 +1,1 @@
+if im including a js file using the require() function .. how can i use the variables from that js file?

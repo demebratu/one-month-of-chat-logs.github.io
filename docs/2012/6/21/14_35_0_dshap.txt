@@ -1,0 +1,1 @@
+hey guys - is there any way to set the default assertion library in mocha to should.js?  or do i always have to run my tests with "mocha -r should" ?

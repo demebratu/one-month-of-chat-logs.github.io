@@ -1,0 +1,1 @@
+for example 836 Agent socket errors bubble up to req only if req exists

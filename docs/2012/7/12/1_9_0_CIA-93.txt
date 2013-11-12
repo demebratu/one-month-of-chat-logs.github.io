@@ -1,0 +1,1 @@
+node: Bert Belder merge * rfeaf468 / (4 files in 3 dirs): Merge branch 'v0.6' - http://git.io/zs7WzA

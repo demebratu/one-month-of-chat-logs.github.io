@@ -1,0 +1,1 @@
+jfroma: fstream appears to be syncronous, which is fine for me... is that true?

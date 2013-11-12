@@ -1,0 +1,1 @@
+function isRealTime(date) { return date.getTime() < (new Date()).getTime(); }

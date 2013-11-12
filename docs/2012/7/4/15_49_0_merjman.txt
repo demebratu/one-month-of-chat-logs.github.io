@@ -1,0 +1,1 @@
+<owen1>, <mmalecki> : So owen1 is right? Async threads are made for requests, code attached to a request is executed within that single thread

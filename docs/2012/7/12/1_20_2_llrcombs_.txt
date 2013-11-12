@@ -1,0 +1,1 @@
+pawn: probably not. Mayhaps you can take the io as an argument in your module class's constructor?

@@ -1,0 +1,1 @@
+If I want to create a stream that's really just a wrapper around a string.

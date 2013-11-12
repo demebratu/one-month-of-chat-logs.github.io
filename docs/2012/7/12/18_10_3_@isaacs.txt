@@ -1,0 +1,1 @@
+adamramadhan: also, you don't use / in new RegEXp strings

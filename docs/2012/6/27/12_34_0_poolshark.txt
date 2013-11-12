@@ -1,0 +1,1 @@
+hi all. I'm looking for a unit testing solution based on node that would allow me to test arbitrary javascript code. It would also have to output any failed tests to the console. is there anything already built i could use or should i build my own?

@@ -1,0 +1,1 @@
+i'm trying to debug a nodejs program, with 'node debug foo.js'

@@ -1,0 +1,1 @@
+or just use spawn and watch stdout and stderr

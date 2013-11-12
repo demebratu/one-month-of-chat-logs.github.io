@@ -1,0 +1,1 @@
+node: isaacs v0.8 * rd34fea5 / (Makefile tools/blog/generate.js doc/rss.xml): blog: Generate RSS feeds - http://git.io/ud-i0Q

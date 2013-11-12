@@ -1,0 +1,1 @@
+I've created two node.js instances. One listen for events from another program (got that working) performs minimal processing and then forward to the other - the intention is to do this with Curl... but, it seems that request is what I should be using.

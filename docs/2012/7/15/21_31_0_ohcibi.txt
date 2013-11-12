@@ -1,0 +1,1 @@
+hi i tried to install libxmljs with npm install libxmljs but i get the error "node.h: no such file or directory" the file exists in /usr/include/node/node.h so whats wrong?

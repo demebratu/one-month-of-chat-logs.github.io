@@ -1,0 +1,1 @@
+i was trying to use lockFile to achieve mutex operation on a certain function that is hit by multiple node instances at the same time ..

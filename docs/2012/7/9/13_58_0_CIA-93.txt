@@ -1,0 +1,1 @@
+node: Justin Plock v0.8 * rfba1e48 / doc/api/cluster.markdown : doc: cluster: worker.pid is now worker.process.pid - http://git.io/d6n1qA

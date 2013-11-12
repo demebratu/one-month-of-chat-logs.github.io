@@ -1,0 +1,1 @@
+but I don't like that there are at least 3 ways to pass a topic down to the testing scope

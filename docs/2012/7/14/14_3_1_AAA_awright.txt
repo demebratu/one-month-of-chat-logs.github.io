@@ -1,0 +1,1 @@
+There's no reason anyone should be releasing software to other people with a 0.x version

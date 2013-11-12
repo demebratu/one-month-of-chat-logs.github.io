@@ -1,0 +1,1 @@
+you can inherit stream and add your own .unpipe prototype

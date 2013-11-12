@@ -1,0 +1,1 @@
+I've got visual studio and python installed, npm install -g node-inspector finished without problems

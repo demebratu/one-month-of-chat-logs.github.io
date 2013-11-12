@@ -1,0 +1,1 @@
+and then he has to npm install whatever I call the package?

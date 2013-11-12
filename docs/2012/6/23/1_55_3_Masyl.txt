@@ -1,0 +1,1 @@
+konobi: Changing the default shell isn't a trick you can pull when your app is deployed on a cloud

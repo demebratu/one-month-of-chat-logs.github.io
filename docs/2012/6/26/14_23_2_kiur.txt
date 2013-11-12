@@ -1,0 +1,1 @@
+you can use a .toString() method on any buffer

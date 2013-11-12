@@ -1,0 +1,1 @@
+so if you load modules on startup, and those modules load their dependencies on load, and their dependencies ... etc... *and* none of the involved modules read external files located in their directory post-loading - then the answer is yes. otherwise no.

@@ -1,0 +1,1 @@
+So it will always be slower and less efficient than a dedicated file server.

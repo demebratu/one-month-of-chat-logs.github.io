@@ -1,0 +1,1 @@
+deoxxa: I would like a lot of utility functions to extend things like string, so you can say, do string.trim(':') which removes prefix and suffix : characters, but also like string.trim( [':',',']) to remove both those type of chars, and so forth. Just make it easier.

@@ -1,0 +1,1 @@
+jesusabdullah: I think buffer.fill(0) /is/ necessary, because how else does it know what to toString?

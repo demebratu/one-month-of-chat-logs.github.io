@@ -1,0 +1,1 @@
+you can do all that in pure JS. just use a promises library.

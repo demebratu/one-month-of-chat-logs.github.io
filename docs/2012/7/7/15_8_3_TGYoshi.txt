@@ -1,0 +1,1 @@
+var label1 = new ui.Label('0 0 0', Players[p][0].toString());

@@ -1,0 +1,1 @@
+tjholowaychuk: saved us all a LOT of bugs with that one package.json change :)

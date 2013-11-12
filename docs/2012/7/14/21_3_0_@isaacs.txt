@@ -1,0 +1,1 @@
+er ~/.nave/installed/0.8.2/bin i guess

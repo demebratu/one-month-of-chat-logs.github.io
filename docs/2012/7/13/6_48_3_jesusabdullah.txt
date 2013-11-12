@@ -1,0 +1,1 @@
+because all the data's expected to be in 8 bit chunks

@@ -1,0 +1,1 @@
+klaemo: https://github.com/dominictarr/stream-spec

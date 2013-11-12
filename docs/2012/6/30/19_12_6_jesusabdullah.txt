@@ -1,0 +1,1 @@
+tom21: So every time you send data back and forth between your js code and your c++ code, v8 is jumping through some non-trivial hoops

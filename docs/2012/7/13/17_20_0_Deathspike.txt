@@ -1,0 +1,1 @@
+plato: Sure, but captcha, e-mail validation, forgetting passwords etc is just a hassle.

@@ -1,0 +1,1 @@
+sometimes the xml says an encoding, but the devs dont really know what their doing and stream it on ut

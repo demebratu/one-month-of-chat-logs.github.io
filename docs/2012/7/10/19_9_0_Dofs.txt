@@ -1,0 +1,1 @@
+Is there a way by using http.get that I can retrieve the html content of an external site?

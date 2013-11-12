@@ -1,0 +1,1 @@
+what are some modules to start with if I want to build an terminal-based curses-esque monitoring thing. with ascii graphs and stuff.

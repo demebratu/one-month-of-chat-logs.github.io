@@ -1,0 +1,1 @@
+klaemo: well, I am on 0.8 since a few days, and so far it has worked quite okay... Any ideas on when it might be officially supported?

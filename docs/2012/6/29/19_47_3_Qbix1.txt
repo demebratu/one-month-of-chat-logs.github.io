@@ -1,0 +1,1 @@
+I tried doing it via sudo npm install n; sudo n install latest

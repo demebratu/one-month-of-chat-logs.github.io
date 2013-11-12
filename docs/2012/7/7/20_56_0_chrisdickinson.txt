@@ -1,0 +1,1 @@
+you can rewrite context with the Function constructor.

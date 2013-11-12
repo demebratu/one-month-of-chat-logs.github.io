@@ -1,0 +1,1 @@
+dsirijus: do all your static files reside in the /public folder?

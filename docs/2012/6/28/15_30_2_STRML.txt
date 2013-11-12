@@ -1,0 +1,1 @@
+So it's really a client-side webapp that gets JSON data from the nodejs backend

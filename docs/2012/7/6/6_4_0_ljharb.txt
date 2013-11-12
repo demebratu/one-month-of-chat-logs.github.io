@@ -1,0 +1,1 @@
+chrome's always unstable until a .0.1 release

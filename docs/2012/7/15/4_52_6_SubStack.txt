@@ -1,0 +1,1 @@
+instead of getElementsByClassName(name) just do querySelectorAll('.' + name)

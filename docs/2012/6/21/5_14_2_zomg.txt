@@ -1,0 +1,1 @@
+I wonder if there actually are any existing abstractions for that purpose

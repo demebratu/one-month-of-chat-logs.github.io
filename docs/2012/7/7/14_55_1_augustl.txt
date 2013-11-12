@@ -1,0 +1,1 @@
+TGYoshi: what are the byte contents of that string?

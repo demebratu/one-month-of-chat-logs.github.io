@@ -1,0 +1,1 @@
+ok so I don't even need encoding because mongo would store buffer ?

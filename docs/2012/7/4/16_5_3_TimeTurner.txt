@@ -1,0 +1,1 @@
+in order to solve the static asset serving issue most people just use a cdn

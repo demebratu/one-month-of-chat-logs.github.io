@@ -1,0 +1,1 @@
+I'd think a big app in JS would be messy

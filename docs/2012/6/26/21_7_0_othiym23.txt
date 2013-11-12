@@ -1,0 +1,1 @@
+Deathspike: also, I had to spend some time adjusting to how Node does things, after a 16+ year background in Java / Perl / Rails, and I'm ultimately loving how easy Node makes it for me to build complicated but pretty ligtheweight RESTful services with heavy client-side apps

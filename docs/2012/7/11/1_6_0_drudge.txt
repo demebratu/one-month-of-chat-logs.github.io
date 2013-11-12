@@ -1,0 +1,1 @@
+isaacs: any plans to use Developer ID and sign the Mac installer?

@@ -1,0 +1,1 @@
+when I console.log(req.params) using express for a route that is /getMaps/:map/:z:/:x/:y I am getting [ map: 'my_map', z: '5', x: '2', y: '4' ]

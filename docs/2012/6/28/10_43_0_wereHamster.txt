@@ -1,0 +1,1 @@
+radiodario: agree. But then also node should use python2 and not python

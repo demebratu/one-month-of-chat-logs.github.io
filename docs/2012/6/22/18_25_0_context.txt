@@ -1,0 +1,1 @@
+spion: if you are only using 1 dyno it will be killed after 1 hour of idleness

@@ -1,0 +1,1 @@
+maxogden: Do you have a better idea? Submodules preserve all the information about projects dependencies and revision information on each other

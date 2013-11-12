@@ -1,0 +1,1 @@
+livinded: try to measure it on Your system. Try to achieve measurement error for nano seconds which will be lower than 1 us

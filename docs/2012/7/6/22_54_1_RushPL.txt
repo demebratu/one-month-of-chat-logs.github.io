@@ -1,0 +1,1 @@
+oh I also see that readline support tab completion, just not documented - looks very nice!

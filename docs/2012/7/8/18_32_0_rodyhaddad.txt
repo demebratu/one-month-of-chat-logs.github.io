@@ -1,0 +1,1 @@
+brianloveswords, I added the listener to errors on res, and it's not being triggered. It's not about php. If I request a static css(js, whatever) file from the same server, I'm getting nothing. If I request it from another server, I get a response.

@@ -1,0 +1,1 @@
+leev: "I would like a lot of utility functions to extend things like string"

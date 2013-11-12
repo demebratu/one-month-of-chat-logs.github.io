@@ -1,0 +1,1 @@
+magge: the problem is that the path name gets mangled in readdir. when you try to stat it, you're stat'ing the wrong path

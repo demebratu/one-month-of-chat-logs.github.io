@@ -1,0 +1,1 @@
+ie, get your full string and then just convert to a Buffer

@@ -1,0 +1,1 @@
+long story short, WeakMap is good to go =D

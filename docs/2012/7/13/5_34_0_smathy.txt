@@ -1,0 +1,1 @@
+There's a mutt-ng (next generation) which has some good additional features over the basic/older mutt.  In case that's not what you're using.

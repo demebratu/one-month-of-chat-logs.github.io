@@ -1,0 +1,1 @@
+Why do the docs for net.Server#listen() recommend calling server.close() before calling server.listen() again in the case of EADDRINUSE?

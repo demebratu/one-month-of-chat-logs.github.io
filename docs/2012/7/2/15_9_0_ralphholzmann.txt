@@ -1,0 +1,1 @@
+after upgrading to v0.8.1, I can no longer ctrl+c to kill my http server

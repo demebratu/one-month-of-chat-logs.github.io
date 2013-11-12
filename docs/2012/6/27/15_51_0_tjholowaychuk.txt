@@ -1,0 +1,1 @@
+isaacs i need your shell script magic. do you know of a better way to retain quoted args? https://github.com/visionmedia/burl/blob/master/bin/burl#L72

@@ -1,0 +1,1 @@
+sabermonk: is the function being executed in the same context

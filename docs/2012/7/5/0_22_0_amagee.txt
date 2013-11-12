@@ -1,0 +1,1 @@
+does node.js have a de facto standard framework for classes/inheritance?  like https://github.com/daffl/uberclass or similar?

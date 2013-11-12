@@ -1,0 +1,1 @@
+zipp|remote: wait. i think i had simlar issue. i opened files for writing and never closed them and got error that i have too many open files. is this the same issue?

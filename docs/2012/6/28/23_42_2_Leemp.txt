@@ -1,0 +1,1 @@
+So, lets say my npm package is at 1.0.0. Now, i go in and start working on my package for 1.0.1, but my package.json still says 1.0.0. The issue, is if you attempt to require that package, npm looks at *its* version, and sees that the version on npmjs.org is the same.. so it doesn't bother installing it

@@ -1,0 +1,1 @@
+So the blocking part doesn't execute parallel or something because it's in callback code?

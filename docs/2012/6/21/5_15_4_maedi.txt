@@ -1,0 +1,1 @@
+- I think - performance probably not too good for files that large / process intensive

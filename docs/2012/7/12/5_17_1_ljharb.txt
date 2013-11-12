@@ -1,0 +1,1 @@
+that different certificate must thus be less secure than ssl, if the client can't handle ssl but can handle this cert

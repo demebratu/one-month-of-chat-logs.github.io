@@ -1,0 +1,1 @@
+there is no way to make a 'special' array type with emitter added?

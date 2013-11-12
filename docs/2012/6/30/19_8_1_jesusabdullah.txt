@@ -1,0 +1,1 @@
+tom21: The biggest caveat with node comes from using binary modules. v8 is optimized for pure js and not for jumping back and forth between c(++) land and js land

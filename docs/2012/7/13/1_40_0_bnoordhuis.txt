@@ -1,0 +1,1 @@
+llrcombs: random data, i.e. what's on the heap when the buffer is allocated

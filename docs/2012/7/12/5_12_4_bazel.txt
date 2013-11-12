@@ -1,0 +1,1 @@
+the point would be that the small powerless client will not have to encrypt/decrypt the ssl, and that i can debug and/pr capture the http which i can't do in https?

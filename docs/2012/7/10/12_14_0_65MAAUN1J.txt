@@ -1,0 +1,1 @@
+radiodario: well, I'm using Mocha with CoffeeScript, and if my coffee scripts don't compile, it basically breaks the Mocha watch loop and I have to restart it again

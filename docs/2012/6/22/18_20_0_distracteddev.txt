@@ -1,0 +1,1 @@
+Heroku itself will idle(kill) your process if its not used for more than an hour

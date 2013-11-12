@@ -1,0 +1,1 @@
+anyone know how to upgrade to 0.8.0 on unbuntu?

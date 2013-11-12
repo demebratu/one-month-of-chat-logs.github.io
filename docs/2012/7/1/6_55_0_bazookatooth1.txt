@@ -1,0 +1,1 @@
+i'm trying to capture strings that begin with "." then have some text… an OPTIONAL space.. and more text (or not).    i'm using pattern = /^\.(.+)\s?(.*)$/  and that's broken. i suck at regex. please help.

@@ -1,0 +1,1 @@
+circlicious: It depends on what you're calling. exec() calls a shell, fork/spawn/etc opens the new process directly

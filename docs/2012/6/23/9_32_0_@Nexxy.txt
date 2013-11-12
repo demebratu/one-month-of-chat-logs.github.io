@@ -1,0 +1,1 @@
+lpin, like app.get('restricted/route', [ authMe, xssCheck, otherMiddlewares ], function(req, res, next) { // do stuff... });

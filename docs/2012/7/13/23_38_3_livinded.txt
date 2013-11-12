@@ -1,0 +1,1 @@
+also, IE7 probably doesn't support the drag and drop events

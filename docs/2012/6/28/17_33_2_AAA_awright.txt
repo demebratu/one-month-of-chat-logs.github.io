@@ -1,0 +1,1 @@
+A string minus a number is NaN so I'm afraid I don't follow

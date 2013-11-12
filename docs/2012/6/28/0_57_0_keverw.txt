@@ -1,0 +1,1 @@
+Hey. Is it possible to set the terminal background color in Node.js on the Mac? I know how to color lines, but green on white dosn't look that good. So I want my app to change the termianl to black while my app runs.

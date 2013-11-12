@@ -1,0 +1,1 @@
+ForSpareParts: it's good to use functional paradigm of writing code + callback thing.. and your code will be clean and roboust

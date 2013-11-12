@@ -1,0 +1,1 @@
+"Determines how many concurrent sockets the agent can have open per host." i still don't understand it.

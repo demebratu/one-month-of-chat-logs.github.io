@@ -1,0 +1,1 @@
+i just published a QUnit to nodeunit adapter to run QUnit tests natively in node.js: https://github.com/thanpolas/qunit2node

@@ -1,0 +1,1 @@
+https://groups.google.com/forum/?fromgroups#!topic/nodejs/WrkuKEco1O0   i am confused. what does functional means? functional OO style (using new keyword) or functinal programming style?

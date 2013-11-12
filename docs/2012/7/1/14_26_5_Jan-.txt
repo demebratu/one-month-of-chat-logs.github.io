@@ -1,0 +1,1 @@
+I mean, right now, I'm working on a node version of my portable.File constructor, so I need portable to be globally-available.

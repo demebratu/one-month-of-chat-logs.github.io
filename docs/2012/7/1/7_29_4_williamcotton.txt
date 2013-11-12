@@ -1,0 +1,1 @@
+base64 is a good go-to with these issues

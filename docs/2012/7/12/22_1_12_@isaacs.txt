@@ -1,0 +1,1 @@
+Just have to install redis and couchdb.  it spins them up configured and everything.  clones some real data from the real site, and gets you going right off.

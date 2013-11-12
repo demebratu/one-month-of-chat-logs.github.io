@@ -1,0 +1,1 @@
+nykac: you're going to want to figure out how to pipeline all those requests to Redis and then have the finished data object handed off to the response once they've all had a chance to run

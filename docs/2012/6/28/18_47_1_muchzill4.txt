@@ -1,0 +1,1 @@
+Wth? How come forEach in 'async' node module applies the iterator in parallell? It's based on callbacks only and on blocking forEach function. Can someone explain this if I'm wrong? ;p

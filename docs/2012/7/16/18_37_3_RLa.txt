@@ -1,0 +1,1 @@
+vm, yes, not sure if wicd would work after upgrading python

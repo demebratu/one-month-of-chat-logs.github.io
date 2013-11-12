@@ -1,0 +1,1 @@
+Deathspike: a little bit of googling produces http://stackoverflow.com/questions/2308134/trim-in-javascript-not-working-in-ie

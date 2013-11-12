@@ -1,0 +1,1 @@
+I'm just thinking of how to concat the chunk given the scope of the res.on('data', function (chunk) {//here }); situation

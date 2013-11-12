@@ -1,0 +1,1 @@
+seems like the shim behavior has changed in some recent version of npm: https://github.com/isaacs/npm/issues/2572

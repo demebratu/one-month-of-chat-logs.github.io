@@ -1,0 +1,1 @@
+Aria: but this happens when I start vim inside screen/tmux or outside of it, as long as I have TERM=linux or TERM=screen

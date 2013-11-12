@@ -1,0 +1,1 @@
+Hotroot, it's incapsulated in the TCP/IP stack, so I don't know if that's possible. Your TCP/IP layer below would catch that I'd think. Probably the EthernetII frame would error

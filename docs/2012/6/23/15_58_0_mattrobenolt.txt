@@ -1,0 +1,1 @@
+mmalecki: Any idea on how long it is taking/did take to run over all repos in npm?

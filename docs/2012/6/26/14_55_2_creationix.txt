@@ -1,0 +1,1 @@
+but generally to serve multiple apps/websites you can either use url routing (with possible virtual hosting) or run each app on it's own port and put  reverse proxy in front of them.

@@ -1,0 +1,1 @@
+As of Tuesday, I didn't think search worked on new.npmjs?

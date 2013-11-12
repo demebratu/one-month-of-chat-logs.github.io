@@ -1,0 +1,1 @@
+erick2red: its pretty much ./configure && make install everywhere isn't it?

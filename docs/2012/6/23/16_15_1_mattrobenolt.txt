@@ -1,0 +1,1 @@
+circlicious: MOST programming languages work like that. You typically don't get multiprocessing or threading for that matter for free.

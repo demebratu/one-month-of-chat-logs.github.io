@@ -1,0 +1,1 @@
+can I somehow look at all the variables which use the RAM?

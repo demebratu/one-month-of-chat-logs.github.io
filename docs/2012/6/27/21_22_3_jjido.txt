@@ -1,0 +1,1 @@
+can a module be called? if foo is a module, foo()

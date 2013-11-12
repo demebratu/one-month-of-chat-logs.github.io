@@ -1,0 +1,1 @@
+can you tell me why this does not console.log http://pastie.org/private/xzlslcc7r1moltlrl4vkcg ?

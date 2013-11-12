@@ -1,0 +1,1 @@
+s5fs:  async looks like a nice pattern to solve the problem, especially the waterfall approach

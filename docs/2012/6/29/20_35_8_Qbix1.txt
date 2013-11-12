@@ -1,0 +1,1 @@
+is there any way to clean my system of node and npm

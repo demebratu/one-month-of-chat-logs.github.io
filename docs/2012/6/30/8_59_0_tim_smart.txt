@@ -1,0 +1,1 @@
+spolu: Make it work by default with file system watchers etc. so you can use any editor, and then slowly make plugins and other tools to add realtime support.

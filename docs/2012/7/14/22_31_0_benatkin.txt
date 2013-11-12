@@ -1,0 +1,1 @@
+prettyrobots: nice readme update. still find the positional arguments hard to understand though

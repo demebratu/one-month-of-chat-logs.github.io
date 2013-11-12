@@ -1,0 +1,1 @@
+hi, I have a node application: http://dpaste.com/hold/767781/ ... and I like to serve javascript files to Clients... My client html file is: http://dpaste.com/hold/767782/ ... When I looked /socket.io/EventManager.js it gets Welcome to socket.io.

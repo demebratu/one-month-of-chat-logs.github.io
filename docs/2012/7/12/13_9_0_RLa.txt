@@ -1,0 +1,1 @@
+export send function, i guess you can put method and url as export properties too

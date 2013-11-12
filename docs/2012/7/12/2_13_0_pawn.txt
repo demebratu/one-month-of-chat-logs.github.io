@@ -1,0 +1,1 @@
+Oh I get it. It's because the authorization "thing" (is it an event or is it some property, idk, this API is weird) is triggered before connection event.

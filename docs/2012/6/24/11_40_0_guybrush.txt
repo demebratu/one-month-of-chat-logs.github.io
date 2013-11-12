@@ -1,0 +1,1 @@
+though you can just grab the socket.io-client from github and serve it yourself

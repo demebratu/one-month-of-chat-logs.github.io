@@ -1,0 +1,1 @@
+Ok, maybe i better as here as in mongodb channel. Does anyone got an example for me, how to connect to mongodb in node.js using user and password?

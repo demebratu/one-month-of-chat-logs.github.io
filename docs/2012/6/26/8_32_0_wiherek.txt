@@ -1,0 +1,1 @@
+added the callback into login.login and set an execution point for it at the end.

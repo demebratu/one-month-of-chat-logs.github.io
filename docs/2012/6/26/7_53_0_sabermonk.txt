@@ -1,0 +1,1 @@
+hi, How to flush a stream given by fs.createWriteStream()?

@@ -1,0 +1,1 @@
+distracteddev: write lots of tiny libraries that just do one thing and that compose other libraries, but only in order to do their one thing

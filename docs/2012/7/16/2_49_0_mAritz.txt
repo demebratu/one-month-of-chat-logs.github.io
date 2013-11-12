@@ -1,0 +1,1 @@
+cgiffard: just fyi: it appears as though node-canvas does not support loading of .bmp (only png, jpg, gif) :(

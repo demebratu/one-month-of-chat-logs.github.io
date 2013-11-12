@@ -1,0 +1,1 @@
+i don't want to drop var and i don't want to attach to global scope but i assumed it should be stored in "this" while it is not

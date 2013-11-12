@@ -1,0 +1,1 @@
+libuv: Ben Noordhuis v0.8 * r68b0c85 / test/test-hrtime.c : test: allow 80 ms intervals in hrtime test - http://git.io/DCuj2w

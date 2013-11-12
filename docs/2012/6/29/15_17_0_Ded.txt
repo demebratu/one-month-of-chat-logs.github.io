@@ -1,0 +1,1 @@
+now, this server doesn't have a domain, just an ip address, and i'd like to keep it that way

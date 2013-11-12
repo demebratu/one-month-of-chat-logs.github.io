@@ -1,0 +1,1 @@
+I'd like to have a look on all console.log/error messages

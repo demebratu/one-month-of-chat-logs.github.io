@@ -1,0 +1,1 @@
+find . \( -iname '*.[ch]' -o -iname '*.php' -o -iname '*.pl' \) | xargs wc -l | sort -n   => 668016

@@ -1,0 +1,1 @@
+Hi I have installed python 2.7 and node.js 2.7.1. My questiion is how to run node.js and if there is a GUI ?

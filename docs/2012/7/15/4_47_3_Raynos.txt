@@ -1,0 +1,1 @@
+gkatsev: https://github.com/TimGoodwyn/Sets-in-Lang./blob/master/Specification/Set%20Interface

@@ -1,0 +1,1 @@
+dominictarr: i looked at this a bunch because i log everything in json and wanted to write a streaming json grep type thing for back-end log searching

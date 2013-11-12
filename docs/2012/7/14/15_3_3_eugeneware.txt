@@ -1,0 +1,1 @@
+prettyrobots: I don't have semaphores in node.js, so I need a way to serialize read/write operations.

@@ -1,0 +1,1 @@
+got it exported fine on the mac side, but couldn't connect on the ubuntu/vm side

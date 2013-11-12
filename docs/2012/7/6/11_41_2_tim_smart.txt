@@ -1,0 +1,1 @@
+write accepts a callback last time I checked.

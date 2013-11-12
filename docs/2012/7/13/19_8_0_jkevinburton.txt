@@ -1,0 +1,1 @@
+(without revealing the /themes/default to the user in the template)

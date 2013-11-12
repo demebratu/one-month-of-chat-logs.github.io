@@ -1,0 +1,1 @@
+the second time the worker is running I get callback undefined

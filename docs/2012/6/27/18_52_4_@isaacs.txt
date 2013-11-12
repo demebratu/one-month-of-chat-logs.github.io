@@ -1,0 +1,1 @@
+but for the most part, minus the data corruption issues, and some annoying npm stuff, 0.8 is pretty solid.

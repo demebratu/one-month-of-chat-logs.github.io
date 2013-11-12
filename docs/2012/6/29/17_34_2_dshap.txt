@@ -1,0 +1,1 @@
+deedubs: but i still can't "npm install", it says i need to run as root/Admin

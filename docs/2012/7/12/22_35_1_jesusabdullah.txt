@@ -1,0 +1,1 @@
+I'm not scared of math, I'm scared of people saying, "oh you don't need to know what a reader monad is to use it"

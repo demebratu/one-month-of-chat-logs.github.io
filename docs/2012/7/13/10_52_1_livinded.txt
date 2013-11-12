@@ -1,0 +1,1 @@
+wonder if node is going to get btoa and atob anytime soon or if we just have to keep using buffers to convert

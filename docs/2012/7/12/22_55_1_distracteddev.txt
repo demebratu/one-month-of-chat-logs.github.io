@@ -1,0 +1,1 @@
+isaacs: Still not sure why you hate exists, how else do you want to check if a file is at that location?

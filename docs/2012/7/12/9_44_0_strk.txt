@@ -1,0 +1,1 @@
+TypeError: Object.keys called on non-object <--- could these be turned into exceptions? 

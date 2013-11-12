@@ -1,0 +1,1 @@
+upb: http://php.net/manual/en/function.addslashes.php

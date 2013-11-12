@@ -1,0 +1,1 @@
+s5fs:  ill post up basically im looking for a better pattern to checking stuff in emebded docs - i seem to be in callback hell

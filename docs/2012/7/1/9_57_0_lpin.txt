@@ -1,0 +1,1 @@
+hello guys, can't compile node 0.8.1 on fedora 14

@@ -1,0 +1,1 @@
+I wonder how other cross-platform frameworks solve this issue of having some platforms with certain features that the other platforms can't handle. Cause you end up with writing conditionals for specific platforms and that breaks the elegance of the portable code(similar to ifdef hell)

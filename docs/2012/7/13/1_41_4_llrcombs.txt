@@ -1,0 +1,1 @@
+could be a good way to quickly get non-cryptographically-safe pseudorandom bytes

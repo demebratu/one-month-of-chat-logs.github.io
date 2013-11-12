@@ -1,0 +1,1 @@
+Protected, probably not then :) You mean different context like function.call(context, args) right?

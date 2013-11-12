@@ -1,0 +1,1 @@
+unless you've alredy have been informed, debian-ctte have made a ruling regarding nodejs vs node now. See http://lists.debian.org/debian-devel-announce/2012/07/msg00002.html for the resolution

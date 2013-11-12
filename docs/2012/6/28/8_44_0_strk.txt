@@ -1,0 +1,1 @@
+found: http://npmjs.org/install.sh

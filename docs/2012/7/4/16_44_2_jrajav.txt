@@ -1,0 +1,1 @@
+Protected: Think of it like this. At the moment you define a function literal, it "closes" around any variables in its current scope, guaranteeing it will have access to them whenever it is called in the future

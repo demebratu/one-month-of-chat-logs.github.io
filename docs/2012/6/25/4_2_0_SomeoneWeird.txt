@@ -1,0 +1,1 @@
+pawn, enable throttling in your program, then you dont have to worry about that

@@ -1,0 +1,1 @@
+s = "foo"; db.escape(s) == "'foo'"; ?

@@ -1,0 +1,1 @@
+guy: Why set that @query_str variable?

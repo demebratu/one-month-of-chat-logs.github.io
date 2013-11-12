@@ -1,0 +1,1 @@
+query .... db.messages.find({friends: {$in : [1,2,3,4,5]}});

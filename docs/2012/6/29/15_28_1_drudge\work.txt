@@ -1,0 +1,1 @@
+think it is a pretty common pattern for node apps

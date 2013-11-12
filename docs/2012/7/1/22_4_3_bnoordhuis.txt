@@ -1,0 +1,1 @@
+octane--: re node-waf, it's installed to $PREFIX/bin

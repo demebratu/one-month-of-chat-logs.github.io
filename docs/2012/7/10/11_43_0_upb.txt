@@ -1,0 +1,1 @@
+hrm, using version 0.4.4 of restify client, downloading a binary file. getting content-length mismatch. the content length sent by server matches the length of the response body.

@@ -1,0 +1,1 @@
+Friend making a home automation system with embed electronics and he wants to make map to show temperature levels and power usage.

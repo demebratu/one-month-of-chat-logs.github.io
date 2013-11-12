@@ -1,0 +1,1 @@
+zipp|remote https://github.com/substack/node-buffer-equal the whole of this module is 13 lines.

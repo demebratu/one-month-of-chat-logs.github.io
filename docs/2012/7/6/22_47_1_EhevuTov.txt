@@ -1,0 +1,1 @@
+Hotroot, set your socket.bufferSize and then do a pause(), resume(), destroy() or end() maybe?

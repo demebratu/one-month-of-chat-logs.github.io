@@ -1,0 +1,1 @@
+for something completely different, all you gnome/gtk users in here do `mkdir -p $HOME/.config/ibus/bus` now

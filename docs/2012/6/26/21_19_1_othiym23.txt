@@ -1,0 +1,1 @@
+Deathspike: well, you can set it systemwide in the properties, or use a cmd file of some kind

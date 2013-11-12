@@ -1,0 +1,1 @@
+I just want a fairly robust build, that uses whatever path a library has

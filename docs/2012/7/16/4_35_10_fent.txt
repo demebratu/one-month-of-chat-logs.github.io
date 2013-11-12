@@ -1,0 +1,1 @@
+is there a module that pretends to be an http response until the response is returned from the callback? kind of what like the request module does

@@ -1,0 +1,1 @@
+augustl Strings with ¨special¨ symbols, in my case, a players nickname

@@ -1,0 +1,1 @@
+How do I get at the session data that I have in express through socket.io?

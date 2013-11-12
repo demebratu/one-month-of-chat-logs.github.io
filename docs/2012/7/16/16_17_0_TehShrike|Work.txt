@@ -1,0 +1,1 @@
+I've seen people using relational databases so effectively that I'm already not very interested in key/value stores, and this just seems like a memory-based k/v store.  Yet tons of open source projects (many node.js projects) are using it.

@@ -1,0 +1,1 @@
+for http://nodejs.org/api/fs.html#fs_class_fs_stats do I have to parse that string on my own to get one of the properties?

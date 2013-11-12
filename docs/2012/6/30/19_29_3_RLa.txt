@@ -1,0 +1,1 @@
+why you use that shit instead of using 200 * 100 as setTimeout argument

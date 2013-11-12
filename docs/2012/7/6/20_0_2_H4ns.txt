@@ -1,0 +1,1 @@
+node-dirty looks like what i want, maybe i'll look at that.

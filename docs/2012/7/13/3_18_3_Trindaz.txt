@@ -1,0 +1,1 @@
+yes. if I don't use any of this gzip stuff and just printout what response is raw then i get all the garbled content come out to console

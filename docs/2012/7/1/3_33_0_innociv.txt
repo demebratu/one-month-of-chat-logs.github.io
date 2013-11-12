@@ -1,0 +1,1 @@
+I see a list of all the scripts, but doesn't seem like I can commit changes to them.  Like I tried adding a console.log() on socket.io new connection.

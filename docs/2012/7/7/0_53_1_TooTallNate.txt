@@ -1,0 +1,1 @@
+the other end could still be open and you could still receive data

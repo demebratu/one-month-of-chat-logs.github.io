@@ -1,0 +1,1 @@
+@Karmaon one bad query can block a single db connection. a few reasonable ones can block a queue. do you use the same connection for all calls in your api?

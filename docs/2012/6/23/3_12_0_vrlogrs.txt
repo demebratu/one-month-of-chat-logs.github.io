@@ -1,0 +1,1 @@
+the are the variables in the parent function accessible by the callback functions?

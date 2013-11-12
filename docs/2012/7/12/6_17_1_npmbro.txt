@@ -1,0 +1,1 @@
+npmbro usage: `npm <command> <arguments ...>` For more information on npmbro, see https://github.com/DTrejo/npmbro or run `npm docs npmbro` or run `npm credits`.      Available commands: npm search | npm docs | npm help | npm node | npm credits

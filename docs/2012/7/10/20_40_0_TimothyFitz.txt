@@ -1,0 +1,1 @@
+mxweas: I don't really want my code that writes and removes pidfiles to own the ctrl-c behavior though. Looks like that's what I have to do in node. (In the comparable twisted-python or gunicorn-django apps, all I have to have is atexit(cleanup); it's possible V8 doesn't make running code in an atexit handler easy though)

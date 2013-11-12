@@ -1,0 +1,1 @@
+but in fact, at least linux distributions will insist on shared libraries.

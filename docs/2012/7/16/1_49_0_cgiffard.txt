@@ -1,0 +1,1 @@
+perhaps npm didn't have permissions to write to /usr/local/bin?

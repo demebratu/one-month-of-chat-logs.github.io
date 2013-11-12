@@ -1,0 +1,1 @@
+"body - entity body for POST and PUT requests. Must be buffer or string"

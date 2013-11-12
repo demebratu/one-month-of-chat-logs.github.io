@@ -1,0 +1,1 @@
+TGYoshi: you could always inspect the raw bytes you get in the requests

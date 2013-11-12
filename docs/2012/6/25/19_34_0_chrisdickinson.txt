@@ -1,0 +1,1 @@
+it was <=0.8.X, seems like a bug in semver.

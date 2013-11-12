@@ -1,0 +1,1 @@
+returning nested functions in objects via callbacks

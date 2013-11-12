@@ -1,0 +1,1 @@
+TehShrike|Work: it is inappropriate for normal db stuff, star schema it is appropriate and the speed is well worth the headache of maintaining master data that way

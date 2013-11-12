@@ -1,0 +1,1 @@
+konobi: nope. Just me. I hired a couple of other toronto JS guys so far. But no perl in the stack.

@@ -1,0 +1,1 @@
+ashb, gmake[1]: *** [/usr/home/erick/Personal/build/node-v0.8.0/out/Release/obj.target/uv/deps/uv/src/unix/eio/eio.o] Error 1

@@ -1,0 +1,1 @@
+3) you can use operators normally e.g. (yield db.find({id:blah})).name.length > 5 &&  (yield db.stats.find({id:blah})).postCount > 10

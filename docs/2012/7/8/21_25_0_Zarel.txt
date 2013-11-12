@@ -1,0 +1,1 @@
+mmalecki, I was previously using a library to get the HTTP request and send the callback the entire response.

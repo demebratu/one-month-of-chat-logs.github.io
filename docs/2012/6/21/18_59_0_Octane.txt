@@ -1,0 +1,1 @@
+anyone know how to set a baseUrl so that the module require includes the hostname in the request? Right now requests are looking at "http://require/..." because the "root" is set to require. Am I missing a configuration option?

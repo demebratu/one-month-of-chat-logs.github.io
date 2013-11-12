@@ -1,0 +1,1 @@
+anyone know how I can access pixel data directly in gm for node?

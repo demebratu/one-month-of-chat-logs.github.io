@@ -1,0 +1,1 @@
+seems like weak got install correctly by npm

@@ -1,0 +1,1 @@
+isaacs: maybe add a -f flag to npm to force installing packages that say they don't work on 0.8

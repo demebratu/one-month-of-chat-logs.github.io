@@ -1,0 +1,1 @@
+there are parts of javascript that lack elegance

@@ -1,0 +1,1 @@
+bnoordhuis: hi, regarding the issue with binding unix stream sockets to a local path (#3705)... following your advice I've created a module to implement it and I've basically copied some parts of your code in node-unix-dgram... how should I acknowledge that? Adding your copyright line on the affected files?

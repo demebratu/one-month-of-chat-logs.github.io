@@ -1,0 +1,1 @@
+bwen, i still do not like that code, what guarantees that callback at length-1 is called last?

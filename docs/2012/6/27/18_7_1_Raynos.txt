@@ -1,0 +1,1 @@
+core file size          (blocks, -c) unlimited and others

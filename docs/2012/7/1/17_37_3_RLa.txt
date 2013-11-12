@@ -1,0 +1,1 @@
+there are some orm libs like sequlize

@@ -1,0 +1,1 @@
+there are days when using gentoo for slotted packages makes sense

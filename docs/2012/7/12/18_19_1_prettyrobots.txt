@@ -1,0 +1,1 @@
+austinbv: I was just able to replace Date with that no-op function, so REPL does, yes. austinbv 

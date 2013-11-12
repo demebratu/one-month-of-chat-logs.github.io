@@ -1,0 +1,1 @@
+gkatsev:  okay. I don't see errors in my firebug. Can you tell if the Content Length was 0 when you requested it ?

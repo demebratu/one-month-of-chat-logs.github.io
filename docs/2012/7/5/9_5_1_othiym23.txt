@@ -1,0 +1,1 @@
+owen1: there are threads at play within the Node.js process, but they're for things like maintaining connection pools and garbage collection -- they're not accessible to use as a Node platform user

@@ -1,0 +1,1 @@
+cgiffard: so back to my issue, let me be specific. i installed https://github.com/clarkf/minifyjs fine, but it's not available from the command-line as it purports

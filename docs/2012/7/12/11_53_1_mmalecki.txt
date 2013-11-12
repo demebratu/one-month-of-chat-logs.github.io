@@ -1,0 +1,1 @@
+ootje: due to internal architecture of v8 linked lists implemented in js might be slower

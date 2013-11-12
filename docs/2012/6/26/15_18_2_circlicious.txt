@@ -1,0 +1,1 @@
+creationix: as i said, say my root dir is /var/www/ and i have my apps, /var/www/foo and /var/www/bar and /var/www/baz, i want to access them likelocalhost:8080/foo and /bar and /baz :)

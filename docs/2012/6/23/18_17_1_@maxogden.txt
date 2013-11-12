@@ -1,0 +1,1 @@
+SubStack: http://badankles.com/?p=209 seems to not use compression but gets 30fps

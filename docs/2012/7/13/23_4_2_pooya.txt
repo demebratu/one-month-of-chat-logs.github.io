@@ -1,0 +1,1 @@
+why do i get different outputs from this in node.js shell (REPL) vs when i save it in a script: var f=function() {}; console.log(this.f);

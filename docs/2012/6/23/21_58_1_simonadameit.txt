@@ -1,0 +1,1 @@
+benatkin: so if you must know, actually im not building a repl per se, but a "port" which does erlang <-> node communitation, so you can eval and call node from erlang :)

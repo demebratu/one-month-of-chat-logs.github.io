@@ -1,0 +1,1 @@
+xy77: you're calling .find before the .insert is done

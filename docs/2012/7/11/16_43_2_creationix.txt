@@ -1,0 +1,1 @@
+install executables globally so they are in your path, and libraries locally so they are available to require

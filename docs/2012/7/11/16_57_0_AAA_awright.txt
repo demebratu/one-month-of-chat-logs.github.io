@@ -1,0 +1,1 @@
+Yeah, in ECMA-262 "return" is a valid statement anywhere you can have a statement

@@ -1,0 +1,1 @@
+I think that redis master in memory + redis backend with save() would be 100x faster for realtime 

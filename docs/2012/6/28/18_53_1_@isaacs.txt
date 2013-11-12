@@ -1,0 +1,1 @@
+the couchdb API is kind of weird in some ways.  you sort of have to break your brain a little to use it.

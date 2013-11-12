@@ -1,0 +1,1 @@
+Drager: this is the job of http://socket.io/ .. there are other implementations, but basically you want node watching the db (or maybe a file) and have it send a message to the front-end when the value changes. 

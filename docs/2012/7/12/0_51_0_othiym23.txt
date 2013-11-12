@@ -1,0 +1,1 @@
+jesusabdullah: I probably wouldn't either, but Node's logging situation in general is a mess

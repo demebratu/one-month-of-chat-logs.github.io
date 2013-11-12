@@ -1,0 +1,1 @@
+Streaming changes doesn't work, because it is hard to see context to what the developer is thinking

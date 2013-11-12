@@ -1,0 +1,1 @@
+eddyb: i also really dont like: on(document, 'keydown', in term.open, thats bound to cause a leak

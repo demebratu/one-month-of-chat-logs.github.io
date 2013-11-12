@@ -1,0 +1,1 @@
+so, if a function like R5_finish had a blocking function in it ... there's a chance R5_output does get called before R5_finish is complete?

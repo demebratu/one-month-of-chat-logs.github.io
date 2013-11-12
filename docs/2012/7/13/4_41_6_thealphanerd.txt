@@ -1,0 +1,1 @@
+I think if people wanted you to scrape they would make an api

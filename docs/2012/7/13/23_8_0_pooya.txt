@@ -1,0 +1,1 @@
+@jesusabdullah if i try that in node shell "var f" will attach it to global namespace, but the very same code in a .js file will not do the same 

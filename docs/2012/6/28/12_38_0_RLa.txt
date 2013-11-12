@@ -1,0 +1,1 @@
+every node project should have package.json file

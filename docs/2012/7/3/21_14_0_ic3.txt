@@ -1,0 +1,1 @@
+hi guys! is there any way to make requets module, retry connection with another proxy server if the supplied one is failing? https://github.com/mikeal/request/

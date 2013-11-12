@@ -1,0 +1,1 @@
+yeah, haproxy might support websockets by now

@@ -1,0 +1,1 @@
+so, someone can help me? (when I enter not existing command I get "If 'command name' is not a typo you can use command-not-found to.....")

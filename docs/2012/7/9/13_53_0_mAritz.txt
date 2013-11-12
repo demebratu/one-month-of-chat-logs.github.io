@@ -1,0 +1,1 @@
+(not a node.js question) wasn't there some way in stylus to write something like border and then indented on the next line "left 1px solid red" next line "right 2px dotted green" or something?

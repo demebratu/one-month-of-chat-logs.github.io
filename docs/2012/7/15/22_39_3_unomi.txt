@@ -1,0 +1,1 @@
+just saying that mongrel2 or even nginx pub-sub could get you there pretty easily

@@ -1,0 +1,1 @@
+just started using chrome 20.0.1132.47 and socket.io is now throwing errors

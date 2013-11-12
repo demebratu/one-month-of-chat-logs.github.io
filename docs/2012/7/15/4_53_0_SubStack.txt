@@ -1,0 +1,1 @@
+anyways I would take a patch to hack in getElementsByClassName

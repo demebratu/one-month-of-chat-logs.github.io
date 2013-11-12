@@ -1,0 +1,1 @@
+what is the max req/sec from nodejs one should expect per 1 Core if redis is used for session management? what is the setup to be used in multicore scenario ie lb/nginx nodejs processes redis stores?

@@ -1,0 +1,1 @@
+cleaning up code and making sure there are no bugs in the backend before moving on to some frontend stuff

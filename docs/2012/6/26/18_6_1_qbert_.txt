@@ -1,0 +1,1 @@
+oh wait, console.log(util.inspect()) or just util.inspect() ?

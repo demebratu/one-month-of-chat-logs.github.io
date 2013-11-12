@@ -1,0 +1,1 @@
+chanced: Have only heard about jsdom, search.npmjs.org shows some others when looking for DOM, but I don't see what would be wrong with using jsdom.

@@ -1,0 +1,1 @@
+PHP can handle real-time comm just like every other platform out there, so if thats the ONLY reason you rewrite, it's not a very good reason at all.

@@ -1,0 +1,1 @@
+Hi I Think I am in agood way ! I gave comand node. Then i gave command console.log ('hello'); and I received ---- > hello undefined

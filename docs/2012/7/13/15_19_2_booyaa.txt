@@ -1,0 +1,1 @@
+i know the guys here are seasoned vim-ers but this is a nice way to code

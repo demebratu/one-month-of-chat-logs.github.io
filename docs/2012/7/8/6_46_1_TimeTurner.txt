@@ -1,0 +1,1 @@
+well you could use redis to propagate stuff but node's ipc might be well offf at this stage. dunno about that though.

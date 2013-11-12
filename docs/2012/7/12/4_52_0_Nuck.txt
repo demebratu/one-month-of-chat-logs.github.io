@@ -1,0 +1,1 @@
+I was thinking nul chars are a good delimiter but I guess that's out of the question

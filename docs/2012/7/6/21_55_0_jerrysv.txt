@@ -1,0 +1,1 @@
+gah. i could just imaging the tangle of nested callbacks for async require()'s for any decent sized project

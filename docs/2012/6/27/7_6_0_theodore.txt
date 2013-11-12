@@ -1,0 +1,1 @@
+hey guys, I can't get jade to see myscript.js stored on my machine

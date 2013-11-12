@@ -1,0 +1,1 @@
+Funny… I had a bet running with a friend that you would be getting some "metered resources" pricing scheme like google app-engine does. I wasn't expecting something so similar to other PaaS. 

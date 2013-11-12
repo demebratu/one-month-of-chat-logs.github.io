@@ -1,0 +1,1 @@
+not any particularly straightforward approach, a better question may be: why would you need to?

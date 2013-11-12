@@ -1,0 +1,1 @@
+wookiehangover: isn't underscore more useful for helping people who are used to es5 than coffeescript?

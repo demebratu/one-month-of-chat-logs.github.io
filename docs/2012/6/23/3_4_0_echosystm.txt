@@ -1,0 +1,1 @@
+vrlogrs: you need to provide a "callback" parameter to your R5_whatever function that gets called once all the async stuff has happened. you cannot "return me;", thats not how event loops work

@@ -1,0 +1,1 @@
+I put "scripts": { "test": "tap ./test/*.js" } in my package.json but when I do "npm test" it says to that it failed and to see the errors above but there is nothing. if I do "./node_modules/tap/bin/tap.js ./test/*.js" on the command line everything works as expected. Something i'm not getting?

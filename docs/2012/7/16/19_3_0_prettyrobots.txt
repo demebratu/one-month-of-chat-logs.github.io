@@ -1,0 +1,1 @@
+His use case is dashboards and accidental database queriests.

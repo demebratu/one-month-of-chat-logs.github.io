@@ -1,0 +1,1 @@
+as I learn programming without studying computer science, can you generally recommand some basic docs to understand how hardware works? (processor, net connections, servers,..)

@@ -1,0 +1,1 @@
+libuv: Bert Belder versioning * r8105bed / (5 files in 3 dirs): Prepare for proper versioning - http://git.io/ITPcfg

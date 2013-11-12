@@ -1,0 +1,1 @@
+Can you have a blocking function inside a callback function without making the node block other requests?

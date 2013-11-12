@@ -1,0 +1,1 @@
+as someone who has been in the trenches in ActiveRecord and Hibernate, http://blogs.tedneward.com/2006/06/26/The+Vietnam+Of+Computer+Science.aspx

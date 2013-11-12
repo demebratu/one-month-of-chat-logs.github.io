@@ -1,0 +1,1 @@
+So! now all i need is a way for nodejs to support requiring with a wildcard

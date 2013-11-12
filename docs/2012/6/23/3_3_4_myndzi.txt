@@ -1,0 +1,1 @@
+set this to a variable and pass it as the callback to each query in order

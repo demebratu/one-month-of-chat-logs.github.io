@@ -1,0 +1,1 @@
+arinel: sounds like a more fundamental problem with your routes to me. A route that matches "pretty much any string of stuff" with no prefix can't magically target two apps unless you have a way of making a distinction.

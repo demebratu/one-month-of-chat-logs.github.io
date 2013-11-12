@@ -1,0 +1,1 @@
+that way the socket.io -modules (the server one) will serve the file for you

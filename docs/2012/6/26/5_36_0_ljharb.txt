@@ -1,0 +1,1 @@
+myndzi: what's "Class"? javascript doesn't have classes.

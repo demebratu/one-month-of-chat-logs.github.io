@@ -1,0 +1,1 @@
+you can do a realworld websockets example without static files also :P

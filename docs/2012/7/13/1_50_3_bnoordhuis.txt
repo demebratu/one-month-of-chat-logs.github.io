@@ -1,0 +1,1 @@
+40 zero bytes, that's 5 stosqs on a x64 machine

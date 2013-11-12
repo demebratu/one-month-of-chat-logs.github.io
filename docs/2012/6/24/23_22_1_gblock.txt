@@ -1,0 +1,1 @@
+austinbv: https://github.com/flatiron/winston/blob/master/lib/winston/transports.js

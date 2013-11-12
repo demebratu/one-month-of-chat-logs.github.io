@@ -1,0 +1,1 @@
+othiym23: let's say i create readable stream of a file - rs = fs.ReadStream('test.txt'). fs is an event emiter so let's say I  get 3 'data' events and eventualy an 'end' event. i had total of 4 events. the os had to read small chunk of test.txt. it did it 3 times. and it did it in the same thread of the node app. is this accurate so far?

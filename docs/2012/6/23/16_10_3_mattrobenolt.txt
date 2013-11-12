@@ -1,0 +1,1 @@
+farhad2161: I honestly don't know, I'm not a Socket.IO expert by any means. Just trying to get more information for others.

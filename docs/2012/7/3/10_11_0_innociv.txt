@@ -1,0 +1,1 @@
+Because forver doesn't restart the script when it's using 100% cpu

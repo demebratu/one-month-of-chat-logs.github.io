@@ -1,0 +1,1 @@
+wonders if there's a read/write-able string that lets you write to it endlessly, then get everything you wrote as a Buffer

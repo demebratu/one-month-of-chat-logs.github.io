@@ -1,0 +1,1 @@
+ooh.  That would make life a bit better, I was unhappy that I couldn't just add functions to jquery objects in my early development.

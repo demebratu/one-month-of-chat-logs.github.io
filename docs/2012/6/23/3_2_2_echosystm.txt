@@ -1,0 +1,1 @@
+vrlogrs: "line 52" actually happens after the entire R5_login function completes

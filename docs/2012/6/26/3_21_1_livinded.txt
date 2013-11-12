@@ -1,0 +1,1 @@
+konobi: I wouldn't give them access to removePath

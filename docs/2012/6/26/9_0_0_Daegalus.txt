@@ -1,0 +1,1 @@
+I went to a talk by Douglas Crockford at Paypal a few days ago. Great guy, awesome talk, though he did say that ES6 wont be here for a while, and they will be spending a lto of time reviewing and junking things

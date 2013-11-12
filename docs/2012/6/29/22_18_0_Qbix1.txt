@@ -1,0 +1,1 @@
+I woudn't, I would want to explicitly proxy https to http or vice versa

@@ -1,0 +1,1 @@
+dsirijus: I don't see where you're defining "root" in your nginx.conf. so is /public a subfolder of /ambassadors?

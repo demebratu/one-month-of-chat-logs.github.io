@@ -1,0 +1,1 @@
+tuhoojabotti: in 0.8, yes, except for detached children.

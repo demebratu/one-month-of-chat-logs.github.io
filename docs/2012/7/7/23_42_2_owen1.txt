@@ -1,0 +1,1 @@
+but trying to understand what happened when i do db.query('select all', function() {})

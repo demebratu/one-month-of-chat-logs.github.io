@@ -1,0 +1,1 @@
+arcanis: I'm all for breaking BC, I'm less for making a bunch of shitty decisions coupled with a few cool decisions and then regretting them later

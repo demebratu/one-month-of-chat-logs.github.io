@@ -1,0 +1,1 @@
+it is Masyl ... from what i understand though, ill have to pass the callback function through the 3 queries?

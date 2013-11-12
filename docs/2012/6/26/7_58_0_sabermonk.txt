@@ -1,0 +1,1 @@
+ohk.. so this is like i need to listen to drain event to be sure that all writes are flushed?

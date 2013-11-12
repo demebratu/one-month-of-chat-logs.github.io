@@ -1,0 +1,1 @@
+kylefarris, not really, it prevents injection by not concatenting things together into a string.

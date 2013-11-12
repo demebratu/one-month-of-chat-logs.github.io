@@ -1,0 +1,1 @@
+so if I go with lient.lpush(key + "-data", buffer, function(err, reply) {

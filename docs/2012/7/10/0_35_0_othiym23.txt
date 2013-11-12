@@ -1,0 +1,1 @@
+Spion_: I'd have to spend some time playing with how generators and eventing interact to have a real opinion, I think

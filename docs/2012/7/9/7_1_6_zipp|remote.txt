@@ -1,0 +1,1 @@
+covi: And if you can't find a module for it, you write one and put it back on npm :p

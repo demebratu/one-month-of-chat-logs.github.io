@@ -1,0 +1,1 @@
+s5fs: I got it installed, but the location went from /usr/local/bin/node to /usr/bin/node and I forgot how to fix that, and nothing I googled returns anything

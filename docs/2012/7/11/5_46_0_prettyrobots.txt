@@ -1,0 +1,1 @@
+Benvie: Would it make sense, if it got working, to split out a project that is just the Windows Registry?

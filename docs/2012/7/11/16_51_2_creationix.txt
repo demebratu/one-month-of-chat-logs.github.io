@@ -1,0 +1,1 @@
+in lua a file is a function

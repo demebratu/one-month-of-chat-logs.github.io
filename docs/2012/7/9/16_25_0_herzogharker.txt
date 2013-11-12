@@ -1,0 +1,1 @@
+edsko: so try changing that copy of the script you made to do require('azure')

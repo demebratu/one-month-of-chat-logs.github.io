@@ -1,0 +1,1 @@
+Karmaon, I don't have much experience with PostgreSQL or the pg package so hopefully someone else can help you out.. I'm going to afk for like 2 minutes to grab some food then I'll take a look around

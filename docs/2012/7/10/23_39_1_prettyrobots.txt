@@ -1,0 +1,1 @@
+othiym23: From the look of it, there's nothing about the library that is Node.js specific.

@@ -1,0 +1,1 @@
+I have the same issue as "superbob" here: https://github.com/joyent/node/issues/3538#issuecomment-6703158

@@ -1,0 +1,1 @@
+small example where we should scope.close and where not ?

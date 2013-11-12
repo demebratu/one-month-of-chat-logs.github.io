@@ -1,0 +1,1 @@
+boutell: Not working... :( In any case, I do a few very specific things that makes the do-it-yourself approach a bit more attractive.. If I'd wanted to receive all data in a memory buffer, what would be recommendable? Just var data = ''; and on each req.on('data', reqdata) do data += reqdata; ? Or should I use buffers?

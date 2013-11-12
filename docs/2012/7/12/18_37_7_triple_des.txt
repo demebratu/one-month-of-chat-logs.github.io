@@ -1,0 +1,1 @@
+smartPudding, a global variable needs to be pre-defined yes?

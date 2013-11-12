@@ -1,0 +1,1 @@
+Nesting scopes can have a performance hit on your memory and cpu usage if that is going to be high traffic.

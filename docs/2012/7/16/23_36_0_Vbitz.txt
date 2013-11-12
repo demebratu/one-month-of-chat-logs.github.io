@@ -1,0 +1,1 @@
+why is node using utf8 encoding while i asked for ucs2 encoding

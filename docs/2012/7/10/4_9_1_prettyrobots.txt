@@ -1,0 +1,1 @@
+SubStack: As noted. I want to replace a one liner Bash program with Node.js so it will run on Windows.

@@ -1,0 +1,1 @@
+Yup, error gone! I was misled with the callback reference, when the issue had nothing to do with callbacks :)

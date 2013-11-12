@@ -1,0 +1,1 @@
+nope, i havent, i was planning on just uglifying it manually once i'm production-ready

@@ -1,0 +1,1 @@
+so node should delay release until jade is compatible, why did you upgrade without checking package compatibility

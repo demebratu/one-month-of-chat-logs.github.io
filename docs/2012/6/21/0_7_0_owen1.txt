@@ -1,0 +1,1 @@
+othiym23: i tried to insert payload[0].toString('utf-8') but it didn't help

@@ -1,0 +1,1 @@
+3. source a script into your current shell that creates a function to update environs for you

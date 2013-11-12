@@ -1,0 +1,1 @@
+have you tried reading the uglify-js-middleware file?

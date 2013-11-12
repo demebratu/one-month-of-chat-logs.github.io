@@ -1,0 +1,1 @@
+TimeTurner: i think i found the issue.  if the host you're connecting to is an ipv6 ip, then localAddr can be an ipv6 ip.  however if you specify a host with an A and AAAA record, i think it chooses the A record, so then the bind fails.

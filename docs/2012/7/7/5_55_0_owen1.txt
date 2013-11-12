@@ -1,0 +1,1 @@
+tim_smart: it's on thusday. but i feel good about it. i am going to do ignite.js (impress.js + ignite) - https://github.com/oren/impress.js + 30-40 minutes of code

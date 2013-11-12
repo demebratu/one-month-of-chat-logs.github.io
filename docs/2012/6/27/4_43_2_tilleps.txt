@@ -1,0 +1,1 @@
+does anyone know what format this is (express.sid string from headers - I don't know where the "s:" came from)?  s:aHhiE6+c5odJ+ws2GfzM3Ml4

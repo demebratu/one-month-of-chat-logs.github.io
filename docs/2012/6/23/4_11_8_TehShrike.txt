@@ -1,0 +1,1 @@
+I've got variables named jq, this_jquery, jquery_object, and other stupid things like that

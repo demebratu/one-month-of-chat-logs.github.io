@@ -1,0 +1,1 @@
+in a middleware User.get(id, function(err, user){

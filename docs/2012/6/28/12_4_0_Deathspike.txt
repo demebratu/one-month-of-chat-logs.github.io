@@ -1,0 +1,1 @@
+sriley: So I could do a route capturing all except api-services and add some stuff to context.. sounds simple, why didn't I think of that? Thanks for the input!

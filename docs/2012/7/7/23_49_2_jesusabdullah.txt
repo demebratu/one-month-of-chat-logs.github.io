@@ -1,0 +1,1 @@
+owen1: I think it's sufficient to say that node and libuv somehow schedule your actions in a smart way, based largely around waiting for events to occur on sockets, etc.

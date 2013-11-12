@@ -1,0 +1,1 @@
+utu, well you could store the username/status in sets

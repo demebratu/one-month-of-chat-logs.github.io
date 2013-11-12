@@ -1,0 +1,1 @@
+If someone wants to review a refactor I did to my redis work queue for node https://github.com/tim-smart/node-rqueue/tree/feature/redundancy#readme

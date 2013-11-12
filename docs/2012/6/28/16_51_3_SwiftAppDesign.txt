@@ -1,0 +1,1 @@
+javascript in the browser death, and sriley if it can be done with ajax, that would be great

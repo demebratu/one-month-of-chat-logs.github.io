@@ -1,0 +1,1 @@
+Can anyone recommend a Node.js-compatible template engine that offers template inheritance? Django's templating engine or my favorite, Jinja2 in Python, are a couple examples.

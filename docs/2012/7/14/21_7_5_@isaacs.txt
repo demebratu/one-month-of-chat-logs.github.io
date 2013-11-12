@@ -1,0 +1,1 @@
+or just keep a lot around, adn `make install` over one another

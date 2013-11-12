@@ -1,0 +1,1 @@
+xhr-polls with regular release-channel Chrome 20 on my home laptop

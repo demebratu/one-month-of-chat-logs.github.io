@@ -1,0 +1,1 @@
+Hotroot: You shouldn't have to .toString your buffer unless you wish you had a string

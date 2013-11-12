@@ -1,0 +1,1 @@
+i also hacked in a remote ls command, and tweaked it so you don't have to put the 'v' in front of versions

@@ -1,0 +1,1 @@
+VeXii: I'm picking up what you're laying down, but this seems like a good opportunity to start with the simplest possible case and then alter the architecture to meet whatever your future requirements might me

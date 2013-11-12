@@ -1,0 +1,1 @@
+DamnYankee ahh sorry didn't look at it. override the inspect method. also the way you're setting prototype is wrong

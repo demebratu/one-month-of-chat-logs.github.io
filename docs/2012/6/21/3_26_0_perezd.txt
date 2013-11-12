@@ -1,0 +1,1 @@
+is defineGetter generally a bad idea?

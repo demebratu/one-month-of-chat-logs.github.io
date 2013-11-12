@@ -1,0 +1,1 @@
+Then auth real users and kick back the file to nginx to serve to them. There's a header for it, I don't remember off hand what it is.

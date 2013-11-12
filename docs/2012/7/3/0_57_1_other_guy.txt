@@ -1,0 +1,1 @@
+mmalecki, abriged version:  CoffeeScript was born from a frustrated committee of Rubyists mercilessly dry humping Python until they produced a bastard Javascript test tube baby.

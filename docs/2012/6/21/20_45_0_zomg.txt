@@ -1,0 +1,1 @@
+ericm_: have you considered using some kind of a constructor method of your own? Eg. Controller.create('nameOfController', { foo: function() { ... }, bar: ... })? That way the name could easily be taken from the name string given as the parameter

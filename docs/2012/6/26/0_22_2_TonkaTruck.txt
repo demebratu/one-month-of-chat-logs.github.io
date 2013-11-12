@@ -1,0 +1,1 @@
+ljharb: I thought people were using return to end the function and call a callback at the same time.

@@ -1,0 +1,1 @@
+regality: winston logs the uncaught exceptions, but i need a way to return an http 500 on all uncaught exceptions

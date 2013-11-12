@@ -1,0 +1,1 @@
+tjholowaychuk: mmmm, fixed it with removing the entire node_modules directory, then npm install again

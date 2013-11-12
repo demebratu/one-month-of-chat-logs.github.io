@@ -1,0 +1,1 @@
+isaacs: but it should be runnable with bin/npm, right?

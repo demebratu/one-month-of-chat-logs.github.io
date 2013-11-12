@@ -1,0 +1,1 @@
+i remember ryan saying something about versions being lame because api changes are failures and i definitely agree with that, maybe in an ideal world we'd just do dependencies: ['express', 'foo', 'bar']

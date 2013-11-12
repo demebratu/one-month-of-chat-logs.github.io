@@ -1,0 +1,1 @@
+the JVM is amazing - it's just burdened with running a lot of crappy enterprisey code

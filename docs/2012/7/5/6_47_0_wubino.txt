@@ -1,0 +1,1 @@
+looks great, any ideas or reads on implementing simple authentication?

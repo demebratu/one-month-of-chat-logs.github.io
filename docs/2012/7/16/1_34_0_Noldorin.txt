@@ -1,0 +1,1 @@
+what dirs should i add to my path for node & npm?

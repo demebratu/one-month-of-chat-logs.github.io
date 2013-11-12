@@ -1,0 +1,1 @@
+prettyrobots: sticking J Random Node Library into the browser is a great idea when that functionality doesn't already exist in the browser ecosystem, but I guess I'd rather save browserify for ridiculous Macgyver nonsense like mashing up socket.io and mux-demux a la maxogden 

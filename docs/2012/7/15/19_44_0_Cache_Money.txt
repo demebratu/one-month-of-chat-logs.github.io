@@ -1,0 +1,1 @@
+zeus: you were right.  I just closed all Terminals and port 8000 was shut down

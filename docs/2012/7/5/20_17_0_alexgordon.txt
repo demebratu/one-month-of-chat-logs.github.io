@@ -1,0 +1,1 @@
+tjholowaychuk: it'll hide anything that's already installed. try clicking show all?

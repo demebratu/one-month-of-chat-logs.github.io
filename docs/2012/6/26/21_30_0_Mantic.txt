@@ -1,0 +1,1 @@
+styol: I personally don't know how v8/nodejs work in that sense. Don't js files get compiled/cached in memory anyway? in which case variables get boiled down into memory pointers

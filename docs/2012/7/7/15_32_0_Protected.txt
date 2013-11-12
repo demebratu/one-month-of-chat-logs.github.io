@@ -1,0 +1,1 @@
+Is there a way to iterate over every field of an array/object in node?

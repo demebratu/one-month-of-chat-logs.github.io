@@ -1,0 +1,1 @@
+circlicious: im sure the cost of parsing the code will be way way more than the cost of writing to a ramfs device

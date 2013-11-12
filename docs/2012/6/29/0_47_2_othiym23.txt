@@ -1,0 +1,1 @@
+son, I've written me a ton of XSLT and XPath, so I feel pretty confident in sayin' that documents are data

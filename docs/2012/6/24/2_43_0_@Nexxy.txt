@@ -1,0 +1,1 @@
+kuki, like with EJS if you use <%= partial('some_partial') %> any HTML in that partial will be escaped

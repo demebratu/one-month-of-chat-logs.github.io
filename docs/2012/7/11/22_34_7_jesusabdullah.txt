@@ -1,0 +1,1 @@
+pawn: You want to think of it more like events, not as much as an automatically updating state

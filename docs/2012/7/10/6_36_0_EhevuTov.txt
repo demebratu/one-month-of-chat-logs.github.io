@@ -1,0 +1,1 @@
+pretty much everyone uses package.json now

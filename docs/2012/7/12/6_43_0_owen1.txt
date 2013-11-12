@@ -1,0 +1,1 @@
+when i write setTimeout, is the function i pass is added the the queue that the event loop listen to?

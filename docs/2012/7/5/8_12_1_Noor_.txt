@@ -1,0 +1,1 @@
+express isn't useful in my case! let me make it in different way. I want to make a post request to sign in a user on a remote website x. the user session cookie should be saved so it can be used on later requests.

@@ -1,0 +1,1 @@
+bawigga: I think it's a Windows thing. Every version prior to 7 I've had to log off and on to get PATH changes to take

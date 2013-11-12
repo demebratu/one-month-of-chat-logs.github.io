@@ -1,0 +1,1 @@
+package.json would contain them as dependencies so running npm install in the project dir would download them automatically

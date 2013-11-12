@@ -1,0 +1,1 @@
+for(;;)alert('no hope')

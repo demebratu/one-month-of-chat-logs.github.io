@@ -1,0 +1,1 @@
+Yes forever does do a lot that monit does, and monit does a lot that forever does, but they don't do everything that each other do. :(

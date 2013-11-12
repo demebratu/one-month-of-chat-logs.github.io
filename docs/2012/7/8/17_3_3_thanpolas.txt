@@ -1,0 +1,1 @@
+(text explanation> https://github.com/thanpolas/ready.js#why-have-a-delay)

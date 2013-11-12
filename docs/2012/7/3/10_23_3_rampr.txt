@@ -1,0 +1,1 @@
+we use an upstart script and set the pid file in the upstart script

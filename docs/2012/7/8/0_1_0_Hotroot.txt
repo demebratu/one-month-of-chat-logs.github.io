@@ -1,0 +1,1 @@
+Well, I assume the basic way to do this is to manage the buffer like the stack in assembly

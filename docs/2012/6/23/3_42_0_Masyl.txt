@@ -1,0 +1,1 @@
+vrlogrs: yes.. at every call you do deeper in async, will require a callback up the chain.

@@ -1,0 +1,1 @@
+but it would be a pita to add A dns entry to 'satan' each time i want to get app runnning here

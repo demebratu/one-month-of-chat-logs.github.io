@@ -1,0 +1,1 @@
+circlicious, I think there's child.setEncoding - you should check the docs

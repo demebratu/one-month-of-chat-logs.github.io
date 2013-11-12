@@ -1,0 +1,1 @@
+can i override the node classes? like if i a module require("fs") or http can i make sure thay get my version insted? (i be requiring or forking the modules to start) i know it sounds stupid :p

@@ -1,0 +1,1 @@
+this means i can't create a daemon that intercept the kernel messages before it gets to syslog

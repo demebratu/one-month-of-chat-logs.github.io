@@ -1,0 +1,1 @@
+bnoordhuis: so my process i was telling you about that seemed to be eating up more and more memory just crashed. "Abort trap: 6"

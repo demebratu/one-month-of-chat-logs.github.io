@@ -1,0 +1,1 @@
+hello. how does node look for a library? I've installed the fibers module with npm but when running a script, I get an error saying Error: Unable to load shared library /vagrant/node_modules/fibers/bin/linux-ia32-v8-3.6/fibers.node. this is on CentOS 5.6

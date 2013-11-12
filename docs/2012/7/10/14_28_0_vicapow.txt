@@ -1,0 +1,1 @@
+so is there a better solution to debugging memory leaks then node-inspector?

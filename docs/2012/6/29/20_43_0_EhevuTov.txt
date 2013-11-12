@@ -1,0 +1,1 @@
+Qbix1, you're from the 0.4 world, so there's something in npm that allows you to maintain modules with a package.json file that npm reads

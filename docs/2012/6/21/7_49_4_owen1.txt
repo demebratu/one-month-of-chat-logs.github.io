@@ -1,0 +1,1 @@
+ljharb: ok. so when i look at js program. i can identify if it's functional OR prototypal or 'classicl'.

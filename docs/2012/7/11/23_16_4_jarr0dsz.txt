@@ -1,0 +1,1 @@
+if data is recieved by the client say john doe it then reloads the page with ajax, you see a very flaggy bad implementation

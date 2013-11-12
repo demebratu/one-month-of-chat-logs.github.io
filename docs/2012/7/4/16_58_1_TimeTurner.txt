@@ -1,0 +1,1 @@
+yeah callbacks are kind of a pain. but in JS that's how it's done

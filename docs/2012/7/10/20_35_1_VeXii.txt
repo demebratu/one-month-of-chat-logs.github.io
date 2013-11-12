@@ -1,0 +1,1 @@
+im tying to build node 0.8.1 but i get a error "File "./configure", line 183" when im running ./configure

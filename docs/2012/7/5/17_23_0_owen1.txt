@@ -1,0 +1,1 @@
+othiym23: creationix i saw the lua slides. so the main advantage is memory. but i assume that there are not enough modules since the lua community is smaller.

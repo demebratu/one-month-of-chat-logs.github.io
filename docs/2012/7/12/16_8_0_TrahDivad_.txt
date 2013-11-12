@@ -1,0 +1,1 @@
+Somebody using Mocha knows if there is way to make some code run before all tests? I want to use it to open a connection to the test database, instead of doing it in the before for each test suite.

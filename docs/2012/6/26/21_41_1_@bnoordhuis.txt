@@ -1,0 +1,1 @@
+Mantic: that happens because the configure script calls other python scripts

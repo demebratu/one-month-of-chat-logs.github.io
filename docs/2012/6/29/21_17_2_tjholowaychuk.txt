@@ -1,0 +1,1 @@
+sure we could take a ~30 line auth module and make it into an http server

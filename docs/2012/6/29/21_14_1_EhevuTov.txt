@@ -1,0 +1,1 @@
+Sounds like substack is saying, create modules/libs when your app gets big and abstract some of that bigness 

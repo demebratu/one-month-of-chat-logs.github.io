@@ -1,0 +1,1 @@
+but I agree with mikeal that diffs on dependencies are nice to have http://www.mikealrogers.com/posts/nodemodules-in-git.html

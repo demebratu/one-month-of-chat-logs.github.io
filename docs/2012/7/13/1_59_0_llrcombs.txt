@@ -1,0 +1,1 @@
+I won't be using it for this, but my module _does_ have a multiple-messages-in-one-packet feature (it was easier to add than it would be not to because of how the XML is structured). With multiple messages in one packet, the buffer _could_ hit 1KB (max I can see anyone possibly wanting to send at once)

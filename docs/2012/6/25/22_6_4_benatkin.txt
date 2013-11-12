@@ -1,0 +1,1 @@
+AAA_awright: yeah it used to say to run curl http://npmjs.org/install.sh

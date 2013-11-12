@@ -1,0 +1,1 @@
+skimmas: browserify support has not landed in a node-xmpp release yet

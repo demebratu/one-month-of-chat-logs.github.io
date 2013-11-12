@@ -1,0 +1,1 @@
+gellis11: I'd say pick between python/django stuff vs node depends on what you wanna use it to build

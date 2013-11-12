@@ -1,0 +1,1 @@
+try this: for(var i = 0; i < partnerKeys.length; i++) (function(i){ ... })(i);

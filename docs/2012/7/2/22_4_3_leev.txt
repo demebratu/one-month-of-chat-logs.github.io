@@ -1,0 +1,1 @@
+does anyone know if net.createConnection({localAddress: 'an:ipv6:address'}); should work?

@@ -1,0 +1,1 @@
+and redis ends up with 107766 bytes

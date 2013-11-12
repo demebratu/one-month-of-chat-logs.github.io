@@ -1,0 +1,1 @@
+Karmaon: perhaps you want Date.now()?

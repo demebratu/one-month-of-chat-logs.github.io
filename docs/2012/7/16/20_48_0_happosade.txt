@@ -1,0 +1,1 @@
+What is the best way me to start learning node.js, I can't write (yet :D ) js, but I have programmed with Java..?

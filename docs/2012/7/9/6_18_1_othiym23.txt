@@ -1,0 +1,1 @@
+one thing I do like about Mocha (a lot, to the point that it's basically the first thing I mention whenever I tell anyone outside Node-land about it) is that it doesn't have any assertions, expectations, or matchers in it

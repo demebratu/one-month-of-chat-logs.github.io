@@ -1,0 +1,1 @@
+chjj: https://github.com/eddyb/tty.js/commit/61bf0c342e33cafc2269638240ceacb8331ea9d9 the change is quite simple and removes the only (I think it was the only one) global event handler

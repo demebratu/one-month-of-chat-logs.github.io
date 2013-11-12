@@ -1,0 +1,1 @@
+in my app i use a session variable that specifies a return point for a given operation

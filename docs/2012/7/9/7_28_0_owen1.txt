@@ -1,0 +1,1 @@
+SubStack: after browserifying my js controller, i get: Error: Argument 'FoodCtrl' is not a function, got undefined. here is my js file before browserifying it - http://pastebin.com/E69wPsnH

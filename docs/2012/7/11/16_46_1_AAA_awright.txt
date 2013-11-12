@@ -1,0 +1,1 @@
+Because of how Functions are Objects and such

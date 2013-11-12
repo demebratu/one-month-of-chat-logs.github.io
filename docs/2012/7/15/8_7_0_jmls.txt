@@ -1,0 +1,1 @@
+right - i have a problem installing bson. when installing mongodb, it gets to the point of "npm http 304 https://registry.npmjs.org/bson/0.0.6"

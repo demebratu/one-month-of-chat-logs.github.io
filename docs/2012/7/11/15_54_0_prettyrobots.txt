@@ -1,0 +1,1 @@
+Curious to know if it works without the .js.

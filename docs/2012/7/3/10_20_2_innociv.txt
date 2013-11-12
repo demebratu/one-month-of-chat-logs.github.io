@@ -1,0 +1,1 @@
+Like you can do forever list and it has an array of the processes.  Than forever stop index stops that one.

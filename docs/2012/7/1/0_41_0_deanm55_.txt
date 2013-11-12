@@ -1,0 +1,1 @@
+anyone here knowledgeable about node-gyp wrt makefile generation?  I'm not sure how to generate a proper gyp file that puts -Wl,--whole-archive for both LD_INPUTS and LIBS

@@ -1,0 +1,1 @@
+If your program crashes while writiing, you're going to lose your data. 

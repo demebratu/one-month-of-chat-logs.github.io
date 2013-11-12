@@ -1,0 +1,1 @@
+mm.. mind if someone explains to me what browsers use to determine how to interpret text/coffeescript files?

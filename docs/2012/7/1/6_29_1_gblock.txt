@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/6182315/how-to-do-base64-encoding-in-node-js

@@ -1,0 +1,1 @@
+you're adjusting someBuffer to point at the next float in memory. Then storying a value where it points

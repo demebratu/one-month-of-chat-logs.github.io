@@ -1,0 +1,1 @@
+So the data arrives in chunks, and gets added to that socket's buffer

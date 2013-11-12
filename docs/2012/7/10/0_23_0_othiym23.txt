@@ -1,0 +1,1 @@
+Spion_: is there an ES6 proposal floating around for generators?

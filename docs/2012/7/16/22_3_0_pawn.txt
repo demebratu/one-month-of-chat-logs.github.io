@@ -1,0 +1,1 @@
+Which is more light-weight: redis or memcached?

@@ -1,0 +1,1 @@
+I wanted to try this because my biggest problem ever was doing something like shutting down a mongod process. I could close the streams, I could send a sigint I could sigkill, I could ctrl+c out of node and then the processes would still be running, until I totally closed the dos box holding them open

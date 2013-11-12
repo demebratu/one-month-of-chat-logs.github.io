@@ -1,0 +1,1 @@
+you'd set 'utf8' for the encoding - or you can just .toString() everything

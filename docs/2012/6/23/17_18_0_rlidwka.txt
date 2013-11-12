@@ -1,0 +1,1 @@
+I need a cache module that handles overlapping requests automatically... can you advise something?

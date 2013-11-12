@@ -1,0 +1,1 @@
+dherman: so basically instead of treating each export as static, you just treat *the* export as static

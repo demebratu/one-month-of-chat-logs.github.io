@@ -1,0 +1,1 @@
+hmm, I'm still missing something with this whole process.nextTick thing… can anyone take a look at this and guide me along the write path? Do I need to be messing with events and pipes? https://gist.github.com/504808998b2c118b2f7e

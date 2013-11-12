@@ -1,0 +1,1 @@
+wingy: I just hand-wrote my own, it's not terribly hard, and probably took less time than figuring out someone else's implementation

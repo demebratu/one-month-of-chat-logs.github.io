@@ -1,0 +1,1 @@
+version2beta https://github.com/visionmedia/consolidate.js

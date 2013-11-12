@@ -1,0 +1,1 @@
+klaemo: Question, how can I get the latest version from github? I remember doing that one time long time ago, but I don't recall how to specifiy that..

@@ -1,0 +1,1 @@
+isaacs: otoh, like, the api you really want is, answer(inputs) so you'd end up creating the object internally, doing some shit, returning the answers and never using that object again

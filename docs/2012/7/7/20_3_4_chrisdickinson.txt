@@ -1,0 +1,1 @@
+indexzero: looks like they're all node-level. i'm basically trying to figure out why they have to be explicitly bound to e.g., node-sqlite3, while it seems like everywhere else they work automatically.

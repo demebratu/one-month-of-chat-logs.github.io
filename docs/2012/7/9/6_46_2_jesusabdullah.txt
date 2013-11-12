@@ -1,0 +1,1 @@
+and just fuckin' write to stdout or something

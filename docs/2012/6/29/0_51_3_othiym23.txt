@@ -1,0 +1,1 @@
+I think JSON is a pretty shitty wire protocol if efficiency is a concern

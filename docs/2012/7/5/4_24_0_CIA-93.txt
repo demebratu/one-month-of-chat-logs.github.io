@@ -1,0 +1,1 @@
+node: Fedor Indutny master * rd923269 / deps/openssl/openssl.gyp : tls: make tls a little bit faster - http://git.io/qI8aPg

@@ -1,0 +1,1 @@
+the whole javascript vs java way of viewing at objects takes a bit of getting used to :)

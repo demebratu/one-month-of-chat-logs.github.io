@@ -1,0 +1,1 @@
+Deathspike: if you're looking for something like Rails, Node.js webapps tend to be leaner and less monolithic than that

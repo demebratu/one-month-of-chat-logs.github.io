@@ -1,0 +1,1 @@
+bnoordhuis: right! I'm getting "pure virtual method called" and i found a issue where you (btw) suggest that

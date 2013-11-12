@@ -1,0 +1,1 @@
+bnoordhuis: yeah, sorry - but I was wondering what your preferred method would be to get strings from streams? A string decoding pipe or something like that?

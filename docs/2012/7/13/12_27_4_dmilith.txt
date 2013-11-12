@@ -1,0 +1,1 @@
+level09: it spawns numOfCoresOnMachine() forks by default

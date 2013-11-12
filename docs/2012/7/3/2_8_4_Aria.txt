@@ -1,0 +1,1 @@
+But if you're using xterm-compatible, use an xterm TERM entry.

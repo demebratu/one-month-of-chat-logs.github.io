@@ -1,0 +1,1 @@
+qbit_: I'd guess isaacs or mikeal are the people to ask about that. Potentially try the nodejs mailing list though.

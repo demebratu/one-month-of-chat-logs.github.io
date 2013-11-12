@@ -1,0 +1,1 @@
+If you need a sidebar, say recent comments, you invoke the recent comments tag.

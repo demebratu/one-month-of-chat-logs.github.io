@@ -1,0 +1,1 @@
+it gets thrown from process.nextTick and just says "Object #<EventEmitter> has no method 'destroy'"

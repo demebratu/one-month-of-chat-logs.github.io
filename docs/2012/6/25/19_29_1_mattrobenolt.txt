@@ -1,0 +1,1 @@
+emilsedgh_: At the end of the day, streaming music is going to be more IO bound than CPU bound.

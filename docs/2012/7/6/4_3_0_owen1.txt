@@ -1,0 +1,1 @@
+"Compared to the Apache model, there are a lot less threads and thread overhead, since threads aren’t needed for each connection; just when you absolutely positively must have something else running in parallel and even then the management is handled by Node.js."

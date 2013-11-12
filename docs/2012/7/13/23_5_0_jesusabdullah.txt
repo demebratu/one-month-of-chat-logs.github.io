@@ -1,0 +1,1 @@
+pooya: are you suggesting that "var f" will attach to the global namespace? Or a "this" in general?

@@ -1,0 +1,1 @@
+no; it works when using a regular desktop to connect to it, from same network

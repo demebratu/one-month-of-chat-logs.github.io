@@ -1,0 +1,1 @@
+I add a new method called synchronize to Models that indexes all the models into elasticsearch

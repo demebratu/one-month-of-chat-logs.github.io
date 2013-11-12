@@ -1,0 +1,1 @@
+broadway is mostly for "plugable" modules not quite a DI container :)

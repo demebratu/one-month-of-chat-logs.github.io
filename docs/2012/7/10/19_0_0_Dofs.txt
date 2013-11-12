@@ -1,0 +1,1 @@
+should it be in my terminal (where I started the node process)?

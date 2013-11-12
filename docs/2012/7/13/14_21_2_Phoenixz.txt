@@ -1,0 +1,1 @@
+boutell: sweet :) But that will work for XHR uploads as well? (which this is)

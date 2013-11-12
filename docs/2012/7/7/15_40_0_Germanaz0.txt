@@ -1,0 +1,1 @@
+I'm trying to solve a problem with socket.io and nodejs, for example, I'm trying to upgrade a timeline, the problem is that I only want that only specific users ( ACL ) can show that post

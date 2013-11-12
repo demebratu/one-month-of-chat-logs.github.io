@@ -1,0 +1,1 @@
+My setup is arch linux + awesome + screen + vim for dev

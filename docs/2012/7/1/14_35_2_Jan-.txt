@@ -1,0 +1,1 @@
+I was just trying to get away from jscript (which is dog slow) and jslibs, which is a bit, eh, flaky.

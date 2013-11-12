@@ -1,0 +1,1 @@
+creationix: or that properly splitting your code into maintainable pieces (even if those files have 30-100 lines of code each) is wrong ?

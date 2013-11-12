@@ -1,0 +1,1 @@
+Cheery: you can try my thing here: javaws 'http://hwi.ath.cx/code/java/VisualJava/VisualJava.jnlp'

@@ -1,0 +1,1 @@
+unomi: Nothing against events, I'm against them being a part of the ecma spec

@@ -1,0 +1,1 @@
+s5fs: $700 is a lot. i thought nodeconf and jsconf are at the $100 range

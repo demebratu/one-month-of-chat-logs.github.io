@@ -1,0 +1,1 @@
+ninna, oh and check out the number of connections waiting in your queue. I'm getting this all from the same page of that doc: http://nodejs.org/docs/v0.8.1/api/http.html#http_agent_requests

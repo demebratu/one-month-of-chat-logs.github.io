@@ -1,0 +1,1 @@
+Is there a way to output something from the terminal with node?

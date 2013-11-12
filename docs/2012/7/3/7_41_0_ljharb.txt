@@ -1,0 +1,1 @@
+no, because it does not proscribe URLs. RPC does.

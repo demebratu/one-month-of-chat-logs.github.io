@@ -1,0 +1,1 @@
+http://wiki.ecmascript.org/doku.php?id=harmony:generators

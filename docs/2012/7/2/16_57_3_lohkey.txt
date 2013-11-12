@@ -1,0 +1,1 @@
+like how cc is typically a symlink to gcc

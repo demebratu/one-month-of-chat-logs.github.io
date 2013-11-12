@@ -1,0 +1,1 @@
+I guess the whole point is to have node.io run in a separate process , but how do we instantiate it in a Node app ?

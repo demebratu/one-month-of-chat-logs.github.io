@@ -1,0 +1,1 @@
+milani: - Dispose() is just for persistant object, right?

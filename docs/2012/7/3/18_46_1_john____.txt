@@ -1,0 +1,1 @@
+i see a lot of people still rely on long polling

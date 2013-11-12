@@ -1,0 +1,1 @@
+i've hacked up a horrible object-nesting thing that makes sure there's only one test on each level, but it makes for very ugly spec output

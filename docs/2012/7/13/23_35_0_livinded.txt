@@ -1,0 +1,1 @@
+I need to reqrite the ajax stuff to make it submit multipart for proper file uploading rather than just a string of base64 encoded data and I want to rip out the jQuery ajax function but it does work

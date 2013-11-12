@@ -1,0 +1,1 @@
+does the android browsers support the socket.io or not ?

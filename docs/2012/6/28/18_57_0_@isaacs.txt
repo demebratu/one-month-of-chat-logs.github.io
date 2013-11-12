@@ -1,0 +1,1 @@
+Deathspike, mattrobenolt, SUBSTACK: couchdb is also good if your data maps well to documents with an ID, optionally with some attachments.

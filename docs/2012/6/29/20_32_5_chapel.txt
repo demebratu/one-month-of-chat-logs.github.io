@@ -1,0 +1,1 @@
+jamescarr: yeah, I was saying to make it like that as a cli command

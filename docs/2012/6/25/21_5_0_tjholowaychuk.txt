@@ -1,0 +1,1 @@
+Raynos the browser doesn't have to interpret that as a png

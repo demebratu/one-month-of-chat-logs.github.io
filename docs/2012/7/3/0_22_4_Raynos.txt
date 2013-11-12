@@ -1,0 +1,1 @@
+and I can just add the local bin to my PATH

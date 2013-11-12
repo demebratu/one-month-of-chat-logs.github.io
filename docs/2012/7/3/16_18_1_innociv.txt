@@ -1,0 +1,1 @@
+The install didn't note requring libmysqlclient-dev, but I figured it out

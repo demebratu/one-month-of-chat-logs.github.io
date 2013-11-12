@@ -1,0 +1,1 @@
+Or like:  cat config.json | script -i -

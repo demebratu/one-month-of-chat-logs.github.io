@@ -1,0 +1,1 @@
+so basically it streams through them all using find() and indexes them, requiring a mapping to be created the first time

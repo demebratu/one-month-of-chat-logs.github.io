@@ -1,0 +1,1 @@
+augustl: in your experience is it better to install with or without sudo?

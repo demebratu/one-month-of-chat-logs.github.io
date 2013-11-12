@@ -1,0 +1,1 @@
+but I'm having trouble writing the binary data to redis

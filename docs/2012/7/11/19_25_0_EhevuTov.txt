@@ -1,0 +1,1 @@
+clarle, you might want to prefix that with a '>=' so that you will use express 3.0 from there on out if you really want 3.x

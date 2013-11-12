@@ -1,0 +1,1 @@
+can someone tell me, what is the default context of a nodejs script? 

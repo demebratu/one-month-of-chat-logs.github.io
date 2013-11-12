@@ -1,0 +1,1 @@
+so if I want to store it in a database that accepts binary or buffer what should I do with it ?

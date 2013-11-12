@@ -1,0 +1,1 @@
+so thats what i have implmeented now but if a user reloads at the moment the data is sends its broken, so what in hell do i need to have a solid implementation? im so confused

@@ -1,0 +1,1 @@
+SUBSTACK: is ther a way to make a module dependency optional in browserify?

@@ -1,0 +1,1 @@
+the advantage of that approach being that you can run the new process as user nobody and lowering security risks.

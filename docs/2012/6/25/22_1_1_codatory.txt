@@ -1,0 +1,1 @@
+Can someone help me strip the content-length heading with node-http-proxy?

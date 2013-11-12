@@ -1,0 +1,1 @@
+innociv: You can only see syscalls with strace

@@ -1,0 +1,1 @@
+Raynos: it should be in the cwd, and be something like node.core (or just plain core)

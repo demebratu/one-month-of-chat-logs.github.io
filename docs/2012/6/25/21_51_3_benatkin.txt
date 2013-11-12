@@ -1,0 +1,1 @@
+I think when isaacs and mxcl agreed that it not install homebrew, the one-liner was still at npmjs.org https://github.com/mxcl/homebrew/pull/8784#issuecomment-2903116

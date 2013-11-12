@@ -1,0 +1,1 @@
+also reading this, I'm confused at what mraleph was saying since attempting to use a primitive as a key in a weakmap will throw a type error and is disallowed by the spec. Maybe he means doing it from the API, not js

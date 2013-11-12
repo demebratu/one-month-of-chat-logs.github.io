@@ -1,0 +1,1 @@
+And lua is a super-clean language without the threat of the ecma specs taking a dump on the language.

@@ -1,0 +1,1 @@
+oh gosh, we can not talk about javascript and ie < 9 in the same context :

@@ -1,0 +1,1 @@
+STRML, i need  more information on permissions of dirs where node is to be deployed?

@@ -1,0 +1,1 @@
+I understand that node is async by design, but I really need to have a function that can be called that pulls a value out of a file and returns it for use in my node.js app, but this async is throwing me for a loop, can anyone help?

@@ -1,0 +1,1 @@
+Absolutely not. We don't need to be bundling two packages together because it sounds cool. I don't use npm. Period. I don't need it coming with my package if I "emerge nodejs"

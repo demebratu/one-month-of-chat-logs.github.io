@@ -1,0 +1,1 @@
+node: isaacs master * r5ec0566 / (src/node.js test/simple/test-stdin-pipe-resume.js): Fix #3503: stdin: resume() on pipe(dest) - http://git.io/fqlmAQ

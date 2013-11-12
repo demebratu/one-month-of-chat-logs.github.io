@@ -1,0 +1,1 @@
+Hey guys - I'm wanting to use a service but without using a package like soap. Is there a way to set the header of http.get to a soap action?

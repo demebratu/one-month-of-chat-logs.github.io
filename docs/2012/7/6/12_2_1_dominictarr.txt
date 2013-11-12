@@ -1,0 +1,1 @@
+why do you readFile before you start parsing the reviews?

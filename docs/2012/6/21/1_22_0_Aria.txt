@@ -1,0 +1,1 @@
+Nope. Javascript doesn't embed docs.

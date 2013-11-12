@@ -1,0 +1,1 @@
+I've got a 'class' that inherits from EventEmitter.  I would like to specify a listener for all current instances of that class and all future instances of that class.  Is there any pattern for doing this?

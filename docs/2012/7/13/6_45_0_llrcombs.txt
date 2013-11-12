@@ -1,0 +1,1 @@
+my recommendation: on the first data event, check the headers and see what the content-encoding (compression) is, create an object to deal with it (unzip, gunzip, or deflate), then send it in

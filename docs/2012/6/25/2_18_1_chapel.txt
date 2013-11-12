@@ -1,0 +1,1 @@
+have you tried just hooking into req.on('data')  ?

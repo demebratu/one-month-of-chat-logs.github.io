@@ -1,0 +1,1 @@
+creationix: dnode-protocol has wrap/unwrap options that let you define custom logic to store and retreive values that are different from the actual objects used by the client

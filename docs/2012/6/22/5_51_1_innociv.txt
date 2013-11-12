@@ -1,0 +1,1 @@
+I occasionally, very rarely, have node.js going out of control and using up all my cpu.

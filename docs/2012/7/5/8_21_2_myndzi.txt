@@ -1,0 +1,1 @@
+owen1: by your example, all you set is a cookie where the client says "i'm logged in!" and you trust them

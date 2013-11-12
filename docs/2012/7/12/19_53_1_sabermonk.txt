@@ -1,0 +1,1 @@
+RLa, i have smthing like this - function(pid,cb) { pid.kill("SIGKILL"); cb(null,true) }

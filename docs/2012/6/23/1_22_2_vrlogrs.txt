@@ -1,0 +1,1 @@
+i tried referencing it ... var engine = require("blah.js"); engine.avar <- didnt work

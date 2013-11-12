@@ -1,0 +1,1 @@
+xy77 : mongo has db names and collections

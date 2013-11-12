@@ -1,0 +1,1 @@
+drudge: Right now I am listening on SIGINT in the parent process, and killing one child

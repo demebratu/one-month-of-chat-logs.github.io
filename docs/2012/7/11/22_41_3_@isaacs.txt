@@ -1,0 +1,1 @@
+piscisaureus_: but Linux and Smart don't have O_SYMLINK

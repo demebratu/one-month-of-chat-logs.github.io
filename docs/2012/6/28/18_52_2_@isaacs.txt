@@ -1,0 +1,1 @@
+i haven't used mongo enough to have an opinion.  but i like how couchdb is totally optimized for correctness and reliability, whereas redis is totally optimized for speed (at the expense of reliability)

@@ -1,0 +1,1 @@
+mmalecki: thanks for your reply, I'm checking out broadway, not quite a DI module but kind of... I'll still continue looking for something complete though :)

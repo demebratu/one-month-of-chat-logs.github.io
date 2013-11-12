@@ -1,0 +1,1 @@
+dekroning: have you tried running it? there's a http_simple benchmark in the tarball that should give you a rough indication of performance

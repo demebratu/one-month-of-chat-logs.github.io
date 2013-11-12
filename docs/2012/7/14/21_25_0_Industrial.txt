@@ -1,0 +1,1 @@
+Anoyne got partials/layouts working with Hogan.js with Consolidate.js with Express 3 ?

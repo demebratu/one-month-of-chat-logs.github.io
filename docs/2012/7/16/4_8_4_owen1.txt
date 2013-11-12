@@ -1,0 +1,1 @@
+taterbase: i think it means u ran out of available file descriptors, but i am not sure

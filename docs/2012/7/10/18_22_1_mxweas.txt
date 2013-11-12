@@ -1,0 +1,1 @@
+ie, I don't want to load the whole file into memory, but it would be nice to be passed chunks that I can parse before sending off to the client

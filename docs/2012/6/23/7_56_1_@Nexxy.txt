@@ -1,0 +1,1 @@
+lpin, then redirect anything that falls outside of the whitelist to a 500 page or something of the like

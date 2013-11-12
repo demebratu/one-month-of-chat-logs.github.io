@@ -1,0 +1,1 @@
+It indeed will not request the resource again, it supports 304 for html files and included files are just served from cache again. I could attach a query to each static file serve with a stamp or hash but that's messy and cpu intensive, is there a more elegant solution?

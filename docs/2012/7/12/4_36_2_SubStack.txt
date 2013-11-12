@@ -1,0 +1,1 @@
+Nuck: it's a wrapper on top of sockjs that provides a stream api

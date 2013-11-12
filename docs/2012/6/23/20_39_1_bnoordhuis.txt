@@ -1,0 +1,1 @@
+simonadameit: the buffer gets implicitly converted to a string

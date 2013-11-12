@@ -1,0 +1,1 @@
+(if it passes the test suite (cd node_modules/node-sqlite3; npm test .), you might issue a pull request to that repo with a bump in the package.json "engine" field to 0.9.0)

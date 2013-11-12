@@ -1,0 +1,1 @@
+gyp info using node-gyp@0.5.2

@@ -1,0 +1,1 @@
+daveluke: Yes. There are a number of socket.io apps running on our platform.

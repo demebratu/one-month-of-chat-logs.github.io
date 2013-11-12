@@ -1,0 +1,1 @@
+it's just reading itself from disk and printing that

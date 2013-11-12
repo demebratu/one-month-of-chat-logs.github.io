@@ -1,0 +1,1 @@
+jviereck: ah, like that. alas, no. the other way around (buffer to typed array) works though

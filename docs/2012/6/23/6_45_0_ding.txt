@@ -1,0 +1,1 @@
+Anyone use cluster? Trying to remove a handler for 'death' that respawns new workers. I've tried redefining cluster.on('death', function(worker) {}), but it doesn't overwrite the previous handler.

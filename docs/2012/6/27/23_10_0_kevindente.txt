@@ -1,0 +1,1 @@
+Are there known issues with require-ing with relative paths (eg "../../path/module")? It's working for me on OS X, but doesn't work when deployed to heroku

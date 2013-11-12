@@ -1,0 +1,1 @@
+Though, after roughly two hours it stopped recording data to database

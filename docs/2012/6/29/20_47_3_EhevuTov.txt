@@ -1,0 +1,1 @@
+Qbix1, check out: http://nodejs.org/docs/latest/api/modules.html#modules_loading_from_the_global_folders

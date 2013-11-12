@@ -1,0 +1,1 @@
+can i with node somehow check if a  data message is delivered?

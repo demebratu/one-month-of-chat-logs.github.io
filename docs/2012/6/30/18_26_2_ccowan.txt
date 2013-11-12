@@ -1,0 +1,1 @@
+now if you want to make that loop not block and for the request to just serve while that loop runs after the request is server the you need to create a function that will cal lthe process.nextTick() method

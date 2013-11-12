@@ -1,0 +1,1 @@
+you need to make that function yourself because js doesn't allow using comparison operators in that manner

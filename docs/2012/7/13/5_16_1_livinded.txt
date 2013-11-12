@@ -1,0 +1,1 @@
+it's gonna be a small deployment, I just need something that can handle being attacked by 200+ hackers for 50 or so hours

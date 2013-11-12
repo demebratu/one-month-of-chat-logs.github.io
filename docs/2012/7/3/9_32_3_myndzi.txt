@@ -1,0 +1,1 @@
+turns out the thing i want to hook is a function defined inside a method of stream

@@ -1,0 +1,1 @@
+isaacs: sorry for bugging you -- but do you know of any docs relating to what one has to do in C++ to add domain support for a compiled module?

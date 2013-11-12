@@ -1,0 +1,1 @@
+whoa, https://code.google.com/p/phantomjs/wiki/XvfbSetup too

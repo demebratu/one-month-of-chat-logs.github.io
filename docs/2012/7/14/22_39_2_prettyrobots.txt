@@ -1,0 +1,1 @@
+Yeah, the idea is that the operating system is the "test runner".

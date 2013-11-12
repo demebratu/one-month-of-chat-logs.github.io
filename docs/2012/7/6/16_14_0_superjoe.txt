@@ -1,0 +1,1 @@
+hey, is there a builtin to escape a string so that I can put it into a javascript string?

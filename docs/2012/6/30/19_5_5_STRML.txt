@@ -1,0 +1,1 @@
+Yep. I run two load-balanced servers using cluster.

@@ -1,0 +1,1 @@
+othiym23, thanks a million for pointing out zombie.js, the code is quite educational. http://zombie.labnotes.org/source/jsdom_patches.html is a big headstart at modifying jsdom for my needs

@@ -1,0 +1,1 @@
+How can I get familiar with the source code to node.js? I'm not exactly familiar with C, but I've glanced over the language once. But I would like to get down in the gritty details of node.js

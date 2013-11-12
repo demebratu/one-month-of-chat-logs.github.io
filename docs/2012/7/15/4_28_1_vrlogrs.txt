@@ -1,0 +1,1 @@
+but if i have a if/else statement on that global variable, the if/else statement will fail if in the mean time another client has the variable modified

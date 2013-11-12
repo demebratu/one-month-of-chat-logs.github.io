@@ -1,0 +1,1 @@
+if 500,000 devs find rails useful, then hell they find rails useful

@@ -1,0 +1,1 @@
+you can think of node's modules as being similar to singletons in C#

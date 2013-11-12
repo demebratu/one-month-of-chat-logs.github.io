@@ -1,0 +1,1 @@
+How slower would an irc daemon in node.js be compared to one in C or C++?

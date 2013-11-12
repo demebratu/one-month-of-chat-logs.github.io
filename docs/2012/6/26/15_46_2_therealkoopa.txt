@@ -1,0 +1,1 @@
+jocafa: I use it on the client-side, haven't included underscore in my node stuff yet, but I don't think it fits right.  Maybe I'm not looking at it correctly, though.

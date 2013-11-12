@@ -1,0 +1,1 @@
+i've installed a module with npm into /usr/lib64/node_modules, any reason why "require"ing it won't load the module, saying the module wasn't found?

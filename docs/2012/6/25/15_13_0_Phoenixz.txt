@@ -1,0 +1,1 @@
+Anyway, as I understand it then, the new DNode V1 does not work with socket.io, or how?

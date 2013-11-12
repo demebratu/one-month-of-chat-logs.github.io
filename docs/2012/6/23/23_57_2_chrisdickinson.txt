@@ -1,0 +1,1 @@
+so autocomplete works like so: `$('input').pipe(template_stream('/path/to/ac/?q={param}', 'param').pipe(request.get(undefined)).pipe(output_template).pipe($('#output'))`

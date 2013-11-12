@@ -1,0 +1,1 @@
+Is it bad to call a particular require more than once, or do you get the same obj back?

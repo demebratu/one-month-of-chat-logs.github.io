@@ -1,0 +1,1 @@
+cce: Hmm… Well, from what I saw, you had the behavior pretty well specified. There's got to be an easy way to test conformance.

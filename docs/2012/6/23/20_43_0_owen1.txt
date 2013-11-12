@@ -1,0 +1,1 @@
+I try to POST to this url - https://browserid.org/verify. using row node i get: getaddrinfo ENOENT and using the request package i get: Content-Type expected to be one of: application/x-www-form-urlencoded, application/json. any clues? http://pastebin.com/iKC0WcXi

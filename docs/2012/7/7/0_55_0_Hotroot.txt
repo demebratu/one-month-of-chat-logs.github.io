@@ -1,0 +1,1 @@
+After each line of chat sent to the user, you would end(), because that piece of data is over, yes?

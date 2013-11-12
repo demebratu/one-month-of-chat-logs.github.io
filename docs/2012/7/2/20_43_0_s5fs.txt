@@ -1,0 +1,1 @@
+Zamarok: if it's working with both releases, i'd confirm that you have gcc/g++/etc all installed and working. the msg you posted wasn't super descriptive, at least not for me.

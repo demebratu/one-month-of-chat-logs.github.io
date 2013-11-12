@@ -1,0 +1,1 @@
+shell good for looping over directories

@@ -1,0 +1,1 @@
+if your process dies, you're in for more trouble than just your cron

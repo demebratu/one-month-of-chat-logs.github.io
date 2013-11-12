@@ -1,0 +1,1 @@
+node's own require reads package.json even without using npm

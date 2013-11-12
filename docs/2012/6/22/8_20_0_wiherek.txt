@@ -1,0 +1,1 @@
+hi, what's the usual way to perform functions sequentially? step?

@@ -1,0 +1,1 @@
+Hi, I've been trying to use WebSockets with node, but the standard package doesn't support older protocol which safari uses. Is there a way to support two protocols ?

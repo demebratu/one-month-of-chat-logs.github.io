@@ -1,0 +1,1 @@
+regality: ok, i keep seeing that as the canonical example, is there any good documentation on how that works and how to make it work?

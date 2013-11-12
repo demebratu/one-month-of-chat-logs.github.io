@@ -1,0 +1,1 @@
+but "Go write 100,000 lines of javascript module code and you'll get it" is not really a sound argument

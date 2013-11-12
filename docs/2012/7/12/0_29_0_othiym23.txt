@@ -1,0 +1,1 @@
+breck: I know it's not the most immediately useful advice, but if you have upstart available to you, it uses way less overhead than forever (depending on how you're using forever)

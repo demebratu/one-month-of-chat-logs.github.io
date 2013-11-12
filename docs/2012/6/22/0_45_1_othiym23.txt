@@ -1,0 +1,1 @@
+EvilPacket: https://github.com/LockerProject/Locker/blob/master/Common/node/lcrypto.js shows how one project I've worked on does it

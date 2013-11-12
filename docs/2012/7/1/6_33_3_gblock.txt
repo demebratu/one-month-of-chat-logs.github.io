@@ -1,0 +1,1 @@
+williamcotton: I mean just don't use the redis client and call redis directly

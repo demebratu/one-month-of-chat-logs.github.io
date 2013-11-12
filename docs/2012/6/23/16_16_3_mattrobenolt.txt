@@ -1,0 +1,1 @@
+You would need to write code to create a new process/thread, which Node gives you the ability to fork off a process with cluster.

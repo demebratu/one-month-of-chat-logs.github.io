@@ -1,0 +1,1 @@
+Bennit: it'll be somewhere helpful, like under the system node_modules/node-inspector/bin/node-inspector.cmd or whatever

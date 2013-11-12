@@ -1,0 +1,1 @@
+Nuck when you send the message you already know the length since it's message oriented

@@ -1,0 +1,1 @@
+Nuck, does ns socket create streams ? it's basically an event emitter over tcp right?

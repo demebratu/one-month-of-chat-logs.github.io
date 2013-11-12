@@ -1,0 +1,1 @@
+hello, im trying to traverse a directory recursively, but i have some dirs with norwegian letters in them, and i get ENOENT when trying to stat these... do i need to do some decoding between fs.readdir() and fs.stat() ?

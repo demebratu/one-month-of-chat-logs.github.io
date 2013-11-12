@@ -1,0 +1,1 @@
+nowjs does. let's say now.foo exists. i can say "now.foo = function () { everyone.now.foo = function () { alert('pwned'); }; everyone.now.foo(); };" and then wait.

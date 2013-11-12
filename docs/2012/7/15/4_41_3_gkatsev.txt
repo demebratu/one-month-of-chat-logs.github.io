@@ -1,0 +1,1 @@
+vrlogrs: it's a Set library, so, you could have a set object and you can do set operations with it

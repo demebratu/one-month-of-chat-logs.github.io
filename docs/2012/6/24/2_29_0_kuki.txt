@@ -1,0 +1,1 @@
+I'm getting this error message: failed to locate view "views/room_list_view"

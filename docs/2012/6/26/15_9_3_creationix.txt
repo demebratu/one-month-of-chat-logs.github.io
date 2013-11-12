@@ -1,0 +1,1 @@
+I added my upstart scripts for my 3 node sites on another linode

@@ -1,0 +1,1 @@
+jamescarr: well you could do it on initialize

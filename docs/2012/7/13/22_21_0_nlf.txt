@@ -1,0 +1,1 @@
+hmm.. anyone know of a way i can get access to the response headers *before* piping to a destination with request? (ping mikeal)

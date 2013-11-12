@@ -1,0 +1,1 @@
+radiodario: ryan had changed how the console object was configured inside src/node.js in pursuit of better startup performance

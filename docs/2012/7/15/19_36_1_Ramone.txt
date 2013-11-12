@@ -1,0 +1,1 @@
+hey all... anyone know how to solve "Error: npm doesn't work with node v0.8.2"  ?

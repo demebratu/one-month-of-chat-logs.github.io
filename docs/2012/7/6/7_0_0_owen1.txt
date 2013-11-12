@@ -1,0 +1,1 @@
+wiherek: why do u need connect? why not using http.createServer?

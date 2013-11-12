@@ -1,0 +1,1 @@
+insin: wait why, new RegExp('\\b[a-zA-Z0-9]+\\b').test('Wo><rd') is true?

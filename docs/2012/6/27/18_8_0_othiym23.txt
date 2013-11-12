@@ -1,0 +1,1 @@
+hmmmm.... are you running node directly from the cwd? or is this being used with a wrapper script?

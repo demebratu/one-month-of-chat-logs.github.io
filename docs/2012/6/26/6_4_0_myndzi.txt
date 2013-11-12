@@ -1,0 +1,1 @@
+but it no longer refers to the correct thing inside an async callback later in that block of code

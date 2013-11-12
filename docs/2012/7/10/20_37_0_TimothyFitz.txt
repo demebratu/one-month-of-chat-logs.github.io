@@ -1,0 +1,1 @@
+mxweas: yeah, what I really want is atexit, to clean up this pidfile :(

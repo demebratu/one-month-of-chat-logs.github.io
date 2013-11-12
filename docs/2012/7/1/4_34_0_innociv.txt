@@ -1,0 +1,1 @@
+Okay so.. I'm trying to debug/profile my node.js application that runs through forever to see why it seemingly randomly uses 100% cpu. It'll be fine for a long time, days or weeks, just using a normal small amount.  Then it will suddenly jump to using all available CPU.  I need something I can run when that happens, not constantly from the start..

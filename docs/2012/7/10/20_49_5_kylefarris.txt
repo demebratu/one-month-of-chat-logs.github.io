@@ -1,0 +1,1 @@
+whitman, yeah, I definitely get that--it's the reason I'm using it in the first place. I suppose I could see it in some mysql logs or something

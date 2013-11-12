@@ -1,0 +1,1 @@
+fire2k, wrap lines 8 to 16 in a self executing function and you should be fine

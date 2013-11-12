@@ -1,0 +1,1 @@
+othiym23: so go learn about svg first and then d3 will make more sense

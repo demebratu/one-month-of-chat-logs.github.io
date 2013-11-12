@@ -1,0 +1,1 @@
+ok reading that file with fs.readFile is working , but fstat isnt i just get: fs.js:504

@@ -1,0 +1,1 @@
+qbit_: npm config set registry http://localhost:5984/registry/_design/app/_rewrite/

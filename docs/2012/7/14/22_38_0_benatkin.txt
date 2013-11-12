@@ -1,0 +1,1 @@
+prettyrobots: I like to keep the total # processes to a minimum, even when testing, so I'm not sure about using spawn for each test

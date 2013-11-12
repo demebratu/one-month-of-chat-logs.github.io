@@ -1,0 +1,1 @@
+Can anyone tell me how to install node-sqlite with npm? It keeps giving me this error regarding node-waf?

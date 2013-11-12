@@ -1,0 +1,1 @@
+smartPudding: I just want to make a GET request to a web page on another server. Not sure about your first question

@@ -1,0 +1,1 @@
+AAA_awright: so if my servers only have 2 cores, i am limited to 2 node instances. i don't know why but it feels like a waste. maybe i just don't understand how things work

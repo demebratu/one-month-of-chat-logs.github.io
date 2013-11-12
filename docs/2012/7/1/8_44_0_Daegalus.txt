@@ -1,0 +1,1 @@
+ljharb: Common Language Runtime. its the .Net VM. Its possible to compile C/C++ into CLR bytecode that can run on anything that CLR can run on, which can help with running V8 on WP7 and PS Vita

@@ -1,0 +1,1 @@
+prettyrobots: windows 7, no extra bells and whistles. fresh OS install

@@ -1,0 +1,1 @@
+jesusabdullah: or you can just tell it what log level you want when you set up the io object

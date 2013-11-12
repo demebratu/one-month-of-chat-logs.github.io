@@ -1,0 +1,1 @@
+and the possibility of a typed dialect of JS

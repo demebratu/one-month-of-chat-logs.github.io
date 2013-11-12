@@ -1,0 +1,1 @@
+Why would it be that when I use socket.handshake.session.foo = 23; it would persist on other HTTP requests?

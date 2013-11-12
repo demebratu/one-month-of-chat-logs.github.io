@@ -1,0 +1,1 @@
+yeah I'm in that mode right now too, just thinking about how to structure this headless browser launcher instrumentation code coveragerator

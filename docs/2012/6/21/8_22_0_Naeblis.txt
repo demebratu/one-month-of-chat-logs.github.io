@@ -1,0 +1,1 @@
+if I have the JSON in another route, like example.com/me, how can I fetch that json from there?

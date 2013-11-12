@@ -1,0 +1,1 @@
+seriously, has anyone ever heard someone say, "man I like node but having to preface all these file system calls with 'fs.' is really hard!!"

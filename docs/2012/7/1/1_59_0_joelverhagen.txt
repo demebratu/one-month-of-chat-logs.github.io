@@ -1,0 +1,1 @@
+I have the data event with single keystrokes, but the keypress event had more meta data about the key pressed, which was extremely useful.

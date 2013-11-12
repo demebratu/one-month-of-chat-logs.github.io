@@ -1,0 +1,1 @@
+is it possible to block/pause/whatever a socket used by an Agent ?

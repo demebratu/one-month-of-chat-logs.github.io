@@ -1,0 +1,1 @@
+I am following this tutorial (http://dailyjs.com/2010/11/08/node-tutorial-2/), my app.js is here (http://pastebin.com/b2We4M0d) and models.js here (http://pastebin.com/8ucdWVjz). I received this error (http://pastebin.com/aXG3LPh7) when I run 'node app.js'. What's wrong?

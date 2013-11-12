@@ -1,0 +1,1 @@
+even when I connect to misbehaving node via repl and do dns.resolve it works

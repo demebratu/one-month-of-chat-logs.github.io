@@ -1,0 +1,1 @@
+zenista: sqlite might not be the best db for your problem, as it has to be compiled

@@ -1,0 +1,1 @@
+SubStack: like, a strictly more complicated overall system, in terms of conceptual overhead, user model, etc

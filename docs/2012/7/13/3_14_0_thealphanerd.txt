@@ -1,0 +1,1 @@
+xeodox: did you install with apt-get?

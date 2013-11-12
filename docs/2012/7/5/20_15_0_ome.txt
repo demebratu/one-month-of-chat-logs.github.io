@@ -1,0 +1,1 @@
+not strictly node, but how do I change the IP, Port for the C9 ? it seems to bind to the localhost and I can't access it from outside even with firewall switchedd off.

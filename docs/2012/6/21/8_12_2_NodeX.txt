@@ -1,0 +1,1 @@
+most people get round it with object notation to protect inside the namespace

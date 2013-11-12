@@ -1,0 +1,1 @@
+yields: or perhaps you're thinking more along the line of promises?

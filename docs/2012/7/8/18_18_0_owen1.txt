@@ -1,0 +1,1 @@
+or is it using a thread pool like a file sysem i/o?

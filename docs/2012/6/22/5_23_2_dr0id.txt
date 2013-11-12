@@ -1,0 +1,1 @@
+I'll try to make installation as simple as possible, but I am not an expert on those, so not sure. maybe something like $ git clone && ./install_pp && npm install -d

@@ -1,0 +1,1 @@
+Trindaz, try installing it with -g

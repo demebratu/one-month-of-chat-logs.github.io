@@ -1,0 +1,1 @@
+but ya, this project is gonna suck to knock out in time. I'm just gonna give up on building a web ui to handle administration and build a simple cli tool

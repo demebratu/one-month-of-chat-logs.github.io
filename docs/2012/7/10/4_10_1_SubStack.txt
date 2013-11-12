@@ -1,0 +1,1 @@
+function tee () { var s = es.through(); s.pipe(process.stdout, { end : false }); return s }

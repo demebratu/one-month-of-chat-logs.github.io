@@ -1,0 +1,1 @@
+I'm a little confused on character encoding with JavaScript. I know UTF-8 has kind of become the standard, but thought I read that JavaScript uses UTF-16. I want to try NodeJS out, which is why I ask here. Does anyone have any insight into this? Or should I just save my files as UTF-8 (without BOM?) and not worry about it?

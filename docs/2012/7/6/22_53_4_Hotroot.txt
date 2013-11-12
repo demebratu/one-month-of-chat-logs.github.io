@@ -1,0 +1,1 @@
+The API makes socket.bufferSize seems to be a size indicator

@@ -1,0 +1,1 @@
+use all the tools at your disposal to keep the state seperate except those pieces that must necessarily interact

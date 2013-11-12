@@ -1,0 +1,1 @@
+tjholowaychuk: I'm using the BDD ui. But what if my tests are in separate files?

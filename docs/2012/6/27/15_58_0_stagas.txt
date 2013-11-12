@@ -1,0 +1,1 @@
+tjholowaychuk: ah not only the id, the resource name also

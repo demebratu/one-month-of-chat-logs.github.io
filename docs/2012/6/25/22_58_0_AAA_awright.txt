@@ -1,0 +1,1 @@
+Javascript and languages in general don't handle negative time really well... ever

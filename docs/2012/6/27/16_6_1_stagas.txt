@@ -1,0 +1,1 @@
+tjholowaychuk: so my idea is to reduce express-resource to just method/verb handling

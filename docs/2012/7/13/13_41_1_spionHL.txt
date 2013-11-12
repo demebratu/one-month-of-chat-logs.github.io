@@ -1,0 +1,1 @@
+does http.client automatically limit the number of requests per host (or host+port) ?

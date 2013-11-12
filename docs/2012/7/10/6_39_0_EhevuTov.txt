@@ -1,0 +1,1 @@
+I think Mikeal was correct when that article was written. That was also about the time committing node_modules was becoming a problem and probably why package.json came about around that time

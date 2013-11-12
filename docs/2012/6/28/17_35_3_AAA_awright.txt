@@ -1,0 +1,1 @@
+Right, which is getting subtracted from a string

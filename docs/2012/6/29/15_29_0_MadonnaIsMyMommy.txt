@@ -1,0 +1,1 @@
+Right. So the Node.js service just knows to deal with paths starting with '/somesite' then?

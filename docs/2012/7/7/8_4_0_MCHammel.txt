@@ -1,0 +1,1 @@
+naja, was passiert denn, wenn node die daten nicht mehr los wird?

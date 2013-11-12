@@ -1,0 +1,1 @@
+T0bsn: it's much harder to iterate over the set of all possible brainfuck programs

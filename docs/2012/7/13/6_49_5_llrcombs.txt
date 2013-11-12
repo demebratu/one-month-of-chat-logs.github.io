@@ -1,0 +1,1 @@
+jesusabdullah: here's the problem he was having: he was using Base64, which does NOT do well with concatenation

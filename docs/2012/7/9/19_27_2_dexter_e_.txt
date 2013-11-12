@@ -1,0 +1,1 @@
+I want to wrap NODE.IO in a long running process

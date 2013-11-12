@@ -1,0 +1,1 @@
+I said I would write it myself if it didn't already exist, right? :) https://github.com/augustl/nodejs-sandboxed-fs

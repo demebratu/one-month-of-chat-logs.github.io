@@ -1,0 +1,1 @@
+othiym23: whereas the function initializer does include one when it sets the prototype property of the function (object)

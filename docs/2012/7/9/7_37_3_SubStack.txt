@@ -1,0 +1,1 @@
+brianloveswords: fixed the travis issue by using an older tap version until they upgrade their npm version

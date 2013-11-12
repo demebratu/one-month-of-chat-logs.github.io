@@ -1,0 +1,1 @@
+zenista: if you can so much as get them to run the automated node installer, and unzip it and type npm start, it will be easy

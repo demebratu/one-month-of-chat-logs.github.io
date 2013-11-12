@@ -1,0 +1,1 @@
+"The arguments object is not an Array. It is similar to an Array, but does not have any Array properties except length. For example, it does not have the pop method. "

@@ -1,0 +1,1 @@
+But honestly, this would be easy enough to implement in JSON

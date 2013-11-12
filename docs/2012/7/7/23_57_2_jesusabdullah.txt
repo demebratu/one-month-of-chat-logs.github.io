@@ -1,0 +1,1 @@
+Hotroot: but buff.length !== String(buff).length necessarily

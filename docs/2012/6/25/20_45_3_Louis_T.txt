@@ -1,0 +1,1 @@
+Franz__:  there is no document object in node

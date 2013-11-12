@@ -1,0 +1,1 @@
+so in the end i guess environment variables wouldn't work for long-running processes

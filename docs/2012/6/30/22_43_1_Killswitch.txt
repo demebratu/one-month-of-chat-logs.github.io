@@ -1,0 +1,1 @@
+s5fs: Well when I run node myapp.js it don't work because it's looking in /usr/local/bin for it

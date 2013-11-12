@@ -1,0 +1,1 @@
+anyone know if there's a way to turn a collection of middlewares to one middleware with connect?

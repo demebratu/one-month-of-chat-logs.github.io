@@ -1,0 +1,1 @@
+I understand that encoding changes the meaning given to the underlying bits - e.g. how many bits are used to define one char in the codepage you're using to present the data, but why does changing encoding actually destroy the underlying data

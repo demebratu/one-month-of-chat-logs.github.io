@@ -1,0 +1,1 @@
+I have an express server that i want to start/stop repeatedly for testing purposes.  The callback given to app.listen(port, cb)  is getting called the first time around, but the app.close(cb) isn't getting called, and when I don't give a cb to close the server fails to start back up again.  Any ideas?

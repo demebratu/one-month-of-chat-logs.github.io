@@ -1,0 +1,1 @@
+So I will just copy all the methods to the server douglas-crockford style

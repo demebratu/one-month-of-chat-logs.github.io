@@ -1,0 +1,1 @@
+i agree that there should be a .trim() function in nodejs inbuilt

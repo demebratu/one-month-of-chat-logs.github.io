@@ -1,0 +1,1 @@
+tjholowaychuk: i actually have this working using node's own http library by itself.  i download with binary encoding and then create a buffer and put that into img.src, but Amazon S3 likes the headers that the "request" library sends for some reason

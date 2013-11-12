@@ -1,0 +1,1 @@
+i just installed node and npm from the ubuntu ppa referred to on the wiki, and the very first "npm install" i ran immediately started chewing 100% cpu while doing nothing, and trying to kill it has resulted in it now being stuck in D state. any guesses what happened?

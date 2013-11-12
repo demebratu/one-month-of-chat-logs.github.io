@@ -1,0 +1,1 @@
+somehow node can fine jslint-core when run as 'node' but not when run from vim

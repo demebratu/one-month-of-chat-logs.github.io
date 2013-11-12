@@ -1,0 +1,1 @@
+More specifically redis and what's the best practices for designing databases/structure there.

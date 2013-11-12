@@ -1,0 +1,1 @@
+i'm receiving a message from amqp and sending it out to the console

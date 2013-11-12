@@ -1,0 +1,1 @@
+Yeah I meant that when you try haml, it just says [object XMLDocument] in the outputs

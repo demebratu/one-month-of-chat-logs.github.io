@@ -1,0 +1,1 @@
+Gregorys-MacBook-Air:logs greg$ echo $NODE_PATH

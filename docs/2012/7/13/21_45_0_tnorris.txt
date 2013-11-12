@@ -1,0 +1,1 @@
+matjas: would you say that HEAD is pretty much always stable?

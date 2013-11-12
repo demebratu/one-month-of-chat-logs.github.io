@@ -1,0 +1,1 @@
+Hello, I recently upgraded to v0.8.0 and now I get this error with the http/https module. Does anyone know what the issue is? "Error: TypeError: Object domain.tld has no method 'enter'"

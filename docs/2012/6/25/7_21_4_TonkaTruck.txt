@@ -1,0 +1,1 @@
+Do you all write modules for everything?  Or do you ever just stick an object literal in your app or what?  I'm a big js fan but this is my first node app.  I was reading about modules and they seem very much about sharing/distributing code.

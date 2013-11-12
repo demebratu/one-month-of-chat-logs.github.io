@@ -1,0 +1,1 @@
+Piriel: if you want to compile node, you need python 2.6 or 2.7, anything else likely won't work

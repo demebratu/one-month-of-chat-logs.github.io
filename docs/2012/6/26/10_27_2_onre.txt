@@ -1,0 +1,1 @@
+after fixing it it stays at its normal size (~700 megabytes, it's a sort of statistical analysis service with data loaded in memory) for weeks

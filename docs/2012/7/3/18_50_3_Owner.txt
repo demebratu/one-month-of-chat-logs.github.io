@@ -1,0 +1,1 @@
+than nginx + php-fpm

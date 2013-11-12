@@ -1,0 +1,1 @@
+where can I find a list of the architecture of socket.io. I mean ther are things like socket.handshake and socket.room objects in the socket but I cant find a list of them

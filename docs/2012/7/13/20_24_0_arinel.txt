@@ -1,0 +1,1 @@
+hey guys, how do I change the e-mail for my user on the npm registry ?

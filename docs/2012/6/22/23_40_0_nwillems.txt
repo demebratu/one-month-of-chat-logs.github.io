@@ -1,0 +1,1 @@
+traviscooper: Could npm be not responding to me setting the PYTHON environment variable? Such that it tries to use python 3?

@@ -1,0 +1,1 @@
+hey everyone, i did a brew install node - everything looked cool but when i type 'node' nothing occurs

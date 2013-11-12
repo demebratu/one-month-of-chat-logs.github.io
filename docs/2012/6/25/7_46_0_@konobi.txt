@@ -1,0 +1,1 @@
+denysonique: it's not far fetched either... there are folks designing microcontrollers to run lisp at a HW level

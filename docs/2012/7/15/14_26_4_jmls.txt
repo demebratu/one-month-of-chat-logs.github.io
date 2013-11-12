@@ -1,0 +1,1 @@
+npm help init will hang, consuming cpu until i ctrl-c

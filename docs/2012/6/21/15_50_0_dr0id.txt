@@ -1,0 +1,1 @@
+is there a good way to write multi line variables ?

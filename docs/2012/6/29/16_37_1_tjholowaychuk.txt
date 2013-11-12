@@ -1,0 +1,1 @@
+but even stuff like path.exists should output the filenames so we can track down modules easier

@@ -1,0 +1,1 @@
+Xeon06_: mmmh, you don't seem to create a loop what's your terminal output when you run the app ?

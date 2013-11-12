@@ -1,0 +1,1 @@
+isaacs: i thought it fell over but it actually falls over at the ./configure step

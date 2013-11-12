@@ -1,0 +1,1 @@
+exec("sh myscript.sh", function(err, stdout, stderr){sys.puts(stdout)});

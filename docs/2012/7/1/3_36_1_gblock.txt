@@ -1,0 +1,1 @@
+innociv: you can install the V8 profiler and then see the profiler tab

@@ -1,0 +1,1 @@
+I'm using dscape's nano to access iriscouch and I randomly get ECONNREFUSED errors. I can't reproduce it, I just see it in my logs. Any idea what is happening? the URL, user and password are correct for every request

@@ -1,0 +1,1 @@
+hi! :) I've got a question.. I'm trying to port a bit of JS written for node, to the frontend where no node exists. The code explicitly uses Buffer, and i don't know what to make of it. Take a peek at: http://pastebin.com/TBvhncjC . How should i handle Buffer? Can i just assume its like and treat it like a string ? 

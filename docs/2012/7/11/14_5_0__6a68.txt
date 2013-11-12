@@ -1,0 +1,1 @@
+I'm just getting into node programming, and I'm curious why promises were abandoned for callbacks

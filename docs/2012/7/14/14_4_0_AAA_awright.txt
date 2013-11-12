@@ -1,0 +1,1 @@
+And also, we'd avoid the pointless arguments of how to version the API (Isn't that exactly what semver was supposed to solve?! >_<)

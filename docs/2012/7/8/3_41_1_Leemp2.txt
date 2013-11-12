@@ -1,0 +1,1 @@
+SubStack: I love overly clever.. but for gods sake, make the clever stuff compartmentalized and at the core, have a solid api

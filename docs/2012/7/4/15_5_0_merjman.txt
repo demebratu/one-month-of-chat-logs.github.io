@@ -1,0 +1,1 @@
+How come a blocking function within a callback causes node to freeze?

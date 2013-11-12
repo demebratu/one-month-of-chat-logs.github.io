@@ -1,0 +1,1 @@
+kuja: I'm not worried about that. It's got a relatively large test suite, a killer app (wordpress), and enough inter-version gotchas to be able to get in the zone with no trouble.

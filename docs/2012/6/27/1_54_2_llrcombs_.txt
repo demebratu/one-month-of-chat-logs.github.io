@@ -1,0 +1,1 @@
+mmalecki: fine then, is socket.io still bad for native cluster?

@@ -1,0 +1,1 @@
+notjrbauer: also I'd recommend using the packages on nodejs.org instead of brew

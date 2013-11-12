@@ -1,0 +1,1 @@
+the "query" protocol in the official minecraft server is actually the gamespy query protocol

@@ -1,0 +1,1 @@
+currently  im having : resque + faye ( resque is a background worker that at time X sends a datastream over websocket to a certain client subscribed channel )

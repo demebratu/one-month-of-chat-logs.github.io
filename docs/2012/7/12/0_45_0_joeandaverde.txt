@@ -1,0 +1,1 @@
+austinbv: it's a common idiom to protect from javascript minifies running functions together.

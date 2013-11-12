@@ -1,0 +1,1 @@
+and every time I added a new code file to the project, I'd have to add that file to every other file.

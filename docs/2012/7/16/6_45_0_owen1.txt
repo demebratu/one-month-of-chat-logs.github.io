@@ -1,0 +1,1 @@
+what is the difference between res.write('hi') and res.write('hi\n')

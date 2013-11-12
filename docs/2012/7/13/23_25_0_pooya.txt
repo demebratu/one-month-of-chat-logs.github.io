@@ -1,0 +1,1 @@
+and I want access to all variables and globals and essentially exact same thing up to that point

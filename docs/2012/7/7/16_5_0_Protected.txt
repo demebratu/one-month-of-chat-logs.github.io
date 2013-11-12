@@ -1,0 +1,1 @@
+Return a value. I'm starting to realize return is pretty much useless here.

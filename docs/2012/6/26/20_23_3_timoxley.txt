@@ -1,0 +1,1 @@
+Deathspike at the end of the file, whatever is in `module.exports` becomes what is returned from `require('myModule')`. 

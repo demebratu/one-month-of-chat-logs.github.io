@@ -1,0 +1,1 @@
+nykac: your response is getting written before your client.get callbacks have a chance to fire

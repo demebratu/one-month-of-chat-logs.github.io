@@ -1,0 +1,1 @@
+owen1: Yep. You had what's called a "file descriptor leak"

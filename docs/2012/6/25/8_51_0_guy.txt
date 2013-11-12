@@ -1,0 +1,1 @@
+https://github.com/AvianFlu/ntwitter/blob/master/lib/twitter.js function processTweet(tweet) {} I can't really understand it, but it looks like all but 'data' (data works) events are hanled differently.

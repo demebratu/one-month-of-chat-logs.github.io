@@ -1,0 +1,1 @@
+according to stack overflow you can use node-mysql with node-pool to get connection pooling

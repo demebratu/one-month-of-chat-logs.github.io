@@ -1,0 +1,1 @@
+same process, different threads. My knowledge on the internals of node aren't that great actually but it basically uses thread pooling of some sort to facilitate multiple I/O tasks that return to the stack and execute the callbacks

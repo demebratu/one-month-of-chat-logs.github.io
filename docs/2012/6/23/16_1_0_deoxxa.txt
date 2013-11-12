@@ -1,0 +1,1 @@
+stan_man_can: we've got a couple of sites like that at work - feel safe in the knowledge that you can serve the actual html however you like and just let the javascript connect to your backend :)

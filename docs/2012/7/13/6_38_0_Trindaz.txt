@@ -1,0 +1,1 @@
+didn't need hex editor. used almost identical code to my first attempt 6 hours ago, except this time I just changed res.setEncoding('utf-8'); to res.setEncoding('base64');

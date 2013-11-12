@@ -1,0 +1,1 @@
+die frage ist, wie kann ich in node.js erkennen, dass node.js dann die daten nicht mehr an php retournieren kann

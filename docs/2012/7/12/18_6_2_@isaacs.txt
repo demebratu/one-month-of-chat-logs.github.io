@@ -1,0 +1,1 @@
+scott_gonzalez: npm puts globally installed binaries somewhere that's likely to already be in your path, yes

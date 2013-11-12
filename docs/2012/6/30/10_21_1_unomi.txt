@@ -1,0 +1,1 @@
+and they aren't defined within the code, but in a config file that you read in.

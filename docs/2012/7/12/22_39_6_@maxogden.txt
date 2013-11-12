@@ -1,0 +1,1 @@
+metaprogramming might solve some problems but the complexity cost far outweights the convenience (in ruby-land at least)

@@ -1,0 +1,1 @@
+Deathspike: in ./mymodule.js: exports.myDuder = function () {…};

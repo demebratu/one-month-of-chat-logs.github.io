@@ -1,0 +1,1 @@
+H4ns, I do know that levelDB is atomic, persistent and fast

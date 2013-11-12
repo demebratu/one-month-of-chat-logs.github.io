@@ -1,0 +1,1 @@
+deedubs: i just need it to work with plain old "npm install" now so that my deploy script doesn't bug out

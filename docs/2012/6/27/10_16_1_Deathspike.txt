@@ -1,0 +1,1 @@
+It's supposed to be a RESTful service, so, no forms allowed. :)

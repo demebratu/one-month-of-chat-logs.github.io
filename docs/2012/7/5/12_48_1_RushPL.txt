@@ -1,0 +1,1 @@
+"The 'stdio' option to child_process.spawn() is an array where each index corresponds to a fd in the child. The value is one of the following:"

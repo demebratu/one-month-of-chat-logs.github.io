@@ -1,0 +1,1 @@
+what would you guys do if you needed a registry of plugins for a module; wrap npm with a new repo or just depend on npm, subtags, and a wiki list?

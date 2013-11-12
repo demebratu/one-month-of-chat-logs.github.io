@@ -1,0 +1,1 @@
+npm == gets the job done and it's simple

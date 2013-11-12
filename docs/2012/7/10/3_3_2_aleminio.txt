@@ -1,0 +1,1 @@
+        newMysql.query("UPDATE system SET latest_question ="+results[0].id,function(err,data){

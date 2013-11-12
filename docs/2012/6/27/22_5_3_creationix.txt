@@ -1,0 +1,1 @@
+and the grammar could probably make import("foo").bar work even if it's a keyword

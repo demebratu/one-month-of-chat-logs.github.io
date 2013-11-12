@@ -1,0 +1,1 @@
+pawn: Because, often, you're interested in the change, not the current state, so you'd end up polling your app's synchronized state and, like

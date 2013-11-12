@@ -1,0 +1,1 @@
+benatkin: Heh, well, for my own program, I might build in git submodules support for some things, but nothing that's required

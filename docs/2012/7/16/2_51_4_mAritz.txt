@@ -1,0 +1,1 @@
+cgiffard: i'd prefer doing it in canvas, because i actually need to use some of the same code in the browser. i guess i'll use imagemagick to convert bmp to png

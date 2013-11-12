@@ -1,0 +1,1 @@
+I've got to check how many checkboxes have been checked but server side in Express, how could I do that?

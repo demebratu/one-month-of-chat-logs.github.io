@@ -1,0 +1,1 @@
+nykac, a thread for how many cpu cores you have

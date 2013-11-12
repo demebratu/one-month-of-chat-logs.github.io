@@ -1,0 +1,1 @@
+for example if you consider express, it does not assume you have global variable port

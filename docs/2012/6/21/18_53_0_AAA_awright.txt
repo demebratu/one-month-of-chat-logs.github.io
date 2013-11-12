@@ -1,0 +1,1 @@
+dshap: Maybe just open up node-inspector and look at the variable scope stack, note that i exists in the parent scope, not the local callback

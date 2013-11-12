@@ -1,0 +1,1 @@
+tjholowaychuk: Not sure if you know, but, consolidate.js doesn't install via npm on 0.8 :)

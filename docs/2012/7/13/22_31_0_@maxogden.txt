@@ -1,0 +1,1 @@
+nlf: try piping your request to a bufferedstream and then making your response request and waiting until .on('response') to pipe the bufferedstream to the response request stream

@@ -1,0 +1,1 @@
+othiym23: Thanks, sounds like I have to install a bunch of signal handlers to clean up this file (a js atexit signal would be awesome instead)

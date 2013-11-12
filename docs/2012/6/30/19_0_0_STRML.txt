@@ -1,0 +1,1 @@
+I love it even for simple scripting (although you can use phantomJS for that). I'm not a wizard with bash, especially if I have to manipulate any data. V8 is certainly "fast enough"

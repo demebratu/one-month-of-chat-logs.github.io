@@ -1,0 +1,1 @@
+jesusabdullah: So, I'll just need to do socket.on('disconnect', function(){ delete chatSockets[userId]; });

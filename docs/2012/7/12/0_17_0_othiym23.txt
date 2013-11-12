@@ -1,0 +1,1 @@
+AAA_awright: K, fwiw cheerio has been dirt simple to use: var $ = cheerio.load(wadOfHutmuhl); var thinger = $('#anchor').text();

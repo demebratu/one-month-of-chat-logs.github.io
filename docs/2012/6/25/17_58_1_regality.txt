@@ -1,0 +1,1 @@
+Domains attach themselves to EventEmitters, and it won't attach it to the current stack.

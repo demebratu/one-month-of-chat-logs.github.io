@@ -1,0 +1,1 @@
+isaacs: question about that snippet you posted.. why ''+req.maxLen and not req.maxLen.toString() ?

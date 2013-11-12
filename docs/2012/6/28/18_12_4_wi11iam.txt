@@ -1,0 +1,1 @@
+readdir on a directory, and then generate tasks for each sub directory

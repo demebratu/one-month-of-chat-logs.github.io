@@ -1,0 +1,1 @@
+Promises results in some odd logic resulting from which event gets called under what conditions

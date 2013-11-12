@@ -1,0 +1,1 @@
+bnoordhuis:  how ?  e.g I run like this:   $ sudo node myProgram.js 

@@ -1,0 +1,1 @@
+tjholowaychuk: hah https://github.com/flatiron/winston/issues/100

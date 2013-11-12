@@ -1,0 +1,1 @@
+i was planning to run something on the 443, when you navigate to that server if you do blabla.com it uses one certificate but if you go with fofobar.com it uses another cert

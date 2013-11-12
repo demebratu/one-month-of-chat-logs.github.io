@@ -1,0 +1,1 @@
+it seems strange to me that I would re-build a module every time since it won't be changing 

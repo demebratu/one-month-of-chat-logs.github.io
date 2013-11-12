@@ -1,0 +1,1 @@
+qbert_ use util.inspect  http://nodejs.org/docs/latest/api/all.html#all_util_inspect_object_showhidden_depth_colors

@@ -1,0 +1,1 @@
+Question, i am trying to check if a value variable is in an array. how do i parse and return true or false?

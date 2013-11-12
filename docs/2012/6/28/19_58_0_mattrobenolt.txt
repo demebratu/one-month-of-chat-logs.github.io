@@ -1,0 +1,1 @@
+Oh, I see, you literally just take the string and shove it into a RegExp object.

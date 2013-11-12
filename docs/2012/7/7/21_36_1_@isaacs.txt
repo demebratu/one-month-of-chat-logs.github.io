@@ -1,0 +1,1 @@
+IceD^: but it'll eventually be something like require('passwd').getpwnam('userx', function (er, details) { ... })

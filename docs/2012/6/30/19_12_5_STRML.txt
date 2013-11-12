@@ -1,0 +1,1 @@
+and the fixperms.sh file makes sure everything has r/w permissions for the www-data user

@@ -1,0 +1,1 @@
+it hooks into the v8 debugger and passes the output to a client interface based on the chrome dev tools inspector

@@ -1,0 +1,1 @@
+any idea why i get this when installing ws on windows: http://bit.ly/MiWjll (node v0.6.19)

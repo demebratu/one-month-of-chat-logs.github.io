@@ -1,0 +1,1 @@
+cliffano, `delete` only removes a property.

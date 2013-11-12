@@ -1,0 +1,1 @@
+First of all, the event loop in twisted is explicit. It's implicit in node.

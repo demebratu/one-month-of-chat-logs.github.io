@@ -1,0 +1,1 @@
+Zavior: it's a book about js with interactive exercises. There's a dead-tree format too, if you want (also to support the author)

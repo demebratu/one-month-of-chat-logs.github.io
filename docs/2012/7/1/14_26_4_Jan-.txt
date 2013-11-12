@@ -1,0 +1,1 @@
+Does this mean that I need to be careful when I'm defining things that I *want* to be global?

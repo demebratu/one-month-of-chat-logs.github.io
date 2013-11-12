@@ -1,0 +1,1 @@
+someone can correct me if im wrong but, pretty sure even if console.log is evented, they will still be call[back]ed in the order they were initally called

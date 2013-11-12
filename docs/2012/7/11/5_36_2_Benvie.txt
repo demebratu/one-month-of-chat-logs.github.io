@@ -1,0 +1,1 @@
+if all the execution thereafter is contained inside callbacks then it's a safe bet the code is async

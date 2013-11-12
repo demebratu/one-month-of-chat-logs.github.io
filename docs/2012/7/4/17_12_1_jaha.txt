@@ -1,0 +1,1 @@
+lets say I have some upstart scripts that i need node to create and give them root privs and then copy them to the /etc/init folder, if im running the node process as a user is it possible to give the files root privs?

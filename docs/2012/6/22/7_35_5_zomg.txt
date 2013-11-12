@@ -1,0 +1,1 @@
+szikael: just pass your second function as a parameter to the first, then call it

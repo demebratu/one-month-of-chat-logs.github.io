@@ -1,0 +1,1 @@
+However some nodes won't have a parent, and their parent property will be null. 

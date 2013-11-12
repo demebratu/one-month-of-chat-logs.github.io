@@ -1,0 +1,1 @@
+rektide: I put metadata in my functions by attaching properties to them ( function DoSomething(){...} DoSomething.data = {...}; ), and have a single binary which can execute the functionality of any of them

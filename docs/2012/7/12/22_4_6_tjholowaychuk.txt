@@ -1,0 +1,1 @@
+if you're going to aggregate anyway why not build a lib out of things you aggregate anyway

@@ -1,0 +1,1 @@
+austinbv: if if use app.post('/', function(req, res) I am using a res.redirect which works but it opens / in a new tab

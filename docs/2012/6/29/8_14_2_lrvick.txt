@@ -1,0 +1,1 @@
+booyaa: im going to use grunt for that, but I would like to be able to have node do it during development

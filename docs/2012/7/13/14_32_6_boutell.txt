@@ -1,0 +1,1 @@
+the "npm installs everything separately" thing is more useful for dependencies of modules you're publishing on npm, where you have no idea and don't care what versions the other guy installing your module has (:

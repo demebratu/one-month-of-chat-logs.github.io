@@ -1,0 +1,1 @@
+williamcotton: for the file size, are you comparing the content length given to you to the returned buffers from redis?

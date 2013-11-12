@@ -1,0 +1,1 @@
+maxogden: wouldn't be surprised if pointer arithmetic gets jumbled when cross compiling to js

@@ -1,0 +1,1 @@
+My npm install command just fails after a few moments with an "npm ERR! Error: socket hang up" with additional information.

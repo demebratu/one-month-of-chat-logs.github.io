@@ -1,0 +1,1 @@
+I also thought about some kind of binary protocol but then I replaced it with plain json since both as3 and js speak json quite well 

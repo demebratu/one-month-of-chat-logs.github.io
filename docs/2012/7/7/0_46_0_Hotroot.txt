@@ -1,0 +1,1 @@
+Quick Q, is it proper to stream.end after stream.write'ing?

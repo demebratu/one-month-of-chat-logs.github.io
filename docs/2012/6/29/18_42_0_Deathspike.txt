@@ -1,0 +1,1 @@
+Note that it's bad design in node, since everything blocks when you do that.

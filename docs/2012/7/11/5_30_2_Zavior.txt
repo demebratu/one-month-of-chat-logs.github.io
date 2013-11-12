@@ -1,0 +1,1 @@
+gkatsev: looks more js generic and less node specific I suppose?

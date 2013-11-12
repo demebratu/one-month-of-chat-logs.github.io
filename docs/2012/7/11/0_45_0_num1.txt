@@ -1,0 +1,1 @@
+Is there anyway to make a promise in node? As in, you try to grab the result of calling a function, and you block until it returns but the rest of the code continues while that continuation blocks.

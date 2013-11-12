@@ -1,0 +1,1 @@
+Trindaz: "Accept-Encoding":  "gzip,deflate,sdch", -- do you actually have working support for all those?

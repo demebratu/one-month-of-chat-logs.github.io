@@ -1,0 +1,1 @@
+wdent: it's a little tricky to get it running, because you run from the live image and then it creates pools and persistent images under it, and you'll need to read the Joyent docs on how to use vmadm

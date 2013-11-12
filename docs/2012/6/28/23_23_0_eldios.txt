@@ -1,0 +1,1 @@
+but you will have your wanted dependency (the package itself) when you'll install the package

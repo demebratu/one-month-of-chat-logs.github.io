@@ -1,0 +1,1 @@
+"Whenever possible, prototype in an interpreted language before coding C."

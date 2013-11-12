@@ -1,0 +1,1 @@
+I use nvm quite happily, use whatever works for you :)

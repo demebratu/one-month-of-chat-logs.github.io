@@ -1,0 +1,1 @@
+Hi bnoordhuis, I need to install the nodejs on virtual mchine, I dont understand what do you mean : build a node

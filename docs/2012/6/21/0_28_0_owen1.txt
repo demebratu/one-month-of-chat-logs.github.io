@@ -1,0 +1,1 @@
+othiym23:i switch the [] to '' and i already have    req.setEncoding('utf-8');

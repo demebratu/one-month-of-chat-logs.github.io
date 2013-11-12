@@ -1,0 +1,1 @@
+the actualy js code source is embedded as a resource during compilation using a v8 api that llows for that

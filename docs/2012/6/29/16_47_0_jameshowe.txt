@@ -1,0 +1,1 @@
+watching the memory usage, it was low and constant

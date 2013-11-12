@@ -1,0 +1,1 @@
+what's the line to install all the dependencies (presumably specified by 'require''s) into local?

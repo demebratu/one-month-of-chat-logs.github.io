@@ -1,0 +1,1 @@
+I mean, I definitely don't want every message passed via redis to reach the clients directly.

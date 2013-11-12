@@ -1,0 +1,1 @@
+I am trying to read a file and post it to a server over http. I guess I have to use createReadStream and pipe it into http.request? Anybody got maybe a small snippet that does this?

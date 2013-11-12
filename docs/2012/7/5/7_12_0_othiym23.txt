@@ -1,0 +1,1 @@
+also, luajit is an interesting vm project all its own, and its FFI mechanism seems neat, although it turned out to not work for what luvit needed

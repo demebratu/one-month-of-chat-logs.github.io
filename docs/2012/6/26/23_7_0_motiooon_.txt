@@ -1,0 +1,1 @@
+dhsap , tjholowaychuk thanks I'll try res.attachment(), 

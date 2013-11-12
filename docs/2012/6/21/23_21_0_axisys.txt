@@ -1,0 +1,1 @@
+I just copied the snmpjs code from http://wesolows.github.com/node-snmpjs/ and ran it in ubuntu 12.04 and I get this error http://dpaste.com/762177/

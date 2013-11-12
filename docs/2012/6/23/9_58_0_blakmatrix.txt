@@ -1,0 +1,1 @@
+magge: are you using path resolve and path.join to create your paths?

@@ -1,0 +1,1 @@
+marlun: it sounds like you want both modules written in commonjs style and ones not written that way

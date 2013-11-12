@@ -1,0 +1,1 @@
+example.js is on my root to make things simple - do i need to change a path?

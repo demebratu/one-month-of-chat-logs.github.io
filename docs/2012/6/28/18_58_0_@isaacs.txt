@@ -1,0 +1,1 @@
+Deathspike_: but the json can be just a few fields, then an attachment that has the actual "document"

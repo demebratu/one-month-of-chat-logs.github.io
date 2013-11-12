@@ -1,0 +1,1 @@
+by taking care of any protocol imaginable, dnode allows two servers to run in harmony, and doing so better than any protocol in existence for any application with low enough bandwidth usage to not require a binary protocol.

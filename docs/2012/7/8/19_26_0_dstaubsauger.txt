@@ -1,0 +1,1 @@
+hi, i tried googleing, but i couldn't find a way to run a shell command, save the output to a variable and continue the script afterwards (aka blocking child process). is there a way to do this in node?

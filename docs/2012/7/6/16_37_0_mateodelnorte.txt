@@ -1,0 +1,1 @@
+Has anyone else noticed npm having issues when doing installs lately? (general slowness, erroring on installs that immediately pass when re-run)

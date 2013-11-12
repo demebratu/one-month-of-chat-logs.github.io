@@ -1,0 +1,1 @@
+erick2red: yeah i've got node installed using homebrew

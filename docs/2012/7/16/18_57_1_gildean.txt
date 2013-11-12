@@ -1,0 +1,1 @@
+jergason: over here we actually changed all irc-channels to utf-8 almost ten years back

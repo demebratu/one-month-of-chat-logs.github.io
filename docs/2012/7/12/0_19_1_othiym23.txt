@@ -1,0 +1,1 @@
+any time I need to deal with full XPath / XSLT outside a browser, I suck it up and use Java

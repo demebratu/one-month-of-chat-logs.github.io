@@ -1,0 +1,1 @@
+there are 2 players next to mob, and the 1st one sends command to get sword

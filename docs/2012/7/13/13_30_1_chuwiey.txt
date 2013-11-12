@@ -1,0 +1,1 @@
+bradgignac: yes, that was very helpful... is there a specific protocol for messages sent by php to socket.io server?

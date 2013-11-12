@@ -1,0 +1,1 @@
+you need to install an optional dependancy v8-profiler if you wan the profiler

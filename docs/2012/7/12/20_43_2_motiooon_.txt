@@ -1,0 +1,1 @@
+first time the worker runs all callbacks are executed so all steps in waterfall are executed

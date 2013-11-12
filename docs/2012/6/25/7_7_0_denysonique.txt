@@ -1,0 +1,1 @@
+circlicious: did you try to interact with slimrb manually?

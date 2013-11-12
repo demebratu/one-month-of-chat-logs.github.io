@@ -1,0 +1,1 @@
+benatkin: The website still links to http://npmjs.org/install.sh am I missing something?

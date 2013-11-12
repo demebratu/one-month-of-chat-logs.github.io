@@ -1,0 +1,1 @@
+specifically the next paragraph: "Every method you invoke on a connection is queued and executed in sequence."

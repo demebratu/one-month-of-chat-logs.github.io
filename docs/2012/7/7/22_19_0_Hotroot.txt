@@ -1,0 +1,1 @@
+RLa: OpenVZ also has to be linux, while Xen allows everyone any OS they want. Xen requires more resources to separate it all AFIAK too

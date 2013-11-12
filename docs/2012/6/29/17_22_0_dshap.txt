@@ -1,0 +1,1 @@
+hey all - for some reason NPM is telling me that i should run "npm install" as root/Administrator.  is there a way i can fix this so that it runs for my current user?

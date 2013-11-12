@@ -1,0 +1,1 @@
+it seemed completely assinine, a teammate of mine wanted to switch to jake for our project (it is NOT a node project) and he committed all the node_module dependencies

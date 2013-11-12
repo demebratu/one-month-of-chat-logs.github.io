@@ -1,0 +1,1 @@
+I want to load an arbitrary document, javascript and all, (yes, I'll do it in a separate process and be careful) and monitor all the network requests it makes

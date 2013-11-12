@@ -1,0 +1,1 @@
+well afaik child processes should exit when parent exits

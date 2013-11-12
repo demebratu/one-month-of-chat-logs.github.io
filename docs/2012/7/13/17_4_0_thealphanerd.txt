@@ -1,0 +1,1 @@
+smathy: yes but you can avoid a ton of edge cases by using that instead of this

@@ -1,0 +1,1 @@
+hichaelmart: no, all i said was that i can't think of any way the patch could be dangerous, it's just that i don't like the concept of .setEncoding

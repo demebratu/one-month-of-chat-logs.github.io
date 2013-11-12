@@ -1,0 +1,1 @@
+There's a way to turn off socket.io logging. It amounts to punching io.log I believe

@@ -1,0 +1,1 @@
+in 0.4.x: global.console = NativeModule.require('console');

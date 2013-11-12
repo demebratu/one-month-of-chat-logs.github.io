@@ -1,0 +1,1 @@
+if it's a dependency, it shouldn't be bundled (unless it's really specefic to that library)

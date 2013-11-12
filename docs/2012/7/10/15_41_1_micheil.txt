@@ -1,0 +1,1 @@
+qbit_: if you want a private or self-hosted copy of NPM, then yeah, use the couchdb replication stuff

@@ -1,0 +1,1 @@
+interestingly, function(args){...}(this); doesn't work

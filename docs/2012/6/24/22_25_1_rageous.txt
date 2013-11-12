@@ -1,0 +1,1 @@
+ERR! message `sh "-c" "node-waf configure build"` failed with 1

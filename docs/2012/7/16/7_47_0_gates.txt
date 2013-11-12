@@ -1,0 +1,1 @@
+after a start a server JS by node.exe server.js in Windows Command Line, how I can quit it?

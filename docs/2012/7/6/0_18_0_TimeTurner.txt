@@ -1,0 +1,1 @@
+I'm not sure that using constructor functions for configuration is the best option but that's your call

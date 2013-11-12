@@ -1,0 +1,1 @@
+Karmaon: That might be intended since the order of database modifying queries should most probably kept consistent with the order in which they were called

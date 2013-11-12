@@ -1,0 +1,1 @@
+williamcotton: that's why I was saying use either http direct to talk to redis

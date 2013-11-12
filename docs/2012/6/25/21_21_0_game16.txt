@@ -1,0 +1,1 @@
+thanks guys, ejs + express is going fine

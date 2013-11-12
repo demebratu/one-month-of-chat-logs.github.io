@@ -1,0 +1,1 @@
+maedi: probably not, because it's application specific. You may need to transmit velocities rather than positions, or do some interpolation.

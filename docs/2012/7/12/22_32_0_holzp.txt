@@ -1,0 +1,1 @@
+whats an example of a language with elegant error handling?

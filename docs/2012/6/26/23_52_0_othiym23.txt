@@ -1,0 +1,1 @@
+Karmaon: Date.now() is faster, as long as you're fine getting the date in milliseconds rather than a date object

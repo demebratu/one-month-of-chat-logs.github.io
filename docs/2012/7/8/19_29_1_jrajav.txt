@@ -1,0 +1,1 @@
+dstaubsauger: Yes, it's asynchronous, like just about everything in node

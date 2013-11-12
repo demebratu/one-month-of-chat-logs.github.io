@@ -1,0 +1,1 @@
+I have two streams, one read, one write. which I'm using readStream.pipe(writeStream); It works, life is good. However, I want to listen to readStream's 'end' event so I can write one last thing to the write stream before writeStream closes.

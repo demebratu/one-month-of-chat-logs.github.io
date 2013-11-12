@@ -1,0 +1,1 @@
+mattrobenolt: I read a little into Redis, won't I get into trouble later? Let's say my site grows rapidly, I can balance a few node servers but redis is single core, single instance kind of deal?

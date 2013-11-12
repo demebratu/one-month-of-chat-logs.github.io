@@ -1,0 +1,1 @@
+context: Thats simple, you send a request to actually fire the function, then the heroku router will send that reqeuest to only one of the dynos

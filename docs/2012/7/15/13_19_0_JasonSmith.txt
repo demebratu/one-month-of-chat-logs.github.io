@@ -1,0 +1,1 @@
+He said that you can't iterate through a collection, and I nailed that as nothing but FUD. for...in works just fine

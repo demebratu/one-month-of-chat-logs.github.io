@@ -1,0 +1,1 @@
+with mux-demux you can put an rpc stream alongside other streams carrying different payloads

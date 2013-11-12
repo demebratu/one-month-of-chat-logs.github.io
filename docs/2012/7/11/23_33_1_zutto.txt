@@ -1,0 +1,1 @@
+jarr0dsz: socket.io gives you alot more control and and flexibility

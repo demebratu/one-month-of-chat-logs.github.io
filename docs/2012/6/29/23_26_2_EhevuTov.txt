@@ -1,0 +1,1 @@
+dsirijus, permissions are usually based on what kernel and hardware resource calls you might be accessing

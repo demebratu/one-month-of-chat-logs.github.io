@@ -1,0 +1,1 @@
+my node.js script uses nearly 800MB ram (starting at 80MB, increasing over time). But I don't keep any data, everything is in local variables in short methods

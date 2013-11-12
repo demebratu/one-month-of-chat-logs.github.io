@@ -1,0 +1,1 @@
+https://gist.github.com/248c7ad24098dbd2a66b I trimmed the app to the essence. Which is 1) app connects to the database, 2) listens twitter stream, 3) records data to database

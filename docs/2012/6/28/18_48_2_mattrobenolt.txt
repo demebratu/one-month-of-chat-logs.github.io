@@ -1,0 +1,1 @@
+Which, is a variable length of time depending on how you configure it.

@@ -1,0 +1,1 @@
+Deathspike_: probably that's mongoose, which provides schema abstractions on top of mongo

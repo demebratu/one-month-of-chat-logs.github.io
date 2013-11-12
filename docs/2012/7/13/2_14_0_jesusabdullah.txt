@@ -1,0 +1,1 @@
+either way, the basic idea is to use a different proxy/balancer, and then proxy to nginx for gnginx things

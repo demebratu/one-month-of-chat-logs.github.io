@@ -1,0 +1,1 @@
+Sembiance: yes, but you're creating a situation where node's "javascript" is completely non-interopable with anyone else's

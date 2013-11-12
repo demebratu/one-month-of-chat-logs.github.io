@@ -1,0 +1,1 @@
+how would i track the process between start and kill?

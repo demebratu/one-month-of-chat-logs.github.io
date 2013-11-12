@@ -1,0 +1,1 @@
+personally.. I'm using switch to my production apps, in which I'm logging parts of code (let's call it namespace of code)

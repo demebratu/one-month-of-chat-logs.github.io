@@ -1,0 +1,1 @@
+one could also store json blobs in mysql innodb tables and use transactions :)

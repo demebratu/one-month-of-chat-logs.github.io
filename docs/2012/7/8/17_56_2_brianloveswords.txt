@@ -1,0 +1,1 @@
+stream.on('data', function(chunk){…})

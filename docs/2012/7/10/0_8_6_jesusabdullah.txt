@@ -1,0 +1,1 @@
+you make an object with some properties and then the methods finagle the properties on `this`

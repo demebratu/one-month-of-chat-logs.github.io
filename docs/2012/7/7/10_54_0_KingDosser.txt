@@ -1,0 +1,1 @@
+I have a Node.js server using Socket.io to serve push notifications. But I want to send data straight from my rails server. I am planning to send a POST request from rails with a list of user_ids that i want socket.io to send stuff to. Can someone please show me how I might listen on a port and pass it on to socket.io? (or link me to an article)

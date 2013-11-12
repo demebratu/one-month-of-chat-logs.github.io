@@ -1,0 +1,1 @@
+william: compile from source, `./configure --prefix=$HOME/opt/node` to make it a user-local install

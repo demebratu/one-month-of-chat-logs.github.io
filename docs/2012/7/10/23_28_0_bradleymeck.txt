@@ -1,0 +1,1 @@
+anyone seen `WARN cannot run in wd` on npm if you curl install?

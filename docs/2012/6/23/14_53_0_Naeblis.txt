@@ -1,0 +1,1 @@
+In my express app, I'm currently fetching and parsing JSON from a single data.json file. How can I automate the app to look into api.domain.com/me of every user to fetch the JSON?

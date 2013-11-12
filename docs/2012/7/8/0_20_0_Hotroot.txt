@@ -1,0 +1,1 @@
+I thought it meant the EOF of the group of chunks being sent, not the end of the connection

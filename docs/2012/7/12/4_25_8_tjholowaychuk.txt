@@ -1,0 +1,1 @@
+jesusabdullah it kinda removes the concept of a server, either end can bind/connect and it provides a low-level [len, binary] message protocol

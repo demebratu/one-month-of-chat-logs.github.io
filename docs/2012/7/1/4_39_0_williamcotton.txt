@@ -1,0 +1,1 @@
+ah, I had to do this: buffer.toString('binary');

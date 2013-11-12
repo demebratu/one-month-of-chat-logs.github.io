@@ -1,0 +1,1 @@
+process.exit() doesn't work as well

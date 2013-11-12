@@ -1,0 +1,1 @@
+Hi all, just trying to get npm running on a Raspberry Pi. I can't get it to build its index without running out of memory and crashing.

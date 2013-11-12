@@ -1,0 +1,1 @@
+redis is very simple, but it's also somewhat featureless (it's a k-v store in the sky, and that is basically it.)

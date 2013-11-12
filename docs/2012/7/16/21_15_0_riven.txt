@@ -1,0 +1,1 @@
+kinginky: inside of a function body, you have access to the magic `argument` array-like object, which holds all passed-in arguments. Assuming that's what you meant.

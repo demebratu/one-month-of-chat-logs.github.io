@@ -1,0 +1,1 @@
+Query langauges in URLs. That's what it's all about.

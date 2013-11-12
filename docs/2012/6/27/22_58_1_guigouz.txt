@@ -1,0 +1,1 @@
+so i'd have to iterate then have some flag if the message is complete or not

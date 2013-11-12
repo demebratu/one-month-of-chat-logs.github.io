@@ -1,0 +1,1 @@
+I like express-resource, from the looks of it, too. It takes away a bit of clunkyness of having to write out an entire path every time :P

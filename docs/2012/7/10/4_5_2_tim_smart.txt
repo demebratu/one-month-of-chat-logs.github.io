@@ -1,0 +1,1 @@
+Didn't realize pipe had a { end : false } option. That should solve the problem.

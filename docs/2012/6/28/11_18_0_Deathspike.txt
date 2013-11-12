@@ -1,0 +1,1 @@
+In Express, is there some way to run a function before render (i.e. checking if user is logged in to change navigation entries and show a welcome back message) without explicitly calling a function to prepare the variables in every single handler?

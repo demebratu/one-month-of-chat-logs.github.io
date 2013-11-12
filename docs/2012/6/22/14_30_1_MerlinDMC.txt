@@ -1,0 +1,1 @@
+maybe my js code is crappy ... i don't use that so much lately: fs.watchFile('test.js', function(){console.log(arguments)});

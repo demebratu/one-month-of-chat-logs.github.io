@@ -1,0 +1,1 @@
+xaq: yeah, there's a section of the ECMAScript standard that describes initializer behavior

@@ -1,0 +1,1 @@
+like just minify all the .js files if theres no jakefile present in the subdir

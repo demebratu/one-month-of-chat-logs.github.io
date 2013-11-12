@@ -1,0 +1,1 @@
+Hi guys, this is a general question, but how could I make any host that isn't a certain host redirect to my main host?

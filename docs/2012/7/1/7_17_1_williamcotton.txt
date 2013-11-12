@@ -1,0 +1,1 @@
+I got it working, but I had to go to base64

@@ -1,0 +1,1 @@
+when I have separate builds of node, how to assure that a node binary loads its libs from a proper directory?

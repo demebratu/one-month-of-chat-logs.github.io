@@ -1,0 +1,1 @@
+so like, if you run that code, it'll serve up a 4.9kb text file, but it takes awhile to download, because of that for loop… like 10 seconds… and obviously it blocks

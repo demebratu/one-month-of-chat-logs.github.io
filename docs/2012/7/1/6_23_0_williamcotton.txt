@@ -1,0 +1,1 @@
+I think the issue is with the toString('binary')

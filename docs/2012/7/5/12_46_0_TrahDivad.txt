@@ -1,0 +1,1 @@
+Can somebody tell me if there exists a production ready way of doing database migrations with a Postgres DB? node-migrate does not seem to support PG yet.

@@ -1,0 +1,1 @@
+any optimist users know if there is a way to disable the dot notation processing without hacking the source?

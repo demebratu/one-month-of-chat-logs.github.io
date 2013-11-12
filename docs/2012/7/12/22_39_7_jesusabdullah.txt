@@ -1,0 +1,1 @@
+isaacs: Would you use objects to implement iterative methods?

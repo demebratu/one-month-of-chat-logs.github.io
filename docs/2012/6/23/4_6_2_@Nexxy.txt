@@ -1,0 +1,1 @@
+TehShrike, my only real question is why you aren't making it a jQuery plugin

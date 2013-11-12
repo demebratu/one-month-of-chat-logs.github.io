@@ -1,0 +1,1 @@
+each part you move over to 0.8, then update nginx/aapche to forward those urls to 0.8 and not 0.4

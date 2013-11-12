@@ -1,0 +1,1 @@
+hm, i think i get it now, so its passed as an array and not a string that has to be broken into an array. thats why it need not be escaped/quoted. thanks :)

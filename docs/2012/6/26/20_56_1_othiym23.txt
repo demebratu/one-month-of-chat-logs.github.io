@@ -1,0 +1,1 @@
+Deathspike: I like Node because it allows *me* to define the architecture for large software projects and doesn't force me into one

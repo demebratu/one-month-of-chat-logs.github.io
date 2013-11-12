@@ -1,0 +1,1 @@
+myndzi, so even before new Class() is called, class it self is an object ( a constructor function but its actually an object ).

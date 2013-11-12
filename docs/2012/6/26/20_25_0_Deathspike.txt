@@ -1,0 +1,1 @@
+Also, is there any way to override the default "Cannot GET /" in Express to just throw a plain 404 w/o content?

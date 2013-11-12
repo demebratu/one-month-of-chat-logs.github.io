@@ -1,0 +1,1 @@
+i call new on the "object" in two separate instances and i somehow wind up with the same object reference for both

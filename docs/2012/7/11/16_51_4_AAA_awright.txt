@@ -1,0 +1,1 @@
+When you use require() a file is a function

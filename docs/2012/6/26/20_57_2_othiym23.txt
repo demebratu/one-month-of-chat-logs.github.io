@@ -1,0 +1,1 @@
+Deathspike: but I agree with timoxley as well, if you're trying to do large-scale software construction on the web, that's not really Node's strength

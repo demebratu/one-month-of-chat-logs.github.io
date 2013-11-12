@@ -1,0 +1,1 @@
+mc, just if you do, make sure if it can't parse the file that it doesn't go nuts. Like maybe throw an error but keep the old config.

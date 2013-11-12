@@ -1,0 +1,1 @@
+you can also use a lib like http://github.com/dominictarr/event-stream to help

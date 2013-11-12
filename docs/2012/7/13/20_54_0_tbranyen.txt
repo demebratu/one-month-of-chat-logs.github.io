@@ -1,0 +1,1 @@
+then you depend on a server which breaks phonegap/air/etc environments

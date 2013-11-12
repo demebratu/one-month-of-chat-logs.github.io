@@ -1,0 +1,1 @@
+isaacs: is it possible to have a private npm repo with _just_ the private packages? ( ie .. anyway to setup a private repo without cloning all 25g of existing stuff? 

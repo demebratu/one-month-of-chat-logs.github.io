@@ -1,0 +1,1 @@
+s5fs:  so this is pretty rough, but you should get the general idea, if a word dosent exist in a room, we need to create is else we simply broadcast the word to the room http://dpaste.com/766529/

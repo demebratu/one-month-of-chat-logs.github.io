@@ -1,0 +1,1 @@
+__maybe__ I can watch for the 01 00 00 00 00 00 00 00 at the start; I'm just concerned that there are a couple other times when that sequence could, in theory, appear

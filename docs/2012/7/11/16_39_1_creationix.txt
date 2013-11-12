@@ -1,0 +1,1 @@
+what's wrong with having node specific metadata for a node library?

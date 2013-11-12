@@ -1,0 +1,1 @@
+KingDosser: So you can't share between namespaces?

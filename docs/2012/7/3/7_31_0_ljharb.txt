@@ -1,0 +1,1 @@
+"Functions and variables added to now are automatically synced, in real-time" and "Call client functions from the server and server functions from client" means "i can do whatever i want on your server"

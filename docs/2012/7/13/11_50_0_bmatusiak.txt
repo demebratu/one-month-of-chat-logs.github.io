@@ -1,0 +1,1 @@
+i was just removeing my my for loops into something nonblocking / with ability to pause

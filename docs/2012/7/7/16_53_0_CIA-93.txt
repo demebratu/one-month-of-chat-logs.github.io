@@ -1,0 +1,1 @@
+node: Dominic Tarr v0.8 * r7accaeb / doc/api/stream.markdown : correct documentation of Stream#destroy - http://git.io/xeH56A

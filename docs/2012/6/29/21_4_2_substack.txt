@@ -1,0 +1,1 @@
+tjholowaychuk: it's exactly my contention that you should never write big apps

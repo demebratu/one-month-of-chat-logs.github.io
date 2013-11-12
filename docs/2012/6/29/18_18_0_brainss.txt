@@ -1,0 +1,1 @@
+what error does ./configure give you?

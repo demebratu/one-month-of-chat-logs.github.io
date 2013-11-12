@@ -1,0 +1,1 @@
+It's just not a contest. The nowjs guys ditched nowjs some time ago to focus on Bridge. It's a dead project now.

@@ -1,0 +1,1 @@
+prettyrobots: but there are a bunch of client-side in-browser routers out there already that'll do the job

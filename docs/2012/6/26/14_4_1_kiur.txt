@@ -1,0 +1,1 @@
+a quick question: is emitting events on the process object a good practice? e.g. process.emit('error', something);

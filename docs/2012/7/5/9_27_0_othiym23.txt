@@ -1,0 +1,1 @@
+I said "essentially" because there are a variety of mechanisms that get used, depending on whether Node is running on Linux / OS X / SmartOS / Windows / etc

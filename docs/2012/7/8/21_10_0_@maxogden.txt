@@ -1,0 +1,1 @@
+mysql lets you do queries

@@ -1,0 +1,1 @@
+But nowhere in your doc you mention wether the billing is by "full month" or if it's by the hour like on heroku ?

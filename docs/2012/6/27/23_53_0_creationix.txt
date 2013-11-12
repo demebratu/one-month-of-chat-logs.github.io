@@ -1,0 +1,1 @@
+basic import/export syntax is better than what we have right now (everything same global scope)

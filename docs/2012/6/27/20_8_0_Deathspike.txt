@@ -1,0 +1,1 @@
+Ah, memory consumption is only jumpy and hungry on Windows; Linux, not affected, whatsoever. Isn't it always the same :3

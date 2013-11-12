@@ -1,0 +1,1 @@
+ashnur, are there actual break points where it's breaking? I haven't used the new CLI debugger yet only node-inspector and I've been working on my own to replace node-inspector because I think it's kind of crap

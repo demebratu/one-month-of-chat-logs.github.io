@@ -1,0 +1,1 @@
+bnoordhuis: nope.. All we have is this inhouse written http XHR file upload code as I described it above

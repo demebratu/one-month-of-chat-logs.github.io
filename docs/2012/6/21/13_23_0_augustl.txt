@@ -1,0 +1,1 @@
+nvm, turns out connect can take other connect apps

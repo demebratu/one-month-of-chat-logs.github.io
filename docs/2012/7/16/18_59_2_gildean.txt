@@ -1,0 +1,1 @@
+so characters like ÄäÖöÅå would work correctly for everyone

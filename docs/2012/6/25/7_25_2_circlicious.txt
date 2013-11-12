@@ -1,0 +1,1 @@
+denysonique: konobi : maybe you can help me with 1 more thing. i changed my command to `bundle exec slimrb` now because it is better and i don't have to hardcode path. but now i get this error - `execvp(): No such file or directory`

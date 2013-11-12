@@ -1,0 +1,1 @@
+Been 5+ years since I've been on IRC, so I'm not sure if this is a bad use, but I posted a question on StackOverflow regarding a node issue. It's been kicking my butt for weeks. http://stackoverflow.com/questions/11182725/http-request-stream-not-readable-outside-of-request-handler

@@ -1,0 +1,1 @@
+othiym23 an event loop hands down has a place, but i think it's wrong if we try to convince everyone that node's way is the "best" way

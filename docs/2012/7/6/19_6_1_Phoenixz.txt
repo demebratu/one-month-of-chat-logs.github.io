@@ -1,0 +1,1 @@
+Stephen: plus, I have a package.json which forces versions to be the same... I have the same problem showing up on 3 different machines

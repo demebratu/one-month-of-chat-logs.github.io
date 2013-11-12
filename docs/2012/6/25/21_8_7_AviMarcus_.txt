@@ -1,0 +1,1 @@
+what tag is suggested to use from git? v0.8.0 is telling me version v0.8.0-pre once I compile

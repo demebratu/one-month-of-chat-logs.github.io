@@ -1,0 +1,1 @@
+taterbase: depends on the domain being requested, but it works fine without www :)

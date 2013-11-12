@@ -1,0 +1,1 @@
+thanpolas: You understood me right, the goal is to find next available key. And yes, to have some stop-condition is indeed a good idea.

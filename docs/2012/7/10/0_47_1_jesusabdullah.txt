@@ -1,0 +1,1 @@
+does fuckitjs work on node yet??

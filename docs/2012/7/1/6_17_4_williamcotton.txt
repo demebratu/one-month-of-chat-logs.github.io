@@ -1,0 +1,1 @@
+chapel: yeah, it only stores 103609 bytes in redis

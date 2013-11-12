@@ -1,0 +1,1 @@
+TimeTurner: ah gotcha. Then what would be the advantage of using an event emitter over just calling a function every time a change happens?

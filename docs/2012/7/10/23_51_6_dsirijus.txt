@@ -1,0 +1,1 @@
+tnorris, i've just edited 'location /ambassadors' to 'location /' in nginx

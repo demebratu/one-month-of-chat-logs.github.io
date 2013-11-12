@@ -1,0 +1,1 @@
+triple_des: "sucks for scalability" implies there's a bottleneck somewhere, Node.js doesn't have any bottlenecks by itself

@@ -1,0 +1,1 @@
+tjholowaychuk: services are the best way to encapsulate those kinds of pieces

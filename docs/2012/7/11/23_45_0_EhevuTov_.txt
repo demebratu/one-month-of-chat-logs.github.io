@@ -1,0 +1,1 @@
+livinded, jarr0dsz might want to use engine.io instead. It upgrades connections, instead of downgrading only, and is a drop in replacement for socket.io

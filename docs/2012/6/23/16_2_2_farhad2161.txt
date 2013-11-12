@@ -1,0 +1,1 @@
+hi, i am using socket.io but after about 2 hour it take 80% cpu usage,why? http://pastebin.com/3Be3ycae

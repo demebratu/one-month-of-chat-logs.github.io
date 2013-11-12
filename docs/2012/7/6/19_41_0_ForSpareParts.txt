@@ -1,0 +1,1 @@
+herzogharker: It doesn't seem to realize I have it installed. It is looking for a particular version -- do I have to put it in a subdirectory or something?

@@ -1,0 +1,1 @@
+But also keep in mind that Redis isn't "as" persistent as you think. So it depends on what you're doing.

@@ -1,0 +1,1 @@
+You can use require in a browser too, it just requires some setup for the files. There is nothing special to it

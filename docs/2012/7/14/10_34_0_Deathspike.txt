@@ -1,0 +1,1 @@
+Nexxy that's really horrible, I'd do like str.split(':')[0]

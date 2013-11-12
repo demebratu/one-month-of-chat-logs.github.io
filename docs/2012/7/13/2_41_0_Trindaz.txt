@@ -1,0 +1,1 @@
+zlib for uncompressing results from a webpage. i can't get it happening. gunzip is giving me a totally blank result. first question - how can I know what encoding to use on the buffer? assumer base64?

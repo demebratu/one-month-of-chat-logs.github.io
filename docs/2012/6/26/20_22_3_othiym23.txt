@@ -1,0 +1,1 @@
+or you could just have module.exports = function () {…} and then var myDuder = require('./mymodule'), but that's less idiomatic

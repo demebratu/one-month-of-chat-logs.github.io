@@ -1,0 +1,1 @@
+hi, I just built node on a sheevaplug, but I'm getting "glibc detected free(): invalid pointer" crashes on some of the tests and in npm - anyone know what could be causing this?

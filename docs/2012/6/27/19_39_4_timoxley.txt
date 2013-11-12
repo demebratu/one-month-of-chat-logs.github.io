@@ -1,0 +1,1 @@
+node's module system is proven to work reasonably well, it would make sense to start with something proven and figure out how to improve it more without introducing too much risk…

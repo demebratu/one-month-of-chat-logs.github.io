@@ -1,0 +1,1 @@
+I'm trying to automatically clean up a pidfile when my server exits, but when I ctrl-c the server none of my event handlers on process get called. I'm listening for 'exit', 'uncaughtException' and 'SIGTERM'.

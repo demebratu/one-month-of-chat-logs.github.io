@@ -1,0 +1,1 @@
+pretty much all you do is wrap it in a $.fn.pluginName = function() {

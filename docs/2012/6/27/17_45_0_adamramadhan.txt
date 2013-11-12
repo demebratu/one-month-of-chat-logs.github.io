@@ -1,0 +1,1 @@
+do we have to use RegExp for regex? when i do something like string.match(/regex/) i get an error no attribute

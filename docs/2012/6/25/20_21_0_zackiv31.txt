@@ -1,0 +1,1 @@
+is https://github.com/joyent/node always stable, i.e. 0.8.0 right now?

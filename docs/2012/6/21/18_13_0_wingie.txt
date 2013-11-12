@@ -1,0 +1,1 @@
+SubStack: I guess Browserify can't handle a LiveScript file as entry file?

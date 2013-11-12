@@ -1,0 +1,1 @@
+hichaelmart: i think net.Stream and fs.Stream both support it

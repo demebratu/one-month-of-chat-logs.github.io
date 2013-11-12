@@ -1,0 +1,1 @@
+compare, concat, beginswith, endswith, contains, trim, format, padleft/right, and so forth. BASIC OPERATIONS that are lacking in JS.

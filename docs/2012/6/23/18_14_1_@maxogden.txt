@@ -1,0 +1,1 @@
+SubStack: but it would be cool to figure out a delta algorithm for transmitting the images

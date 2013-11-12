@@ -1,0 +1,1 @@
+Like I have this app which makes a lot of API calls and I wonder should I upgrade it.

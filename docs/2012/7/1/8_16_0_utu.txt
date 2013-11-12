@@ -1,0 +1,1 @@
+had errors such 'express.router' instead of 'app.router', took 1h to catch, I wonder if there's a way to do static analysis on a code or something

@@ -1,0 +1,1 @@
+RLa: Thanks! But why isn't it directly http.ServerRequest.myfunc = function() { ... }; ?

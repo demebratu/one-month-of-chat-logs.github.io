@@ -1,0 +1,1 @@
+it's easier then setting up a temporary nginx thing in front

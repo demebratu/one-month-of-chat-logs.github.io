@@ -1,0 +1,1 @@
+Hmm. I'm guessing that functions themselves are never sent between the client and server in dnode; instead the callback on the client is called with the data that the server's callback invocation provided with it's arguments, correct?

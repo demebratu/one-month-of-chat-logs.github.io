@@ -1,0 +1,1 @@
+like, I just want to put that long running code in a thread, you know? but I don't get the "node way" to do that yet, haha

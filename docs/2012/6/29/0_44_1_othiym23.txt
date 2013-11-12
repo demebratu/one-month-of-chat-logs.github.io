@@ -1,0 +1,1 @@
+well, XML wasn't derived from SGML, for one thing

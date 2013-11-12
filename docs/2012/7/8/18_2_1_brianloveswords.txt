@@ -1,0 +1,1 @@
+So node is working perfectly fine in this example and starting from the middle but firefox can't understand that it's an ogg file since it doesn't have the bytes in the beginning saying "this is an ogg file" with all of the information about the file.

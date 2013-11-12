@@ -1,0 +1,1 @@
+how do i choose all elements of an array?

@@ -1,0 +1,1 @@
+not sure what problems utf8 would cause; my guess is there was something wrong with the code that I missed because I was too busy trying to get you to use buffers

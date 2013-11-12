@@ -1,0 +1,1 @@
+qubit[01]:any idea how to send data with reuest.post?

@@ -1,0 +1,1 @@
+I guess 3.umod(6) would be alright

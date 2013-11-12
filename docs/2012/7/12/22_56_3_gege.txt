@@ -1,0 +1,1 @@
+Hi guys, I'm a total newb, is there a recommended method to sync only *changes* to a large array over socket.io (and not have to write the logic myself)?

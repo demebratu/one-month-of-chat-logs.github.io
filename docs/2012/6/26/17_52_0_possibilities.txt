@@ -1,0 +1,1 @@
+interesting, tried a couple libs that copy a fs dir recursively and they both use lose execute perms on a file... any tips?

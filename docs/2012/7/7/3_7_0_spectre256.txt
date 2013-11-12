@@ -1,0 +1,1 @@
+hi all, i am running node.js 0.8.1, just wrote some new code, and node is crashing with a malloc error "pointer being freed was not allocated". i assume it is a race condition in my own code. any suggestions for how to debug it? i assume logging to the console is not reliable enough to poinpoint the problem in this case

@@ -1,0 +1,1 @@
+creationix: but what about runtime determined deps? like lazy loading from a directory of plugins/routers/etc

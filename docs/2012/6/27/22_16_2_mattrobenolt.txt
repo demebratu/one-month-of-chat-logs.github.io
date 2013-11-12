@@ -1,0 +1,1 @@
+tjholowaychuk: Yeah, I was looking for something smiliar to Django's test client, if you're familiar with that. It might even be something better to lodge right into Express.

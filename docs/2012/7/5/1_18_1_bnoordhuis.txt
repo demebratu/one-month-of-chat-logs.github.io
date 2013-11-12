@@ -1,0 +1,1 @@
+othiym23: there's a general mechanism, kprobes

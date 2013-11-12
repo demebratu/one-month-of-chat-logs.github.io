@@ -1,0 +1,1 @@
+you can set end to false to keep the stream open though

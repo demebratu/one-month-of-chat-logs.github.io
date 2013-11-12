@@ -1,0 +1,1 @@
+by your logic every method in your entire code base should be its own http server

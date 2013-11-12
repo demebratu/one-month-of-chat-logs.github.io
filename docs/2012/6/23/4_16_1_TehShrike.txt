@@ -1,0 +1,1 @@
+I don't want to have to debug major frameworks.  If something in jQuery doesn't work on this browser, we code around it.

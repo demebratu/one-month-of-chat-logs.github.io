@@ -1,0 +1,1 @@
+I hope they fix it through some clever hack on windows, not by making package naming case insensitive

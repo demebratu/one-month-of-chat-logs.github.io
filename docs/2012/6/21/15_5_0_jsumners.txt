@@ -1,0 +1,1 @@
+I'm trying to figure out a bug in my script, but I think my "console.log"s are getting issued out-of-order (not sure). Is there a better way of tracing a script through node.js?

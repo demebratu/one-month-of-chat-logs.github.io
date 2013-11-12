@@ -1,0 +1,1 @@
+what i'm trying to do is write code taht can either be a module or executed

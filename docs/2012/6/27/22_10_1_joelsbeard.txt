@@ -1,0 +1,1 @@
+can someone explain the significance of this? "binding = require('./daemon.' + process.version);" I keep getting an error that it can find the module for daemon.v0.8.0

@@ -1,0 +1,1 @@
+SubStack: the book has its good points though, lots of graphs and exmaples of stuff. plus i needed to get a better understanding of JS, i kinda jumped into JS from all the Java/C# work i do. So some of the info here, while i knew, is better explained

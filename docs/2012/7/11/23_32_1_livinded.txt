@@ -1,0 +1,1 @@
+just make sure you use pushState to update the url so reloads work

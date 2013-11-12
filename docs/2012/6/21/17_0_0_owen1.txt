@@ -1,0 +1,1 @@
+after reading this - https://groups.google.com/forum/?fromgroups#!topic/nodejs/WrkuKEco1O0 i made up my mind to learn the diffrence between classical, prototypal and functional OOP in javascript. here is my gist - http://pastebin.com/jn0Ht4jL  did i got it right? i still don't know what functional means or how it relates to classical or protytypal. any feedback is welcome.

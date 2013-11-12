@@ -1,0 +1,1 @@
+no, ambassadors is just a route to index.jade, and public is a folder with all the static files

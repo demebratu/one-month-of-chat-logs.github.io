@@ -1,0 +1,1 @@
+Well, my use case is this: I have a third party web app my node is proxying; it uses redis to notify socket.io clients of changes. Currently my node listens on redis channels and notifies any relevant clients.

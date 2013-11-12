@@ -1,0 +1,1 @@
+creationix: the continuables thing is kind of weird.  also, having two callbacks (one for error, one for succes) doubles the boilerplate

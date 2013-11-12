@@ -1,0 +1,1 @@
+maxogden: something along the lines of `$('input').createReadStream().pipe($('pre#target').createWriteStream())`

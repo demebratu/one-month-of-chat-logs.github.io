@@ -1,0 +1,1 @@
+@herzogharker, since node is a dynamic language, I find it fairly easy to just write custom mocks each time. That said, 'require' is a problem since we don't write our code to support dependency injection w/ Node. So, I wrote 'mockrequire'. Give it a look and feel free to let me know what you think. 

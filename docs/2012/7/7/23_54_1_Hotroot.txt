@@ -1,0 +1,1 @@
+I figured that was system dependent. I just want to get how full the buffer is

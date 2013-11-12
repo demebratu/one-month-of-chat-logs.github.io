@@ -1,0 +1,1 @@
+aheckmann: and the exception is TypeError: Object #<Promise> has no method 'findById' this time

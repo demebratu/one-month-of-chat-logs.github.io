@@ -1,0 +1,1 @@
+tjholowaychuk: fyi, express ~2 uses connect 1.0.1 if you are in node 0.8 as a dependency

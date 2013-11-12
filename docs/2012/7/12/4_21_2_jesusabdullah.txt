@@ -1,0 +1,1 @@
+dominictarr: It can take a stream as an argument

@@ -1,0 +1,1 @@
+client-side connection event is called 'connect' or 'connection' in socket.io?

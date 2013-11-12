@@ -1,0 +1,1 @@
+But that would be a lot easier if you made an iframe-ready page for embedding, ala the way you can embed Facebook "like" buttons anywhere

@@ -1,0 +1,1 @@
+I see npm being basically a piece of Node; I'm fine with either including npm as part of the Homebrew node distro, or as a standalone installer within Homebrew, but the current situation seems like the worst of all possible worlds

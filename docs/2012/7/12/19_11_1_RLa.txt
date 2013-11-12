@@ -1,0 +1,1 @@
+i would just use raw nfs (which osx should support very well)

@@ -1,0 +1,1 @@
+how do i get connect.logger to stream to a file.. i did stream: foo.log but it has no write method. do i need to invoke fs first?

@@ -1,0 +1,1 @@
+piscisaureus_ gave a very interesting talk on libuv at nodeconf, you should see if you can find it

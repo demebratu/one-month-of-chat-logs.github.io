@@ -1,0 +1,1 @@
+jesusabdullah: Oh, like if I were to cache all the sockets in a chatSockets object?

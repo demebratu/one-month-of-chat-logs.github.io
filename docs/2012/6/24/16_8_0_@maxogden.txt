@@ -1,0 +1,1 @@
+node-xmpp depends on tls and you cant make tls connections from a browser

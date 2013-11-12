@@ -1,0 +1,1 @@
+are modules in lib wrapped in a closure?

@@ -1,0 +1,1 @@
+othiym23: How else do you suppose I separate each controller and register cleanly, without scattering function definitions and uri handlers?

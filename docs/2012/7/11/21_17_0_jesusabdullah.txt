@@ -1,0 +1,1 @@
+Or, at least, that their answer to symlinks is bizarre and not quite semantically the same

@@ -1,0 +1,1 @@
+tom21: So, that javascript is in a highly optimised vm and the c++ is effectively outside that vm

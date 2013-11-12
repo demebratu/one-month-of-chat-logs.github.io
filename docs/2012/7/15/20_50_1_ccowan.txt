@@ -1,0 +1,1 @@
+then you will need to forward your ports from your router to your VM 

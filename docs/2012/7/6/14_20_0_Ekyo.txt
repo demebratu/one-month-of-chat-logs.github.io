@@ -1,0 +1,1 @@
+I don't want to send every notification to either 1 or all users, should I keep a list of the connections to notify in a group inside nodejs, or should I do it in redis?

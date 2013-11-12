@@ -1,0 +1,1 @@
+I need to build a websocket-like connection between two Nodes (a stream of messages over a connection)... anyone know of a good package to use?

@@ -1,0 +1,1 @@
+I expect test not to become undefined in any circumstance when used within obj

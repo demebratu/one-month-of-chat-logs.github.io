@@ -1,0 +1,1 @@
+Let me hobble together a patch and we'll go from there. I'm sure I'll miss some cases with the browser or something.

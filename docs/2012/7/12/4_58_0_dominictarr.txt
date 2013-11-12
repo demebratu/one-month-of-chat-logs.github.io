@@ -1,0 +1,1 @@
+https://github.com/dominictarr/event-stream#split-matcher

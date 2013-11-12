@@ -1,0 +1,1 @@
+mmalecki: I was playing around with custom string objects. You could do something like: c('string').red.bold.raw.split('')

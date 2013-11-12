@@ -1,0 +1,1 @@
+altsmrz: yeah I'm using connect-redis for sessions right now. haven't gotten around to tying socket.io to it yet but I'm still wary of what other information socket.io stores about the client in redis by itself

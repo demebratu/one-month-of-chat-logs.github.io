@@ -1,0 +1,1 @@
+SubStack: yes, that's true, import Foo from "foo.js" does cause the module to have to name Foo, and the client would have to explicitly rename. that's true that that is a downside compared to Node

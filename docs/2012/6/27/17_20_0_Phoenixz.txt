@@ -1,0 +1,1 @@
+On my node.js dev machine, all of the sudden, localhost/socket.io/socket.io.js no longer gives me the socket.io javascript file... What could be the cause of this? I have not made any changes related to the socket.io interface, it just suddenly stopped working.. really.. weird..

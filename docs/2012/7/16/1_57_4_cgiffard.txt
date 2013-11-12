@@ -1,0 +1,1 @@
+Noldorin: Try that, removing minify, and reinstalling it again. Might work fine - fingers crossed! :)

@@ -1,0 +1,1 @@
+im using faye a wrapper for bayoux protocol but not sure how to implement an ack feature i need a method to check if data is delivered from server to client correctly

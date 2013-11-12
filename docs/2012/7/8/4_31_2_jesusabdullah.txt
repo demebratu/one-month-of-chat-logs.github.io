@@ -1,0 +1,1 @@
+forever is nice for running lots of things that don't need human interaction

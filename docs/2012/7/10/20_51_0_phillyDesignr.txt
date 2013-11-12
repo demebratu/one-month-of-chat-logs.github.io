@@ -1,0 +1,1 @@
+say i had catIds = an array of ids then i wanted to update docs based on those ids how would i extend this to update said docs - Category.find().where("_id").in(catIDs).exec (err,docs) ->

@@ -1,0 +1,1 @@
+yea you can use streams for that

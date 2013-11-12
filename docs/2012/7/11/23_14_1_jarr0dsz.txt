@@ -1,0 +1,1 @@
+what technology do in need to prevent this? just socket.io?

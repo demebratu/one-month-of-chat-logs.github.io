@@ -1,0 +1,1 @@
+darrenlooby life will be a lot easier if you use express/connect. just drop in the body parser and you will have access to the post variables like magic

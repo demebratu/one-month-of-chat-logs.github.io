@@ -1,0 +1,1 @@
+hey. how can I disable logging when using forever?

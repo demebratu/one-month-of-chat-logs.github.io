@@ -1,0 +1,1 @@
+The idea is using an outer object with a database reference as a factory for objects that manipulate some high level concepts in the database

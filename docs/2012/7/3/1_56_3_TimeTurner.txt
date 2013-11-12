@@ -1,0 +1,1 @@
+and console.log() automatically does a toString() on any object passed so that wouldn't have worked wither

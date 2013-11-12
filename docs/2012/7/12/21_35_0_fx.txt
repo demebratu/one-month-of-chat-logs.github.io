@@ -1,0 +1,1 @@
+I only need two transports. It doesn't make sense for my app to use any others (long polling, flash sockets, etc)

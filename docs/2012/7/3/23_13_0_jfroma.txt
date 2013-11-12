@@ -1,0 +1,1 @@
+hi, i am having problems with httpS... I have my options object as {key: fs.readFileSync(...my.key), cert: fs.readFileSync("...my.pem"), ca: [ fs.readFileSync("ca1.pem"), ca2.pem] }... however when i go from the browser.. it seems that it cant load the chain of certificates just mycert.pem

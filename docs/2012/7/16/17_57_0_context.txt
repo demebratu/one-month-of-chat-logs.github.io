@@ -1,0 +1,1 @@
+rla: and funny old project guy thought that was secure. flash/flex app he was doing the query in the flex app, sending it to the j2ee app and was always like "its completely safe against sql injection"

@@ -1,0 +1,1 @@
+so if I used the wrong case I'd get a 301 pointing me to a url that was identical except all lower case

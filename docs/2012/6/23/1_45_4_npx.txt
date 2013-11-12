@@ -1,0 +1,1 @@
+So, I'm writing a single-page application with backbone.js and node.js and I've got things to a point where I want to add authentication, but I'm not sure what approach to take. I'd like the API to be usable with other clients... any suggestions?

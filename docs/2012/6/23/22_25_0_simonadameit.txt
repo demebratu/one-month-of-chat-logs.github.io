@@ -1,0 +1,1 @@
+is JSON.parse(..) in any way dependent on the context?

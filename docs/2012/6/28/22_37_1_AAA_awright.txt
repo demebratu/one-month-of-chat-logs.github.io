@@ -1,0 +1,1 @@
+XML is for markup. Places where you need <i>inline</i> annotation of information.

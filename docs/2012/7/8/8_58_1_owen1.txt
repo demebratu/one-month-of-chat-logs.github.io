@@ -1,0 +1,1 @@
+AAA_awright: ok. so the %100 usage is not specific to node but to any app on a machine?

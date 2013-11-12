@@ -1,0 +1,1 @@
+multiple streams, or composite streams are a really severe problem for the browsers

@@ -1,0 +1,1 @@
+there was (and maybe still is) a bug in hibernate where it fails to serialize/deserialize plain integers in sets

@@ -1,0 +1,1 @@
+But serving byte-ranges like you're doing now won't be able to be passed along to nginx. So your best bet is to just write a little script to make the files.

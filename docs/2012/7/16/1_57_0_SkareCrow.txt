@@ -1,0 +1,1 @@
+are you using debugger; to create the breakpoint? did you try using console.log() prior to the breakpoint to ensure it's even hitting that line?

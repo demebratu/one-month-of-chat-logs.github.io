@@ -1,0 +1,1 @@
+owen1, IMO connections will have timeout. Its a good pratice to tear up and tear down the connection whenever you need it. 

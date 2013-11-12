@@ -1,0 +1,1 @@
+hi, anyone knows how to close redis connection  on redis-client ?

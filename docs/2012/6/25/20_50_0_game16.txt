@@ -1,0 +1,1 @@
+how does it work? Just install ejs and replace the jade files with ejs files? 

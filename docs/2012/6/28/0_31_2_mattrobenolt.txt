@@ -1,0 +1,1 @@
+TehShrike: If you're considering making my CLI arguments as JSON, I'd have to agree. ;)

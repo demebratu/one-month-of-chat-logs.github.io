@@ -1,0 +1,1 @@
+but engines are a different category of software from libraries in node because of the ability to have conflicting versions of libraries

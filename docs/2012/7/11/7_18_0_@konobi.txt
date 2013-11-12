@@ -1,0 +1,1 @@
+node-inspector may also be able to tell you stuff via heap snapshots to know where objects might be getting held

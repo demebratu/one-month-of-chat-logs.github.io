@@ -1,0 +1,1 @@
+hello, I'm using flapjax clientside and node.js server side, I have a problem with making post requests via flapjax's getWebServiceObjectE function

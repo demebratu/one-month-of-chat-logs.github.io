@@ -1,0 +1,1 @@
+augustl: How would I go about calling a function on every result of a multi-row database query, then? for (var i = 0; i < array.length; i++) ?

@@ -1,0 +1,1 @@
+for example, I've installed db-migrate, which provides a db-migrate command, but I either have to globally install, or run ./node_modules/.bin/db-migrate

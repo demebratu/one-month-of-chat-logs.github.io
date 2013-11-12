@@ -1,0 +1,1 @@
+anyway, I'm with tjholowaychuk: I just use the up arrow instead of mocha --watch

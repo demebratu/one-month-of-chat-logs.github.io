@@ -1,0 +1,1 @@
+farhad2161: Which part is taking 80% CPU? 80% of the server? Or the browser running the client?

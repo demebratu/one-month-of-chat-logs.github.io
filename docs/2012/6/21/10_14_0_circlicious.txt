@@ -1,0 +1,1 @@
+i am just wondering whether i should use jquery here or write the ajax code in plain JS heh

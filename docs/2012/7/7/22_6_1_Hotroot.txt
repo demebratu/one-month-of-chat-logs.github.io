@@ -1,0 +1,1 @@
+RLa: OpenVZ is often cheaper because OpenVZ VPS allow some resource sharing

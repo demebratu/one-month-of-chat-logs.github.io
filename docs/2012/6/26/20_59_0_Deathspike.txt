@@ -1,0 +1,1 @@
+othiym23: If I would deploy mono .net on linux using a single-threaded http server with asynch passing, wouldn't I get a higher performance and even lower latency?

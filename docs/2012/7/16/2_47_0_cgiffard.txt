@@ -1,0 +1,1 @@
+timoxley: Maybe I'm way off base here. But if you're throwing an error uncaught on the previous line in your test definition, how does the expect() line ever run?

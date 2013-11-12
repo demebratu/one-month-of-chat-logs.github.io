@@ -1,0 +1,1 @@
+prettyrobots: Ie. the classic bank account problem where you need to add 10 amounts to a bank account balance and the order will change time, but the end balance after applying the increments should be the same.

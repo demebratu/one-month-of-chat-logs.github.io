@@ -1,0 +1,1 @@
+dherman: I have a bad feeling about module foo at "http://...", but I can't put the finger on it 

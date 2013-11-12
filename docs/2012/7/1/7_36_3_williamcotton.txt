@@ -1,0 +1,1 @@
+yeah, I use the hiredis lib in C a lot, it's great

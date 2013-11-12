@@ -1,0 +1,1 @@
+Uh weird. I added the require v8-profile but i'm not seeing it in the debugger after restarting node

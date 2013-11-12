@@ -1,0 +1,1 @@
+williamcotton: forget that, looks like only node-redis is recommended

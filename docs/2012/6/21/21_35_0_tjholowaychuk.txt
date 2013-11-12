@@ -1,0 +1,1 @@
+that will json-stringify it for you and set the content-{type,length} etc

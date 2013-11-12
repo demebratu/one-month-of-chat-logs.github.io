@@ -1,0 +1,1 @@
+question about using async i/o (promise to shut up after that) - if there is only 1 thread, and i make an async operation. this operation got to be executed sometime. when this operation is being executed, how can my main app still be working?

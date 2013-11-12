@@ -1,0 +1,1 @@
+othiym23: Yes, I'm mainly looking for information about a clean (or proper way) to define controllers, routing, views, and so forth. I've spend most of my day looking into NodeJS and Express, but there is *so much available* I don't really know what's popular, or good, etc.

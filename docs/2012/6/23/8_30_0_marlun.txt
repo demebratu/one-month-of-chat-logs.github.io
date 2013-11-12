@@ -1,0 +1,1 @@
+How do I handle dependencies in browserify.js if I don't want to use xxx-browserify npm modules (since they don't exist for all my depenendencies). Backbone.js/jQuery does exist but lets say it didn't. How do I tell browserify it's a dependency for the rest of the code and i need it loaded?

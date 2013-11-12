@@ -1,0 +1,1 @@
+no, im showing Nexxy how folders in directories above . take precedence over ./node_modules if its not created

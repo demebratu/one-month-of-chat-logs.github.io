@@ -1,0 +1,1 @@
+perhaps someone with more knowledge than me can help me out here... in my template, im loading /css/style.css but in my node app.js, I want /css/style.css to actually be served from /themes/beta/css/style.css  is there a express route regex to catch all css, js, and img files to load from a theme dir?

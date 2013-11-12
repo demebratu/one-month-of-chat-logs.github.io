@@ -1,0 +1,1 @@
+Nexxy: well, is it a commong thing that executing a bin is going to be slower than doing the same thing by requiring the code and calling the functions to do the same job ? maybe because bin executes another process ?

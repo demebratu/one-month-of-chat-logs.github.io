@@ -1,0 +1,1 @@
+lpin, can't you just make a chain of them and add the auth to the top?

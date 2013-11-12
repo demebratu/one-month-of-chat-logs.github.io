@@ -1,0 +1,1 @@
+anyone know how to create a stream from a string? I'm trying to use a csv parser that requires a stream but I can't write to disk on host

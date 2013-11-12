@@ -1,0 +1,1 @@
+owen1: The node.js c++ code that binds everything to the v8 engine keeps track of the callbacks etc.

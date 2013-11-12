@@ -1,0 +1,1 @@
+bnoordhuis: I'm getting color when I write ANSI color escape sequences to STDOUT in PowerShell.

@@ -1,0 +1,1 @@
+merjman: so i think most of the time only 1 thread will be used to recieve requests. but maybe if u get too many requests, more thread will accept requests?

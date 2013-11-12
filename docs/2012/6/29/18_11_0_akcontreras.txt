@@ -1,0 +1,1 @@
+Hi. How can I switch to a different version of python? "./configure" give me error. I Already do "export PYTHON = `which python2.7`" and "export PYTHONHOME = '/usr/local/bin'" I appreciate the help. The main python is 2.4.3.

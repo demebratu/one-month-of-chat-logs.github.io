@@ -1,0 +1,1 @@
+AFAIK the Minecraft protocol hasn't even changed since the guy wrote this.

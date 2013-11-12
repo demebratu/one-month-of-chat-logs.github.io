@@ -1,0 +1,1 @@
+if you installed from a repo initially, then installed a compiled version, just remove the one you installed from the repo

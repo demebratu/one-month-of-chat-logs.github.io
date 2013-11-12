@@ -1,0 +1,1 @@
+Spion: But doesn't node-cron die when the process dies? It doesnt seem to have any persistence

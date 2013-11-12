@@ -1,0 +1,1 @@
+TGYoshi: new Buffer(str, "utf8")

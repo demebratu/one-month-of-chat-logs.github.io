@@ -1,0 +1,1 @@
+jesusabdullah: yeah, but Go's model is a superset of Node's

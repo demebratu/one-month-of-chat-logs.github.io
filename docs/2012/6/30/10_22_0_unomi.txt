@@ -1,0 +1,1 @@
+reloading the config file will remove the ones not in the file, leave the ones that are already instantiated, and create the ones in the file but not instantiated

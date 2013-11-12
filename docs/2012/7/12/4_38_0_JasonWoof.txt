@@ -1,0 +1,1 @@
+I've tried all kinds of things like this: node --debugger --remote_debugging --debugger_port=5858

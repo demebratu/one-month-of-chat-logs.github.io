@@ -1,0 +1,1 @@
+owen1: yeah, althouth the data coming in will probably be a Buffer, so you'll either need to convert it to a string, or call req.setEncoding('utf-8') first

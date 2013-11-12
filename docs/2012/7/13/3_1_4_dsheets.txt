@@ -1,0 +1,1 @@
+I get "RangeError: Maximum call stack size exceeded". How do I get node to show me the stack? Passing debug causes and assertion error.

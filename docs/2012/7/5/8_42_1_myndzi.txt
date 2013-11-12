@@ -1,0 +1,1 @@
+and it separates the cookie from some other info with semicolons

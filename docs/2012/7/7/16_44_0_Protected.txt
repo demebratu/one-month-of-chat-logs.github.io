@@ -1,0 +1,1 @@
+tjholowaychuk: All I could learn from the stack trace (2 lines) is that it's somewhere in node-mysql. All callbacks sent to node-mysql are defined (there are only 5 of them, I checked multiple times). I'm confused now :/ What's "apply" supposed to be, anyway?

@@ -1,0 +1,1 @@
+it's already fast enough, even over wifi, that I can't perceive the difference from when I hit enter on the readline interface and when the device reacts

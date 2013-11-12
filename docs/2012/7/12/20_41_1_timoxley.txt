@@ -1,0 +1,1 @@
+motiooon_ waterfall is useful if you need result of previous command for next command. is that what you need?

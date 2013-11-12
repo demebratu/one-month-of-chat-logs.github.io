@@ -1,0 +1,1 @@
+tilleps, I think I had that problem, sid = $HASH.$RANDOM ?

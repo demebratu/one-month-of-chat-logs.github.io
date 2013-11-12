@@ -1,0 +1,1 @@
+modularity via an npm module and an http service is effectively the same thing

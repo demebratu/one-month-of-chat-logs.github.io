@@ -1,0 +1,1 @@
+Haha, the main problem I have with working w/ Node is the fact that IDE's are all so horrible. No code completion whatsoever, so whenever I need to learn I have to dive into documentation (that's often not very good). This is going to be a godsend *downloading*

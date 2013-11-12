@@ -1,0 +1,1 @@
+hey guys, I have a question about socket.setTimeout()–should a TCP keepalive from the other end reset the timer?

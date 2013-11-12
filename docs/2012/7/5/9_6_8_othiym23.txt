@@ -1,0 +1,1 @@
+owen1: it takes a while, but if you can wrap your head around events and streams and the notion of an event queue handling all of your work, it gets to feel much more natural and you stop worrying about the low-level implementation details

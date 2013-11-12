@@ -1,0 +1,1 @@
+(There's really no Controller, and "View" is mostly "Template plus glue code" in those systems.)

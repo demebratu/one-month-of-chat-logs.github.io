@@ -1,0 +1,1 @@
+yeah, it's a computationally cheap alternative to define(['one', 'two'], function(one, two)

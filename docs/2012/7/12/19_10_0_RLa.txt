@@ -1,0 +1,1 @@
+victusfate, try /etc/init.d/virtualbox-guest-utils restart on guest

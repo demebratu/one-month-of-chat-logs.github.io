@@ -1,0 +1,1 @@
+dominictarr: also i had to es.pipe two es.pipe's or else i'd sometimes get writable=false on the last stream before some writes made it through that should have, im not sure if thats a bug or how i'm using it

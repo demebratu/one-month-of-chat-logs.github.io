@@ -1,0 +1,1 @@
+is sticky-session compatible with Node 0.8.0?

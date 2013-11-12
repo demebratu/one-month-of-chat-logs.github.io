@@ -1,0 +1,1 @@
+since so much of node's api is built on top of eventemitters, domains are likewise both possible (smotly) due to it, and oriented around them

@@ -1,0 +1,1 @@
+TimeTurner http://nodejs.org/api/all.html#all_util_inherits_constructor_superconstructor https://github.com/joyent/node/blob/master/lib/util.js#L521

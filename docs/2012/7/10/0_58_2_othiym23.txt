@@ -1,0 +1,1 @@
+I've spent an embarrassing amount of time on my zsh prompt

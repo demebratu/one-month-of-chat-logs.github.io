@@ -1,0 +1,1 @@
+radiodario: I've now fixed the node-scribe package to support current node versions :)

@@ -1,0 +1,1 @@
+seems like you would have to do some kind of whitelisting, but even then it would be a nightmare to secure well

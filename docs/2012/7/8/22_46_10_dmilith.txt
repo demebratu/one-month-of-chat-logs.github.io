@@ -1,0 +1,1 @@
+ /etc/hosts: UTF-8 Unicode English text

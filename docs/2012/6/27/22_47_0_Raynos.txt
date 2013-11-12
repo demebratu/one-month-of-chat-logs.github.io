@@ -1,0 +1,1 @@
+SubStack: how do you set it to a nobody without hard coding strings?

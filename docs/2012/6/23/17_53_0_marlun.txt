@@ -1,0 +1,1 @@
+I still don't get it, the concat of jquery etc and putting it before the browserify code do you mean I should do that manually or is that something browserify can do for me?

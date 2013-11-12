@@ -1,0 +1,1 @@
+As opposed to if you did: for(var parent_i=0; ...) (function(i){ ... })(parent_i);

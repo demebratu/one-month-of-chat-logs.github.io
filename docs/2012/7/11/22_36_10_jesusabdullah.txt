@@ -1,0 +1,1 @@
+pawn: No. nowjs depends on socket.io. dnode used to depend on socket.io but is now a stream interface only.

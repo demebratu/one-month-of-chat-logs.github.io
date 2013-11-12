@@ -1,0 +1,1 @@
+if im in this function .. and the first if statement is true, and callback() gets called, can line 10 still be called?

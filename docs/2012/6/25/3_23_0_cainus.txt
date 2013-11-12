@@ -1,0 +1,1 @@
+hey all... anyone have a recommendation for a protocol for a persistent connection containing binary streams between two node apps?

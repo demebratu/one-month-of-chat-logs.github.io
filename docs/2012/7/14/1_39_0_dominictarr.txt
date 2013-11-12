@@ -1,0 +1,1 @@
+pulled out the framing stuff and put it into https://github.com/dominictarr/msgpack-stream

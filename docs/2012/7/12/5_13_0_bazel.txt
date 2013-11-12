@@ -1,0 +1,1 @@
+client -> node is in LAN, node -> server is secure. and it's only for a while 

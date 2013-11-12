@@ -1,0 +1,1 @@
+staar2: check out JSDOC or YUIDoc

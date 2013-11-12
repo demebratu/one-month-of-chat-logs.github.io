@@ -1,0 +1,1 @@
+It says debug mode has to be enabled

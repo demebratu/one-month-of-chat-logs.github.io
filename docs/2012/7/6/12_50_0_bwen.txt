@@ -1,0 +1,1 @@
+so i'm trying to please JSLint with this peice of code: http://pastie.org/4209961

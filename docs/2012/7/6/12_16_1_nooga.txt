@@ -1,0 +1,1 @@
+and the http is for serving images 

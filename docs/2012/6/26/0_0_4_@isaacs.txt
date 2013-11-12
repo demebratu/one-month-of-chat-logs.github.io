@@ -1,0 +1,1 @@
+fatfatfat: but on 0.8, you'll see 'exit' happen before stdout and stderr are ended

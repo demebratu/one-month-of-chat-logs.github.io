@@ -1,0 +1,1 @@
+any opinions from the node community for this: http://jsperf.com/fors-vs-while/28 ?

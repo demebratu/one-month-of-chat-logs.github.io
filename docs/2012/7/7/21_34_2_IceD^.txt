@@ -1,0 +1,1 @@
+there is func in stdlib for that, I'm pretty sure

@@ -1,0 +1,1 @@
+Deathspike add app.use(function(req, res){ res.send(404) }) at the bottom

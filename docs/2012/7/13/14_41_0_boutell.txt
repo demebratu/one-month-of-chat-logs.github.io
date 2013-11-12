@@ -1,0 +1,1 @@
+arinel: open-ended "I might do this or this or this" questions rarely have clean answers. But this is interesting: http://www.senchalabs.org/connect/middleware-vhost.html

@@ -1,0 +1,1 @@
+isaacs: it sets the readonly bit when you take away write permissions from everyone

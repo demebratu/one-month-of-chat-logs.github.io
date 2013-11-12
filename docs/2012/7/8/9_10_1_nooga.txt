@@ -1,0 +1,1 @@
+I'm trying to start repl with following configuration: repl.start({prompt: '>' ,useGlobal: true, tty: true});

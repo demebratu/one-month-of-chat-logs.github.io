@@ -1,0 +1,1 @@
+jetienne: I prefer the if () version. More readable

@@ -1,0 +1,1 @@
+I've spawned a child process and from this child process I need to make a call to the powershell. If I make the call from the main process it works but from the child process it always tells me "Command:failed: CreateProcessW: The System coudn't find the file"

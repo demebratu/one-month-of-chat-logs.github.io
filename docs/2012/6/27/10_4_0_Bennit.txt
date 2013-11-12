@@ -1,0 +1,1 @@
+in your app.js, you have app.use(express.bodyParser()) right?

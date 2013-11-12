@@ -1,0 +1,1 @@
+Node defers reads and writes to a thread pool. And so you can't really rely on order between different low level file or socket handles.

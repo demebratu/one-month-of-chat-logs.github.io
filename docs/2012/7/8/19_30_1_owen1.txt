@@ -1,0 +1,1 @@
+Glenjamin: so the answer is yes, http.request returns an event emitter with data and end events. 

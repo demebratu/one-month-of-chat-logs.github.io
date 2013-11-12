@@ -1,0 +1,1 @@
+Hotroot, I highly recommend you look into streaming and piping. If you do the buffer += buffer, you're putting a lot of stuff in memory when instead you maybe could be processing it further down your pipe

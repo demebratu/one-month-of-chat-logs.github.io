@@ -1,0 +1,1 @@
+is there anything wrong with my code here? http://pastie.org/4193688 it sends a blank object

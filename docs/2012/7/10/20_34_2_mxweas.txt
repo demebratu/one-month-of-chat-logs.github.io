@@ -1,0 +1,1 @@
+not sure if node already intercepts SIGINT and sugar coats it for you

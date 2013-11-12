@@ -1,0 +1,1 @@
+so, like, in hook.io, suppose there are hooks (servers) a, b and c

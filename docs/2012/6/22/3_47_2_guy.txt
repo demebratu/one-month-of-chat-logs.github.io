@@ -1,0 +1,1 @@
+how to kill node instance if ctrl+c or q, doesn't work? only through pid killprocess?

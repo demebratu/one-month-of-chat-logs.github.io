@@ -1,0 +1,1 @@
+Is it acceptable practice now to run node applications on port 80, and drop root privileges with process.setgid/setuid?

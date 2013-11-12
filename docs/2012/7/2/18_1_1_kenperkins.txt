@@ -1,0 +1,1 @@
+im so jealous of nhibernate. I wish someone ported it to node

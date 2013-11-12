@@ -1,0 +1,1 @@
+(`Number.prototype.times = function(fn) { return new Array(+this).forEach(fn) }`, but that's not possible due to forEach ignoring holes.)

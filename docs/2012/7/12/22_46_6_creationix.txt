@@ -1,0 +1,1 @@
+function doAwesomeAsyncThing(has, many, args...) { return (cb, eb) { ... } }

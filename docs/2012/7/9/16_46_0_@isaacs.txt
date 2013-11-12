@@ -1,0 +1,1 @@
+edsko: npm bugs azure <-- run and then post the issue in your web browser that opens

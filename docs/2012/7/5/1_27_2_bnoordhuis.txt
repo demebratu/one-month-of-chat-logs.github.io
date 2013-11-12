@@ -1,0 +1,1 @@
+__peterbraden: no, not really. the solution we use in node is to wrap it in a python script

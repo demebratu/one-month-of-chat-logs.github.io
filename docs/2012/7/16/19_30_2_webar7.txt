@@ -1,0 +1,1 @@
+for a longish time ... when usere stores a location it goes to postgresql for long term "saved" config

@@ -1,0 +1,1 @@
+hm, i have gcc 4.2.x here and running 0.8

@@ -1,0 +1,1 @@
+it wont, but then you should create the content server side and enhance it via js

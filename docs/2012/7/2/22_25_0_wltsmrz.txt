@@ -1,0 +1,1 @@
+Like I say, the important thing is that connect-redis uses (by default) the 'sess:' prefix for session keys

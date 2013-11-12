@@ -1,0 +1,1 @@
+Deathspike, basically you need to decide whether you're happy to do without any customers who don't have those other auth provider accounts -or- who don't understand delegated auth and get blocked.

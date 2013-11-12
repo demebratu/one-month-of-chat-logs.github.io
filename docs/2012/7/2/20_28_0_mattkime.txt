@@ -1,0 +1,1 @@
+i was overthinking this. the child process will closewith the parent

@@ -1,0 +1,1 @@
+out of curiosity, is there an easy way to detect whether stdin is a pipe?

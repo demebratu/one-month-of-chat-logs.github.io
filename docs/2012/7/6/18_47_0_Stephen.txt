@@ -1,0 +1,1 @@
+If I'm understanding right, you're loading socket.io.js from the server on the client, but you're getting served a blank document.

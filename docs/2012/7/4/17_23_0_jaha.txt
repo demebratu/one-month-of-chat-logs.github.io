@@ -1,0 +1,1 @@
+TimeTurner: well im trying to use node to manage the current "state" of the software on the machine, there are some shell scripts being managed by upstart but are independant of node so id like to be able to update those scripts and their upstart scripts through node

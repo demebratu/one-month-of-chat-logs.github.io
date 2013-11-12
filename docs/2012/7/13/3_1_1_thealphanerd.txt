@@ -1,0 +1,1 @@
+then all the sensor stuff into a library with a basic api that can be extended

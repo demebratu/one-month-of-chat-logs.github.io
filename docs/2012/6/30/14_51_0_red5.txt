@@ -1,0 +1,1 @@
+this the message when i try to install db-mysql -> "sh "-c" "node-waf configure build"` failed with 127"

@@ -1,0 +1,1 @@
+Well the thing is you probably shouldn't have globals which are used across modules

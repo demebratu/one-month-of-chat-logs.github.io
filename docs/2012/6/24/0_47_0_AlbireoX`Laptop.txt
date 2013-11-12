@@ -1,0 +1,1 @@
+Hi, how can I retrieve models in Mongoose from the database as Models, not just plain objects? I want to have methods on the returned objects.

@@ -1,0 +1,1 @@
+any idea what EV_ERROR would be in pg's binding.cc ? appears to be undefined

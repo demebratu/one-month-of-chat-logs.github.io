@@ -1,0 +1,1 @@
+node: Nathan Rajlich v0.8 * rd3d83d7 / (src/node.cc test/simple/test-process-hrtime.js): process: throw a TypeError when anything but an Array is passed to hrtime() - http://git.io/9ahepg

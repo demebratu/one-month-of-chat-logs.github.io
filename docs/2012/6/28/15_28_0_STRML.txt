@@ -1,0 +1,1 @@
+Well, I've been using the "Fetch as Google" tool in Webmaster tools and it unfortunately doesn't seem to be running any JS

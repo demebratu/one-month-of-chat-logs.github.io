@@ -1,0 +1,1 @@
+lpin: Thanks.  Now that I look both current nodejs and nodejs-devel macports have the --without-npm option so I'm assuming I installed it without knowing.

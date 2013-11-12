@@ -1,0 +1,1 @@
+playing around with how best to test including code coverage, so far jscoverage works but its a bit dated

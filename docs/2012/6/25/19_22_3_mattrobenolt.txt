@@ -1,0 +1,1 @@
+emilsedgh_: For most people, they're not goign to notice the difference between serving a file from node or nginx. But you speciically asked about scaling.

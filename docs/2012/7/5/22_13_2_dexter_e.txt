@@ -1,0 +1,1 @@
+I will check it again , it did seem to work after I installed  node-gyp

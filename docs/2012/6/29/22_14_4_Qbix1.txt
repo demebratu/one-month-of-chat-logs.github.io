@@ -1,0 +1,1 @@
+we wouldn't, but the framework's Q.listen is promising to its clients to return something which extends httpServer

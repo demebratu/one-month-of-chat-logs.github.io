@@ -1,0 +1,1 @@
+myndzi: cache in memory sounds nice since it's faster than db. can i use a simple js array or hash that is part of the node.js server.js?

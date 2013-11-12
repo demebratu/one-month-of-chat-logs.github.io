@@ -1,0 +1,1 @@
+but the transports backend shit is sweet because you can hook your logs up with a winstond and then query the winstond server later

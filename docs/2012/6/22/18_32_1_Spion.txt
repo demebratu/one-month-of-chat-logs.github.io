@@ -1,0 +1,1 @@
+oops thats not quite right. I have an external machine ping my server every 5 minutes.

@@ -1,0 +1,1 @@
+@TheDahv result: nvm: install v0.8.0 failed!

@@ -1,0 +1,1 @@
+Looks awesome. I found the code. Answers my question. You add workers to an array of callbacks and then call them back once the lock is released. I'll go with that for now. Thanks! Looks like an awesome project.

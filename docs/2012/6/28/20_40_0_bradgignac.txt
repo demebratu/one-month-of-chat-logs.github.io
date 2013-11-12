@@ -1,0 +1,1 @@
+strax: have you looked at node-elementtree?

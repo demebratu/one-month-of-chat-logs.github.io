@@ -1,0 +1,1 @@
+Deathspike: any idea why my socket.io sample chat not working with FF? 

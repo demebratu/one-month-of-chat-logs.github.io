@@ -1,0 +1,1 @@
+I'd probably want a test runner similar to the one in node-tap

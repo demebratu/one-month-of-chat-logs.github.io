@@ -1,0 +1,1 @@
+anyways don't use optimist as an example of good code or anything

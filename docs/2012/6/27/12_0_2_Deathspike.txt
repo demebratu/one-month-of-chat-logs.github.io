@@ -1,0 +1,1 @@
+Apathetic: Note that, being a Windows-user myself, I tried running 'node' directly in command prompt.

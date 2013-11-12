@@ -1,0 +1,1 @@
+hmm i updated to 0.8.0 and now node 'cant find module "debug"'

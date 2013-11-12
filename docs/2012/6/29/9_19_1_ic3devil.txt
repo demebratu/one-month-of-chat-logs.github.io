@@ -1,0 +1,1 @@
+hello guys. is there any option to increment in async.parallel? http://pastebin.com/fSLHVDHp

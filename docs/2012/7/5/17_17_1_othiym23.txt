@@ -1,0 +1,1 @@
+owen1: the streaming and fs APIs remained mostly stable between 0.6 and 0.8, there were just a couple methods that moved from the path module into fs

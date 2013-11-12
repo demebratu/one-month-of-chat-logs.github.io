@@ -1,0 +1,1 @@
+cgiffard: indeed. echo $NODE_PATH returns /usr/local/lib/node_modules

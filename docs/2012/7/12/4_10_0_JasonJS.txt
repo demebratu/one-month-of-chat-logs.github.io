@@ -1,0 +1,1 @@
+jesusabdullah: nssocket looks nice and simple. You were saying you use it in production? How is it's stability and 'reconnect'ability?

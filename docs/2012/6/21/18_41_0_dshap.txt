@@ -1,0 +1,1 @@
+AAA_awright: i still don't understand…calling that external function is executing the same code that sets up the callback

@@ -1,0 +1,1 @@
+and yes you should be using sockets with node

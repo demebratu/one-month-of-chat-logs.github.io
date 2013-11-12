@@ -1,0 +1,1 @@
+I think you can use a basic createServer and use exec to run external code from within its callback.

@@ -1,0 +1,1 @@
+peewee: well there's require.resolve(), but that still throws when the module isn't found

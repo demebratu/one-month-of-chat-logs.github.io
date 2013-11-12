@@ -1,0 +1,1 @@
+klaemo: other then that, learn by doing. Read max's, mikeal's, substacks, dominictarr's, isaacs's stream based modules

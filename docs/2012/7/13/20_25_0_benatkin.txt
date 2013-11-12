@@ -1,0 +1,1 @@
+I prefer unindented auto-wrapping of commonjs with the simplified syntax

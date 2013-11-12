@@ -1,0 +1,1 @@
+What's a stable tool (for node 0.8.0) to use on a production server to reboot the thing if / when it crashes

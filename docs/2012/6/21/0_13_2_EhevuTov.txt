@@ -1,0 +1,1 @@
+I was doing domain name checking in a recursive loop for like a,aa,aaa,b,bb,bbb

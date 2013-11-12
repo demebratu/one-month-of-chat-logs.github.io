@@ -1,0 +1,1 @@
+Am I understanding correctly that http.request in v0.8 works off it's own pool of HTTP connections?

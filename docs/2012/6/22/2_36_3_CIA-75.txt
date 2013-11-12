@@ -1,0 +1,1 @@
+node: isaacs v0.8.0-release * r5f24f09 / (102 files in 8 dirs): npm: Upgrade to 1.1.31 - http://git.io/loOQ3w

@@ -1,0 +1,1 @@
+var data = ''; res.on('data', function (buf) { data += buf }); res.on('end', function () { /* now do stuff with data */ })

@@ -1,0 +1,1 @@
+yawnt, btw, zone.ee is also doing hosting and once they mass replaced all strings in hosted files that looked like mysql username/password

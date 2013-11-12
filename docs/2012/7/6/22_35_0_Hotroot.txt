@@ -1,0 +1,1 @@
+string.length would only be useful after I have the string

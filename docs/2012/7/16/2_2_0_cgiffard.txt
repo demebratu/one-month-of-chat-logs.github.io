@@ -1,0 +1,1 @@
+Noldorin: Did you try reinstalling the minifier with the new path env in place?

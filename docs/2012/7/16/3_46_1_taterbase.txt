@@ -1,0 +1,1 @@
+using an address with a prefix other than www throws errors

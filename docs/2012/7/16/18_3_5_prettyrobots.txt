@@ -1,0 +1,1 @@
+But, point taken. One could just accept an SQL string.

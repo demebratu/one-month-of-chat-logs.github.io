@@ -1,0 +1,1 @@
+The primary problem you'd have porting the code to Node.JS is that we use multi-classes, see htsql/core/adapter.py 

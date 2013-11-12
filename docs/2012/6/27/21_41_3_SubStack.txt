@@ -1,0 +1,1 @@
+dherman: are macros the only reason why you advocate static exports?

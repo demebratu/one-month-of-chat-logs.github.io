@@ -1,0 +1,1 @@
+RLa, now if i introduce a timeout - setTimeout(function(){ cb(null,true)},1000);

@@ -1,0 +1,1 @@
+llrcombs: I have to set encodings. gunzip requires an encoding param to be able to unzip the buffer

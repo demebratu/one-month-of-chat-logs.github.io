@@ -1,0 +1,1 @@
+livinded: why would a lib not work it repl but work in the debugger then repl or work in an app

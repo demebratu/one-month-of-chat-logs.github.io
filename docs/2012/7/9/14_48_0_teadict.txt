@@ -1,0 +1,1 @@
+Issue for me was some 3rd party libraries use dynamic routes (for styles for examples) so you have to go and replace them yourself and now you loose compatibility

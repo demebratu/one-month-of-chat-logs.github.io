@@ -1,0 +1,1 @@
+what's the "right" way of detecting when the parent process terminated from a child_process.fork()

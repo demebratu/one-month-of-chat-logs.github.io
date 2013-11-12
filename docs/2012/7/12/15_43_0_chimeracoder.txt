@@ -1,0 +1,1 @@
+I don't know if this is a problem with Selenium or Soda, but should I have to manually wait between .open('/foo') and .assertTitle('Foo')?

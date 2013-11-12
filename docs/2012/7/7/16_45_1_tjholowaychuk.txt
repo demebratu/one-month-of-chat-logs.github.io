@@ -1,0 +1,1 @@
+to "apply" them to the function for example foo(one, two, three) foo.apply(null, [one, two, three])

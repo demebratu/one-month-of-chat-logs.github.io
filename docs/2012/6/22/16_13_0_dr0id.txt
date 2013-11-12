@@ -1,0 +1,1 @@
+if a callback is called from 2 different functions (order of execution is not guaranteed since execution of those functions is async) - how can I make sure that the code inside callback actually gets executed only once by one of those functions ?

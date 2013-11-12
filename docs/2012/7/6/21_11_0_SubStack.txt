@@ -1,0 +1,1 @@
+I've done python c bindings before and it wasn't bad

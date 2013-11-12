@@ -1,0 +1,1 @@
+i am trying to write native bindings for ffmpeg with node.js

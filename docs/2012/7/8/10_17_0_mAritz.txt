@@ -1,0 +1,1 @@
+hm, supervisor has no way to define folders to watch afaict. trying nodemon :)  (standoo: https://github.com/remy/nodemon/ )

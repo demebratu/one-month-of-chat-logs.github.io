@@ -1,0 +1,1 @@
+bradleymeck: how would static code analyzers handle that?

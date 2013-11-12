@@ -1,0 +1,1 @@
+Can people give me their constructive opinion of CoffeeScript?

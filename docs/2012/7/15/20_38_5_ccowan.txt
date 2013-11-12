@@ -1,0 +1,1 @@
+type ifconfig in the linux terminal

@@ -1,0 +1,1 @@
+ JasonJS - yea, currently it just errors with Unhandled 'error' event

@@ -1,0 +1,1 @@
+the server, package manager and builders should all be seperated

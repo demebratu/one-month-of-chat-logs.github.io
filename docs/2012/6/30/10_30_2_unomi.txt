@@ -1,0 +1,1 @@
+unless you need websockets on all of them etc. nginx seems fairly robust for that kind of thing

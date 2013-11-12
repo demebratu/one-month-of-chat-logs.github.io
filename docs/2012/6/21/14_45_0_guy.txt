@@ -1,0 +1,1 @@
+Wee, I need to run a specific file, and then be able say to trigger foo function from CLI

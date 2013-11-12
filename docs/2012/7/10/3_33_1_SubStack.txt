@@ -1,0 +1,1 @@
+this approach is really nice because you can use whichever streaming protocol is the best tool for the job

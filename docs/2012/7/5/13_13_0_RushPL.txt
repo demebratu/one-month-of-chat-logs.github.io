@@ -1,0 +1,1 @@
+options.stdio = options.silent ? ['pipe', 'pipe', 'pipe', 'ipc'] :

@@ -1,0 +1,1 @@
+regality: do you use it to log uncaught exceptions?

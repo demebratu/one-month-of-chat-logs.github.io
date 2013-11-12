@@ -1,0 +1,1 @@
+It was probably a mistake to start building this massive real time app two weeks before it has to be deployed

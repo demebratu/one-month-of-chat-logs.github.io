@@ -1,0 +1,1 @@
+austinbv: so, hamljs 0.6.0 still has the issue

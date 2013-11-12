@@ -1,0 +1,1 @@
+I process a bunch of files and read them from stdin using exec, and I think that's what's slowing down my program. Would spawn with buffers be faster?

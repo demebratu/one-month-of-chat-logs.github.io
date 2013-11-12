@@ -1,0 +1,1 @@
+Murvin: try this: gdb --args node<enter>, run<enter>, when it crashes: bt full<enter>

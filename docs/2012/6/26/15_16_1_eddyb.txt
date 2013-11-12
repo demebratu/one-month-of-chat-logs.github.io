@@ -1,0 +1,1 @@
+my old v8 has typeof, block scope, proxies (those I knew) and collections

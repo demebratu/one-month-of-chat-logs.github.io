@@ -1,0 +1,1 @@
+Masyl: We use http for proxying so that makes all the telnet/raw-tcp stuff, well, not really possible

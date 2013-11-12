@@ -1,0 +1,1 @@
+and wherever else it installed itself, but I don't know a way of getting rid of those without having the source tree you used to install it

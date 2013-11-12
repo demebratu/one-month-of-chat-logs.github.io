@@ -1,0 +1,1 @@
+SubStack: would you have a use for an async resolve?

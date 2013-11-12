@@ -1,0 +1,1 @@
+iced coffeescript: in case you want another language to compile to your language that compiles to actual javascript.

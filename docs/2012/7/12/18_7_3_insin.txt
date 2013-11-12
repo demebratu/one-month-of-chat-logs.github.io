@@ -1,0 +1,1 @@
+they're only for RegExp literals

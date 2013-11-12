@@ -1,0 +1,1 @@
+Or is it as simple as installing node.js and writing my code alongside it

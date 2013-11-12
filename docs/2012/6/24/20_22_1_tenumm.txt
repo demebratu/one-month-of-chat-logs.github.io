@@ -1,0 +1,1 @@
+http://izs.me/v8-docs/classv8_1_1Object.html v8::Object has delete as member function

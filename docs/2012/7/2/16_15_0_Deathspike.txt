@@ -1,0 +1,1 @@
+Is anyone familiar with Mongoose here? I have a simple model with an unique index, but I can add duplicates without any issues. This is the model, http://pastebin.com/FVB08JPA.

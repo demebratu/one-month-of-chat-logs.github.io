@@ -1,0 +1,1 @@
+Convert the buffer to a string first..?

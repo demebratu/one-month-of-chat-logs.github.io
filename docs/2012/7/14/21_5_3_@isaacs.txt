@@ -1,0 +1,1 @@
+2. replace "node" with a shell function that calls /path/to/version/bin/node

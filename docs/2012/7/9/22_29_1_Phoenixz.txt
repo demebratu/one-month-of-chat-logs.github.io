@@ -1,0 +1,1 @@
+Is socket.io compatible with node v0.8? I have node v0.8 with socket 0.9.6, and I have VERY weird problems all of the sudden. I've been here asking the same question before, and no-one really knew yet.. I hope the problem might be more known by now..

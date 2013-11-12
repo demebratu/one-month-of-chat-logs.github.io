@@ -1,0 +1,1 @@
+jergason: you just run it in a child proc, and kill it after a certain amount of time

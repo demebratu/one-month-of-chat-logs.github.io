@@ -1,0 +1,1 @@
+Have you tried running any template engine on this ?  some are very lean

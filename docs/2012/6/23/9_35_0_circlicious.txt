@@ -1,0 +1,1 @@
+there's a node lib that provides you a nice interface to achieve something. so var lib = require('lib'); lib.achieveGoal(); while the library (sorry, i should say module) also ships with a bin file, that you can execute with child_exec.spawn/exec to achieve the same goal.the bin way is slower than doing it in your code, why so ?

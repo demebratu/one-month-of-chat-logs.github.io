@@ -1,0 +1,1 @@
+good idea. i'll give that a try, my thought was forever would eliminate the need for nohup

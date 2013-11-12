@@ -1,0 +1,1 @@
+like, osx doesn't use x11 standard but you can run it alongside

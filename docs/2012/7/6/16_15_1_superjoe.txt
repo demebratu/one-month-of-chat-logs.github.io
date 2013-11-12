@@ -1,0 +1,1 @@
+var js_code = "var generated_code_var = \"" + escape_for_js_string(some_string) + "\";";

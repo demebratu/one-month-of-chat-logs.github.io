@@ -1,0 +1,1 @@
+and then what do I need to do on the Windows side? which ip address do I point Telnet to?

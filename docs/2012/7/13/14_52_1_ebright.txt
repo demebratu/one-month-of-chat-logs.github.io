@@ -1,0 +1,1 @@
+I don't get how I can expose my db inside of foo.js :(

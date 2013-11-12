@@ -1,0 +1,1 @@
+hichaelmart: i can't think of any way it could be dangerous, i just don't like the concept of .setEncoding :)

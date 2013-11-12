@@ -1,0 +1,1 @@
+In the browser, when you call button.addEventListener it probably maps to a similar system

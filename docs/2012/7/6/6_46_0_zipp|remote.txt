@@ -1,0 +1,1 @@
+owen1: Ahh wicked :) I knew about the socket stuff because I've run into max fd errors before :X

@@ -1,0 +1,1 @@
+I need some help exporting some functions from a module... It's sort of working, but I can't seem to call functions that I thought I exported?

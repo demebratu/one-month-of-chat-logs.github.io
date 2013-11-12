@@ -1,0 +1,1 @@
+You can build an abstraction around it which makes it look like it isn't a callback

@@ -1,0 +1,1 @@
+chjj: I fixed your focus problem in tty.js (I made it so that the terminals have automatic focus - the tabIndex trick - and it's not required to always have a focused terminal), should I push and make a pull request?

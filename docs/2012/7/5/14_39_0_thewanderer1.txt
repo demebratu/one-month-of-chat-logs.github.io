@@ -1,0 +1,1 @@
+plato: my problem with setTimeout is that the doc says execution order is not guaranteed

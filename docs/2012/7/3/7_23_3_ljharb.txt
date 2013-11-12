@@ -1,0 +1,1 @@
+playing make-believe that you can directly call remote functions is like RPC/SOAP, which is not a good pattern for so many reasons.

@@ -1,0 +1,1 @@
+Protected, if the callback is within an object ( its a method of an object )

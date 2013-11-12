@@ -1,0 +1,1 @@
+Hey: having trouble installing grunt. Wondering if someone can help. Everytime I install I get errors similar to this : http://pastie.org/4233040, but with the files being different, generally.

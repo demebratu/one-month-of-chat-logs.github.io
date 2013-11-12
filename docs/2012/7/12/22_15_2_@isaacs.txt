@@ -1,0 +1,1 @@
+handlers for all the routes, and each of the templates.  makes sense.

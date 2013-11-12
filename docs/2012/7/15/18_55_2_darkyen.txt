@@ -1,0 +1,1 @@
+				bool amInan = (isnan)(samples[i]); 				if(!amInan) 				ArrayBuffer->Set(i,Number::New(samples[i])); 

@@ -1,0 +1,1 @@
+what you're not understanding about dnode and nowjs is that they do not run arbitrary code remotely, they simply provide an interface without the programmer needing to use the protocol directly.

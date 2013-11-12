@@ -1,0 +1,1 @@
+how do I tell npm not to unbild a library when it fails ? i need the debug log its erasing

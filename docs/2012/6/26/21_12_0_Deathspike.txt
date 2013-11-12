@@ -1,0 +1,1 @@
+othiym23: On a REST service, can you eat a particular defined model from a POST as well?

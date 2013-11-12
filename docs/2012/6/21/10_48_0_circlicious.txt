@@ -1,0 +1,1 @@
+tonyk: so i do spawn('echo'', [my_string]) and dont have to worry about escaping ?

@@ -1,0 +1,1 @@
+Is there a way to check, after I'm done streaming a request somewhere, how many bytes I just streamed? (I want to check it against the request's declared Content-Length)

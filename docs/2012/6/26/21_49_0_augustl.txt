@@ -1,0 +1,1 @@
+tjholowaychuk: btw, is there something like Rails' skip_before_filter for the express routing DSL? I want all routes by default to be behind authentication, but disable authentication for some actions, like logging in.

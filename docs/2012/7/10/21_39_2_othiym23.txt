@@ -1,0 +1,1 @@
+VeXii: the only reason I bring it up is because it's a lot easier to work with the grain of Node.js than going against it, and rewriting the module system is definitely going against the grain

@@ -1,0 +1,1 @@
+I'm working with flapjax and node.js. I'm trying to do a post request with getWebServiceObjectE (http://www.flapjax-lang.org/docs/#getWebServiceObjectE), but passing {nickname: 'Ben') as the request.fields field results in the following on the serverside: { '{"nickname":"Ben"}': '' }

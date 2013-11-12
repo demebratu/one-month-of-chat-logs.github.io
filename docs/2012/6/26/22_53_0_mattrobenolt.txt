@@ -1,0 +1,1 @@
+isaacs: Care to explain to me the benefits of an async callback with nextTick for something that isn't async?

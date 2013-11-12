@@ -1,0 +1,1 @@
+I'm just trying to figure out the download time of a website... the first time I run this: http://hastebin.com/miquwerice.coffee it always takes 200+ ms more than every time I run it again

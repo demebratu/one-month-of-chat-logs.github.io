@@ -1,0 +1,1 @@
+i just noticed https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager … however in the debian section there is a dot behind git clone … why?

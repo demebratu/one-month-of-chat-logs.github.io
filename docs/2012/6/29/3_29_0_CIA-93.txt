@@ -1,0 +1,1 @@
+libuv: Bert Belder master * r937d2c9 / (3 files): test: fix test-gethostbyname to not use a DNS server on localhost - http://git.io/IZpu-Q

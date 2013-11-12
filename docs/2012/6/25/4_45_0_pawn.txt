@@ -1,0 +1,1 @@
+How do I use node-irc to open a DCC connection between a irc user?

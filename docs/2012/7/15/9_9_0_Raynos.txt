@@ -1,0 +1,1 @@
+the next step I took is just writing modules that are streams or modules that interact with streams. event-stream is very helpful in building streams

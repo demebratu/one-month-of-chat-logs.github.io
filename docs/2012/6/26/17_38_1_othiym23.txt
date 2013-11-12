@@ -1,0 +1,1 @@
+I like the way that explicitly enumerating the routes acts as implicit documentation of the app's API

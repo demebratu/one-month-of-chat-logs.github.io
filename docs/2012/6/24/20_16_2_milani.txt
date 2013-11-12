@@ -1,0 +1,1 @@
+Daegalus, and what you do with tidesdk and node is really much like AppJS if I don't say exact thing.

@@ -1,0 +1,1 @@
+sabermonk: all writes get flushed, pretty sure

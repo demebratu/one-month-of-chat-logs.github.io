@@ -1,0 +1,1 @@
+rrjamie: was thinking of adding a class level handlers object that gets bound in the constructor or something

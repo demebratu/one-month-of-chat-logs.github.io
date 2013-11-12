@@ -1,0 +1,1 @@
+Question, I'm using Express and using compression middleware (I believe from Connect), it works, but doesn't on static files. Incompatibility on that? Misconfiguration? Bug?

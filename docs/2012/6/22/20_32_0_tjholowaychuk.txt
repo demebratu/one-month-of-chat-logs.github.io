@@ -1,0 +1,1 @@
+if you're using express there's req.secure and req.protocol == 'https'

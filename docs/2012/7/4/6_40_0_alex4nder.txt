@@ -1,0 +1,1 @@
+cconstantine: you want to detect you're not in a browser, and do a require?

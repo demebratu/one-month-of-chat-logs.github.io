@@ -1,0 +1,1 @@
+bradleymeck: so, the folder name must be === pkg.name if you DO set unsafe-perm?

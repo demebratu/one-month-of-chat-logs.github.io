@@ -1,0 +1,1 @@
+Hi i'm having some installation trouble with node - I'm getting the following error: ./configure 'import site' failed; use -v for traceback   File "./configure", line 261     o['variables']['node_prefix'] = options.prefix if options.prefix else ''                                                     ^ SyntaxError: invalid syntax

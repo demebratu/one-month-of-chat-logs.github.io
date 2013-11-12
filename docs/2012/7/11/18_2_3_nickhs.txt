@@ -1,0 +1,1 @@
+alex4nder: from my understanding the best way would be to wrap it in an object

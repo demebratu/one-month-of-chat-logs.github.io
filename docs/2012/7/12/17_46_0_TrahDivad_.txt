@@ -1,0 +1,1 @@
+aheckmann: is it normal that if 'res.send' is given an object, it only runs the queries of it's direct values, and not sub-values?

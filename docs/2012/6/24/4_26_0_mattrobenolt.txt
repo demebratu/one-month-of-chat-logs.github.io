@@ -1,0 +1,1 @@
+isaacs: wtf is "Error: conflict Document update conflict." when I try to `npm adduser`

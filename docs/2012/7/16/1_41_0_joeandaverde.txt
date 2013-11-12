@@ -1,0 +1,1 @@
+https://github.com/joeandaverde/joed/blob/wrapper/HttpWrap.cpp   i think I'm retaining the callback incorrectly line: 36. Any tips on how to do this correctly? See line 64 for how i'm trying to fetch that callback.

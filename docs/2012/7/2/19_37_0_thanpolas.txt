@@ -1,0 +1,1 @@
+how can i safely know that my script runs on node? (built to run on any env)

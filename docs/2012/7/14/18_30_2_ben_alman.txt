@@ -1,0 +1,1 @@
+yeah, query string parsing should've been builtin into a standard lib in the browser

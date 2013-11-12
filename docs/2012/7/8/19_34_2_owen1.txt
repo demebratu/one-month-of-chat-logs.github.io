@@ -1,0 +1,1 @@
+Glenjamin: but i think your reply was accurate since a writable stream will emit the data and the end events

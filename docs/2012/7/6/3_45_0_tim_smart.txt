@@ -1,0 +1,1 @@
+owen1: Node doesn't spawn a thread each time you want to read a file, it re-uses them as a thread pool.

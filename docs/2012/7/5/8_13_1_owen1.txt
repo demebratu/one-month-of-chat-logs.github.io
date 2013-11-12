@@ -1,0 +1,1 @@
+Noor_: that's how i create a cookie  res.writeHead(200, { 'Set-Cookie': 'loggedin=true', 'Content-Type': 'text/plain' })

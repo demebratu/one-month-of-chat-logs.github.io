@@ -1,0 +1,1 @@
+fatfatfat: you listening on 'exit' when you should be listening on 'close', and not getting data events, because they come in after the program has exited but hasnt' yet closed its stdout?

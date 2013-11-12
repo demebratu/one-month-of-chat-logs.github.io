@@ -1,0 +1,1 @@
+arinel: you can 'require' modules of your own, pass an app object to them, let them add their own routes with app.get/app.post. They don't have to be separate apps in the "independently listening to port whatever" sense of the word.

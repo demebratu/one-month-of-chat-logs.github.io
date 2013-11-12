@@ -1,0 +1,1 @@
+so, my Node library to communicate with NewTek Tricasters is ready

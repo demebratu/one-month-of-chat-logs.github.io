@@ -1,0 +1,1 @@
+Since browserify uses "node code", and a lot of the libraries (mocha/etc) try to use "browser code" switch to

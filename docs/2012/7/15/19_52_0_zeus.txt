@@ -1,0 +1,1 @@
+lpin: Also, if default npm doesnt work for you, you need to file a bug report

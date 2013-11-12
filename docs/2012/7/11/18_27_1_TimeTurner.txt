@@ -1,0 +1,1 @@
+http://venodesigns.net/2011/04/16/emitting-custom-events-in-node-js/

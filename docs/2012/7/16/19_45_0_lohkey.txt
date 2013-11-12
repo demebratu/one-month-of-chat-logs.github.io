@@ -1,0 +1,1 @@
+whats the quickest way to temporarily mute stdout from within a node.js process?

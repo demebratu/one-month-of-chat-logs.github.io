@@ -1,0 +1,1 @@
+converting buffers to strings can leave out certain characters (e.g. using ASCII will drop the high bit and only use the last 7 in each byte)

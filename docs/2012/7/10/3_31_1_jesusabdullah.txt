@@ -1,0 +1,1 @@
+that is, you shouldn't have to hit half your api with ajax and the other half with socket.io just cause

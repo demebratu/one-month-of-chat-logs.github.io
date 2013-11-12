@@ -1,0 +1,1 @@
+but, you still wind up with hairy code if you want to either sequence many-one or one-many callbacks

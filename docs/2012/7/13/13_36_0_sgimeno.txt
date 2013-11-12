@@ -1,0 +1,1 @@
+hi, is it possible to bind a socket to a local address / local path before connecting to a server? I'm trying to do this with a unix stream socket with no luck

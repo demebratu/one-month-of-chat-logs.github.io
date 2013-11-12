@@ -1,0 +1,1 @@
+is there some kind of statistics module that will just allow me to do a .ping() or something every now and then, and that i can then use to inspect how many pings per last second, minute, hour etc i am having?

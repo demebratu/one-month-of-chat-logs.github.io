@@ -1,0 +1,1 @@
+now you export the variables in the module as per node standards.

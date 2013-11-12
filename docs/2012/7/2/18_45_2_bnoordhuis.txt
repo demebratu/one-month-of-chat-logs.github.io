@@ -1,0 +1,1 @@
+rinon: npm gets installed into $PREFIX/bin -- where PREFIX=/usr/local if you didn't pass --prefix to configure

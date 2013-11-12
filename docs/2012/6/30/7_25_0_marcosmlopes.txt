@@ -1,0 +1,1 @@
+Hey node.js is suitable for an HTML5 streaming server? Like icecast and so on? I want to implement in node.js because i like the simplicity of using javascript on server-side.

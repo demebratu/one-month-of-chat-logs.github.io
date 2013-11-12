@@ -1,0 +1,1 @@
+I probably have a weird question, I want to maintain 2 package.json. actually the second one should be more of a dependency list only, nothing else. is that possible ? so maybe then I can do something like $ npm install --source package_dependencies_only.json ?

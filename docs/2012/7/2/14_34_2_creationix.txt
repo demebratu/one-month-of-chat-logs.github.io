@@ -1,0 +1,1 @@
+if from source, just download the latest tarball http://nodejs.org/dist/v0.8.1/node-v0.8.1.tar.gz and ./configure && make && make install

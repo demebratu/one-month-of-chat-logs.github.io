@@ -1,0 +1,1 @@
+node: Mathias Bynens master * r2ba9645 / (lib/punycode.js test/simple/test-punycode.js): punycode: update to v1.1.1 - http://git.io/QVIaig

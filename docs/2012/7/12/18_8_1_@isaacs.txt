@@ -1,0 +1,1 @@
+qbit_: I usually do this:  -H destination:'_design/app?rev='$(curl https://isaacs.iriscouch.com/registry/_design/app | json _rev)

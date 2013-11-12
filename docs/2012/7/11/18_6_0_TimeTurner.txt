@@ -1,0 +1,1 @@
+but augmenting array.prototype isn't that clean

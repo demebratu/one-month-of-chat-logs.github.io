@@ -1,0 +1,1 @@
+So it made sense to put the comma at the beginning of the line instead to prevent that from happening.

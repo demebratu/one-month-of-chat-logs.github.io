@@ -1,0 +1,1 @@
+prettyrobots, right, the point is to seperate concerns

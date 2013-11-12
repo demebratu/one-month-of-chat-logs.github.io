@@ -1,0 +1,1 @@
+like i entered 'node' at the python end, and it printed out Buffer<64 65 xx zz> on the node end

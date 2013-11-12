@@ -1,0 +1,1 @@
+It's name was "useless" and only contained a minimal package.json file... :)

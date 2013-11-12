@@ -1,0 +1,1 @@
+Trindaz: dump the response body to a file and run 'file' on it

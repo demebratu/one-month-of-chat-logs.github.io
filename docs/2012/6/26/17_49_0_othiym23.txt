@@ -1,0 +1,1 @@
+Deathspike: you can configure your application to use NODE_ENV to determine whether to run in dev or prod mode, and then write support for dev mode to look for changes to app files

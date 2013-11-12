@@ -1,0 +1,1 @@
+zombie requires an instance of webkit (in it's own process) for each page right?

@@ -1,0 +1,1 @@
+trb, i like n.... but what i am supposed to install first and how?... because i just did a moment ago and even if node was working nvm was failing with "can't find utils...." something like that

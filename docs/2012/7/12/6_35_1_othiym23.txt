@@ -1,0 +1,1 @@
+I'm doing a lil thing with it and having a little trouble trying to figure out how to get it to act as a view for a model getting updated from socket.io

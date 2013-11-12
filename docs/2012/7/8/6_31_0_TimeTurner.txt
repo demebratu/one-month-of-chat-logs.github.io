@@ -1,0 +1,1 @@
+logical load balancer with automatic spawn and destroy

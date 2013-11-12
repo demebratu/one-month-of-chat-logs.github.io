@@ -1,0 +1,1 @@
+hm, but if something fails in some app the entire process is going to die right ? all apps gone to hell

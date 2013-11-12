@@ -1,0 +1,1 @@
+Got someone on another channel asking why it's "node.js" and not "nodejs". Anyone got a reasoning for that? (sounds silly yes.)

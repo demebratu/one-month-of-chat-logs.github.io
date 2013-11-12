@@ -1,0 +1,1 @@
+owen1 assembly code can generally reach 1-1 machine code translation but may represent multiple machine code operations

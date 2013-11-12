@@ -1,0 +1,1 @@
+{ [Error: EPERM, chmod '/Users/dariabla/Workspace/dashboards/node_modules/.bin/express']

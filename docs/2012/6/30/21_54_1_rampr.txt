@@ -1,0 +1,1 @@
+gkatsev:  the weird thing is there is content when I request the same url via curl.

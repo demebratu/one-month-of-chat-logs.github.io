@@ -1,0 +1,1 @@
+zenista: most sqlite libraries take care of that, I think

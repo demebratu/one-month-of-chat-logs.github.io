@@ -1,0 +1,1 @@
+but it seems the process exits before the necessary callback can be called

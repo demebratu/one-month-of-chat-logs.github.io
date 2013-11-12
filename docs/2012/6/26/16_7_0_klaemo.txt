@@ -1,0 +1,1 @@
+bradleymeck: iriscouch seems to perform fine. I just did a few apache benchs and curls and no dropped requests at all. what could I be doing wrong?

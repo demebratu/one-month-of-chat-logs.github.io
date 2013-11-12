@@ -1,0 +1,1 @@
+Deathspike, all examples include /socket.io/socket.io.js, which i can't find anywhere, there is a file at /lib/socket.io.js but that looks like its for server-side

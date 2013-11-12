@@ -1,0 +1,1 @@
+everything you said. it doesn't spawn threads

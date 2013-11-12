@@ -1,0 +1,1 @@
+vrlogrs: is your code somewhere public, i was just thinking about creating a small turn-based game as a lerning experince and a demo

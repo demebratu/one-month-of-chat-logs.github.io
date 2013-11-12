@@ -1,0 +1,1 @@
+this thing just scans your $PATH for which browsers at what versions you have installed and builds a local index and normalizes the browser parameters

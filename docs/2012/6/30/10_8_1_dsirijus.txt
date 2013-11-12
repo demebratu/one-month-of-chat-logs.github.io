@@ -1,0 +1,1 @@
+so, when i add new app, i need to change the proxy app, stopping it and running it again?

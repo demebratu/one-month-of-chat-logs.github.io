@@ -1,0 +1,1 @@
+basically make a "master" that registers workers (the thing to update), and rotate them as needed

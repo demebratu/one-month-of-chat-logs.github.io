@@ -1,0 +1,1 @@
+I guess you haven't built the docs https://github.com/joyent/node/blob/master/tools/doc/package.json

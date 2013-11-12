@@ -1,0 +1,1 @@
+austinbv: you can just do `export PATH=node_modules/.bin:$PATH` in your shell's init script

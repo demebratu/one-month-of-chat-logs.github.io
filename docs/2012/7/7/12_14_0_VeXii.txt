@@ -1,0 +1,1 @@
+i keep getting a error from ./configure on line 118 (dest="shared_zlib_includes") when im trying to build v0.8.1 but running pacman says that zlib is installed

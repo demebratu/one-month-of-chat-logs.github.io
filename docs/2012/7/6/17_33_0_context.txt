@@ -1,0 +1,1 @@
+anyone know any good services for getting all your logs in one place. i was attempting logentries.com but not working. this is for an app running on engineyard

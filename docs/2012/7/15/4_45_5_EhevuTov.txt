@@ -1,0 +1,1 @@
+but binding and watching data stores seem easier if I have a framework do it

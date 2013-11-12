@@ -1,0 +1,1 @@
+maxogden: Eg, by default "http://nodejs.org/api/" is used. So i naturally tried "http://nodejs.org/api/0.7.2" which doesn't exist

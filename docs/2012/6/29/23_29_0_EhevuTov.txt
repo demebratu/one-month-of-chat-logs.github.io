@@ -1,0 +1,1 @@
+shiftpgdn, best practice is usually to install it from the default package manager of your linux distro

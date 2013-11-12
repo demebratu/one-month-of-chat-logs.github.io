@@ -1,0 +1,1 @@
+what about when doing I/O? Does the system spawn more threads internally when doing file read? Otherwise, how does the file read continue while the next JS code is running? 

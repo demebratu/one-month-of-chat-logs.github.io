@@ -1,0 +1,1 @@
+new-host-2:temp james$ echo $NODE_PATH

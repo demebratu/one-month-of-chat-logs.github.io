@@ -1,0 +1,1 @@
+rwaldron: if there's anyone who's supremely qualified to speak on v8 features and the stability thereof, it's vyacheslav

@@ -1,0 +1,1 @@
+Hotroot: maybe require('readline') can do this for you.  maybe osmething on npm

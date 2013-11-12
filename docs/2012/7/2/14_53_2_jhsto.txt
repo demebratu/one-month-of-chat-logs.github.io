@@ -1,0 +1,1 @@
+does console log block?

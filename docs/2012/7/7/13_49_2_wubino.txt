@@ -1,0 +1,1 @@
+i just installed mongoose via npm:  it mentions installing the c++ bson parsse via $npm install mongodb --mongodb:native

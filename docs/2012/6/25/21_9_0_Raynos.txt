@@ -1,0 +1,1 @@
+ill change the 404 handler to use a sensible 404 page once its all migrated

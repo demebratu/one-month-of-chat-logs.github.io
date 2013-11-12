@@ -1,0 +1,1 @@
+someone with "low level" knowledge and knows how to provide ObjectWrap derived class destructor?

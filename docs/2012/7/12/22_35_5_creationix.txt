@@ -1,0 +1,1 @@
+isaacs, and I've only done libuv, it's one of the easier C callback based APIs

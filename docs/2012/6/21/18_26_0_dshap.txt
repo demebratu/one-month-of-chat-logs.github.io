@@ -1,0 +1,1 @@
+hey everyone, i'm having a strange issue with mocha - (http://pastebin.com/Pkqd11wf) - for some reason the console.log(i) outputs the last index every time.  what am i missing?

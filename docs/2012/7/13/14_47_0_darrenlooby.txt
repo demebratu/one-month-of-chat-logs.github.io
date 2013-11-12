@@ -1,0 +1,1 @@
+So, I'm using Node.js to connect to a Asterisk AMI socket. It keeps dropping, so I'd like to perform some sort of keep alive... any ideas, clues, tips etc?

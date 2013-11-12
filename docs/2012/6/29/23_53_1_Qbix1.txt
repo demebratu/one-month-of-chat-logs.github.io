@@ -1,0 +1,1 @@
+question - how do I quantize lat/long coordinates so there are no more than 10,000 possible?

@@ -1,0 +1,1 @@
+By the way, would I be right in thinking that node doesn't allow automatic global definitions inside functions?

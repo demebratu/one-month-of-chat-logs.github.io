@@ -1,0 +1,1 @@
+yes. single network connection to the phone server.

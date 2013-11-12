@@ -1,0 +1,1 @@
+gblock: Yeah. I actually started looking into it after reading up on Yesod, and other articles suggesting that node.js had 'jumped the shark'

@@ -1,0 +1,1 @@
+its just the query queue, it doesn't execute the next query until it gets a result from the previous one

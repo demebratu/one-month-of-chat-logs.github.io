@@ -1,0 +1,1 @@
+zenista: and yeah, since you clarified on the requirements, look into express. just have 'em go to the nodejs.org site, download/run the automated installer

@@ -1,0 +1,1 @@
+if you download frmo git, it'll only recompile files that change?

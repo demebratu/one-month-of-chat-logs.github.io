@@ -1,0 +1,1 @@
+I can get awssum working to get stuff from s3, but with knox I get authenticatino errors.

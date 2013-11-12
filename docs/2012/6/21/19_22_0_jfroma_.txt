@@ -1,0 +1,1 @@
+when you do $.get(url, ...) is form encoded in the url

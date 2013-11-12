@@ -1,0 +1,1 @@
+s5fs: Thank u for answering. I posted my issue https://github.com/bnoguchi/mongoose-auth/issues/113

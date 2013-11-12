@@ -1,0 +1,1 @@
+so I've to make a queue for syncing all previous requests if I want to avoid that situations

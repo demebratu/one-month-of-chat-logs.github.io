@@ -1,0 +1,1 @@
+I use node because it's easy access to v8, and it has nice APIs.

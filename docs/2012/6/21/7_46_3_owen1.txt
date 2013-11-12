@@ -1,0 +1,1 @@
+ljharb: so i can use functional style regardless of the prototypal or classical patterns?

@@ -1,0 +1,1 @@
+othiym23: so process.on('SIGINT', function () { process.exit(0); }); would be a change in behavior from the default; specifically that the exit handlers will get called if I do that?

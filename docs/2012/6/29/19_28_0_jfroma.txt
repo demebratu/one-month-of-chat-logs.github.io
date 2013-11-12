@@ -1,0 +1,1 @@
+RLa, more on this.... http://stackoverflow.com/questions/9594065/2-certificates-on-a-node-server I think is not technicall possible, I should open two https servers in two differents ips i think

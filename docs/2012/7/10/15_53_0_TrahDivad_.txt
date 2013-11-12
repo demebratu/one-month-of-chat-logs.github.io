@@ -1,0 +1,1 @@
+gildean: ok, I've played with the mongo console, and I looked into the indexes collection, and it seems that mongoose is not even setting the field as index

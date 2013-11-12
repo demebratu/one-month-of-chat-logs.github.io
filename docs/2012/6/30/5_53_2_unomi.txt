@@ -1,0 +1,1 @@
+tim_smart, I absolutely agree about userland stuff, but relative to Classes I would say that events are a better place to start

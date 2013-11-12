@@ -1,0 +1,1 @@
+isaacs: on one hand, you have state, and you can just make your object update itself until whenever

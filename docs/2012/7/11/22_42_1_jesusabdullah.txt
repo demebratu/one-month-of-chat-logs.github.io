@@ -1,0 +1,1 @@
+pawn: and *that*, is better than, say, automatically doing hook.on("a::variable::changed", changeVariable); and then not exposing the original event

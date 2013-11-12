@@ -1,0 +1,1 @@
+augustl: just have something like app.use(ignore('/foo', authThingy()))

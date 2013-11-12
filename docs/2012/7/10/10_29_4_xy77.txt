@@ -1,0 +1,1 @@
+deoxxa: right, thanks. Thought it would only exit after processing the connection, since the exit output appears just fine.

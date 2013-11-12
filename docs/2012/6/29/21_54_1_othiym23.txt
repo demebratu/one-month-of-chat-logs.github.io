@@ -1,0 +1,1 @@
+Qbix1: the Express docs are generated from the source, and the Express 3 source is pretty readable

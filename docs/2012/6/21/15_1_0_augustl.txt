@@ -1,0 +1,1 @@
+something like a file config.json, with {"development": {... }, "production": {...}}, that's made available based on the current environment express runs in

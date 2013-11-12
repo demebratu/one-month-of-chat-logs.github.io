@@ -1,0 +1,1 @@
+jwulf_: I would recommend creating one connection per incoming http request

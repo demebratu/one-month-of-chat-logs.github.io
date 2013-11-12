@@ -1,0 +1,1 @@
+one of the deps of the module hasn't had its package.json updated for 0.8.0

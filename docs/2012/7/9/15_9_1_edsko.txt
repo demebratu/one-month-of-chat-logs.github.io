@@ -1,0 +1,1 @@
+if I npm install azure -g, and I get the library but no the command line tool, did I do something wrong? how do I go about finding out what's causing the problem?

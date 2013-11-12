@@ -1,0 +1,1 @@
+benatkin: npm is now packaged with node, so it makes sense it's not being distributed with Homebrew / npmjs.org

@@ -1,0 +1,1 @@
+engine.io always tries a comet first right? bosh? bayeux? whatever?

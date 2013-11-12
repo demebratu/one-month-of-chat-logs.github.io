@@ -1,0 +1,1 @@
+I'm getting shasum failures with my npm installs on random libs. I'm not sure if it's related

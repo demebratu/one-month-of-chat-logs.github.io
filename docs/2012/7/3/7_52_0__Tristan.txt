@@ -1,0 +1,1 @@
+if you're on the server and you do now.foo() it will not run the function, it will send a message to the client telling it to run the function.

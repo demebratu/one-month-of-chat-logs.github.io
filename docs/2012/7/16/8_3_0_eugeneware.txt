@@ -1,0 +1,1 @@
+gates: under VC++ you can use OpenProcess to get the process handle, requesting PROCESS_TERMINATE access rights, then call TerminateProcess on the handle when you're done.

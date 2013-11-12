@@ -1,0 +1,1 @@
+DOM level 2 is not happy, level 3 is breeze, .querySelector = too easy

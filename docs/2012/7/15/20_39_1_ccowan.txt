@@ -1,0 +1,1 @@
+Look for "eth0" and "inet" the IP address should be listed right there

@@ -1,0 +1,1 @@
+hunterloftis: just pushed a fix for this to the latest npm HEAD

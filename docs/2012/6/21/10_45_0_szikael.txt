@@ -1,0 +1,1 @@
+hi i want made post to my site and get as response "data  as  x-www-form-urlencoded  content type"  how can i get each value to my other variable 

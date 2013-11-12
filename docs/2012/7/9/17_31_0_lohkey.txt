@@ -1,0 +1,1 @@
+SubStack: You fucking rock for implementing the streaming API in diode! i've wanted to do this for a while: https://github.com/JosephMoniz/node-ipc-stream/blob/master/examples/dnode/server.js Thanks much man

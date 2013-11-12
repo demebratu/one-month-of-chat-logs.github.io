@@ -1,0 +1,1 @@
+FYI, Node runs on Windows Azure nowadays.

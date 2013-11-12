@@ -1,0 +1,1 @@
+vrlogrs: but javascript is never pre-empted in its execution

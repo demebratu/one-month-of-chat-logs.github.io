@@ -1,0 +1,1 @@
+so nginx is using *nix async network api to avoid creating a thread per requestL

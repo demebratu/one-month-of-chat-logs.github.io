@@ -1,0 +1,1 @@
+You asked about how it'd scale. The better answer is "let nginx to the work."

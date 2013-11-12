@@ -1,0 +1,1 @@
+kylefarris, well, you know the query you're sending and you know the args, so you could build it yourself.

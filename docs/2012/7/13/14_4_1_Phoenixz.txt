@@ -1,0 +1,1 @@
+bnoordhuis: one (probably silly) question.. What is the proper way to close a req. connection? I use req.end(), but that seems not to work very well..

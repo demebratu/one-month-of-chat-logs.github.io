@@ -1,0 +1,1 @@
+isaacs: wrapping a try/catch around fs.statSync is pretty lame

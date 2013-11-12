@@ -1,0 +1,1 @@
+the only thing we're storing in memory right now is user objects for each connection which is what I'd end up storing in redis for load balancing if the instances end up needing to share the user objects

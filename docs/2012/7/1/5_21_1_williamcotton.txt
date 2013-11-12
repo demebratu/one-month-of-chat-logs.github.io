@@ -1,0 +1,1 @@
+I save it to redis via node and then get it back

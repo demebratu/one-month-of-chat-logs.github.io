@@ -1,0 +1,1 @@
+tankpilot, your data models are just data, they can be processed by functions just fine.

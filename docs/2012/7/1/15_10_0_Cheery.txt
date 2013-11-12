@@ -1,0 +1,1 @@
+joeytwiddle: I think I'll add some type inference for optimization somewhere later.

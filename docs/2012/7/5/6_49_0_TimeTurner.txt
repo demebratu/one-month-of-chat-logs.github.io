@@ -1,0 +1,1 @@
+simplest, yet secure auth you can get

@@ -1,0 +1,1 @@
+innociv: i mean, `while (true);` will use a lot of cpu and do nothing

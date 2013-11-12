@@ -1,0 +1,1 @@
+should I see a significant difference between zeroing the 40 particular bytes and the other spots that need to be 0 and zeroing the whole buffer, assuming it's rather small?

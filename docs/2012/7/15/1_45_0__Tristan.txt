@@ -1,0 +1,1 @@
+If I run "npm update thingy" and the new version of thingy has a dependency that the old version didn't, npm doesn't install it. Why not? How can I get it to do so?

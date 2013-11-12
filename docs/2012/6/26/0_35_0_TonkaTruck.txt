@@ -1,0 +1,1 @@
+konobi: You have your success callback first but it seems like foo(err, success) is more common, no?

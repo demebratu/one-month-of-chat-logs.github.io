@@ -1,0 +1,1 @@
+circlicious: remove the write and add an on('exit') handler to see it's working properly

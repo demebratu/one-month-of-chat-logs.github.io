@@ -1,0 +1,1 @@
+thread takes memory and cpu so it should be the same as multi-threaded app, no?

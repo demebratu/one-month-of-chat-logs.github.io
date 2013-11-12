@@ -1,0 +1,1 @@
+FYI: I was implementing it in a library that works both client and server side, so on the server side, I'll throw an exception.

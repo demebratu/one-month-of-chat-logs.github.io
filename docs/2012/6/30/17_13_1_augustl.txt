@@ -1,0 +1,1 @@
+kind of strange that V8 doesn't make it run as fast or faster

@@ -1,0 +1,1 @@
+Usually you would specify a recursive flag of some sort for most command tools that require it.

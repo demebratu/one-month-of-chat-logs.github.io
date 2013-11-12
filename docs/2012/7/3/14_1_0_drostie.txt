@@ -1,0 +1,1 @@
+I only realized that I could probably do it when I realized that what I was trying to do was a "decodeURIComponent()" on a file:// uri.

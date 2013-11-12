@@ -1,0 +1,1 @@
+but yes, dtrace is best in smartos, (partly do to the fact that Brian works at Joyent)

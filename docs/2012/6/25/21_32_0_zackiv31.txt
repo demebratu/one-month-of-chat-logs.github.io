@@ -1,0 +1,1 @@
+is there a preferred way to install node? with sudo or as user (and npm as well)

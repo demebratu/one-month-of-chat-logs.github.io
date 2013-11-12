@@ -1,0 +1,1 @@
+i want to call a function in node that i received over stdin, now what would be an appropriate context to apply the function?

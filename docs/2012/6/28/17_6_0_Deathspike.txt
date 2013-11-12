@@ -1,0 +1,1 @@
+SwiftAppDesign: If you want a pure node approach, you could do http://pastebin.com/vaNYVGpZ. VERY VERY BASIC. :P

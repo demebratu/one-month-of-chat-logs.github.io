@@ -1,0 +1,1 @@
+But I'm saying, to join a room with socket.io, you need the socket for the client, right?

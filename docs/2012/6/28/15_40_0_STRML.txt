@@ -1,0 +1,1 @@
+Sorry? Not sure if I'm misunderstanding your sarcasm but there's zero server-side rendering going on

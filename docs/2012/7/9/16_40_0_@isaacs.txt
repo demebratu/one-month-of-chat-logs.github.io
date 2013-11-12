@@ -1,0 +1,1 @@
+edsko: you mean, how to make it NOT do the fs.realpath first?

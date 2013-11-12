@@ -1,0 +1,1 @@
+Yes… callbacks take the place of "return value;" 

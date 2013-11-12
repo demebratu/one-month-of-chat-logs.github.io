@@ -1,0 +1,1 @@
+maxogden: but it's easy, you just (class << obj; self; end).send(:define_method, 'foo', lambda {|x| x*10})

@@ -1,0 +1,1 @@
+but generating the tasks asynchronously doesn't seem to work

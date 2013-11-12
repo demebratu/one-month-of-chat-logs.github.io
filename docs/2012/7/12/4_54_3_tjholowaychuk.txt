@@ -1,0 +1,1 @@
+so you can use json/binary for the same socket

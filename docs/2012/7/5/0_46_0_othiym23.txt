@@ -1,0 +1,1 @@
+owen1: there's nothing stopping you from using VirtualBox to run SmartOS yourself in the meantime

@@ -1,0 +1,1 @@
+That fellow seemed to think that most software code sucks, even the ball-of-glue holding many modules together (though I don't remember him elaborating much on that topic)

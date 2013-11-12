@@ -1,0 +1,1 @@
+I just ultimatly want to require('plugins/*')

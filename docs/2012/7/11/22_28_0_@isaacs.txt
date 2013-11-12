@@ -1,0 +1,1 @@
+TooTallNate: an EPERM from fs.symlink probably means that you're not specifying the type of symlink.

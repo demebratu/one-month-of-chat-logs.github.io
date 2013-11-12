@@ -1,0 +1,1 @@
+socket.io will intercept the request for the script and return it itself

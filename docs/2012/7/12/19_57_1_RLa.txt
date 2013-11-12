@@ -1,0 +1,1 @@
+or you could create some sort of subnet where the vb host has known ip

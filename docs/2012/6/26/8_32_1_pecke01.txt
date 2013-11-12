@@ -1,0 +1,1 @@
+heroic1231: Because nginx supports http://linux.die.net/man/2/sendfile which is the fastest and smallest memory usage you can get. With that being said you need a lot of traffic before serving static files with node becomes an issue

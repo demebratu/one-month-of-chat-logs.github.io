@@ -1,0 +1,1 @@
+just look at the json2.js source for a great example of how shitty code written the way he advocates can be

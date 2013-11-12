@@ -1,0 +1,1 @@
+how do I force install npm libraries that require 0.6?

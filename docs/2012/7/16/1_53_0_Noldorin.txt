@@ -1,0 +1,1 @@
+cgiffard: okay i think i see why it didn't symlink now. my node_modules is in ~ for some reason :/

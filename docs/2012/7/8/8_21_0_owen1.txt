@@ -1,0 +1,1 @@
+AAA_awright: so i can use nginx to load balance, regardless if it's single or multicore, right?

@@ -1,0 +1,1 @@
+hmm, but the 2 functions execute in async, isn't it ? they could lead to the execution of the state flag conditional at the same time ?

@@ -1,0 +1,1 @@
+isaacs: fs.readlink() reports the path that I passed in, but with a trailing \

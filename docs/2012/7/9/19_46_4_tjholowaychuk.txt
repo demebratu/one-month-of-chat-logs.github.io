@@ -1,0 +1,1 @@
+or check req.method == 'HEAD' yourself

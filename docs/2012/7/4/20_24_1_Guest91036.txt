@@ -1,0 +1,1 @@
+there is no seek/tell functions in fs module

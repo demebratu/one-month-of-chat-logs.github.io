@@ -1,0 +1,1 @@
+also, what's the chunk size? is it always the same in node?

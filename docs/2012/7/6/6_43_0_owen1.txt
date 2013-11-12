@@ -1,0 +1,1 @@
+zipp|remote: node uses thread pool for async thread i/o, but not for http i/o. for the last type it's using epoll to monitor the fd (sockets)

@@ -1,0 +1,1 @@
+basically, i need to wait for data to be received before executing other stuff - and I dont know how to wait for data to complete:)

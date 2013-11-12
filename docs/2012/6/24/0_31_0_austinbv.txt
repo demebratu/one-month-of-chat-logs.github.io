@@ -1,0 +1,1 @@
+is there a way to clean up creation of objects in require so it doesn't look like this https://gist.github.com/2980715

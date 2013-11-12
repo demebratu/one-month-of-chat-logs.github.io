@@ -1,0 +1,1 @@
+npm http GET http://localhost:5984/registry/_design/app/-/all

@@ -1,0 +1,1 @@
+Daegalus: XML is derived from SGML which is a markup language.

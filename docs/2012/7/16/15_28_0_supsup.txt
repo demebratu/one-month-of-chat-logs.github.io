@@ -1,0 +1,1 @@
+question:  can get node to work fine in linux, but in with windows installer I cannot gain access to node from command line, the system enviroment path has been updated to include the node directory.  Any idea why command not recognized?  repel works fine

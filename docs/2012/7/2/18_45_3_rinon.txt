@@ -1,0 +1,1 @@
+I get "Error: npm doesn't work with node v0.9.0-pre"

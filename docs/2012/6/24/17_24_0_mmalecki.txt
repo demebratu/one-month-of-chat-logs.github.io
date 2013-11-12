@@ -1,0 +1,1 @@
+Octane: you could use a middleware framework or simple function wrapper

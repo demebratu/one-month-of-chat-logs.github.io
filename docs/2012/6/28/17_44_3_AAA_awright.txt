@@ -1,0 +1,1 @@
+rektide: If that IS the correct way to go about it, then HOW you detect almost certainly does depend on the functionality you're trying to expose in the executable application, so what is it?

@@ -1,0 +1,1 @@
+it's a really basic chat server, that works over sockets http://pastie.org/4262327

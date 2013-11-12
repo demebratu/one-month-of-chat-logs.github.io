@@ -1,0 +1,1 @@
+Hotroot, I'd do what Isaacs suggests and I'm pretty sure you want to treat it as a steam, where you increment a counter on 'data' event. Once counter gets to LIMIT, then disconnect

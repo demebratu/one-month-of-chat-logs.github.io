@@ -1,0 +1,1 @@
+Object.prototype.hasOwnProperty.call(process.env, "THE_VARIABLE_NAME")

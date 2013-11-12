@@ -1,0 +1,1 @@
+can mongoose schema reference itself? like in Comment, replies: [Comment]

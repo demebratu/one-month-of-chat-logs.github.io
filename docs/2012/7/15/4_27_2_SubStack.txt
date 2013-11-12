@@ -1,0 +1,1 @@
+node preserves the run-to-completion semantics of browser javascript

@@ -1,0 +1,1 @@
+Right. Should I at least have "dependencies": {}?

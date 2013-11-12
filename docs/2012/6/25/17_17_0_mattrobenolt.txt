@@ -1,0 +1,1 @@
+Not sure why felix would say named bindings was out of scope though.

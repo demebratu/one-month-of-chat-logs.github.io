@@ -1,0 +1,1 @@
+although i should make that statSync, async

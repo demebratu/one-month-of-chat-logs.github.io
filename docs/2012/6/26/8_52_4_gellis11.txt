@@ -1,0 +1,1 @@
+leaning towards python/django, but it seems everyone is saying node.js is the future. dont wanna learn something thats on its way out :)

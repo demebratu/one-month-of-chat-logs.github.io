@@ -1,0 +1,1 @@
+sorry llrcombs you're write. I meant a new buffer created with a string of previously created data

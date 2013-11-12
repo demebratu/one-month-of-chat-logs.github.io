@@ -1,0 +1,1 @@
+kylefarris, in that case no, because the query that is run doesn't exist as a string.  The query first gets prepared and then the params are sent separately.

@@ -1,0 +1,1 @@
+and the file won't open, if it was say, a jpeg

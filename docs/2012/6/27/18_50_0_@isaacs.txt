@@ -1,0 +1,1 @@
+piscisaureus_: well, if it's a warning, then it's kind of nice to know "The author has not tested X on version Y. Watch out."

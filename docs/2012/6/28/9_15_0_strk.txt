@@ -1,0 +1,1 @@
+npm link seems to do something interesting, only need to set "nmp root" I guess

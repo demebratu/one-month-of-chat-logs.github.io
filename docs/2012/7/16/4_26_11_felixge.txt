@@ -1,0 +1,1 @@
+rookie84: we use node.js for most of the user facing API. But we also have Haproxy, Nginx and ELB mangling HTTP for us

@@ -1,0 +1,1 @@
+williamcotton: you are pushing multiple times though if the callback is invoked twice right?

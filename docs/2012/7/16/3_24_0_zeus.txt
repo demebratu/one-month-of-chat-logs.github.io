@@ -1,0 +1,1 @@
+Karmaon: Brian C is extremely responsive with node-pg, so if you file an Issue with some code (or even better, a test case) then I'm sure you can get an answer

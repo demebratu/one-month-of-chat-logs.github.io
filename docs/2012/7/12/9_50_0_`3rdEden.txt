@@ -1,0 +1,1 @@
+it's like 10 lines of code to build a stream interface on top of socket.io

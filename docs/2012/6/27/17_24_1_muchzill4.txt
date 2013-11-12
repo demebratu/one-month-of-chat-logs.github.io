@@ -1,0 +1,1 @@
+mostly about not blocking the thread, but when does it block? I was quite sure

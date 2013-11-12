@@ -1,0 +1,1 @@
+Trindaz: It just happens that utf-8 maps well to octets.

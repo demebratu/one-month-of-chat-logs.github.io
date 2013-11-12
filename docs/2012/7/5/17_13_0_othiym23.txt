@@ -1,0 +1,1 @@
+owen1: also worth finding creationix's slides from his presentation on luvit, which is basically taking libuv and wrapping Lua around it

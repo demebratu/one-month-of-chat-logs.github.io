@@ -1,0 +1,1 @@
+creationix: i am still a bit confused, how would i make it work in my case ? foo/bar example.com/bar foo/baz example.com/baz on 1 port?

@@ -1,0 +1,1 @@
+It's parallel code and node has workers to keep everything running, right?

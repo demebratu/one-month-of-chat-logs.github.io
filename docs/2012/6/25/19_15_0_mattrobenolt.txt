@@ -1,0 +1,1 @@
+Node is a full application server. Nginx only proxies and only serves static files.

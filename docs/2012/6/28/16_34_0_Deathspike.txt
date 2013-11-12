@@ -1,0 +1,1 @@
+Aquilas: You get a beautiful asynchronous model beautiful of handling a LOT of concurrent requests, so sites where response times are more critical than heavy weight processing (such as information exchange websites, forums, chat, real-time statistics, etc) are great on node. 

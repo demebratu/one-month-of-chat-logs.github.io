@@ -1,0 +1,1 @@
+can anyone help me to understand the format of os.uptime() ? 

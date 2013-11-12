@@ -1,0 +1,1 @@
+it's just key-value data; the XML setup they're using makes it way too complicated

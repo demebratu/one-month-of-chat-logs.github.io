@@ -1,0 +1,1 @@
+keverw changing terminal default colors not possible, but you could simply format all of your output to be colorised

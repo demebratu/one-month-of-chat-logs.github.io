@@ -1,0 +1,1 @@
+tjholowaychuk: side note you can use document.createRange() and createContextualFragment() for that

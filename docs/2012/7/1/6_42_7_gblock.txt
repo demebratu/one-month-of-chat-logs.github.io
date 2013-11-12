@@ -1,0 +1,1 @@
+williamcotton: but you said the size in redis is wrong?

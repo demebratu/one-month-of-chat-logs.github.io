@@ -1,0 +1,1 @@
+i can't figure out how to make npm install pass debug switches to gyp either

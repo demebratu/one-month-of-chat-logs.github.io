@@ -1,0 +1,1 @@
+i wonder why postgres needs gigabytes of memory to load a 140mb .sql file

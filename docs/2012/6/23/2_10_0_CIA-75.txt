@@ -1,0 +1,1 @@
+libuv: Ben Noordhuis master * r61f0487 / include/uv.h : Update uv_getaddrinfo() documentation. - http://git.io/jNToNQ

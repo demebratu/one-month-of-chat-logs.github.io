@@ -1,0 +1,1 @@
+I justdownloaded the OSX installer from the nodejs.org website and used that.

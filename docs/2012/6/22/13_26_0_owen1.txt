@@ -1,0 +1,1 @@
+is there a better authentication method than a simple user+password? anyone tried browserID?

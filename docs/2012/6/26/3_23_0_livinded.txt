@@ -1,0 +1,1 @@
+konobi: my point is that I want everything to work normally and just have certain functions do nothing

@@ -1,0 +1,1 @@
+devaholic: Yes, assuming people could log in to npmjs.org, using an iframe would make it so that they didn't have re-authenticate with another API

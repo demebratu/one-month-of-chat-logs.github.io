@@ -1,0 +1,1 @@
+There's an LPU effect with NPM. All the names are going and gone because people are publishing libraries that are a single function.

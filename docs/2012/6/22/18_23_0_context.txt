@@ -1,0 +1,1 @@
+node-cron is useless if you are using a single dyno on heroku, which will die after 1 hour of idle and be started when required.

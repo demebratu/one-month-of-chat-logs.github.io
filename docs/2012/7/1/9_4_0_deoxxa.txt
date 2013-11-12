@@ -1,0 +1,1 @@
+Xedecimal: it might be that the application you're running is expecting a real terminal

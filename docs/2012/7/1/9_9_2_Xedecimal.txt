@@ -1,0 +1,1 @@
+mongo does not. Ctrl+c closes it properly. httpd not either, ctrl+c will also close it

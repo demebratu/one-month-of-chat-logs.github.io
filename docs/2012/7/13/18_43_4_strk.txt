@@ -1,0 +1,1 @@
+can you see any reason why an http request never signals 'response' or 'error' ?

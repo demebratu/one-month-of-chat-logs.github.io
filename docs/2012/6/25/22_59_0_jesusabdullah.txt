@@ -1,0 +1,1 @@
+AAA_awright: function unsignedMod(a, b) { return Math.abs(a%b); }

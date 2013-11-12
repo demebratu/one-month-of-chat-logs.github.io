@@ -1,0 +1,1 @@
+"There is a magical project by @substack called browserify that makes domnode possible. It lets you write code in client side JS that looks like node code"

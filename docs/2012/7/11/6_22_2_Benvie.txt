@@ -1,0 +1,1 @@
+we provide binaries for linux 32bit and 64bit, windows 32bit, and binaries for mac that work on both

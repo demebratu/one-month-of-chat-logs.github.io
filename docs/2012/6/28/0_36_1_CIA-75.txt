@@ -1,0 +1,1 @@
+node: Shigeki Ohtsu master * r6d98524 / (41 files in 4 dirs): tools: update closure_linter to the latest(2.3.5) - http://git.io/GtHolg

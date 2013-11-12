@@ -1,0 +1,1 @@
+"hey wouldn't it be cool if we could manage dependencies with a command line tool and install them automatically when you pull down a project and if all the modules you needed were on there"

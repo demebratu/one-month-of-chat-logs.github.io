@@ -1,0 +1,1 @@
+how many sockets can node.js keep open and send to is the question

@@ -1,0 +1,1 @@
+bnoordhuis: here's the message I get after installing iconv when I try to run haraka

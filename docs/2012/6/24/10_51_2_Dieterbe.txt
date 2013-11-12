@@ -1,0 +1,1 @@
+but my child processes don't die when the parent dies

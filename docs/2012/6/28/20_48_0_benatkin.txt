@@ -1,0 +1,1 @@
+I think it would be cool if the npm README contained instructions for running it without installing it :)

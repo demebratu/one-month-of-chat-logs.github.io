@@ -1,0 +1,1 @@
+tjholowaychuk: they're really not for callbacks.  they're for event emitters.

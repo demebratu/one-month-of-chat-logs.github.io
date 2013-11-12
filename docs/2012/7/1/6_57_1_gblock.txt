@@ -1,0 +1,1 @@
+williamcotton: so you are seeing the same result in ruby is what you are saying?

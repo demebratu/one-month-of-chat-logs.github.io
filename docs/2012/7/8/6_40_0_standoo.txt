@@ -1,0 +1,1 @@
+TimeTurner: yeah, like the child_process.spawn only returns when the process has finished

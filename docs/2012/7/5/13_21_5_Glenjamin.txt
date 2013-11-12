@@ -1,0 +1,1 @@
+is it just because of stuff like the ternary statement, or is it deeper than that?

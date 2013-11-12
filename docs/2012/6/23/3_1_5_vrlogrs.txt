@@ -1,0 +1,1 @@
+how can i fix the mysql queries so that they run in sync

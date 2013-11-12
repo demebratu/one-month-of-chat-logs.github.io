@@ -1,0 +1,1 @@
+http://nodejs.org/docs/latest/api/path.html#path_path_resolve_from_to

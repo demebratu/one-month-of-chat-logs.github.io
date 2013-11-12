@@ -1,0 +1,1 @@
+var req = http.request(options); req.on('response', function (res) { client.putStream(res, path, callback) }); req.end()

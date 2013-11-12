@@ -1,0 +1,1 @@
+is there a way i can get a list of the modules that comes in the current node binary,, i want a list like ["fs", "stream", "events", "child_process" .. etc

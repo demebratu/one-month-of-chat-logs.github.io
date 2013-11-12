@@ -1,0 +1,1 @@
+can it also harm if i close scope even if i did nothing with it ?

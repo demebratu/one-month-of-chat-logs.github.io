@@ -1,0 +1,1 @@
+promises meant a new syntax to explain, and no one could decide on how a promise should look

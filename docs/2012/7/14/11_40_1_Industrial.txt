@@ -1,0 +1,1 @@
+but if I request the index route which has res.render 'index', {layout: 'layout.haml'} I get only the index not the layout aroudn it.

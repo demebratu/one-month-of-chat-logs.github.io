@@ -1,0 +1,1 @@
+at one point our riak server couldn't stay up more than a day before crashing constantly

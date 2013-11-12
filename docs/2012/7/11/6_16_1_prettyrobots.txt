@@ -1,0 +1,1 @@
+bradleymeck: Yes. Showing me the on('exit', function () { process.exit(intendedExit) }) is what I needed to see. Thank you. 

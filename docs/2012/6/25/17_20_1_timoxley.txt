@@ -1,0 +1,1 @@
+isaacs sure just a percentage difference between the old time/req per second/whatever metric  in addition to what's already there would make things more easily brain parsable.

@@ -1,0 +1,1 @@
+nlf: maybe save the data to a buffer with on('data', ...), and then in on('header', ...) write before piping, and remove the on('data', ...) handler

@@ -1,0 +1,1 @@
+rampr: try adding `; charset=utf-8' to the content-type

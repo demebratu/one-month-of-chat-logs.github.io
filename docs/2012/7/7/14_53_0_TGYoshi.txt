@@ -1,0 +1,1 @@
+augustl It hangs if I put params[0][i]['NickName'], but if I just use params[0][i]['Login'] it works

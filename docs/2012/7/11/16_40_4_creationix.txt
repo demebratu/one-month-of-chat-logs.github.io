@@ -1,0 +1,1 @@
+right, so in node a library, module, and package are all the same thing

@@ -1,0 +1,1 @@
+I did try that, and it all seemed to be fine ;) using express and routing, when it came to reading records, things were just fine. However, when I came to put data, the req always seemed to be undefined

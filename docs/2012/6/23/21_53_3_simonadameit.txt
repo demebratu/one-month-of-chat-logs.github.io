@@ -1,0 +1,1 @@
+benatkin: what i want to do is more like "implement a repl / shell"  to which there are two main entry points, "eval code" and "call function"

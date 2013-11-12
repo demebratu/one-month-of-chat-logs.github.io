@@ -1,0 +1,1 @@
+livinded: TBH, it's almost impossible to have realtime when using GC

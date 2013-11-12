@@ -1,0 +1,1 @@
+Does somebody know if there already exist a helper method with express that creates an error and attaches a status code to it?

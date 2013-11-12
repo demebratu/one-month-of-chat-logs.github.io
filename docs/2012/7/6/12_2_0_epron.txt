@@ -1,0 +1,1 @@
+i tried calling scrapeReviews after parseReviews is finished, but since they don't complete in order the loop stops before I actually have all the data

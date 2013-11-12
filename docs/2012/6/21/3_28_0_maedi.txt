@@ -1,0 +1,1 @@
+guy: I would also be curious to see whether a node framework like DerbyJS or Meteor solves this problem. They have some advanced synchronization code

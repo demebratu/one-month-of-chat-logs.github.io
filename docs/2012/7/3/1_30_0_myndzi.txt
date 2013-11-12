@@ -1,0 +1,1 @@
+object eventemitter has no method 'destroy' at socket.onclose (stream.js) ?

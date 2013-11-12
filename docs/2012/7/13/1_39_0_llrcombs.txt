@@ -1,0 +1,1 @@
+bnoordhuis: you seem to be a bit of a Buffer expert. Out of curiosity: what data is in a Buffer when it's first allocated? I noticed while working with a weird API yesterday that `new Buffer(number)` isn't filled with 0's.

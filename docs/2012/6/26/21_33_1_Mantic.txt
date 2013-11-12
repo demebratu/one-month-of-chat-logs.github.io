@@ -1,0 +1,1 @@
+styol: v8 is pretty memory-heavy to begin with, but with the intent of speeding up the runtime. I'd have to consult my v8 guru buddy about specific variable name usage. But even then, there are other points of optimisation that you'd want to hit long before variable names are a concern.

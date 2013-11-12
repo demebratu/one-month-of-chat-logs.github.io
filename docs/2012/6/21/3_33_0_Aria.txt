@@ -1,0 +1,1 @@
+So if the game thinks you're aiming at 1,5 and you're aiming at 1,4, the display slowly redirects toward the correct values. Anticipation, rather than accuracy.

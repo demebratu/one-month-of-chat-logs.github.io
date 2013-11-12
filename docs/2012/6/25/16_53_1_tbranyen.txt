@@ -1,0 +1,1 @@
+i use uncaughtException in all code that goes to production

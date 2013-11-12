@@ -1,0 +1,1 @@
+it fills the niche as an alternative to columnar store databases and it makes star schema quite a bit easier (in my mind)

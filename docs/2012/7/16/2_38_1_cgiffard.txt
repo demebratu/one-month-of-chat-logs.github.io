@@ -1,0 +1,1 @@
+perhaps try rewriting it in a way that expect can catch the error?

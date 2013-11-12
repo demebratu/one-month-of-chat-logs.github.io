@@ -1,0 +1,1 @@
+and where do u put the opening connection code? seperate file inside models folder?

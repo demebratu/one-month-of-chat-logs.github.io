@@ -1,0 +1,1 @@
+owen1: a byte is 8 bits, a string in javascript consists of characters, not bytes

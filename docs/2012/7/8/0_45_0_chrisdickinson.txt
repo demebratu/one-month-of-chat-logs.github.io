@@ -1,0 +1,1 @@
+so, it looks like these are the steps (by and large) to make a compiled module domain-ready: https://github.com/developmentseed/node-sqlite3/pull/81

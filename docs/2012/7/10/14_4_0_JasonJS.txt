@@ -1,0 +1,1 @@
+dnode question - has built in reconnect functionality been removed or changed recently? I'm passing in a reconnect param to .connect but it doesn't seem to do anything in 1.0

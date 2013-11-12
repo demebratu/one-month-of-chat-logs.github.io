@@ -1,0 +1,1 @@
+Hello. I have an npm package which stores some persistent data, which is wiped every time I update it. Is there any way to make this data stay persistent without storing it in a different place?

@@ -1,0 +1,1 @@
+If you  are more towards traditional websites then django is a stronger option I think, but with more "native" feel web applications node is pretty strong I think

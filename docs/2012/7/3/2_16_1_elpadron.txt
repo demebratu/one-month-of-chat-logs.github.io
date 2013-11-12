@@ -1,0 +1,1 @@
+im building my client page (socket.io) in javascript via long string '\     blah \   blah\';  but when i view source in the browser there are no new lines, is there anyway to trick it so i can read my own code when i am using firebug ?

@@ -1,0 +1,1 @@
+I have also set the views variable in the app: app.set('views', __dirname + '/views');

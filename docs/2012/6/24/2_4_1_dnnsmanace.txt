@@ -1,0 +1,1 @@
+var output = fs.createWriteStream('./images/'+attachment.generatedFileName);

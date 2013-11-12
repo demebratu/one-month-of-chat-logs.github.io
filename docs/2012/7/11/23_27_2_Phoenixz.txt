@@ -1,0 +1,1 @@
+bnoordhuis: I did git clone node, cd node, git co v0.8.2

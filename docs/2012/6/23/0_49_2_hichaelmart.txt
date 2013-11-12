@@ -1,0 +1,1 @@
+bnoordhuis: would be relatively easy to write a StringStream and then do: var stream = fs.openReadStream('myfile').pipe(stringStream)

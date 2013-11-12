@@ -1,0 +1,1 @@
+othiym23: docs on this? I'm really curious now to see how node deals with interrupts

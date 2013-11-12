@@ -1,0 +1,1 @@
+but yeah, support i2c and maybe another digital sensor protocol, plus the analog stuff, give it a web ui and you're g2g

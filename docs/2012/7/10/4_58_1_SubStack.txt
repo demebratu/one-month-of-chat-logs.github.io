@@ -1,0 +1,1 @@
+not that I need those algorithms right now or anything but those should also be on npm

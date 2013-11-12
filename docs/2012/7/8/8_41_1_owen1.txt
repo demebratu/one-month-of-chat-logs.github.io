@@ -1,0 +1,1 @@
+AAA_awright: what do u mean by 'single instance'. i am talking of many instances of my app. each instance on it's own process.

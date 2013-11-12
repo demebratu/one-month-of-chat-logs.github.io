@@ -1,0 +1,1 @@
+if i just cut out lines 57-63 and put them inside line 48 .. will that fix the problem?

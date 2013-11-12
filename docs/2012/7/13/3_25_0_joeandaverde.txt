@@ -1,0 +1,1 @@
+I'm trying to create a node.js clone that shows how node.js combines libuv and v8 to create network servers. I like some guidance on some code i've written. I'm fairly inexperienced with c++. I'm also a bit uncertain of what a good pattern would be to invoke callbacks into js when a connection comes in over http.

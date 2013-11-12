@@ -1,0 +1,1 @@
+If you need your thing to be totally decoupled you can use connect-redis & then query for sess:<id> 

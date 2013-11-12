@@ -1,0 +1,1 @@
+but Masyl -- how can i get the var "me" back to the parent function so that it can return?

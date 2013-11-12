@@ -1,0 +1,1 @@
+how do you reference an outside file? Like for images etc?

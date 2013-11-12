@@ -1,0 +1,1 @@
+bcrypt uses node-gyp, I'm on 0.8. node-gyp seems to install into the Debug folder rather then the Release folder

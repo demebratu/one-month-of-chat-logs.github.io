@@ -1,0 +1,1 @@
+I would like a page to point aspiring javascripters to that warns them about the pitfalls of cutting their teeth on coffeescript

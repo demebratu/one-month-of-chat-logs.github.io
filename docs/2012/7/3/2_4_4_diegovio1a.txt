@@ -1,0 +1,1 @@
+why they won't fucking support <C-left> <C-right> is fucking beyond me, I know I'm supposed to use HJKL or ^w ^b to move around in vim but then actually using arrow keys will delete lines from my code and or insert crap like "d" and "c"

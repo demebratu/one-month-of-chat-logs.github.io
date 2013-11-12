@@ -1,0 +1,1 @@
+bnoordhuis: something like $ socat /tmp/local_socket UNIX-CONNECT:/tmp/remote_socket

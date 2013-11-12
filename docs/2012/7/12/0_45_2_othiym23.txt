@@ -1,0 +1,1 @@
+pawn: the docs tell you how to configure socket.io at setup time, yup

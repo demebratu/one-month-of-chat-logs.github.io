@@ -1,0 +1,1 @@
+i dont see the difference between open-sourcing something useless that only your app will use, and just having a private module in ./lib

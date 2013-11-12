@@ -1,0 +1,1 @@
+and www/server.js would iterate over it's child directories and load the function from each one

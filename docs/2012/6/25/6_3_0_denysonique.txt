@@ -1,0 +1,1 @@
+this can only happen if two different libraries try to add a new prototype object of the same name to a native object

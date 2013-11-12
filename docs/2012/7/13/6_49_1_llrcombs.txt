@@ -1,0 +1,1 @@
+also, if whatever you're getting is compressed, send the first data value directly in and then call .pipe();. Otherwise, you can gather data in a string (since it's plaintext). Use .once() instead of .on() so you only get the first event.

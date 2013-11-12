@@ -1,0 +1,1 @@
+pawn: Or, stream.on('data', function (data) { /* React to a chunk of data coming in on a stream */ });

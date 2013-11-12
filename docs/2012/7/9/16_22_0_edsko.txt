@@ -1,0 +1,1 @@
+herzogharker: that > var azure = require('azure') gives me 'undefined'

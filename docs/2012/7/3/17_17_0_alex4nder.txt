@@ -1,0 +1,1 @@
+possibilities: take the output of ps, pipe it through awk, come up with a process list to kill, kill them.

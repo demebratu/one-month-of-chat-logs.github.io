@@ -1,0 +1,1 @@
+gkatsev:  I don't understand completely. you get this error in a browser is it? I'm curious doesn't socket.io handle setting of encoding ?

@@ -1,0 +1,1 @@
+Cat4D: Its the responsibility of the programmer to ensure his VPS is set up for development. Also, there is no technically official node package yet, so if that package never checked for a dep, not really node's problem and you should talk to the maintainer of that package

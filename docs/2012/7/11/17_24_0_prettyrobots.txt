@@ -1,0 +1,1 @@
+EricBlade: If you want a string, give it an encoding.

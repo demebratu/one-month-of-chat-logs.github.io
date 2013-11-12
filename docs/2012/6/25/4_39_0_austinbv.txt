@@ -1,0 +1,1 @@
+so how do you test that your module works properly when npm installed?

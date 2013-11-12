@@ -1,0 +1,1 @@
+myndzi, maybe that's because JS has no class, everything is an object.

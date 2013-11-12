@@ -1,0 +1,1 @@
+anyone with experience using coffee-resque able to help debug a problem? It seems my 'jobs' are completing successfully, but the function I need to run in every job never gets called: https://gist.github.com/e4a5def25715d5c24879

@@ -1,0 +1,1 @@
+I kinda wish node supported "return foo" instead of  "module.exports = foo"

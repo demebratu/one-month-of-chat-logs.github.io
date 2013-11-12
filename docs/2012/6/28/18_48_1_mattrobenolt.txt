@@ -1,0 +1,1 @@
+Deathspike: It can be persistent if you want it to be, but there's a period of time between being in memory and on disk.

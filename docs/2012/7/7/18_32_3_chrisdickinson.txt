@@ -1,0 +1,1 @@
+i've been using utensil to run my little proxy for work and it doesn't seem to be leaking memory at all.

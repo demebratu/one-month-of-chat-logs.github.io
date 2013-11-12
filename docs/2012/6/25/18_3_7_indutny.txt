@@ -1,0 +1,1 @@
+einaros: can you publish new version with updated ws dependency (as on github's master)

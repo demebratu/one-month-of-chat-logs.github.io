@@ -1,0 +1,1 @@
+and the ethos wound up in the library. I woudl be very interested to know what would necessitate a design decision that would break node.js conventions

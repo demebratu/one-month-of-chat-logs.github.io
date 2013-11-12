@@ -1,0 +1,1 @@
+don't know if he's open-sourced his ffmpeg-node solution though

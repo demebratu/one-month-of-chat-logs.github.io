@@ -1,0 +1,1 @@
+so.. I call sudo node myprogram.js  it is a web server.. i created it by express.   then after app.list().  it fails.

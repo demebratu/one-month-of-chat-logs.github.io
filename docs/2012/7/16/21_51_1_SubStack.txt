@@ -1,0 +1,1 @@
+TehShrike|Work: it was originally not a getter but then I would have had to break the api to do the things I wanted to do

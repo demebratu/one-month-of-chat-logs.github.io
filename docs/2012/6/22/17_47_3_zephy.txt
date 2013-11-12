@@ -1,0 +1,1 @@
+hey guys, I'm wondering: is there a way to use v8 separately to debug parts of JS which have no connection to Node?

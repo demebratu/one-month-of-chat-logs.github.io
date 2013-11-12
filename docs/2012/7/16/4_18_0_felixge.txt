@@ -1,0 +1,1 @@
+rookie84: if you're mostly doing CRUD style apps, node doesn't bring a lot of exciting things to the table

@@ -1,0 +1,1 @@
+and RPC should be left to those poor folks still coding in java, xml, and eclipse.

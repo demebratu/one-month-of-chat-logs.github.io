@@ -1,0 +1,1 @@
+circlicious: no it doesn't, it just sends the data through standard input

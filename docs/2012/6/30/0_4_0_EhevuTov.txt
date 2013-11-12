@@ -1,0 +1,1 @@
+dmilith, hey I hear you, I use Node on fBSD as well. i just don't need 0.8 yet so I'm not quite in your boat. Ben seems to be aware of the issue though(seems like it was a dependencies problem)

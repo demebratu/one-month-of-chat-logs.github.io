@@ -1,0 +1,1 @@
+livinded: If you make this in a real project, please please, dont do any HTML :) We can do that ourselves.. Just give lots of hooks to connect to, events to respond to and methods to control eveyrhing..

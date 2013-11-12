@@ -1,0 +1,1 @@
+has anyone else noticed any problem with node 0.8 piping an http.ClientResponse to a http.ServerResponse? im forwarding a couchdb view with ~6500 rows it breaks at ~6400

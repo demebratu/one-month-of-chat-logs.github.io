@@ -1,0 +1,1 @@
+I installed it globally and locally - same problem.

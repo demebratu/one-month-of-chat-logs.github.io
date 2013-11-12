@@ -1,0 +1,1 @@
+Hey I just started diving in to nodejs. I'm coming over from the python/django community. What are some resources/tutorials you'd guys would recommend for learning?

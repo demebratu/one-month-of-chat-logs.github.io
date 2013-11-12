@@ -1,0 +1,1 @@
+heya, i need some help because i have strange problem and i don't have any clue whats happening. somehow sessions are not saved to redis anymore when i start socket.io, when i comment socket.io part they work. code is here http://pastebin.com/pMGkHZDm btw this code worked at some point and stopped after db crash

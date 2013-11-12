@@ -1,0 +1,1 @@
+Nuck: any utf-8 character is fine to be non-escaped, except a tiny handful like newline.

@@ -1,0 +1,1 @@
+TimeTurner: so, if you've ever done `require('domain')` in your program, any EE calls will attach 'this' to the current domain at creation time

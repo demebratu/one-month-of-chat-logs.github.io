@@ -1,0 +1,1 @@
+once nave is installed you can just do `nave install 0.8.0` for instance and then `nave use 0.8.0` at some other point

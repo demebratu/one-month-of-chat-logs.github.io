@@ -1,0 +1,1 @@
+so what are some examples of native prototype extension?

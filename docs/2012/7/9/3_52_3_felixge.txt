@@ -1,0 +1,1 @@
+yeah node-pool should work, as it's generic IIRC

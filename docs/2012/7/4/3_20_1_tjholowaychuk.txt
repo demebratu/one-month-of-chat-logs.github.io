@@ -1,0 +1,1 @@
+I found res.socket.parser.incoming but that's obviously really hacky

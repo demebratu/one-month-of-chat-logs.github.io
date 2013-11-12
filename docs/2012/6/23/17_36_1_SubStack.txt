@@ -1,0 +1,1 @@
+which is easy, just cat file1.js file2.js <(browserify entry.js) > bundle.js

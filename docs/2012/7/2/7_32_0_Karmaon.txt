@@ -1,0 +1,1 @@
+I'm butthurt the rdbms support is sub-optimal for new technologies such as node.

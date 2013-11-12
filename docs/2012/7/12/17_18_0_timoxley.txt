@@ -1,0 +1,1 @@
+motiooon_ why not just save it to a file and store reference to file in db

@@ -1,0 +1,1 @@
+some nice private name spaced components that can be used for async polling of sensors

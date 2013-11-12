@@ -1,0 +1,1 @@
+is there a way to read the file creation times? all i see in the doc is setting the times http://nodejs.org/api/fs.html#fs_fs_utimes_path_atime_mtime_callback

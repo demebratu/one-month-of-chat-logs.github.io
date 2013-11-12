@@ -1,0 +1,1 @@
+https://gist.github.com/3fb1d4607fb4ccc1a989 I've been doing everything imaginable to get NsSocket to work but every time it does this

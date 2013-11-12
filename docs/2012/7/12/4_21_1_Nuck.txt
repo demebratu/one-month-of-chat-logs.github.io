@@ -1,0 +1,1 @@
+dominictarr: It's creating a TLS stream, and it's an EventEmitter2 over TCP/TLS

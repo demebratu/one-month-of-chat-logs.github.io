@@ -1,0 +1,1 @@
+Because actually I'm "waiting" the db response to call next() but I'm afraid to make a mistake "waiting" for DB because nodejs is build on the I/O Event idea

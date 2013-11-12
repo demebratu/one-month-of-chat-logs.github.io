@@ -1,0 +1,1 @@
+In a telnet or SSH stream, would end go off after each line sent, or only when the connection ends?

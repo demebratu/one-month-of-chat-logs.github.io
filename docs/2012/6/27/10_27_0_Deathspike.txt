@@ -1,0 +1,1 @@
+Apparently so. I was just getting to route middleware and http method overrides and was like, ehh... that's smart.

@@ -1,0 +1,1 @@
+you should be able to build an array of functions on the fly, then pass it to async.series()

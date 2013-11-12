@@ -1,0 +1,1 @@
+what form libraries are folks using with express? I'm looking for something that will let me define my forms in node and let me print them out in HTML (not by hand, but with flexibility). Something like how django's forms work. 

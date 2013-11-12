@@ -1,0 +1,1 @@
+TimeTurner: when i read libeio it say it uses threads. that's why i don't understand when i hear that node asyn is done with no thread. even ryan mentioned it when he said that node is similar to nginx - it's not using threads but uses event loop instead!

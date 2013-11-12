@@ -1,0 +1,1 @@
+Raynos: This assumes you already have v8 installed as part of your package manager, I compile v8 for mongodb and Node.js and Mongodb share the library

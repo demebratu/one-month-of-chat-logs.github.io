@@ -1,0 +1,1 @@
+Is there like a module or something for bcrypt? Not really sure where to start.

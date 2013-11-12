@@ -1,0 +1,1 @@
+the current document model I have is nested lists, with attribute dictionary accompaniying them

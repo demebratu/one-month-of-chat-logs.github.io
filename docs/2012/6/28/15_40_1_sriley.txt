@@ -1,0 +1,1 @@
+with zero server side rendering there will be zero content indexed, thats just how it works

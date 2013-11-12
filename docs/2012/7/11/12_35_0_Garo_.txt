@@ -1,0 +1,1 @@
+radiodario: so there's no __defineSetter__ anywhere, and thus the old way didn't work. But luckily I could just redo this on my code: global.__defineGetter__('console', function() { return myownconsoleimplementation; });

@@ -1,0 +1,1 @@
+zutto: yes also looked at socket.io try to understand the technology i exactly need

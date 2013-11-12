@@ -1,0 +1,1 @@
+emilsedgh_: Yeah, whether node steps it up and can handle static files, the bottom line is... it does more than serve files.

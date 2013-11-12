@@ -1,0 +1,1 @@
+would be nice if you guys also looked in the parent dirs of the script that was being launched :)

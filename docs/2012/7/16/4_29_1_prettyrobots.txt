@@ -1,0 +1,1 @@
+Like when you have a code base like a shopping cart of a blog, where most of the coding is done in the templates.

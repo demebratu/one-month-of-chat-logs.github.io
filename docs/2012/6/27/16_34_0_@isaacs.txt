@@ -1,0 +1,1 @@
+tjholowaychuk: bash arrays are kind of weird.  there are some examples in nave.sh

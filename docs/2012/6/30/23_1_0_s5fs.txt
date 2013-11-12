@@ -1,0 +1,1 @@
+niteshade: hm, i read that link and don't have much more to add. you could always compile the binary elsewhere and then deploy it yourself to your host, haha!

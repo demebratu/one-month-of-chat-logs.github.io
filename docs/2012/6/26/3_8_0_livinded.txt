@@ -1,0 +1,1 @@
+konobi: then you have to iterate over every exported function and do a compare against the key. Check this out: https://gist.github.com/b9989e1f15616fc4e979

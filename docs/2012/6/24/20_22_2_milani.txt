@@ -1,0 +1,1 @@
+tenumm, you can Object.Dispose()

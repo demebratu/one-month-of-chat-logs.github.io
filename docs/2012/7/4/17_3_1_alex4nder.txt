@@ -1,0 +1,1 @@
+rather than explicitly breaking your code into separate functions, node-fibers allows you to get the next thing you want to do, from inside the function you're currently in.

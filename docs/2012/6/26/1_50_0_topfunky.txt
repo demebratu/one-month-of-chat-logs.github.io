@@ -1,0 +1,1 @@
+I was able to install commander@0.6.1 manually, but not as a sub-dependency of socket.io

@@ -1,0 +1,1 @@
+Question is... how do I make it into a module, such that I can do something like send(data) assuming I have the data to put in it, and all other settings for the connection such as method and URL are static...?

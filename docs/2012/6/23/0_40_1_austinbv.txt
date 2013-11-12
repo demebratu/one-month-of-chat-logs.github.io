@@ -1,0 +1,1 @@
+where is all the info about how to set up package.json

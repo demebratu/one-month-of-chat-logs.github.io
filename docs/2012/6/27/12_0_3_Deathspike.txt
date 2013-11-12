@@ -1,0 +1,1 @@
+Apathetic: But that doesn't work. You need to run the command prompt for node (installer creates a shortcut, so use it), or register the exe yourself.

@@ -1,0 +1,1 @@
+Hey, i maintain a couple libuv projects @ work and i saw the recent speedups in the node 0.8.0 release. I'm just curios if anybody happens to know any of the root "causes" that these speedups came from and if theres anything i can do to maybe take advantage of them strictly from libuv?

@@ -1,0 +1,1 @@
+SubStack: any idea how to stop a node_redis client from re-connecting once the connection fails?

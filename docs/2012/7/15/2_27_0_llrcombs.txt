@@ -1,0 +1,1 @@
+can crypto.createHmac's "key" param take a Buffer?

@@ -1,0 +1,1 @@
+Clients are disallowed from mutating another module's exports. (That's one of the things we're able to accomplish by making modules declarative rather than totally dynamic.)

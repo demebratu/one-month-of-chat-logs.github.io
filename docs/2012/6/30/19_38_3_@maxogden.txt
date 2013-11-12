@@ -1,0 +1,1 @@
+this uses streams to upload a csv and store it in couch and stream the results back to the resp https://github.com/maxogden/datacouch/blob/4944608a42659d47512fdbc121f723b6b0ad3cb2/service/csv_uploader.js

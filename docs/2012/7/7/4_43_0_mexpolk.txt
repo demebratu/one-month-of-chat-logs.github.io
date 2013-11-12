@@ -1,0 +1,1 @@
+What do you think? Changed doc to clarify fs.symlink and fs.symlinkSync https://github.com/joyent/node/pull/3657

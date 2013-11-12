@@ -1,0 +1,1 @@
+RLa: java as a platform is ok for server side systems

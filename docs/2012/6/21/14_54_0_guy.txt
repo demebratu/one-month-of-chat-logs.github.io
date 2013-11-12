@@ -1,0 +1,1 @@
+equivoc: I don't get from docs, so I have https://gist.github.com/1c50854b647947e2af82 Now, how do I define callable functions?

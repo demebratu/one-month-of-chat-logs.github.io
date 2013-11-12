@@ -1,0 +1,1 @@
+but those libraries seem kinda unaware of promises/deferreds to begin with

@@ -1,0 +1,1 @@
+This is really interesting - My code wasn't wrong at all when it comes to decompression. The site I'm pulling data from is crashing Fetch too - there's something curly going on

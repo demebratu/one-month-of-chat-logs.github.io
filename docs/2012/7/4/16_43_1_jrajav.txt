@@ -1,0 +1,1 @@
+It would be more interesting if you returned the function value (in the first case) and the object value (in the second case) and THEN called the functions

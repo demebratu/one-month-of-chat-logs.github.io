@@ -1,0 +1,1 @@
+SubStack: this just makes a file called stdout for me https://github.com/substack/shp2json/blob/master/index.js#L57

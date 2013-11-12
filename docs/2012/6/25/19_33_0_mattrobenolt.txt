@@ -1,0 +1,1 @@
+<= 0.8.x is assumed... all releases in 0.8, but not 0.9.

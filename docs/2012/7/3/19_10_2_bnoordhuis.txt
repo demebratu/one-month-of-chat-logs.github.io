@@ -1,0 +1,1 @@
+the sixth one fails because there's no ipv6 configured on that machine

@@ -1,0 +1,1 @@
+you just compare 1000 queries through a single connection

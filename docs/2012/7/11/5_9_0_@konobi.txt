@@ -1,0 +1,1 @@
+austinbv: that's not the only way... but with IO, there's a delay between when something gets called and when it returns... when the thing returns, the callback gets called with the data

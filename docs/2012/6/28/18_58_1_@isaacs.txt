@@ -1,0 +1,1 @@
+Deathspike_: you could build a blog engine on couchb pretty easily.  actaully i think mikeal's blog basically is couchdb with a CDN in front of it.

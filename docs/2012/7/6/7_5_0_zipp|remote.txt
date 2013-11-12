@@ -1,0 +1,1 @@
+You guys know what the max memory Node can use in 0.8.1? Is it still the like 1.7 GB limit of V8?

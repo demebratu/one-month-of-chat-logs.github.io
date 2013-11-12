@@ -1,0 +1,1 @@
+I only want to prepend/append a header/footer on static files. I've looked at extending connect.static, but the bulk of it is in send() which is something I need to modify (cause send() sends content-length headers)

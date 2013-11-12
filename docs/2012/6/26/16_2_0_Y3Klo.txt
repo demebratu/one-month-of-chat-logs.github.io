@@ -1,0 +1,1 @@
+sriley: Of course, the idea is to maintain the whole projects separate from each other. I'll check vagrant then, thank you.

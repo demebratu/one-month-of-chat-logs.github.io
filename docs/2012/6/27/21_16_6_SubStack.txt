@@ -1,0 +1,1 @@
+because having a module called foo that has a function called foo and only that function is a bit silly

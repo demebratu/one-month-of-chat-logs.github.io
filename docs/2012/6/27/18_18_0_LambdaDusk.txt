@@ -1,0 +1,1 @@
+does node have a image resizing lib that works on streams?

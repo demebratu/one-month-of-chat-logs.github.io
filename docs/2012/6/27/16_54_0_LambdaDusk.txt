@@ -1,0 +1,1 @@
+sessions and cookies are also two features not quite necessary for a api app

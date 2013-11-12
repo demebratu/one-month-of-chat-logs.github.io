@@ -1,0 +1,1 @@
+2) yes, you'll need to run a rabbitmq server or some other method for telling the socket.io server to do things. there isn't necessarily a reason you couldn't tell the socket.io server to do things over websockets, but i've never tried.

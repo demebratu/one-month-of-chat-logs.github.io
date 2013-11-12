@@ -1,0 +1,1 @@
+jocafa: implements weakrefs which let you have a reference to an object that doesn't get counted by the GC and lets you listen for when your objects gets GC'd

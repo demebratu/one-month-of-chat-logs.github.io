@@ -1,0 +1,1 @@
+i use sublimetext2 there are some nice plugins like sublimelinter (it does jshint), poor intellisense but i love it

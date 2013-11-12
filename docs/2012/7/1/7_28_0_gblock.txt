@@ -1,0 +1,1 @@
+williamcotton: so summary is using base64 encoding worked

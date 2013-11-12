@@ -1,0 +1,1 @@
+Hey guys, i am using the mysql api with node.js, It works fine, but when i am creating a new query inside another queri'es function, i the database has not been selected

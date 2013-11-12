@@ -1,0 +1,1 @@
+I'm trying to install node-sqlite3 via npm on OS X Mountain Lion and the build fails - http://pastie.org/4188235

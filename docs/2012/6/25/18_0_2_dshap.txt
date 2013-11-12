@@ -1,0 +1,1 @@
+regality: i was reading this issue on github (https://github.com/flatiron/winston/issues/101) and indexzero said "That's already possible through configurable log levels", but then no one could figure out how

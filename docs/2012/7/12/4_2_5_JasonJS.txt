@@ -1,0 +1,1 @@
+jesusabdullah: Apparently, but now it gc'ing my callbacks before the are even used - very bizarre

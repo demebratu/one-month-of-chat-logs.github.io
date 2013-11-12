@@ -1,0 +1,1 @@
+Hi, wondering if someone can help me. I am having issues running my express 2.x app. npm install -d runs successfully but when I try and start the app I get this - http://pastebin.com/XhViz166 . Any ideas? looks like npm isn't installing express properly. I am running npm v1.3.0 and node v0.6.19

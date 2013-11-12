@@ -1,0 +1,1 @@
+isaacs: it would also be super-awesome to add an option to ls to just show the top-level modules (for use with npm ls -g)

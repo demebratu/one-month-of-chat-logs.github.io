@@ -1,0 +1,1 @@
+epall: i.e. it tells the kernel to send x probes before considering the connection dead

@@ -1,0 +1,1 @@
+hey, so im trying to do something i thought would be pretty straight forward: pass data between two connected sockets, but i seem to be failing - data only seems to work in one direction.

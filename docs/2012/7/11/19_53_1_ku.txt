@@ -1,0 +1,1 @@
+bradleymeck, IRC is largely memory and network-bound, very little CPU

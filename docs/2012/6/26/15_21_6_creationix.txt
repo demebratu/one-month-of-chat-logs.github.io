@@ -1,0 +1,1 @@
+bnoordhuis: is linux still faster inside a xen virtual kernel?

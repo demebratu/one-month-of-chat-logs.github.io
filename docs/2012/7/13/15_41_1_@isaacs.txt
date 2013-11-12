@@ -1,0 +1,1 @@
+strk: you know, you can do `npm ls -g zlib` in the latest npm

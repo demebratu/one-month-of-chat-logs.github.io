@@ -1,0 +1,1 @@
+well, you have to start apache in a way that stops it from forking i guess

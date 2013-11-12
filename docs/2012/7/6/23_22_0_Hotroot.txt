@@ -1,0 +1,1 @@
+Do only one or the other (buffer or socket) need to have their encoding set?

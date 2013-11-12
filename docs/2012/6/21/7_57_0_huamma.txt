@@ -1,0 +1,1 @@
+How can I convice my working partners javascript is a good programming language? I tried everything but they still say javascript sucks, ergo Node.js sucks too! D:

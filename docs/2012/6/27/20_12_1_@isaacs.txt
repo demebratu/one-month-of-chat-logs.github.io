@@ -1,0 +1,1 @@
+SubStack: also, it should be able to open urls as well as html files.

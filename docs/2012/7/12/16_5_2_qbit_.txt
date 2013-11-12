@@ -1,0 +1,1 @@
+so i have an internal npm repository ( that is now in sycn after a long while ) .. i can install from it just fine.. but when i go to adduser .. i get a 404 for 'registry'

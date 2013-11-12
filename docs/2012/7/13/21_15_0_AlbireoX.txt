@@ -1,0 +1,1 @@
+I'm posting here because nobody is responding in #mongodb.  is it faster to get documents by their ObjectID or could I use my own unique string and have it be the same speed?

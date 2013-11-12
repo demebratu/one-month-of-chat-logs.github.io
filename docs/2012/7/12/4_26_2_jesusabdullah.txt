@@ -1,0 +1,1 @@
+dominictarr: you could easily use the namespacing for the muxing and just reemit the ents with/without namespace

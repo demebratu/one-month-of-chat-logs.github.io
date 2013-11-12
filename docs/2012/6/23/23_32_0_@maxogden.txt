@@ -1,0 +1,1 @@
+SubStack: ok yeah same behavior on newest browserify

@@ -1,0 +1,1 @@
+Is there a best practice for folder in linux to run node.js out of?

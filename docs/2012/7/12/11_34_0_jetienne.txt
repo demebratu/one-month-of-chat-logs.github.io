@@ -1,0 +1,1 @@
+anybody knows a good generator for jsdoc ? something more modern that the usual jsdoc on google doc 

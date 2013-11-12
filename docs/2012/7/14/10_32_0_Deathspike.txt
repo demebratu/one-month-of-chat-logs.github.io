@@ -1,0 +1,1 @@
+styol: No, I was expecting something like str.trim( ':' ) but that's a no-go. The default functionalities in JS are really poor :/

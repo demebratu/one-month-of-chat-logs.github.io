@@ -1,0 +1,1 @@
+kylefarris: You get a difference between query( "foo IN ?", some_array )  and query( "foo IN ?", some_array.join(",") )  ?

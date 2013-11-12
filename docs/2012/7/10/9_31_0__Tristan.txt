@@ -1,0 +1,1 @@
+I'm making a module. I do npm link, it says error: EACCES. I do sudo npm link, it puts the link in /usr/lib/node_modules and node can't find the module. I manually make a symlink from ~/node_modules/modulename to it's folder, it works fine. WTF?

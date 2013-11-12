@@ -1,0 +1,1 @@
+I guess we just need to adopt a better word to describe stateful apps

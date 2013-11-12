@@ -1,0 +1,1 @@
+instead of { .... var foo = query .... do something with foo }

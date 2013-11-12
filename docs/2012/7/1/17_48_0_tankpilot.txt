@@ -1,0 +1,1 @@
+and I'm very curious about using fp utilities like composition, map & reduce on my data models

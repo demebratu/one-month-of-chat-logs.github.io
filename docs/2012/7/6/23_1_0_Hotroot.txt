@@ -1,0 +1,1 @@
+So basically, each socket will have a buffer. On each "data" event, I add the data to the buffer. If it goes above buffer size, I kill the connection. If the data has an endline in it, I tell the buffer I want those last X bytes, and then clear those from the buffer?

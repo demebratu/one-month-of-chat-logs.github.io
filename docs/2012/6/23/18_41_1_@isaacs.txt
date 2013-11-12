@@ -1,0 +1,1 @@
+TehShrike: small modules that do few things, predictably, with standard interfaces.  the Unix philosophy was on to something.

@@ -1,0 +1,1 @@
+Yeah, state becomes more difficult to reason about, especially if you're just tossing it around all willy-nilly

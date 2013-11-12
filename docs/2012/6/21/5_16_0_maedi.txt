@@ -1,0 +1,1 @@
+guy: How's your game going? Figure out a way to 'block' position updates from the server of your current square?

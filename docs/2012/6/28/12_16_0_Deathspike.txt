@@ -1,0 +1,1 @@
+Ah yeah in this instance that is more elegant. But my original intend was to run the function for anything *except* api calls so I would need to define a route to exclude requests starting with /api/

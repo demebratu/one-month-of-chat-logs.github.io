@@ -1,0 +1,1 @@
+dshap: could you think of any other good way to do this, other that requesting the resource than writing the file with fs and then sending the use the file ?

@@ -1,0 +1,1 @@
+one question, can i use the osascript command in place of ("sh my script.sh") ?

@@ -1,0 +1,1 @@
+brianc1: also handle if its been retrieved already

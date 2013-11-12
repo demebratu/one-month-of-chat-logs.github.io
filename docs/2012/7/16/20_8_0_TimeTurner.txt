@@ -1,0 +1,1 @@
+anyone have firsthand experience with require.js and going from commonjs node-style -> AMD?

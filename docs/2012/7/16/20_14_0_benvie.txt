@@ -1,0 +1,1 @@
+and in node, process.mainModule.exports.windows[0] === browser.window

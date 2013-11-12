@@ -1,0 +1,1 @@
+RushPL: no, no bug. things in node core (like cluster) that depend fork() make certain assumptions about how fork() sets up the child process

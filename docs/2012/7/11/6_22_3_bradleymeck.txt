@@ -1,0 +1,1 @@
+my question is how many ppl who complain about "performance" just don't minify, only big sites should hit perf problems

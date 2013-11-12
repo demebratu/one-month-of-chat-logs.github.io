@@ -1,0 +1,1 @@
+that's something i want to do, and i need to detect whether i, this script, am the entry point for node or not

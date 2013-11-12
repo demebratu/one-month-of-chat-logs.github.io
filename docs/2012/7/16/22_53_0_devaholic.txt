@@ -1,0 +1,1 @@
+mkh: getting all the same stats might not be as easy, but you can test simple stuff like req/s

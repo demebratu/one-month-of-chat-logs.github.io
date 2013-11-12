@@ -1,0 +1,1 @@
+tjholowaychuk, hey, mind if I ask you how you'd handle this situation I reached in a library I am writing?

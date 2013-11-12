@@ -1,0 +1,1 @@
+im not sure if you can get around esq for symbol autocomplete in vim mode

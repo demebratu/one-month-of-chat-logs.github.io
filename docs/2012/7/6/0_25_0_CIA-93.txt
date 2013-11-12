@@ -1,0 +1,1 @@
+node: Tim Macfarlane v0.8 * r0dba28b / lib/readline.js : readline: fix for unicode prompts - http://git.io/io9YOA

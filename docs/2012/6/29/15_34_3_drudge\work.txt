@@ -1,0 +1,1 @@
+and let your app serve the static files too

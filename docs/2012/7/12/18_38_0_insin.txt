@@ -1,0 +1,1 @@
+if you want to ensure the match is for the entire given string

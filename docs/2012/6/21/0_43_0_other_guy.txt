@@ -1,0 +1,1 @@
+so I don't have to manage my own pool… seeing that http.createClient is deprecated.

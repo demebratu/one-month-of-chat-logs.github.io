@@ -1,0 +1,1 @@
+DTrejo: cool, any suggestions on handling the serving of the package once downloaded, for example it know i can programmatically use npm to manage the package but im not sure about how to have it served to the client

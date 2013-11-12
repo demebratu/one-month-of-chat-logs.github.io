@@ -1,0 +1,1 @@
+Qbix1, I don't think this is your root cause, but have you done a 'npm i npm -g' recently?

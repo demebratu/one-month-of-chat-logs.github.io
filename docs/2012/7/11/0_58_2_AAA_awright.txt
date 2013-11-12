@@ -1,0 +1,1 @@
+What's more important is that you don't lose the variable scope, and you can always analyze that with a debugger

@@ -1,0 +1,1 @@
+I have been working on a lib that works fine in the browser but not in node as a module, do you need to, it seems like the npm module is passing the function as reference

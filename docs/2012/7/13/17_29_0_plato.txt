@@ -1,0 +1,1 @@
+you can also take a look at mozilla's browserid/persona

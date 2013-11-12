@@ -1,0 +1,1 @@
+cluster is used when u got multicores. but what if i have 1 cpu. can i run multiple instances of my app on the same port and somehow load balance between them?

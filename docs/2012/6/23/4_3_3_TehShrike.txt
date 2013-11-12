@@ -1,0 +1,1 @@
+It's for an IE6 variant on barcode scanners running some horrible variant of Windows CE >_<

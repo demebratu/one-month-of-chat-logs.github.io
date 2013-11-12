@@ -1,0 +1,1 @@
+I tried an strace, which gives only this: http://pastebin.com/4FcSP0sx

@@ -1,0 +1,1 @@
+Phoenixz: i.e. `git show fecebe1 | git apply -R`

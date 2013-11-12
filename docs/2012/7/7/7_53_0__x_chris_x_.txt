@@ -1,0 +1,1 @@
+das wäre möglich, aber das wäre dann ein ganz eigener prozess, der mit dem prozess des vorigen request von php an node.js nichts zu tun hätte

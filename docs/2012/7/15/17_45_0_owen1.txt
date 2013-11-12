@@ -1,0 +1,1 @@
+prettyrobots: i believe that fd are used on ANY async i/o - http calls, db calls and file system. so it means i can only have 4864 async at the same time.

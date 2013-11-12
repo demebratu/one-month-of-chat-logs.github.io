@@ -1,0 +1,1 @@
+and read up on stream.pipe(): http://nodejs.org/api/stream.html#stream_stream_pipe_destination_options

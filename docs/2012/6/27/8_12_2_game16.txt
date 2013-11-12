@@ -1,0 +1,1 @@
+it seems uglier to do it with mysql than mongo

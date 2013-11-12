@@ -1,0 +1,1 @@
+hm, so with openvz one resource-hungry user can do some bad for others on the same host machine?

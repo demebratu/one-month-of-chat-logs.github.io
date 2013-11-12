@@ -1,0 +1,1 @@
+i'd like to test some code that's written for a different framework so I need to provide some mock objects

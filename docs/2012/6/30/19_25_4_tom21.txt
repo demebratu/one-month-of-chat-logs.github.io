@@ -1,0 +1,1 @@
+And has that html5 and js for mobiles through cordova or similar projects a real future or should I learn a low level language like java (not really motivated...)

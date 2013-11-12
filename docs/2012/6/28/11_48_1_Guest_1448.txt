@@ -1,0 +1,1 @@
+i looked at jade filters but they are pretty raw.. no vars, loops or other shit

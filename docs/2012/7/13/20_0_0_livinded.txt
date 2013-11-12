@@ -1,0 +1,1 @@
+as a language I think coffeescript is fine, they should just target an actual vm or build machine code compiler

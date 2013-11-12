@@ -1,0 +1,1 @@
+bnoordhuis, I need to provide destructor for this class

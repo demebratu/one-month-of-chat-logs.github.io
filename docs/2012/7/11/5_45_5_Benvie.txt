@@ -1,0 +1,1 @@
+the windows clipboard is actually one of those things that is way harder to do

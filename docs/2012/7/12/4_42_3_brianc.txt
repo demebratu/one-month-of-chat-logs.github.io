@@ -1,0 +1,1 @@
+dominictarr: can it pick up "mid-way" through a stream?

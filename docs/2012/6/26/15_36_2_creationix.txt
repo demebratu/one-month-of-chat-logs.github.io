@@ -1,0 +1,1 @@
+or json and msgpack with optional netstring framing and/or streaming

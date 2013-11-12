@@ -1,0 +1,1 @@
+PringlesCan you'll want .setEncoding('utf8') if you have multi-byte chars

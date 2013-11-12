@@ -1,0 +1,1 @@
+nave uses sysctl which smartos doesn't have

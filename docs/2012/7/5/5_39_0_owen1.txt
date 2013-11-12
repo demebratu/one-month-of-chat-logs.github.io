@@ -1,0 +1,1 @@
+i try to test a js code with node.js asserts. the js code is a file with some functions in it. it's not a module with exports. i guess my question is how to access a function like that in my test code?

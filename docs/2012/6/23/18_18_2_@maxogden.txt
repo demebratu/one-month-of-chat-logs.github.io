@@ -1,0 +1,1 @@
+and it supports webp serialization of canvases

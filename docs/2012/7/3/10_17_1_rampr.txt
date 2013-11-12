@@ -1,0 +1,1 @@
+no monit runs as root

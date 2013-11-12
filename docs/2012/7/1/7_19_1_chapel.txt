@@ -1,0 +1,1 @@
+Id possibly file an issue on node_redis

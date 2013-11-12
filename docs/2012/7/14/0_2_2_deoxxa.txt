@@ -1,0 +1,1 @@
+sigwhite: that assertion will be invalid if you start poking around with native extensions, but for the most part that's how it goes

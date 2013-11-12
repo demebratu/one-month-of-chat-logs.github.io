@@ -1,0 +1,1 @@
+munro: yeah i know, but i can't figure out how to get the stream of a file and then pass it on to another function or module

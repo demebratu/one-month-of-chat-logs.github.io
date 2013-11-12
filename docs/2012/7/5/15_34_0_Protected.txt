@@ -1,0 +1,1 @@
+Splitting this in two lines, one to fetch the Class and the other one to instantiate it (new), the class is recognized inside the callback

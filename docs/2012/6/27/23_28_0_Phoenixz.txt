@@ -1,0 +1,1 @@
+Question: I use npm on 2 different machines (one ubuntu, my dev machine with node 0.8.0 installed, another one on centos, the production machine, with node 0.8.0 installed)... npm info traverse gives highest 0.6.3 on my dev machine, and 0.6.1 on my production machine.. Since I need travrerse 0.6.3 as a dep, I have a small problem here

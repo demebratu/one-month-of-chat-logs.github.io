@@ -1,0 +1,1 @@
+prettyrobots, you know that main in package.json can point to any file

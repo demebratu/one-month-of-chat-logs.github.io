@@ -1,0 +1,1 @@
+dsirijus, you rewrite url as /pantene + url, /pantene ends up /pantene/pantene

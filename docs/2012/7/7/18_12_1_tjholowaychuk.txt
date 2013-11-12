@@ -1,0 +1,1 @@
+explicitly add domains support or should it just work

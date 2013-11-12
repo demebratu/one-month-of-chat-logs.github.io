@@ -1,0 +1,1 @@
+hi guys, I am trying to follow this wiki https://github.com/joyent/node/wiki/How-to-migrate-from-eio_custom-to-uv_queue_work with Node.JS 0.8.1 but I do get "FatalException" not defined, what's the proper way to throw such exception then?

@@ -1,0 +1,1 @@
+ Anyone else using the Nap package with Stylus?   I love the way I get to configure my assets with Nap but a page request in the app doesn't trigger a recompiliation of my .styl files.  (full disclosure: im brand new to node/express development) 

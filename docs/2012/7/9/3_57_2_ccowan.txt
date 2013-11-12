@@ -1,0 +1,1 @@
+our biggest bottleneck is the database

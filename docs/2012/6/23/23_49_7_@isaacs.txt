@@ -1,0 +1,1 @@
+skips the hole, but not the undefined

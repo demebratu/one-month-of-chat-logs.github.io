@@ -1,0 +1,1 @@
+vmware player runs ubuntu so poorly i'm thinking about developing on windows

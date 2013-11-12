@@ -1,0 +1,1 @@
+tjholowaychuk, yah, I have to in this case though as the scenario is hard to reproduce in a test without mocking

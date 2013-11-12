@@ -1,0 +1,1 @@
+hmm, my problem seems to be related to v8, I don't have that symbol, only something similar

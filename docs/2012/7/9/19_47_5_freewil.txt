@@ -1,0 +1,1 @@
+and then did curl -X HEAD http://localhost:3000

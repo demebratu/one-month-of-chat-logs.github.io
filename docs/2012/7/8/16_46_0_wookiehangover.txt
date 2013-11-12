@@ -1,0 +1,1 @@
+but, live jshint'ing in your editor makes that pretty easy

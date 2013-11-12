@@ -1,0 +1,1 @@
+anyone know the npm command that bumps version and publishes?

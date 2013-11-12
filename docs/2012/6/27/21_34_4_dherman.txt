@@ -1,0 +1,1 @@
+whereas today, you can choose tamejs or coffeescript but not both

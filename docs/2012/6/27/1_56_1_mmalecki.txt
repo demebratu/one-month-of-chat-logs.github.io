@@ -1,0 +1,1 @@
+lrvick: well, the problem is in the way which socket.io uses to negotiate connection. it first sends a http request to check available transports, then actually connects.

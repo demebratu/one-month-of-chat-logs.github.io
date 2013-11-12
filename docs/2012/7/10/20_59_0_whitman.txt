@@ -1,0 +1,1 @@
+genio, one works fine, possibly a *bit* slower than doing a WHERE id = ? but not anything to worry about.

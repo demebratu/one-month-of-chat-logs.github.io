@@ -1,0 +1,1 @@
+like for instance this module started out as a tweet last night https://github.com/substack/node-parents/blob/master/index.js

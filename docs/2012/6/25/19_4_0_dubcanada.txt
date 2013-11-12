@@ -1,0 +1,1 @@
+Why would you rely on some hard core system to monitor activity and make sure the user only gets 20%

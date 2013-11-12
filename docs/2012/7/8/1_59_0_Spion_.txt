@@ -1,0 +1,1 @@
+are people actually doing things like var myNamedFunction = function() { ... }; <more named functions here> something.doAsync(myNamedFunction)

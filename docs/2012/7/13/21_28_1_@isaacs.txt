@@ -1,0 +1,1 @@
+but why not unset them both?  GIT_DIR= GIT_WORK_TREE= npm install

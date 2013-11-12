@@ -1,0 +1,1 @@
+AlbireoX`Laptop: To answer your question quickly, I'm betting one system is using the populate() function, while the other is using find() or query()

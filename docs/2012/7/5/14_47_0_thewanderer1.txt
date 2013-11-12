@@ -1,0 +1,1 @@
+async.queue is meant for work queues, not for serial queues, based on the description... could work if I set the parallelism limit to 1, but is kludgy

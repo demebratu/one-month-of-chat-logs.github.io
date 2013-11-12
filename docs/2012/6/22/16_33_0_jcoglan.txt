@@ -1,0 +1,1 @@
+@isaacs I get these dirs: bin, node, node_modules, plus package.json and README.markdown

@@ -1,0 +1,1 @@
+herzogharker: Huh. It looks like it's actually too *new*. So just changing the version string would fix it (for now)?

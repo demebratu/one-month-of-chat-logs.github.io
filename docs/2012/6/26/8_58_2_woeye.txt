@@ -1,0 +1,1 @@
+but javascript often feels very barebone compared to python imho. you really need either polyfills or helper libs for all kinds of things

@@ -1,0 +1,1 @@
+SubStack: Will try the register way for since it seems nicest to use, getting a Error: Cannot find module: "./templates/test" now though... do I have to supply the extension now when it's not a .js file? It's a .html file and I've added a "bundle.register('.html', function(body) {"

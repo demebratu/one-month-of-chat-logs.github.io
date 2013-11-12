@@ -1,0 +1,1 @@
+hates iWantToDoSomething(argument, argument, onSuccess, onError)

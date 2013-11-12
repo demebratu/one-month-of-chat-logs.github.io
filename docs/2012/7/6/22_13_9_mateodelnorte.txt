@@ -1,0 +1,1 @@
+isaacs, any pointers on where to look in npm if I wanted to fork and modify so that you can specify relative folder paths to tarballs for package installation? 

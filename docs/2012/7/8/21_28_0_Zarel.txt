@@ -1,0 +1,1 @@
+I'd assume there are a lot of HTTP responses for which streaming doesn't make sense (JSON, for instance)

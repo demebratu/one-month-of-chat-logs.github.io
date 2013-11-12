@@ -1,0 +1,1 @@
+your app shouldn't try to do too many things

@@ -1,0 +1,1 @@
+llrcombs_: anyway, https://github.com/indutny/sticky-session, if you want to use socket.io.

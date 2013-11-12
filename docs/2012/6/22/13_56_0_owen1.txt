@@ -1,0 +1,1 @@
+are there websites that use browserID? any reason why not using it instead of the regular user/password?

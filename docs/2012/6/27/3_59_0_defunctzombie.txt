@@ -1,0 +1,1 @@
+is detached (for child process) supposed to work for fork ?

@@ -1,0 +1,1 @@
+Pretty much.  Your JavaScript is unaffected until your callback function is run when the async stuff is finished up.

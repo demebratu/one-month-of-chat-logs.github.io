@@ -1,0 +1,1 @@
+random question…do you think it'd be bad form to surround big blocks of server request-handling code with try/catch statements?

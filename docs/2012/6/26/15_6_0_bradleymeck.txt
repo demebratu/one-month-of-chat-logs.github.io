@@ -1,0 +1,1 @@
+is there a way to save a compiled module in the npm cache to prevent ppl from needing to rebuild it on install?

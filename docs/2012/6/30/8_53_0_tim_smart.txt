@@ -1,0 +1,1 @@
+It would show diffs against HEAD as they edit etc

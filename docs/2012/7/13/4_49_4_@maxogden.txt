@@ -1,0 +1,1 @@
+"It is our view that, where a web server responds to an unauthenticated HTTP request, there is an implied licence to use the HTML that is returned for reading and automatically extracting that information. This, in our view, is how the web is designed to operate."

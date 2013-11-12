@@ -1,0 +1,1 @@
+i have changed my $PYTHON to the right path and done what the wiki tells me

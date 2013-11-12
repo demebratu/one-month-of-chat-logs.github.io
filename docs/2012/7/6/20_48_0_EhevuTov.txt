@@ -1,0 +1,1 @@
+ninna, and you can do a http.get({host:'localhost', port:80, path:'/', agent:false} to opt out of pooling

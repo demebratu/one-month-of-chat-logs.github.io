@@ -1,0 +1,1 @@
+anyone know why if i run: # node script.js   it works, but not if i run: # node ./somedir/script.js   ??

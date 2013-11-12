@@ -1,0 +1,1 @@
+i thought normally if i tried to log a buffer, it would say type Buffer, though

@@ -1,0 +1,1 @@
+fx if you want require in the browser, use

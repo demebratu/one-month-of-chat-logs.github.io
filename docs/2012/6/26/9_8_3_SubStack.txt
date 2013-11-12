@@ -1,0 +1,1 @@
+and putting an entire implementation in a callback results in far too much transient state

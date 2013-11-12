@@ -1,0 +1,1 @@
+have you tried exec(command, otherStuff.split(" "), ...) ?

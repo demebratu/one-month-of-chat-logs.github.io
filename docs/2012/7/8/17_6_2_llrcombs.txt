@@ -1,0 +1,1 @@
+the list of times when you should use setTimeout is rather short

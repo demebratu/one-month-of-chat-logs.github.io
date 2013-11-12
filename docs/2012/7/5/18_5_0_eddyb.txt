@@ -1,0 +1,1 @@
+chjj: how should I put it... the global keypress handler was a dirty hack, and there was no way of unfocusing a terminal. if I had an editor in the same page with a terminal, anything I'd type in the editor would also end up in the terminal

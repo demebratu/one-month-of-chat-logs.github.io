@@ -1,0 +1,1 @@
+tjholowaychuk: well written libs don't require much glue.

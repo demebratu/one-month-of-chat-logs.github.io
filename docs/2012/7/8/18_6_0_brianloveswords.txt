@@ -1,0 +1,1 @@
+I'd search npm to see if there's an appropriate module for that already written.

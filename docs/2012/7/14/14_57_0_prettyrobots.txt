@@ -1,0 +1,1 @@
+eugeneware: `rename` is atomic.

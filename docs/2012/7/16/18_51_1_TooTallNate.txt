@@ -1,0 +1,1 @@
+has anybody attempted to write an irc *server* in node yet?

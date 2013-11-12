@@ -1,0 +1,1 @@
+yes, there's already something at /etc/hosts

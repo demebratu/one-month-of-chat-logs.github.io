@@ -1,0 +1,1 @@
+i was referring to self which was defined at the beginning of the function (var self = this)

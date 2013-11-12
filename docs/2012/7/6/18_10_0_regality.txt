@@ -1,0 +1,1 @@
+no, it'll attach the domain to the request, but it doesn't make it active for subsequent middleware

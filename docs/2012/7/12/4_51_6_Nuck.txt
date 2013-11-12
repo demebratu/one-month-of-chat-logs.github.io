@@ -1,0 +1,1 @@
+I don't wanna use newlines for delimiters because newline-delimited JSON is already a thing

@@ -1,0 +1,1 @@
+yea it makes the compiler into a 1 and 0 and the jvm processes the byte code into machine code

@@ -1,0 +1,1 @@
+what's the easist way to extract angular.callbacks._29 from /greet.php?callback=angular.callbacks._29&name= ?

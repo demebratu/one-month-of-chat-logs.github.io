@@ -1,0 +1,1 @@
+hi, does anybody know why latest nodejs 8.1 and latest socket.io 0.9 clean install don't work ? I tried all the simplest official examples, but it seems that the websocket connect from the client (chrome) to my server (everything local debug port 8111) fails : Cannot GET /socket.io/1/?t=1341182498702

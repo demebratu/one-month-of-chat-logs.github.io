@@ -1,0 +1,1 @@
+i installed the new version and did an npm update and now my express app can't find module 'jade'

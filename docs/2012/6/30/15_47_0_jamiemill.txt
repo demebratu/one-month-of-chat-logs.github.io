@@ -1,0 +1,1 @@
+switz Maybe the connection is kept alive? Looks like you can opt out of connection pooling with agent:false.

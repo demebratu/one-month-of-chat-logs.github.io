@@ -1,0 +1,1 @@
+It might be a stupid question, but ... how is heroku better than running your own server?

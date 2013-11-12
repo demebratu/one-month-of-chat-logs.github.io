@@ -1,0 +1,1 @@
+You would just use var foo = require('./foo'); assuming it's in a file called foo.js in the current dir

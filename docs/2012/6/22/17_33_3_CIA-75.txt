@@ -1,0 +1,1 @@
+libuv: Bert Belder reviewme * r9d0239d / (src/win/error.c src/win/fs.c): windows: map ERROR_INVALID_HANDLE to UV_EBADF - http://git.io/ZSL9Zw

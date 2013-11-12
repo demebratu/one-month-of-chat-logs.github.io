@@ -1,0 +1,1 @@
+medice, you either preprocess it on the server-side, or http://coffeescript.org/#scripts

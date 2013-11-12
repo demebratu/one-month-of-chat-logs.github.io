@@ -1,0 +1,1 @@
+(I at least haven't noticed widespread usage, enough to call anything "de facto" in the way that mikeal's 'request' module is for HTTP clients)

@@ -1,0 +1,1 @@
+tim_smart: ok. so thanks to the polling we avoid threads. in the case of http calls. do u think that in the future similar thing will happend with db calls and fs calls?

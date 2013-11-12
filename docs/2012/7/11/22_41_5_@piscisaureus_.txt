@@ -1,0 +1,1 @@
+atleast if you open it with O_RD

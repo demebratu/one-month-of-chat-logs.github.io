@@ -1,0 +1,1 @@
+the only time i could see it being faster is if you're doing a lot of splice()ing

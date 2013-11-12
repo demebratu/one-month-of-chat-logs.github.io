@@ -1,0 +1,1 @@
+were all just trying to find an error in an anonymous function declaration or some other mismatch of  {'s and ['s 

@@ -1,0 +1,1 @@
+I guess I don't totally understand why they include Jade by default instead of a different templating engine

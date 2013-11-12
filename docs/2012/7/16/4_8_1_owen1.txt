@@ -1,0 +1,1 @@
+rookie84: jquery is a library to manifulate the browser's DOM. node is server side libraries for building network apps

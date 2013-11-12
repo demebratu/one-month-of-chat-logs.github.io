@@ -1,0 +1,1 @@
+not yet. I've been using connect-assets for a while and written a module to connect to CloudFront but this new module looks more elegant for doing the same thing

@@ -1,0 +1,1 @@
+https://github.com/mcavage/node-ldapjs/issues/64

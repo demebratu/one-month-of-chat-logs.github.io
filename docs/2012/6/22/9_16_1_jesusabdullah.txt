@@ -1,0 +1,1 @@
+in async land, suppose both functions take a callback as an argument, of the form cb(err, res)

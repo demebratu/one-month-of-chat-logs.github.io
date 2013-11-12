@@ -1,0 +1,1 @@
+one of my missions at NodeConf is to figure out why there are *so many* ORMs for *Redis*

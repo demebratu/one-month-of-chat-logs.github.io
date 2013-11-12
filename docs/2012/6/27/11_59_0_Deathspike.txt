@@ -1,0 +1,1 @@
+Apathetic: Yeah you don't need anything of the sorts, regular notepad will do the job, but the free visual studio express (for web) might help you with intellisense if you have no better alternative ide.

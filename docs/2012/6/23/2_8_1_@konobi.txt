@@ -1,0 +1,1 @@
+Masyl: so it's the same unix "user" but your command will get executed based on key (so you could make command="./app.js <user>" and interpret the command line arg)

@@ -1,0 +1,1 @@
+sriley: It's a login-optional page. Most things are public, few things are not. Anyway I'll see what I can do about it. Thanks for the help

@@ -1,0 +1,1 @@
+or var g = require('./lib').Currencies;

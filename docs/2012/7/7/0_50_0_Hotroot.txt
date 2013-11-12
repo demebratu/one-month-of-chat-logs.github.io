@@ -1,0 +1,1 @@
+TooTallNate: Why not just stream.end("string")?

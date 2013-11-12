@@ -1,0 +1,1 @@
+And TPL. C#5 uses a lot of that. But I didn't know about async-stuff for mssql tho.

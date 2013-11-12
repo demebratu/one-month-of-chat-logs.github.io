@@ -1,0 +1,1 @@
+TooTallNate: thanks, I will remember this. Current one liner works though ;) require('readline').emitKeypressEvents(process.stdin);

@@ -1,0 +1,1 @@
+anyone know a good man page on writing a npm library

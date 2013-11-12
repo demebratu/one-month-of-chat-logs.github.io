@@ -1,0 +1,1 @@
+i feel a lot better now that i've played with 'em a bit. the one remaining bit i have yet to play with is how they interact with compiled modules -- might try it on node-sqlite this afternoon.

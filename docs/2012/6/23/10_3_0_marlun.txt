@@ -1,0 +1,1 @@
+SubStack: Got it working, had to add an addEntry call after the register call instead of just sending the entry point as a paramter to browserify().

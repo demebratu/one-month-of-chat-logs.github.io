@@ -1,0 +1,1 @@
+however, the docs could use some work, <cough> , trying to find remoteAddress when util.inspect won't print out socket because it's circular is a pain

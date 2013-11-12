@@ -1,0 +1,1 @@
+RLa: I believe the idea is to expose the relational model through URLs. It is a query language.

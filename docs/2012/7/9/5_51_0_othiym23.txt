@@ -1,0 +1,1 @@
+deoxxa: it's possible to write Vows suites as a set of serial dependencies, but it gets pretty gnarly and doesn't feel particularly BDD to me

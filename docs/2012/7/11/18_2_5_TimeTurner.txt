@@ -1,0 +1,1 @@
+just emit an event everytime you invoke a method which changes the array

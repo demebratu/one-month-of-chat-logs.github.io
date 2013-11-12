@@ -1,0 +1,1 @@
+jfroma: basicly you have to install node first, then npm, then n and then get rid of the node you installed from apt

@@ -1,0 +1,1 @@
+I think having the temporary 404 handler of new forward to old is clean

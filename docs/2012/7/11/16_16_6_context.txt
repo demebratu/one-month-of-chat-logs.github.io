@@ -1,0 +1,1 @@
+i dont like the idea of needing 10 require()'s for a single lib

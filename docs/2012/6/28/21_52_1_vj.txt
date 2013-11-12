@@ -1,0 +1,1 @@
+will the node ./configure run on python 2.4

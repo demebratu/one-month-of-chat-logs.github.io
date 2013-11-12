@@ -1,0 +1,1 @@
+Using "semver" in a really really lose, meaningless context since semver.org defines 0.x as having no semantics whatsoever

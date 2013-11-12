@@ -1,0 +1,1 @@
+Hey all, so i've been hacking with node on OSX for a while. Tried to set it up on our Windows 7 box to do some native testing. When I download and run the MSI, it just opens Notepad. Doens't run the executable. Any thoughts?

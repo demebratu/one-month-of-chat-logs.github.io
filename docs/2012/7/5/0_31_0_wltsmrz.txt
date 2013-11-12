@@ -1,0 +1,1 @@
+Maybe you can give one of these a try https://github.com/joyent/node/wiki/Modules#wiki-class-system

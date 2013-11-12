@@ -1,0 +1,1 @@
+Epeli: You might bring it up on the mailing list to have domain.run have a try/catch on the callback

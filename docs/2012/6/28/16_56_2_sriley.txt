@@ -1,0 +1,1 @@
+by domain you actually mean same domain/port/protocol? since it sounds like its not then youll be limited by cross domain policy, youll probably want to use jsonp or something

@@ -1,0 +1,1 @@
+TooTallNate changes to my env vars on the commandline don't seem to get reflected in my test… is there something I need to do to get them to be looking at the same space?

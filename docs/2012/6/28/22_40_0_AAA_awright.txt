@@ -1,0 +1,1 @@
+Some things this isn't so, like tables, but the work around is simple enough: Specify each row independently

@@ -1,0 +1,1 @@
+I'm creating a PHP like template language for Node.js, so I can do old fashioned web stuff the old fashoined way, without leaving node.

@@ -1,0 +1,1 @@
+they're not coupled with any db layer so you still need to define something

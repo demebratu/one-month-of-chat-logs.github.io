@@ -1,0 +1,1 @@
+TimeTurner: right, i guess what i'm asking is if there are any form libraries for node that are designed to let me write validation once and have it work on both the client and the server

@@ -1,0 +1,1 @@
+deoxxa: http://blog.xamarin.com/2012/05/01/android-in-c-sharp/ they have some benchmakrs further down, and other info about the VMs

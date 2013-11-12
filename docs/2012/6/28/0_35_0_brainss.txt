@@ -1,0 +1,1 @@
+how do i get the keypress info a on tty? the pre v0.8 'keypress' event doesn't seem to fire

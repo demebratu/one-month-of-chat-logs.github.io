@@ -1,0 +1,1 @@
+bnoordhuis: Its for a file upload routine I have.. Maybe I could just pick the most important parts, and see if I can recrate the bug with that

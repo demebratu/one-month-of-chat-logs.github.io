@@ -1,0 +1,1 @@
+but if I remember right, winston does have an option to do that for you

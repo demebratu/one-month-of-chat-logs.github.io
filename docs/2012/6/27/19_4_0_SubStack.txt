@@ -1,0 +1,1 @@
+people might make a typo so we should invent syntax!

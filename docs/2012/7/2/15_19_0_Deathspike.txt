@@ -1,0 +1,1 @@
+I'm using Express and Mongoose and have an error in Mongoose, and want Express to use its error handler and handle it. How should I go about? Throwing the Mongoose error just exits the server and won't get caught as Express error.

@@ -1,0 +1,1 @@
+Compiling node from source on mac osx lion - is there an easy fix for this? https://gist.github.com/48fb2cb96329bfa9ddef

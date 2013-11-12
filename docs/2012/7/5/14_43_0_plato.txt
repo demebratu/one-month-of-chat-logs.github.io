@@ -1,0 +1,1 @@
+yes you would set b.prereqsDone in a.task

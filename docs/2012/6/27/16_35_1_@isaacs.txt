@@ -1,0 +1,1 @@
+tjholowaychuk: so, instead of args="$args blah", you'd do something like this: https://gist.github.com/3005269

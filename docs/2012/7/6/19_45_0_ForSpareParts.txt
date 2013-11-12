@@ -1,0 +1,1 @@
+herzogharker: require() seems to work. No errors if I run a .js file with that require in it.

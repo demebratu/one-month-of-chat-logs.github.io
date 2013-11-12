@@ -1,0 +1,1 @@
+if you do npm docs benchmark then it will work as expected

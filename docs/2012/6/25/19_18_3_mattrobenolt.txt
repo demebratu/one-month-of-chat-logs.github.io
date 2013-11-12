@@ -1,0 +1,1 @@
+Node.js is not the best equipped at just serving static files.

@@ -1,0 +1,1 @@
+is this a change between node-0.4 and node-0.6 ?

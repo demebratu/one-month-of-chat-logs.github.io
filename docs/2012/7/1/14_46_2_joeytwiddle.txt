@@ -1,0 +1,1 @@
+you don't have to use require at all for your own stuff

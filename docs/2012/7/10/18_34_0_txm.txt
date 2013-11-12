@@ -1,0 +1,1 @@
+so the sql looks good .. I'm not missing something nooblike with this new fangled event-driven world am I?

@@ -1,0 +1,1 @@
+is amazed that the framework he wrote over a year ago for node v0.2.2 still works in v0.8.1

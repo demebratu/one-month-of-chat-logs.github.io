@@ -1,0 +1,1 @@
+drudge\work: i believe node http library is using thread pool of 5 threads to handle requests.

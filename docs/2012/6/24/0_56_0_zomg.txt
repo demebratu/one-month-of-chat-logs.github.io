@@ -1,0 +1,1 @@
+Maybe you should pastebin your model definition and some example of how you're querying it if you're not having any luck

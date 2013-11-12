@@ -1,0 +1,1 @@
+Mostly, I just plain don't need it, I depend on Jade and my own rdf module, and that's it, and I include them as Git submodules so they're ready to use without having to run any external programs

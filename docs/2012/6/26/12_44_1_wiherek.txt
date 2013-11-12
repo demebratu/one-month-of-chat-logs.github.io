@@ -1,0 +1,1 @@
+the function executes the callback before data is received.

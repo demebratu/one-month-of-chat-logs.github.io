@@ -1,0 +1,1 @@
+is it due to pg adding everything to the queue when you don't define a callback? perhaps you should just use callbacks to do things you want to run successively rather then having everything hit the same queue

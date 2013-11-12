@@ -1,0 +1,1 @@
+but! before it's finished, you go "hey mongodb driver, get the contents of this collection and tell me when you're done. bye!"

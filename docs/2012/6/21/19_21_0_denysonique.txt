@@ -1,0 +1,1 @@
+I want to do it exactly like here: $.post("/test", { name: "John", time: "2pm" } );

@@ -1,0 +1,1 @@
+then get cert for the subdomain too :)

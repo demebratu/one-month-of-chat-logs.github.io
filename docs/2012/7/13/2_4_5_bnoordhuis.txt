@@ -1,0 +1,1 @@
+xydudu: i don't think nginx supports websockets natively

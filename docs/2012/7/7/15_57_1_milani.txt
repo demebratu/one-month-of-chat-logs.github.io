@@ -1,0 +1,1 @@
+Protected, yeah if you use a custom setter method its possible otherwise you can not determine when you should read the variable

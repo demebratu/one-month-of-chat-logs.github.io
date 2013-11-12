@@ -1,0 +1,1 @@
+qbit_: node-sqlite3's having troubles installing on 0.8.0?

@@ -1,0 +1,1 @@
+othiym23: i can't read c/c++ so i didn't understant the libuv code u sent me. when u say maintain connection pool. u mean when i use http.createServer it will use more than one thread to receieve requests, right?

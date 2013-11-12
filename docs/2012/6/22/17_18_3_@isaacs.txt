@@ -1,0 +1,1 @@
+jcoglan: if you update npm, and do a `npm publish -f` to clobber the existing one, it should fix the problem.

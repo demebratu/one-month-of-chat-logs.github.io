@@ -1,0 +1,1 @@
+does mongoose model.save() contain the saved document? i need to get the _id of the saved document

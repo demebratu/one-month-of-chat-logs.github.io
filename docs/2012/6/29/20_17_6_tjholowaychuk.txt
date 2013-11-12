@@ -1,0 +1,1 @@
+jamescarr: the only flow-control type of lib I have is github.com/visionmedia/batch but there's no throttling built in (yet at least)

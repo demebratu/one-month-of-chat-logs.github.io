@@ -1,0 +1,1 @@
+they're present in http://nodejs.org/docs/v0.8.0/api/fs.html

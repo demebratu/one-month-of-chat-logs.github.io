@@ -1,0 +1,1 @@
+eugeneware: I called node.exe from my VC++ program, before the main.exe quit, I want to  kill the node.exe

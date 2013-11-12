@@ -1,0 +1,1 @@
+It will work on almost all linuxes

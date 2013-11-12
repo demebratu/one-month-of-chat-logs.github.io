@@ -1,0 +1,1 @@
+Germanaz0, http://stackoverflow.com/questions/6846174/dynamic-rooms-with-socket-io-and-node

@@ -1,0 +1,1 @@
+looked at faye.. it can send data to clients from server to client channels.. nice.. but the problem is i need data to be recieved as soon as it "available" so the client should poll for it every x seconds?

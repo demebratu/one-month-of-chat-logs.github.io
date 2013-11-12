@@ -1,0 +1,1 @@
+jocafa: here's the code that dnode uses it for https://github.com/substack/dnode/blob/master/index.js#L26-L37

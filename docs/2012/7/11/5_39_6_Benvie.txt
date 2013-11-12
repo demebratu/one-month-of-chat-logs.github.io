@@ -1,0 +1,1 @@
+most operations require you to allocate the memory beforehand, execute the function, coerce it to the right data type, then finally get it

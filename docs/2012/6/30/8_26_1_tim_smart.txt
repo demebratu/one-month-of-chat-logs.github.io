@@ -1,0 +1,1 @@
+If you proxy or http forward you would only get the ip address of the proxy / balancer

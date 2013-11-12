@@ -1,0 +1,1 @@
+timoxley: ok, this is ugly as sin, but there's a sync version of stat, so i just need a file owned by my user  :)

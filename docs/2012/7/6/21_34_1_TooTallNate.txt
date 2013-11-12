@@ -1,0 +1,1 @@
+RushPL: right, you just need to enter raw mode, then "data" events come in immediately

@@ -1,0 +1,1 @@
+Math.random doesn't just make a random number, it makes one in between a range

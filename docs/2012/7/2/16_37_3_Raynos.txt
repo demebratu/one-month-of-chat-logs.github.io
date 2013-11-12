@@ -1,0 +1,1 @@
+other then clearing require cache what's the best way to do this

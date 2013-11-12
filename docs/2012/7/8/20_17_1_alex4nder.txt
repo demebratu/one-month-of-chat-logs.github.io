@@ -1,0 +1,1 @@
+the thing with node is you'll want to install a bunch of NPM-packaged pieces to make your life easier (e.g. connect) .. and no editor is going to help you find that.

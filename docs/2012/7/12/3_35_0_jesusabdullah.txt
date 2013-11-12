@@ -1,0 +1,1 @@
+but if you *keep a reference around*---like, say you pushed each new object you got onto some global stack or something---then the garbage collector has no way of knowing that you don't need it anymore

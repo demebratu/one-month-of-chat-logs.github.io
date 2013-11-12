@@ -1,0 +1,1 @@
+of course, your class itself would have to emit events

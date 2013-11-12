@@ -1,0 +1,1 @@
+Piotras: have a look at node::AtExit()

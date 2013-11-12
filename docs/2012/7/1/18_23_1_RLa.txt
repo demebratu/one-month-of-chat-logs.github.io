@@ -1,0 +1,1 @@
+you can also use '/pantene/'.replace(/^\/pantene/, '');

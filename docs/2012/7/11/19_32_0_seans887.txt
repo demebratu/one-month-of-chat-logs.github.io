@@ -1,0 +1,1 @@
+i have an async db problem: when sending multiple queries to my db in parallel, i sometimes need to know the result of the first query that is received. how can i be sure the subsequent requests are aware of the first one?

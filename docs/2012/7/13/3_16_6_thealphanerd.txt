@@ -1,0 +1,1 @@
+then install via apt-get by following the instructions on the wiki

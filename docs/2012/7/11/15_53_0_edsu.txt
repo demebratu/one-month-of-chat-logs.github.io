@@ -1,0 +1,1 @@
+prettyrobots: should i be able to say main: "wikichanges" as well?

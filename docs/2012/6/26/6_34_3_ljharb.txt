@@ -1,0 +1,1 @@
+yes, var self = this, foo = self; is what you'd need.

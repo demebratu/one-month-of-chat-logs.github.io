@@ -1,0 +1,1 @@
+it took input from a gamepad, did fft on a microphone input to do frequency detection and graphing, interfaced with an IC with a thermistor on it to graph and record temperature

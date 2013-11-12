@@ -1,0 +1,1 @@
+like in php is long_file_this.php why is in node long-file-this.js is preferable ?

@@ -1,0 +1,1 @@
+node: isaacs v0.8.0-release * r9a7158d / deps/uv/src/unix/sunos.c : Hotfix for #3528 Add strdup in uv_cpu_info - http://git.io/Ccja0g

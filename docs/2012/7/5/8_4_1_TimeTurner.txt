@@ -1,0 +1,1 @@
+owen1: the single-threaded nature is what is exposed to the dev for performing I/O tasks. the threads are handled very effectively by node and only node has internal access to them. the dev cannot perform blocking operations under any circumstance and if they do then the whole system will get blocked

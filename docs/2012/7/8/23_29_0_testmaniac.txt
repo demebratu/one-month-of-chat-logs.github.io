@@ -1,0 +1,1 @@
+how can i force a kernel event to see if cat kmsg does anything

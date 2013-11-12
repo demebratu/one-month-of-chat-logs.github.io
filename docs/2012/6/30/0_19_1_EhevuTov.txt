@@ -1,0 +1,1 @@
+I know fs.exists changes to path, dunno about the others

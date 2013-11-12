@@ -1,0 +1,1 @@
+well seems like my "res.socket.parser.incoming" hack is breaking, anyone know a better way for node's request / response to reference each other?

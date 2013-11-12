@@ -1,0 +1,1 @@
+node: Andreas Madsen v0.8 * r3d51646 / doc/api/cluster.markdown : doc: replace references to cluster.autoFork - http://git.io/mlHurQ

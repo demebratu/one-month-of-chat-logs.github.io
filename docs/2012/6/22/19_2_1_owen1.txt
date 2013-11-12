@@ -1,0 +1,1 @@
+i try to make a post request to https://browserid.org/verify but i get: 'getaddrinfo ENOENT' . when i use curl it works.

@@ -1,0 +1,1 @@
+I would personaly save all my friends in one array and (in mongo) do an $in [array] to get all message

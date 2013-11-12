@@ -1,0 +1,1 @@
+if youre doing a ton of requests you should probably have your own dns lookup service that doesn't rate limit you

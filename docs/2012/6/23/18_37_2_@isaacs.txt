@@ -1,0 +1,1 @@
+so, write small modules with clearly defined interfaces, tests, and docs.  then assemble.

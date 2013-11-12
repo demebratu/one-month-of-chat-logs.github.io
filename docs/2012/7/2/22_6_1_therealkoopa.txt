@@ -1,0 +1,1 @@
+I am putting that on the backburner.  Okay, so you think the best thing is to have the client send the event so it joins the room?

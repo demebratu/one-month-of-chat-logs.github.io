@@ -1,0 +1,1 @@
+cgiffard: makes sense. btw, do you have a /usr/local/lib/node dir with anything in it?

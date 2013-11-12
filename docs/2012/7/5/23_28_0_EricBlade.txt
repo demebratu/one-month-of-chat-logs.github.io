@@ -1,0 +1,1 @@
+hey guys. i have a situation where i'm using a lib that makes use of the xml2js lib .. and that's blowing beyond my rather anemic memory limitations .. anyone maybe possibly familiar with that lib who might have any ideas for reducing it's memory footprint?

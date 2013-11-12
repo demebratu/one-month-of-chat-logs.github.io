@@ -1,0 +1,1 @@
+tim_smart: there should be a project on github that shows how to write good js code with callbacks alone.

@@ -1,0 +1,1 @@
+Protected: Yes, if you're talking about a function value in an object

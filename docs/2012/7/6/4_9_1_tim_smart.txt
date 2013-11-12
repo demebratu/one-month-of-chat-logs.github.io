@@ -1,0 +1,1 @@
+owen1: Most databases these days are over tcp, so node doesn't use a thread pool for those.

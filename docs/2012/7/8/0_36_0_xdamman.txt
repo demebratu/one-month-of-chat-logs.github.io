@@ -1,0 +1,1 @@
+Having trouble installing node 0.8 with n… anyone else?

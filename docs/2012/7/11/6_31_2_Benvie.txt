@@ -1,0 +1,1 @@
+but if you go into examples directory int he dist

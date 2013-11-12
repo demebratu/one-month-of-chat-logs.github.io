@@ -1,0 +1,1 @@
+a CDN wouldn't really help you there other than holding your files

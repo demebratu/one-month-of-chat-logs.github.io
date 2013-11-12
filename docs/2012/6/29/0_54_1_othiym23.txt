@@ -1,0 +1,1 @@
+but I also have enough experience screwing around with web browsers to know that both JSON and XML are perfectly good representations to hand off to browsers, and there's no objective way to say that one rox and the other sux

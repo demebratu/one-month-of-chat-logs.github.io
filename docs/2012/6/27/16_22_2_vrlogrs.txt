@@ -1,0 +1,1 @@
+normally i add the "&" command to the terminal

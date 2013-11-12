@@ -1,0 +1,1 @@
+won't new throw the error

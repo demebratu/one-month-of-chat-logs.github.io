@@ -1,0 +1,1 @@
+< NodeX> it's not down to the function to check if the input is a backslash

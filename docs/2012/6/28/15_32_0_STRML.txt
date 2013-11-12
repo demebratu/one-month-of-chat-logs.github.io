@@ -1,0 +1,1 @@
+I'm not the biggest fan of ExtJS but we're running Sencha Touch as well and this is the app I have... hah have to live with it

@@ -1,0 +1,1 @@
+i have no problem with it not working, but going into recursion b/c you pass it a certain object is pretty bad

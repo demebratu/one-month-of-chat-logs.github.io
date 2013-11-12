@@ -1,0 +1,1 @@
+Or you can add it to your PATH, or install globally.

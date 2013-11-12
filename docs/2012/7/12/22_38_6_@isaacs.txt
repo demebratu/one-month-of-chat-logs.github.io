@@ -1,0 +1,1 @@
+creationix: eh.  i dunno.  most of the time that I find that the single cb is a pita, it's because i really ought to be using an event emitter.

@@ -1,0 +1,1 @@
+no idea ? :< http://stackoverflow.com/questions/11235143/block-a-socket-used-by-an-agent

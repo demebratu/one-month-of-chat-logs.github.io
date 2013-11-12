@@ -1,0 +1,1 @@
+I'm running Snow Leopard and I installed Node v0.6.19 along with npm from the Mac Installer (package Manager). It installs in /usr/local/bin and that is in my $PATH but when I execute 'npm' I get '-bash: npm: command not found'. Why?

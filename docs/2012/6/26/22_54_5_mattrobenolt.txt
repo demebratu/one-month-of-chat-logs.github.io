@@ -1,0 +1,1 @@
+Ahh, so nextTick just forces it to be delayed a tad.

@@ -1,0 +1,1 @@
+What the hell, I tried getting intellisense into VS2010 (I have Ultimate@work) and that didn't fan out, but a free product has it? It's madness. :D

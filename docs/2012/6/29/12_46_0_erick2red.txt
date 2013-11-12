@@ -1,0 +1,1 @@
+ashb, hmm, so, that's internal to nodejs, will 0.8.1 improve my situation somehow ?

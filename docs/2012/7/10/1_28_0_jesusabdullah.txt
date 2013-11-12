@@ -1,0 +1,1 @@
+chanced: definitely leverage npm. Either place a convention for naming plugins, or a special package.json flag or something

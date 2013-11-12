@@ -1,0 +1,1 @@
+so libuv keeps a table of all the addresses in memory of the callbacks?

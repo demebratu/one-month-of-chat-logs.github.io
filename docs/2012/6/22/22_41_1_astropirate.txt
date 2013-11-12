@@ -1,0 +1,1 @@
+I ask because scoket.io has a flash solution for which you need to start node as root

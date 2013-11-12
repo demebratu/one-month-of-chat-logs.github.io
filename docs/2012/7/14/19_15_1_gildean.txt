@@ -1,0 +1,1 @@
+i don't know much about best practices but i tried to make it abstract enough and comment thing so other people can understand it easily

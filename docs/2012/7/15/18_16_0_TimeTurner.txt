@@ -1,0 +1,1 @@
+is require.js widely used and adopted?

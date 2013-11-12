@@ -1,0 +1,1 @@
+I got hij1nx thinking about rewriting nssocket to expose streams of some kind

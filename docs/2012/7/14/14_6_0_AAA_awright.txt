@@ -1,0 +1,1 @@
+er, how to *revise the API. "We can't revise require('util') because it's locked" becomes "We'd have to bump the major revision number to revise require('util')"

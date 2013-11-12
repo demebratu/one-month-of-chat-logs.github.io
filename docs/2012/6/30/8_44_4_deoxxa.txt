@@ -1,0 +1,1 @@
+i've used cloud9 and various other ACE things, but in the browser you still have that whole "i'm in a browser, keyboard shortcuts are going to be weird" thing working against you

@@ -1,0 +1,1 @@
+Basicially avoid nested functions / callbacks. Event emitters and prototypes can help here.

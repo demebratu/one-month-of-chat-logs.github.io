@@ -1,0 +1,1 @@
+ln -sf ../lib/node_modules/npm/bin/npm-cli.js /usr/local/bin/npm

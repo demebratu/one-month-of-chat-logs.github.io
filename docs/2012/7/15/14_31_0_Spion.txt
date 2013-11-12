@@ -1,0 +1,1 @@
+Gloorian, my bad. I think you implement pipe is for readable streams, write for writeable. Yeah, that should be it. I guess.

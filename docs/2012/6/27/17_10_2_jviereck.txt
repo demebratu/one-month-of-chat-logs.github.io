@@ -1,0 +1,1 @@
+bnoordhuis: try to render PDF.JS in noder.js and it builds on typed arrays

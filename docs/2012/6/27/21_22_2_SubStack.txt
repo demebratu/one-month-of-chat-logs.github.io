@@ -1,0 +1,1 @@
+dherman: I don't really understand this need for staticness

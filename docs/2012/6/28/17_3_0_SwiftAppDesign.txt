@@ -1,0 +1,1 @@
+i know that, i want to know how to do that when a button is pressed without redirecting to the page

@@ -1,0 +1,1 @@
+Deathspike: well, GC is not instant, but you can indeed be leaking memory.

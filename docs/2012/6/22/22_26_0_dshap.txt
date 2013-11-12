@@ -1,0 +1,1 @@
+Domenic: yep we're using Knox for uploading files to our buckets - i'm actually just trying to get a public file though, no auth necessary

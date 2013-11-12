@@ -1,0 +1,1 @@
+i do like it that it's feasible to just "write your own library" in 15 minutes

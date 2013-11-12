@@ -1,0 +1,1 @@
+I would need to delete a reference to that socket in the chatSockets object when a socket is disconnected?

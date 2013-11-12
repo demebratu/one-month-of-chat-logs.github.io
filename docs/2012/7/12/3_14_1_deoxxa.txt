@@ -1,0 +1,1 @@
+backus: what you want to do, by the sounds of it, is emulate their client code. that's definitely something you could do, technically speaking. the problems is one of whether or not it's against the TOS of the site.

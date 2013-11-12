@@ -1,0 +1,1 @@
+Something rediculously simple. Install locally. Screw gems. JSON for the metadata format, no you don't get to use code for it. Deal with it.

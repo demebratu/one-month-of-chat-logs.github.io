@@ -1,0 +1,1 @@
+(does nginx support websockets now? or is it still a "patch the code and sure, it'll do websockets" sort of thing?)

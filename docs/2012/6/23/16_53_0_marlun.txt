@@ -1,0 +1,1 @@
+maxogden: I had problem with its dependency on jquery and underscore so instead of modifying the backbone code with require() code I could use the backbone-browserify module.

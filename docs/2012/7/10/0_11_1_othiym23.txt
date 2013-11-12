@@ -1,0 +1,1 @@
+Spion_: what do you need generators for when you have event emitters and streams?

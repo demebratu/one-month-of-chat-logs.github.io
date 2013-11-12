@@ -1,0 +1,1 @@
+benatkin: node cli.js <npm cmd stuff here>

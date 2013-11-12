@@ -1,0 +1,1 @@
+XML is a shitty serialization format, I'll give you that, but it's a pretty awesome document format

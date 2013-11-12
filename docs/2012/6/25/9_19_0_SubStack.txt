@@ -1,0 +1,1 @@
+process.kill() works the `kill` command way

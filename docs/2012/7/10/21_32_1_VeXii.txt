@@ -1,0 +1,1 @@
+well starting whith a node FS to mongo sounds like a dicent first step?

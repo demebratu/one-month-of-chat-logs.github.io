@@ -1,0 +1,1 @@
+yes but if acquireing the lock fails you just proceed

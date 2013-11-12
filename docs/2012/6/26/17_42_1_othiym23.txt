@@ -1,0 +1,1 @@
+(try to pretend the *Sync variants of the fs calls don't exist for as long as possible)

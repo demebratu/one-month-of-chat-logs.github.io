@@ -1,0 +1,1 @@
+isaacs, is there any way to install a local tarball file from package.json? i've been using postIntstall to do a 'npm intall bla.tgz' but that doesn't appear to work with the latest npm. I get a warning that it's skipped.

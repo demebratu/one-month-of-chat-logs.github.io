@@ -1,0 +1,1 @@
+xaq: when you set the prototype, it uses the Object initializer, because it needs to make sure that the properties get copied from the prototype to new instances, on top of allocating the new object

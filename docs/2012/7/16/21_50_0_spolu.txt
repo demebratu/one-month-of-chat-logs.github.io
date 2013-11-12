@@ -1,0 +1,1 @@
+pawn: I would rather say memcache or redis. redisStore + redistogo.com is a winner

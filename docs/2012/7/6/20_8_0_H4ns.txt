@@ -1,0 +1,1 @@
+EhevuTov: i'm not really against writing infrastructure, but i hate to do it when i'm writing application code.  the two modes don't mix well in my head.

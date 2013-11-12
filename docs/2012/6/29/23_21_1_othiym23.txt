@@ -1,0 +1,1 @@
+xaq: also http://es5.github.com/#x15.2 (13.2 is more background)

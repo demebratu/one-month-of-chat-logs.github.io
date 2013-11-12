@@ -1,0 +1,1 @@
+jriegs: it should have a stack attached.  start poking around

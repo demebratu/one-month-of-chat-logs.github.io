@@ -1,0 +1,1 @@
+tjholowaychuk: so, all you should have to do is at the top level, add a request domain: https://github.com/chrisdickinson/utensil/blob/master/lib/client.js#L40

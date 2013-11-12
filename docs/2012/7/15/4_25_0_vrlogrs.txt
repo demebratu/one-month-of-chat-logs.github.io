@@ -1,0 +1,1 @@
+im wondering, since node.js has so many asynchronous calls, does it have some sort of locks/semaphores ?

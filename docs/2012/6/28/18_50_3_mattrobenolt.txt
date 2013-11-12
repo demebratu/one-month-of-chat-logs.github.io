@@ -1,0 +1,1 @@
+But honestly, if you synced every minute, you're not going to notice a performance drop until you're doing millions and million sof queries.

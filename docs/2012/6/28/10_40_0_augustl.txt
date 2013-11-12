@@ -1,0 +1,1 @@
+are there any synchronous network libraries for node out there? I make a lot of http calls in my API integration tests, and they don't run in parallell, so synchronous is fine

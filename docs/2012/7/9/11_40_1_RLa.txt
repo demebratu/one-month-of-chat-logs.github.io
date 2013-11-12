@@ -1,0 +1,1 @@
+if you really need 0.8, use latest from 0.7.x series, it should be more-less compatible

@@ -1,0 +1,1 @@
+isaacs: my problem is I only get the first output… not the % from 0-100

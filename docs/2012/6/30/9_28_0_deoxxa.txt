@@ -1,0 +1,1 @@
+apparently it needs the TEST_HOST and TEST_PORT environment variables defined

@@ -1,0 +1,1 @@
+I seem to have some issues building node from source. Getting some issues on `sudo make install`; http://pastie.org/private/42trzsblxwuk5ylzwb6sg

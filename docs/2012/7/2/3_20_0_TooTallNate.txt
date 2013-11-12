@@ -1,0 +1,1 @@
+fmarier: connect's limit() middleware was designed specifically for that

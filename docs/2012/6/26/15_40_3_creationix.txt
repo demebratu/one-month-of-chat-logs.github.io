@@ -1,0 +1,1 @@
+I tried to serialize streams in the protocol, but it was too complicated

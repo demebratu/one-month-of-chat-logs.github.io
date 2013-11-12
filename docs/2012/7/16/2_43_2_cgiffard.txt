@@ -1,0 +1,1 @@
+austinbv You could pass the message in to the error constructor

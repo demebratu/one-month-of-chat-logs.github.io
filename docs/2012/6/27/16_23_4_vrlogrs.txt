@@ -1,0 +1,1 @@
+i guess it wont do it to the console, but can i set up a log.txt or something?

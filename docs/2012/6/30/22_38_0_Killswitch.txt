@@ -1,0 +1,1 @@
+Okay, got that done, but now when I run node it doesn't work as the location went from /usr/local/bin/node to /usr/bin/node

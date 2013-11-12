@@ -1,0 +1,1 @@
+Ah, we started porting to 3.X and 2.6 has the unicode stuff that is compatible.

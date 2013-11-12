@@ -1,0 +1,1 @@
+Deathspike: so you start with all the routes and handlers in one file, and then start factoring out the handlers, but leave all the routing information in the one file

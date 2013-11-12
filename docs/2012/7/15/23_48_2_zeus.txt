@@ -1,0 +1,1 @@
+chilts: Thanks, I think I got it by  looking at flatirons package.json

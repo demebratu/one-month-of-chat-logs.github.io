@@ -1,0 +1,1 @@
+bnoordhuis: If you have a minue could you comment on my changes in here? They also (kind of) depend on the setEncoding pull. https://github.com/joyent/node/pull/3653

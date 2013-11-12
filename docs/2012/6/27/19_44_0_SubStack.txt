@@ -1,0 +1,1 @@
+isaacs: one thing I don't get, would `import Foo from "foo.js"` require that foo.js did `export function Foo () {}`?

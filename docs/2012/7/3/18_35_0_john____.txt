@@ -1,0 +1,1 @@
+i like http-proxy and http-static for ec2 setup instead of using nginx

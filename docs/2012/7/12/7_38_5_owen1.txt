@@ -1,0 +1,1 @@
+how to display a variable in the debugger? i have 2 lines app: var i = 1; debugger;  i run it with 'node debug test.js' and hit n(next). i => i is not defined.   any ideas?

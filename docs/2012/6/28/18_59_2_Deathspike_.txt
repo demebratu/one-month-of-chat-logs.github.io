@@ -1,0 +1,1 @@
+It seems that, unlike sql or mongo, couch and redis *DONT* need a schema? That's correct?

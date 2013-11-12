@@ -1,0 +1,1 @@
+that means cyclic dependencies are harder, but otherwise it's really nice

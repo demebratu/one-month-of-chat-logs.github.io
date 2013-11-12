@@ -1,0 +1,1 @@
+Deathspike: sure, do what tobo suggested and set it on the Express app, or set process.env['NODE_ENV'] = 'production';

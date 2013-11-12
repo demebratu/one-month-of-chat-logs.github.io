@@ -1,0 +1,1 @@
+I'm trying to interface with a very finicky device, and the docs say each message should be entirely in a single packet. I'm not that knowledgeable about the deeper workings of TCP.

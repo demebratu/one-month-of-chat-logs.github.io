@@ -1,0 +1,1 @@
+tjholowaychuk: IE7+, chrome and FF just max 1 year old I suppose :)

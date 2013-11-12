@@ -1,0 +1,1 @@
+Leemp2: I am using var userHomeDir = process.env.HOME || process.env.USERPROFILE

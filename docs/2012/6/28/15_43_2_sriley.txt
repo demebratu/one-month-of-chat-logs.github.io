@@ -1,0 +1,1 @@
+not really what google is suggesting is that the hashes can be change to urls that can be hit - but that will imply proper server side rendering going on

@@ -1,0 +1,1 @@
+ok - look for any '}' and any semicolon immediately after it, ignoring whitespace.

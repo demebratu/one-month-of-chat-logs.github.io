@@ -1,0 +1,1 @@
+austinbv: you can install it globally with npm install -g, then add the global npm_modules/bin directory to your path

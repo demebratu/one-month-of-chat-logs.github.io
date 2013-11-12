@@ -1,0 +1,1 @@
+fs.symlink says EEXIST even when the file does not exist! What am I missing?

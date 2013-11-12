@@ -1,0 +1,1 @@
+  CC(target) /root/node/node-v0.8.2/out/Release/obj.target/uv/deps/uv/src/cares.o

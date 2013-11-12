@@ -1,0 +1,1 @@
+bnoordhuis: so nothing like "pipe (2)" ?

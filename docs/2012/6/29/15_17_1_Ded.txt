@@ -1,0 +1,1 @@
+so, before i start dishing configs for nginx, anyone else runs it like this?

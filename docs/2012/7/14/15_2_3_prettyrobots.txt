@@ -1,0 +1,1 @@
+Is that not acceptable? Use PostgreSQL with ROLLBACK and COMMIT.

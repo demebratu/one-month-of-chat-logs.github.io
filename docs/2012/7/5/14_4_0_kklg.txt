@@ -1,0 +1,1 @@
+I think it might be a problem with third party DLLs that I'm using. Maybe gyp isn't linking them correctly or something? I'm not 100% sure how that stuff works.

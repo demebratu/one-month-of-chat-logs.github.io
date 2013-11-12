@@ -1,0 +1,1 @@
+dr0id: it's very simple, you `npm publish` and `git push` tiny modules to github

@@ -1,0 +1,1 @@
+how about you try to give it absolute paths to the log and out files?

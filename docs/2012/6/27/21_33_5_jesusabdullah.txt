@@ -1,0 +1,1 @@
+Glenjamin: Also AMD borrows a lot from commonjs

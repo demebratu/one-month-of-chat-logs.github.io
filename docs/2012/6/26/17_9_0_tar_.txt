@@ -1,0 +1,1 @@
+Can I do that by hooking into connect.static? Or maybe there's a better way?

@@ -1,0 +1,1 @@
+And SQL is not quite RESTful.

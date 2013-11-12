@@ -1,0 +1,1 @@
+i am having a constant struggle with infinite loops aka maximum call stack size exceeded, which is easily debuggable when I was using something like chrome's debugger, but I recently switched to using mocha, and I am a bit lost on how should I debug these kind of bugs in it.

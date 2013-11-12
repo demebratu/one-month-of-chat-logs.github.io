@@ -1,0 +1,1 @@
+mc: It would be nice if i could simply list the project on npm as a dependancy, but that's circular

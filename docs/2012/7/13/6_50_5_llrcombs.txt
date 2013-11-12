@@ -1,0 +1,1 @@
+Trindaz: so, the lesson is, don't call setEncoding when you're expecting binary data

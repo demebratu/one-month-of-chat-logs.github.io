@@ -1,0 +1,1 @@
+If you want to have the behavior you expect you need to clone the value of i to a child scope

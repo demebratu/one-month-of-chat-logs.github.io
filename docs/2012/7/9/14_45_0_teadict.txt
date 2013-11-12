@@ -1,0 +1,1 @@
+So, you CAN use dymanic routes for imports?

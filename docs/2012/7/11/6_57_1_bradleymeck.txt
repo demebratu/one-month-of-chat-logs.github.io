@@ -1,0 +1,1 @@
+konobi: interesting, so this seems like more for a multi-tenant setup than what I am used to but if there was a way to move the location of the server's cache / rsync em across multiple machines it would be nice

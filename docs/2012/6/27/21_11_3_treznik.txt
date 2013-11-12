@@ -1,0 +1,1 @@
+at first the exceptions are cought, but for example I have a few mongo driver callbacks inside a domain.run block, and they are not caught anymore

@@ -1,0 +1,1 @@
+ggreer: but ruby's class and module system is such a clusterfuck of side effects from money punching every damned thing

@@ -1,0 +1,1 @@
+modifying native is ok if ONLY 1 library is allowed to do it

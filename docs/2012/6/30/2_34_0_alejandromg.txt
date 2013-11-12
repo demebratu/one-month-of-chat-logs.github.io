@@ -1,0 +1,1 @@
+what are the risk or adventages of compiling node with the `--without-snapshot` flag?

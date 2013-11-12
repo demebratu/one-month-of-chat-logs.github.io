@@ -1,0 +1,1 @@
+the circular references were causing the issue

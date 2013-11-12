@@ -1,0 +1,1 @@
+drudge\work, so, for this to work optimally, i'd need to carefully have my statics in that particular directory?

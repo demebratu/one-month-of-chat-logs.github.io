@@ -1,0 +1,1 @@
+note I say "scripts" and not "programs"---scripts are only meant to run once and then they're done

@@ -1,0 +1,1 @@
+Daegalus, is there a way to extend the signature of a callback function?

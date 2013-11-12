@@ -1,0 +1,1 @@
+I think today I would just write a function that takes an object of optiony things and returns an argv object

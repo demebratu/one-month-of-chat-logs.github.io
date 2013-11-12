@@ -1,0 +1,1 @@
+othiym23, don't worry, I have a strict assert(tweets < followers) rule that keeps me from being too chatty

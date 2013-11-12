@@ -1,0 +1,1 @@
+but global variables are manipulated by several asynchronous calls

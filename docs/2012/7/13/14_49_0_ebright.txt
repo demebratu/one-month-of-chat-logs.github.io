@@ -1,0 +1,1 @@
+I have a call app.get('/api/foos', foo.load). In my routes/foo.js file I exports load as exports.load = function(req, res){...}. As part of that function I want to access my database. But I assigned my database to var db in my app.js file..

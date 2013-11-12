@@ -1,0 +1,1 @@
+node: Ben Noordhuis v0.8 * rbe3afd0 / doc/api/fs.markdown : doc: remove references to deprecated fs api - http://git.io/1n196w

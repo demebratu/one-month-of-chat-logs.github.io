@@ -1,0 +1,1 @@
+context: in my terminal? Just looking at the source it doesnt seem to use anything like crontab and doesn't seem to write anything to the fs so I don't belive it persists. 

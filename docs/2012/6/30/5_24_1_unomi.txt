@@ -1,0 +1,1 @@
+timetunr, but jsperf in an of itself is not all that useful for capturing relative performance across browser versions of different clients

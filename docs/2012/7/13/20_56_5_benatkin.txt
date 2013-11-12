@@ -1,0 +1,1 @@
+tbranyen: hmm, good point. but this would just be a replacement for the cases where the module author successfully accomodates everyone by adding extra code

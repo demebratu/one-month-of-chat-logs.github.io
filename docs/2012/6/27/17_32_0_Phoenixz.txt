@@ -1,0 +1,1 @@
+klaemo: I checked headers I got from  /socket.io/socket.io.js since google results suggested it would have to be 404... Surprise, it was a 304, not modified.. I reset my cache, et voila, all of the sudden it works again... WTF?

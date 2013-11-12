@@ -1,0 +1,1 @@
+joeytwiddle: what do you mean by the 'eval context'. I run the above code with `node test.js`  

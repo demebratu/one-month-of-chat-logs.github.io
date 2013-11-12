@@ -1,0 +1,1 @@
+niteshade: it asks you to create an alias for python, try removing that alias (or log out, then log back in) and try the ./configure again

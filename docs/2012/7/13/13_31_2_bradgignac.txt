@@ -1,0 +1,1 @@
+chuwiey: not really. we wrap our socket.io server in a node application. the node application listens for rabbitmq messages and then tells the socket.io server to push it to the browser.

@@ -1,0 +1,1 @@
+ljharb: I could, but I like how DRY reducing everything down to await / defer is

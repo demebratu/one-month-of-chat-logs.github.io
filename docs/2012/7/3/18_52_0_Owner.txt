@@ -1,0 +1,1 @@
+john____~# as far as i know, i use websockets with socket.io

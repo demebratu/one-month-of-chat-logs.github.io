@@ -1,0 +1,1 @@
+how do you serve your static assests like clientside js and css files?

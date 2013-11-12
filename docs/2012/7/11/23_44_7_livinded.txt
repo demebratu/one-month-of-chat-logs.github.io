@@ -1,0 +1,1 @@
+so do auth on the socket server

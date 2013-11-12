@@ -1,0 +1,1 @@
+Is it possible to delete a package you uploaded to npm? Or do you have to upload a new version, to fix a problem? When i published, npm rewrote my .gitignore to be .npmignore, which in turn ignored a directory i didn't want it to ignore

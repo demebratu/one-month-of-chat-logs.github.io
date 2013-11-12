@@ -1,0 +1,1 @@
+npm completion for zsh seems completely broken. is this a known thing?

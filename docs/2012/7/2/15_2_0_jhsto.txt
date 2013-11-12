@@ -1,0 +1,1 @@
+can someone tip me how to bind a socket.io event to a button?

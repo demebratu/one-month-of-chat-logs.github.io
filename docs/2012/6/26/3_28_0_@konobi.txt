@@ -1,0 +1,1 @@
+livinded: go nuts... feel free to rely on what you think... noone is ever going to try to bypass unix permissions, especially if the process runs as the same user

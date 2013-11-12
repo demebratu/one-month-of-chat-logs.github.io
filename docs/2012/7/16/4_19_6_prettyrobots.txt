@@ -1,0 +1,1 @@
+rookie84: But if you're doing all CRUD all the time, Rails may be easier.

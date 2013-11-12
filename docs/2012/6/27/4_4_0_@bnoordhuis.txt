@@ -1,0 +1,1 @@
+defunctzombie: not really. detached is accepted as an option but the parent and the child communicate over a pipe

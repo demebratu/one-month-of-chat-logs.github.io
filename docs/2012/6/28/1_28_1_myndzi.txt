@@ -1,0 +1,1 @@
+but didn't node-mysql just release a 2.0 or something? dunno about that one

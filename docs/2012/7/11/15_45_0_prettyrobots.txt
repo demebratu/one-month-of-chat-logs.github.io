@@ -1,0 +1,1 @@
+edsu: It works if I renamed wikichanges.js to index.js.

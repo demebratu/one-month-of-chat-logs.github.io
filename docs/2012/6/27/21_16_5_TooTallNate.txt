@@ -1,0 +1,1 @@
+Raynos: basically, the module will get built into "build/Debug" when it builds a debug build

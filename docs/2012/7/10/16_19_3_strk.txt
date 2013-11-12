@@ -1,0 +1,1 @@
+so is it a bug for socket.write() _not_ to encode in UTF8 when sending strings ?

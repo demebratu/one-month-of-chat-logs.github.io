@@ -1,0 +1,1 @@
+why not just substr with the first var i=str.indexOf(' ');if(i !== -1) {str = str.substr(i + 1);}

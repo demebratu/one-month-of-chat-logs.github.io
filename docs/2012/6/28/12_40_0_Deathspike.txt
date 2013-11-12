@@ -1,0 +1,1 @@
+Confused here, the modules I use are in node_modules and running npm update will trigger a nice update for every one. So the added value to do npm install is almost nothing, isn't it? It's not like I'll deploy the app w/o testing and w/o node_modules folder.

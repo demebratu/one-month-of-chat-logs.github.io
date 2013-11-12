@@ -1,0 +1,1 @@
+current mozilla (firefox) implements generators without that silly special character.

@@ -1,0 +1,1 @@
+gyp is not installed by make install :-(

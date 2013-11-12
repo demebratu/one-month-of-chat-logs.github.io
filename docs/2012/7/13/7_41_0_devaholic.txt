@@ -1,0 +1,1 @@
+basically, calling .end() only sometimes worked as expected (flushing the queue) and sometimes things just wouldnt make it through the pipe

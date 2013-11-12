@@ -1,0 +1,1 @@
+On the client-side, you're saying it's best to do two things: a. Send the data to the server using a POST (handled with expresss. b.  socket.emit to tell it to join the room?

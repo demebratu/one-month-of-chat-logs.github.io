@@ -1,0 +1,1 @@
+i just cant figure out what i am doing wrong >_<, ive been playing around with child_process functions for 4 hours now, and googling.. alot, the video player only after node has been stopped/killed 

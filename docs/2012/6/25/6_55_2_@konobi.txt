@@ -1,0 +1,1 @@
+circlicious: you could loop waiting for slim.stdin.writable to be true before attempting to write

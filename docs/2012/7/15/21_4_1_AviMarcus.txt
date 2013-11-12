@@ -1,0 +1,1 @@
+querystring seems to use the /greet.php? as part of it

@@ -1,0 +1,1 @@
+organizing code with callbacks is something you can manage with a little effort.

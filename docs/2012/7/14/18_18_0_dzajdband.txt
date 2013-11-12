@@ -1,0 +1,1 @@
+Hi. I have a question about persistent http requests. If I have a persistent connection with another server, and the other server drops the connection. How do I notice about that?

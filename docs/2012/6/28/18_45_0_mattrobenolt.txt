@@ -1,0 +1,1 @@
+But I mean, really, if you're throwing too much at Redis for it to handle, you'd more than likely have an actual ops team behind you.

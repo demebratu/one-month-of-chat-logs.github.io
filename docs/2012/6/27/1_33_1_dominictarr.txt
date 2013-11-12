@@ -1,0 +1,1 @@
+currently advocating for streams https://github.com/getbridge/bridge-js/issues/1

@@ -1,0 +1,1 @@
+SubStack - nevermind my question about the variable.  that was actually working well. However, I have a major problem with async functions

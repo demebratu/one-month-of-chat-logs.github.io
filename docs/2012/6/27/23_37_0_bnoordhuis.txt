@@ -1,0 +1,1 @@
+Murvin: so it's not crashing when you run it from gdb? curious

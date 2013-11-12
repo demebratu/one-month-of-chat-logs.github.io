@@ -1,0 +1,1 @@
+is there any alternative mobile UI frameworks like jQuery mobile, but for older mobiles like 600MHz and android 2.3

@@ -1,0 +1,1 @@
+since the file in $PATH is actually a symlink to the script under $PREFIX/lib/node_modules/foo, __dirname works perfectly for this.

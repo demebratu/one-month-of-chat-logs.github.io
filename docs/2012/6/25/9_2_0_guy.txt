@@ -1,0 +1,1 @@
+processTweet() is not triggered at all upon deleting a tweet

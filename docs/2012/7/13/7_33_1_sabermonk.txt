@@ -1,0 +1,1 @@
+does the command npm docs lockfile , opens the readme in a browser?

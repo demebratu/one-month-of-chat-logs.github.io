@@ -1,0 +1,1 @@
+john_____ been using http-proxy for a while, although haven't been able to really test it up against a very large amount of requests per second (100k per sec, ex.)

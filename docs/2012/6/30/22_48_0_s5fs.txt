@@ -1,0 +1,1 @@
+Killswitch: i'm running ubuntu 12.04 and chose to NOT use the package. installing by hand is easy enough, and i'm guessing you can't tell the package where to drop the binary.

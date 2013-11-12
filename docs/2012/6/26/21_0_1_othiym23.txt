@@ -1,0 +1,1 @@
+Deathspike: it's hard to beat the strengths of the V8 JIT plus the efficiency of libuv

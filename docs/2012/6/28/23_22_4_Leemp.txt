@@ -1,0 +1,1 @@
+eldios: Should a testing framework *really* require a 2nd testing framework to test itself?

@@ -1,0 +1,1 @@
+teadict: Um, well, they really expect a tool that can rearrange the code, and that's hard to do with JavaScript.

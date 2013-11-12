@@ -1,0 +1,1 @@
+or remove ^ to replace from anywhere of the string

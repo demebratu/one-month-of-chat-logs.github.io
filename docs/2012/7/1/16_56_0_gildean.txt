@@ -1,0 +1,1 @@
+if the update is processed before your query, then yes

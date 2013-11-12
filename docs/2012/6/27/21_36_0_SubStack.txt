@@ -1,0 +1,1 @@
+dherman: couldn't coffee-script be done with the loader stuff in isaacs's proposal?

@@ -1,0 +1,1 @@
+node: Ben Noordhuis v0.8 * rb1cce04 / (common.gypi configure): build: rename strict_aliasing to node_no_strict_aliasing - http://git.io/itKpog

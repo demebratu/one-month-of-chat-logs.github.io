@@ -1,0 +1,1 @@
+maxogden: should i just be able to use that simple request case in the docs, and then process the "body" variable of the response to get my image?

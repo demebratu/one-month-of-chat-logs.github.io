@@ -1,0 +1,1 @@
+bnoordhuis: which part? Removing python or changing the path? :P

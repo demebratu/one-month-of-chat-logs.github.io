@@ -1,0 +1,1 @@
+sabermonk: use fs.createWriteStream to create a stream for the file, then pipe stdout of the process to the file stream

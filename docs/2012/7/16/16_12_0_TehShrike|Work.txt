@@ -1,0 +1,1 @@
+So, I'm a bit curious.  Why is Redis so popular nowadays?

@@ -1,0 +1,1 @@
+radiodario: ty - but one thing i still don't get, why i need user/pass, if i can connect without anyway

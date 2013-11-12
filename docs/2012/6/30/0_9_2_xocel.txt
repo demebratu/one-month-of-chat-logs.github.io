@@ -1,0 +1,1 @@
+slack puts 32bit apps in /usr/lib 64bit in /usr/lib64 

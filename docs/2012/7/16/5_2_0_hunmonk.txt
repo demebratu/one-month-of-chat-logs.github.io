@@ -1,0 +1,1 @@
+SkareCrow: forgot to thank you, https://github.com/melor/node-posix was exactly what i needed, thx!

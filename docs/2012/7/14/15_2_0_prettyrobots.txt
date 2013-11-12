@@ -1,0 +1,1 @@
+Have the database manage those transactions.

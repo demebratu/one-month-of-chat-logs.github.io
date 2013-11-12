@@ -1,0 +1,1 @@
+AviMarcus, I plan on using socket.io at some point. But, can use Pusher.com well at the moment, and that'd just create another server that I need to create. So, for now - I'm just focusing on the business logic.

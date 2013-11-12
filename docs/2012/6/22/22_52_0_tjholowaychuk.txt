@@ -1,0 +1,1 @@
+dshap img.src expects a base64 data uri or Buffer

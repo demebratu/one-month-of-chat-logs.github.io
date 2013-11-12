@@ -1,0 +1,1 @@
+readFile reads the entire file into a buffer and returns it in a callback

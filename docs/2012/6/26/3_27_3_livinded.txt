@@ -1,0 +1,1 @@
+I'm not trying to build "safe" functions, I'm just trying to whitelist/blacklist access to certain ones

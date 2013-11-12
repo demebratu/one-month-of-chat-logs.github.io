@@ -1,0 +1,1 @@
+http://name.myapp.com/login?dest=redirect_url

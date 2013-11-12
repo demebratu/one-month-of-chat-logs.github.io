@@ -1,0 +1,1 @@
+depends how it's written, you could can use most middleware like regular callbacks still

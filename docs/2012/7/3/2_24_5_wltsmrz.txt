@@ -1,0 +1,1 @@
+Looks like there are a couple modules using S3. Maybe you can learn something from them.

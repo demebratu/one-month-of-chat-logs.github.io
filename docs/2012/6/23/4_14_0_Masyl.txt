@@ -1,0 +1,1 @@
+Well… my biggest advice would be to stop building UIs this way and use a proper tempting engine and some MVC abstraction like backbone.js or some other.

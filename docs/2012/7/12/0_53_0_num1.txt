@@ -1,0 +1,1 @@
+use npm install -g ..., and the package will be installed in {your node dir, or, prefix}/lib/node_modules

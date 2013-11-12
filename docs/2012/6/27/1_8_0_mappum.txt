@@ -1,0 +1,1 @@
+are Buffers garbage collected? I know their memory is outside of v8, so how does it work?

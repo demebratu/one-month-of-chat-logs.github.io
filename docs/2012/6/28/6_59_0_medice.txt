@@ -1,0 +1,1 @@
+actually i was wondering how that coffeescript.js did it, but now that i pretty printed the source i notice it just iterates over the elements of the type from the javascript on load

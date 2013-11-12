@@ -1,0 +1,1 @@
+node: Ben Noordhuis v0.8 * racbfc40 / node.gyp : build: fix add-on loading on freebsd - http://git.io/7Bvjjg

@@ -1,0 +1,1 @@
+Note that I want to show relations to pages as well (so another query for every message that relates to a page..?). Think of "blabla liked this page"

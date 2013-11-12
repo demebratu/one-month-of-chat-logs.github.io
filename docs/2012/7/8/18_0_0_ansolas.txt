@@ -1,0 +1,1 @@
+so how do i find out why defining a start is not working?

@@ -1,0 +1,1 @@
+NodeX: i just wwant to escape double quotes , its a bash command "$CMD"

@@ -1,0 +1,1 @@
+I see, so what is the best option for accessing a single element from the params? req.params.map works fine, but I would like to have more generic access to elements

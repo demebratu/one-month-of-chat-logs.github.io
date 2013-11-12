@@ -1,0 +1,1 @@
+the Apache log (toward which I'm sending requests) shows that the 7th request (the hanging one) never arrives

@@ -1,0 +1,1 @@
+how can I debug Error: socket hang up at createHangUpError (http.js:1124:15) - I'm trying to change to use secure connections to couchdb (via cradle library) - everything bootstraps okay and talks to the db for a second or two then I get this error and everything dies

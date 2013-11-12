@@ -1,0 +1,1 @@
+it makes it very easy to come back to a project after some time and figure out what's going on, or pick up a new project written in that style and figure out what messages it supports

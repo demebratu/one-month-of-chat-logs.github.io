@@ -1,0 +1,1 @@
+How stupid do I have to be to attempt to invoke JSONP from Node.js?

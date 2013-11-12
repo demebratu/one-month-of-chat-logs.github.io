@@ -1,0 +1,1 @@
+as for me, I just write most of my apps (except for asset pipelines) to run in production mode all the time, and ctrl-c / restart a lot

@@ -1,0 +1,1 @@
+Correct me if I'm wrong but wouldn't you want to create a pool of connections that never close so you don't have to pay the performance cost of opening then and run as much stuff async as possible.

@@ -1,0 +1,1 @@
+john____: that's not a knock on apple but xnu (the os x kernel) is dog slow compared to linux

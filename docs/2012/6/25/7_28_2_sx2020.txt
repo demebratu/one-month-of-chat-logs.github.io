@@ -1,0 +1,1 @@
+i thought the script's reference path would be relative to where it is located, not from where it is called.

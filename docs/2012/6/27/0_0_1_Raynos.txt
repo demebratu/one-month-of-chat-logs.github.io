@@ -1,0 +1,1 @@
+isaacs: so I turns out nave hanged at the end make and never got to the make install bit

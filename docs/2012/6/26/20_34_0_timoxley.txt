@@ -1,0 +1,1 @@
+just export a function that returns the controller object

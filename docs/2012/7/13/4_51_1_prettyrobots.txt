@@ -1,0 +1,1 @@
+ljharb: Things like Pocket and Instapaper do scraping. I don't think that's all that bad.

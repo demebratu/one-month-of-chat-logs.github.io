@@ -1,0 +1,1 @@
+d3 left the impression I'd have to do units, axes, labels and all that stuff myself, so I went for flot

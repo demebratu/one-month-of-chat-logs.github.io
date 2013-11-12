@@ -1,0 +1,1 @@
+Trying to convert a Bash script to cross-platform Node.js.

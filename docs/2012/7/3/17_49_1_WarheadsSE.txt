@@ -1,0 +1,1 @@
+So I am going to get this GNTP library cleaned up, finally. Who's got a quick link to a nice style guide for mutli-part module breakouts?

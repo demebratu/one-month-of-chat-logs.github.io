@@ -1,0 +1,1 @@
+Regex are not slow, but aren't really easy to read nor elegant..

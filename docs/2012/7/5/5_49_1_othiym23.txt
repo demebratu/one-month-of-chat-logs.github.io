@@ -1,0 +1,1 @@
+you could take a look at grunt, maybe, and see how it tests client code using QUnit and PhantomJS, but that seems a little heavyweight for what you're trying to do

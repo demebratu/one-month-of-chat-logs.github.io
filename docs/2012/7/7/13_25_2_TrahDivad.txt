@@ -1,0 +1,1 @@
+If http.ServerRequest is the prototype of the request objects we get in the callback, can't I add the methods directly to ServerRequest?

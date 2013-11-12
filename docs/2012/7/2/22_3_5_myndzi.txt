@@ -1,0 +1,1 @@
+how the heck do i get debug info about what's failing with node-gyp

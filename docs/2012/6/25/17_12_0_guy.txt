@@ -1,0 +1,1 @@
+https://gist.github.com/36bf4d720b104faca398 This produces SQL syntax error using node-mysql, obviously it shouldn't.

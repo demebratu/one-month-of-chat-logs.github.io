@@ -1,0 +1,1 @@
+You could for example have a function which is used to initialize things

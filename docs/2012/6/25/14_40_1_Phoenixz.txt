@@ -1,0 +1,1 @@
+Right now this hang thing happened 5 minutes after a restart of the app, so it's becomming kind of a big problem.. :(

@@ -1,0 +1,1 @@
+Hotroot, I'm not sure if I understand you correctly, but I would use streams and pipes instead of a buffer, but I'm not sure what you're doing

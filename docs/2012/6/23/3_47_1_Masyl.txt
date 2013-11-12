@@ -1,0 +1,1 @@
+Nope… you usually have three choices: Raise the error on the first line:   if (err) throw err;    #2  Return the error on the first line    if (err) callback(err);      or do some fancier handling/logging inside your function

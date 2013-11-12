@@ -1,0 +1,1 @@
+compare -> a == b, concat -> a + b, beginswith -> a.match(/^x/), endswith -> a.match(/x$/), contains -> a.match(/x/)

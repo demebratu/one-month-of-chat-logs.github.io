@@ -1,0 +1,1 @@
+Is the npm registry being *really* slow for anyone else or is it just me?

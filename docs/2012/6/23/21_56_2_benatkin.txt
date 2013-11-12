@@ -1,0 +1,1 @@
+simonadameit: you picked a good platform for this. clojure would also be good.

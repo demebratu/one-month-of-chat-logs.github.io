@@ -1,0 +1,1 @@
+but within node, it could just require a wildcard like plugins/*

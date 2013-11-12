@@ -1,0 +1,1 @@
+Hello peeps, I have an issue with starting Node.js/Socket.io. `var io		= require('socket.io').listen(82);`

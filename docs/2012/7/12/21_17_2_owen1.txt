@@ -1,0 +1,1 @@
+is socket.io works with mobile browsers?

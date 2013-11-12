@@ -1,0 +1,1 @@
+upb: you're right, this code might be relevant http://nodejs.org/docs/latest/api/child_process.html

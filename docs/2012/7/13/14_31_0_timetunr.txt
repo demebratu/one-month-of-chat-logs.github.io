@@ -1,0 +1,1 @@
+that's the npm way and it helps to keep out of dependency hell

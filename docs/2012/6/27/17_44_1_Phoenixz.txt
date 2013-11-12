@@ -1,0 +1,1 @@
+mmmmmm, looks like there is a node v0.8 - socket.io problem still... I clear browser cache, it all works okay, then I kill the host, restart it, reload the page, and the , localhost/socket.io/socket.io.js gives me a 304, and io suddenly no longer exists..

@@ -1,0 +1,1 @@
+is there a simple way to have require() load the module every time and not cache it?

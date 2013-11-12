@@ -1,0 +1,1 @@
+but yes, you're returning an object with a 'users' key that's a function, so you'd have to call it

@@ -1,0 +1,1 @@
+This thing seems incrediably broken. If I all one of my functions that returns an object, it returns an empty object.

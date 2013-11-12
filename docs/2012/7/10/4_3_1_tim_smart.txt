@@ -1,0 +1,1 @@
+Well you could always just pipe to 'tee', but that would be a bit silly. I have done it before by just setting up all the back-pressure stuff and data listeners in user space.

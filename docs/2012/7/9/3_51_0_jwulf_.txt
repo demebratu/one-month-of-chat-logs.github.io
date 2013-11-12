@@ -1,0 +1,1 @@
+felixge, dbslayer uses connection pooling and touts it as a significant feature - for its scalability

@@ -1,0 +1,1 @@
+dubcanada: AT first I suspected DNode since I use it to comunicate between PHP and node, and I'd regularly would find both hung up in 100%

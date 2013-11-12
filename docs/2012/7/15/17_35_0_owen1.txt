@@ -1,0 +1,1 @@
+jmls: read about modules - http://nodejs.org/docs/latest/api/modules.html that's node's way of seperating your code into small files.

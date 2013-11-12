@@ -1,0 +1,1 @@
+but yeah, just use the fs module to check for a lockfile

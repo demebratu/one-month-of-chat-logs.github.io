@@ -1,0 +1,1 @@
+Instead of the client emitting the event, can't I do this already on the server-side?

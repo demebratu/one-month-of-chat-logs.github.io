@@ -1,0 +1,1 @@
+So, others forgo-tree based searching, do a linear search, but have a much richer language for expressing pattern matching.

@@ -1,0 +1,1 @@
+well, just having used a thing isn't a disqualifier. but if java is the thing youre excited about, i doubt you'd be able to think in terms of patterns that are necessary for non-classical-inheritance-non-eclipse development

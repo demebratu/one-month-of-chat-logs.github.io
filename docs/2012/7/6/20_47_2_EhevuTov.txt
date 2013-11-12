@@ -1,0 +1,1 @@
+ninna, oh, and at a given time in your loop, check how many sockets you have open just to verify you've got a high number: http://nodejs.org/docs/v0.8.1/api/http.html#http_agent_sockets

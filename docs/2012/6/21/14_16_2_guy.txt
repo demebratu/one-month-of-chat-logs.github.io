@@ -1,0 +1,1 @@
+AAA_awright: JSON can't, not MongoDB specifically.

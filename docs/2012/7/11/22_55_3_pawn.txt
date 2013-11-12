@@ -1,0 +1,1 @@
+jesusabdullah: Open source NowJs version is said to support 10,000 connections. Dnode can do better than this?

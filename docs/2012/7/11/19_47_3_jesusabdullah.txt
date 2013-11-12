@@ -1,0 +1,1 @@
+ku: That's not an unreasonable assessment. Node started with the lessons learned from the last 20 years, and insisted on a lightweight core, and that's worked out pretty well so far

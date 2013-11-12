@@ -1,0 +1,1 @@
+hellopat: its not much more work than what you have now, you jsut have to make some package.json files and move your stuff into node_modules

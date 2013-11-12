@@ -1,0 +1,1 @@
+I just don't get how any non-relational database can store/read data efficiently unless there is only one index key.

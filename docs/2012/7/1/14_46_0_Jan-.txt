@@ -1,0 +1,1 @@
+so basically, to make what I have work now, I'd have to require every file in every other file, and export every global object from every file.

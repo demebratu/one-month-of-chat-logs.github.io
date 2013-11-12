@@ -1,0 +1,1 @@
+Hotroot: stream.end() closes one end of the socket

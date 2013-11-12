@@ -1,0 +1,1 @@
+austinbv: how? basically have a form on my home page and I want to grab the values without leaving the page

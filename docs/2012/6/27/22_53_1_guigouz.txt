@@ -1,0 +1,1 @@
+hi, i need to fetch all data between 01 and 03 in this buffer - <Buffer 01 30 30 31 20 72 48 03 2b> (can be any length) so I can calculate the checksum 2b. I can do that with a while loop, but can someone recommend a cleaner way ?

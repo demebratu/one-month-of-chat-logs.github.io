@@ -1,0 +1,1 @@
+Deathspike: Redis is in-memory data store first, and syncs back to disk at intervals. So there's usually a period of time that CAN be lost. But the tradeoff is speed. It's fast as balls.

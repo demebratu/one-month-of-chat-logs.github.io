@@ -1,0 +1,1 @@
+are there any libraries that make the bubbling/handling of these little 'error' booleans (which seem to be a ubiquitous pattern in async node code) easier to work with?

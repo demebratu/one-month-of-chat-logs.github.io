@@ -1,0 +1,1 @@
+has anyone had a problem with JSDOM not loading jQuery in most recent Node.js updates? on 6.0.18... and existing scripts now die with $ not defined everytime :/

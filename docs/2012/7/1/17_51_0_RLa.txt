@@ -1,0 +1,1 @@
+data == objects, fp concepts == functions

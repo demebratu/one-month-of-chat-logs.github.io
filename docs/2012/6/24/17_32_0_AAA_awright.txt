@@ -1,0 +1,1 @@
+Not to make it sound like I'm taking it out on npm, I don't like centralized public databases and I've never seen a package manager I've liked, except portage to some degree

@@ -1,0 +1,1 @@
+IsNull is an inlined function, something must've went wrong when it was compiling

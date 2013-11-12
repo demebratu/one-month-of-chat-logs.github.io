@@ -1,0 +1,1 @@
+this happened after an upgrade to 0.8.0 and i know it has to be one of the compiled extensions

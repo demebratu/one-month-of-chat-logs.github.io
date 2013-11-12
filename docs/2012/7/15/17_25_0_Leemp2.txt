@@ -1,0 +1,1 @@
+God, that was aweful. http://nodejs.org/docs/v0.7.2/api/index.html found it.. but still, for future reference, is there an easy way to find older docs?

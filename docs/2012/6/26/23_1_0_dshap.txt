@@ -1,0 +1,1 @@
+request.get({ uri: 'somesite.com/somefile.jpg', encoding: null}, function(err, resp, body){ … });

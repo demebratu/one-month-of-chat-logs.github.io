@@ -1,0 +1,1 @@
+npm http 404 http://localhost:5984/registry/_design/app/-/all

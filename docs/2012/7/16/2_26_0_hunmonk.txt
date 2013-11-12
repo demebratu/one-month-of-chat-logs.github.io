@@ -1,0 +1,1 @@
+timoxley: i could do it in a child process, and stuff my work in the callback, but this seems like it should be so straightforward. and my code will be a lot uglier in this case if it's async. so i guess 'need' is too strong a word. ;)  *strongly prefer*

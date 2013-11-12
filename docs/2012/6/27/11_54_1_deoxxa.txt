@@ -1,0 +1,1 @@
+the first time you call app.{get,post,head,etc}, if app.router isn't already in the middleware chain, it'll be added

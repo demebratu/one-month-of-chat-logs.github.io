@@ -1,0 +1,1 @@
+@isaacs: I've been trying to install bogart from npm for a tutorial. I've been getting this weird error:

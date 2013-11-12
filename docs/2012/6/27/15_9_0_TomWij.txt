@@ -1,0 +1,1 @@
+aaronj1335: If I get it right, the mingw one shouldn't translate it to a path but leave it as is, I guess?

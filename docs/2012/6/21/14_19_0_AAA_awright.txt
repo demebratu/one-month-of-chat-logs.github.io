@@ -1,0 +1,1 @@
+JSON can encode any Javascript-legal value, including $ . _ unicode characters, NUL, etc

@@ -1,0 +1,1 @@
+rektide: process.argv[1] tells you the name of the first argument passed to node, which node passes to require()

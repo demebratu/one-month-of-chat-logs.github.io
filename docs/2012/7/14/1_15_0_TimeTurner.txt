@@ -1,0 +1,1 @@
+reading well-written tests of any module has got to be the fastest way to learn the api

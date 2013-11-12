@@ -1,0 +1,1 @@
+All the engine that rely on mingling js and html like with "els" are very efficient and should work fine on CE

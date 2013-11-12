@@ -1,0 +1,1 @@
+I went by the install guide on github wiki, is it good that the modules are stored on /tmp?

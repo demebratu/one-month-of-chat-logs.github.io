@@ -1,0 +1,1 @@
+timoxley: yeah, strace and a bit of skepticism found the problem.  it found the right mysql_config binary, but then looked in standard locations for the libmysqlclient.so at runtime.

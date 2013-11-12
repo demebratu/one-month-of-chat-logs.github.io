@@ -1,0 +1,1 @@
+piscisaureus_: fs.chmod(someSymlinkPath, 0600, cb)

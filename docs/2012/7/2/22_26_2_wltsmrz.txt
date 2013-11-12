@@ -1,0 +1,1 @@
+And connect-redis uses redis strings (not hashes)

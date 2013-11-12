@@ -1,0 +1,1 @@
+othiym23: thanks! so it's similar to http calls or db calls. using the event loop.

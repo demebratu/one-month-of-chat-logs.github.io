@@ -1,0 +1,1 @@
+TimeTurner: So I should learn some js before even strarting with node?

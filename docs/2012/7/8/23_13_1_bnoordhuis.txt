@@ -1,0 +1,1 @@
+testmaniac: you probably want /var/log/kern.log

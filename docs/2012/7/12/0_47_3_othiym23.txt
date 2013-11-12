@@ -1,0 +1,1 @@
+num1: so you're trying to gather up all the outbound requests and then run through them all at once after the DOM has been fully loaded?

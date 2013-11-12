@@ -1,0 +1,1 @@
+Anybody know how I can create a Node.JS command-line interface where the prompt is always at the bottom and the top updates? eg; chat design

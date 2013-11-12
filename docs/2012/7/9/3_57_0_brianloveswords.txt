@@ -1,0 +1,1 @@
+jwulf_ meh, I wouldn't worry about pooling unless you know your database is going to be a bottleneck, better to get the app working first.

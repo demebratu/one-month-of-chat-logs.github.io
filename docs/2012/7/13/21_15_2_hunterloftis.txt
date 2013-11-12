@@ -1,0 +1,1 @@
+Is there a way to spawn a process in node, but exit the node process? Or at least to transfer total control of STDIN/OUT to the child easily? I guess I can pipe stuff all over but I'd basically just like to run ssh.

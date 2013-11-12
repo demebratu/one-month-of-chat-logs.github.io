@@ -1,0 +1,1 @@
+like this: name: {type: String, es_boost: 3.0, es_null_value: "Not Provided"}

@@ -1,0 +1,1 @@
+owen1: yes, but access to the bits and packing the ibits in memory differs a lot per data type

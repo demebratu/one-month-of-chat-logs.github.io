@@ -1,0 +1,1 @@
+TooTallNate: ok, seems symlinking ~/.node-gyp/0.6.19/deps/v8/include to /usr/include does the trick.

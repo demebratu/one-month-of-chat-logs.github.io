@@ -1,0 +1,1 @@
+I think O_SYMLINK is not defined on windows, but it would be possible to add that

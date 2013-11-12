@@ -1,0 +1,1 @@
+npm WARN prefer global jshint@0.7.1 should be installed with -g

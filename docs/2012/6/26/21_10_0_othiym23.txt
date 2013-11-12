@@ -1,0 +1,1 @@
+Deathspike: Express lets you just do res.send({foo:blurgh}) and will do the conversion for you as well as setting the correct Content-Type and status code

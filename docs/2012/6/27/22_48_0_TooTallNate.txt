@@ -1,0 +1,1 @@
+i mean, it wouldn't work like bash "export" if that's what you're expecting

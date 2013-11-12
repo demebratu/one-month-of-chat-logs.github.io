@@ -1,0 +1,1 @@
+aber wie kann ich das in node.js erkennen?

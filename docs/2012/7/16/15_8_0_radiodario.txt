@@ -1,0 +1,1 @@
+anybody had any experience running the node-oracle db bindings? it's made my mac a bit sick

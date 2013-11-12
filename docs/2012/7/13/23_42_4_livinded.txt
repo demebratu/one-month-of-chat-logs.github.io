@@ -1,0 +1,1 @@
+I want to allow the dev to specify callbacks to handle all those things themselves

@@ -1,0 +1,1 @@
+anyone have a script that takes a list of contributors out of a git repo and formats it into markdown with links to each person's github profile?

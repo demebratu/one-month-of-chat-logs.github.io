@@ -1,0 +1,1 @@
+I wouldn't make anything persistent in node.js whose durability I had to rely on

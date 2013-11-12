@@ -1,0 +1,1 @@
+what are the deploy options for node modules beside "global" and under node_modules ?

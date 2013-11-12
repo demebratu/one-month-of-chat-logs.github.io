@@ -1,0 +1,1 @@
+it looks like connect (which is part of express) can do virtual hosting 

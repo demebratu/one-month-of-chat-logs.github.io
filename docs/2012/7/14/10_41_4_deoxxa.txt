@@ -1,0 +1,1 @@
+"but regexes are too slow", i pretend to hear you say

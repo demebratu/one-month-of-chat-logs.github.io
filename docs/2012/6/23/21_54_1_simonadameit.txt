@@ -1,0 +1,1 @@
+benatkin: so i need a stable context object for that

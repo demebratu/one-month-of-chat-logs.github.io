@@ -1,0 +1,1 @@
+Coming from a 0.6.x release, anyone have any words of wisdom to watch for?

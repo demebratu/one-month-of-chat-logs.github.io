@@ -1,0 +1,1 @@
+Unicode has its own fickle ways of making sure you can tell it's continuing of previous byte

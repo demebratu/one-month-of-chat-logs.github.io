@@ -1,0 +1,1 @@
+now the first question is if the #nodejs auto chat bot is written in node.js ;)

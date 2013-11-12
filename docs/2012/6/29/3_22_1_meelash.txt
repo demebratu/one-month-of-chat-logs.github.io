@@ -1,0 +1,1 @@
+I try cluster.disconnect and in the callback I have process.exit() for the master process

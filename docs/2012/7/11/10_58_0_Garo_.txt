@@ -1,0 +1,1 @@
+My goal is to redirect all console.* messages (console.log, consoleinfo, console.error etc) to a custom log processing facility (scribe in our case)

@@ -1,0 +1,1 @@
+jesusabdullah: It doesn't die - the callbacks just get cleaned up and set to function () {}

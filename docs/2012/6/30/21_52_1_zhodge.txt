@@ -1,0 +1,1 @@
+should I read the contents of it and then just add the data and write back?

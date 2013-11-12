@@ -1,0 +1,1 @@
+maybe Node should default to zeroing it unless a speedup flag is set, for consistency

@@ -1,0 +1,1 @@
+bnoordhuis: yar, would be a handy feature though (mainly for highly platform specific addons like dtrace, kstat, win32, etc)

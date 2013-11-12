@@ -1,0 +1,1 @@
+In node 0.4.x, I could replace console.log implementation with my own implementation by setting global.console = { /* my own implementation */, but that doesn't seems to be supported any more in node 0.8.x. Does somebody know if this is still somehow possible?

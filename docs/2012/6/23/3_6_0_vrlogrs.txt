@@ -1,0 +1,1 @@
+ok .. can someone tell me if there's another way of doing mysql queries?

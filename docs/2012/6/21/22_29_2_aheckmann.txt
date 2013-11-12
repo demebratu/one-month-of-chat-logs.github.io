@@ -1,0 +1,1 @@
+myndzi: once you pass a schema into model() it gets compiled into a new "class" so changing it after the fact has no affect

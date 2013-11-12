@@ -1,0 +1,1 @@
+node: isaacs v0.8 * rc49888b / src/node_version.h : Now working on 0.8.2 - http://git.io/CCgc2g

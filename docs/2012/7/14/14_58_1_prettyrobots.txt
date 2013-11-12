@@ -1,0 +1,1 @@
+You're saying then that you'd only have the queue writing to this data file? That would be good.

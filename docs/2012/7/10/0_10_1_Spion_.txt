@@ -1,0 +1,1 @@
+js would be perfect with: generators, optional types (coming soon) and shorter function syntax

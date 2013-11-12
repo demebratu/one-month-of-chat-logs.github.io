@@ -1,0 +1,1 @@
+is there any command you can run on a package.json to have it tell you of all your dependencies, what the absolute strictest node version limitation is?

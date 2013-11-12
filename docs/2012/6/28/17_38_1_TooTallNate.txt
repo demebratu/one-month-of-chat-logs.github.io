@@ -1,0 +1,1 @@
+rektide: why though? just make 1 file be your API and a bin file be the main one

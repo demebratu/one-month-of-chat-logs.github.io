@@ -1,0 +1,1 @@
+rcrowley: In practice almost no one actually checks the CRLs, not even web browsers

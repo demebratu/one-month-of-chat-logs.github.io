@@ -1,0 +1,1 @@
+also, what does node binding (socket, http, etc) in this diagram means? http://platformjs.files.wordpress.com/2010/11/nodejsarch.png

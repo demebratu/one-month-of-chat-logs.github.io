@@ -1,0 +1,1 @@
+dubcanada: or better, I'll pastebin my package.json file, should tell all you need, right?

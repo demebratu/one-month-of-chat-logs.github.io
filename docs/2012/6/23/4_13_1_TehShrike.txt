@@ -1,0 +1,1 @@
+It will be a webapp running on their servers, but they will access it almost entirely with mobile devices in an app-like manner

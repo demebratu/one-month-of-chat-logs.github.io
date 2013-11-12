@@ -1,0 +1,1 @@
+im normalfall kommt dann innerhalb weniger sekundenbruchteile gleich ein response von node.js an php

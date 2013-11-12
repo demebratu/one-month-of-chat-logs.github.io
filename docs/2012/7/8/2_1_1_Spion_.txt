@@ -1,0 +1,1 @@
+clearly, spaghetti is goto-like code

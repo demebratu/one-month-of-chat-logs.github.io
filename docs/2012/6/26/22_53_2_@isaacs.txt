@@ -1,0 +1,1 @@
+mattrobenolt: let's say you do this:  fs.realpath(foo, fn); doStuff()

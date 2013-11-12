@@ -1,0 +1,1 @@
+ljharb: Doing setTimeout(fn, 0) will create a timer, where nextTick just push/pops a simple queue.

@@ -1,0 +1,1 @@
+var Date = global.Date

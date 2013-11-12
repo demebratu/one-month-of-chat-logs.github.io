@@ -1,0 +1,1 @@
+und wenn halt nach x sekunden keine antwort kommt, weißt du, dass es bei php nen timeout gab?

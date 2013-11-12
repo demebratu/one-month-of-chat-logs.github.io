@@ -1,0 +1,1 @@
+ok i solved it by doing process.kill(spawnedProcess.pid); process.exit()

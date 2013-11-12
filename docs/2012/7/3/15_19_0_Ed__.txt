@@ -1,0 +1,1 @@
+i'm reading it now. i see the uglify.middleware function on line 29

@@ -1,0 +1,1 @@
+given utf8 is the encoding of the string you pass to it, of course

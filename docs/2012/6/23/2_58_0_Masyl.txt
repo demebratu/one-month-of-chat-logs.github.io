@@ -1,0 +1,1 @@
+echosystm: Ho, and since a lot of new modules come up, you should expect to review your stack about every three months. Each project we have done up to now has had a slightly different setup.

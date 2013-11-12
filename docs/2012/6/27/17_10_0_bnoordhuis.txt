@@ -1,0 +1,1 @@
+jviereck: how does it get to be a typed array first?

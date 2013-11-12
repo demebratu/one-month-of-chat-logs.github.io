@@ -1,0 +1,1 @@
+styol: the only caveat to using util.extend is that you need to include EventEmitter.call(this) in the class you're creating to be an event emitter

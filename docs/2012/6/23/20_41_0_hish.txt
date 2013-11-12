@@ -1,0 +1,1 @@
+saschagehlich: I spend more than hour search about nodejs module that not using express framework  to connect to facebook  

@@ -1,0 +1,1 @@
+did you mean that between console.log and stdin.write the stdin could close ?

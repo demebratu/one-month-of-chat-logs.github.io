@@ -1,0 +1,1 @@
+SubStack: i wanna pull this into read-installed so that it is aware fo parent dirs and symlinks and the like

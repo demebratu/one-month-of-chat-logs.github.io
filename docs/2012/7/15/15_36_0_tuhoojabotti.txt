@@ -1,0 +1,1 @@
+xhr2 can handle arraybuffers I think

@@ -1,0 +1,1 @@
+othiym23: Geddy does look promising. RESTful services are easy, like registering in Express and returning something JSON.stringify'ed?

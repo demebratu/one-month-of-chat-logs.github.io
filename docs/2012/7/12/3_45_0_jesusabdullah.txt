@@ -1,0 +1,1 @@
+I think it helps small teams to be able to keep all these things in their head, and larger teams benefit more from having a spread out common knowledge of some overarching framework/set of tools

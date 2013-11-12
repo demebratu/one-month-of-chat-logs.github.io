@@ -1,0 +1,1 @@
+I recently wrote a script to make sequential HTTP calls, and I was counting on the fact that it was synchronous. Worked well.

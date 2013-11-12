@@ -1,0 +1,1 @@
+oh, there is a module called traverse. search.npmjs.org just took a couple of seconds, so i thought you meant i should write my own traverser and require it :D

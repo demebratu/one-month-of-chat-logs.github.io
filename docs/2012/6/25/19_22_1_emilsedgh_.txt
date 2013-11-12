@@ -1,0 +1,1 @@
+i know. after years of doing php work, im loving node. although it gives me headache sometimes, but thats mostly due to my lack of knowledge.

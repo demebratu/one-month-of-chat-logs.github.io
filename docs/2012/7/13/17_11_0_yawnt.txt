@@ -1,0 +1,1 @@
+any reason why the same code would work in plain C++ and would throw a 'Segmentation Error' when bundled in a nodejs module?

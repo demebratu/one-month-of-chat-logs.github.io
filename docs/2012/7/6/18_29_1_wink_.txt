@@ -1,0 +1,1 @@
+is there a way to use the new cluster api with socket.io?  i keep finding old documentation, is it officially supported by socket.io yet?

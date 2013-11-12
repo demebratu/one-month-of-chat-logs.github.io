@@ -1,0 +1,1 @@
+node: symbol lookup error: /directory/src/node_modules/fibers/bin/linux-x64/fibers.node: undefined symbol: _ZNK2v85Value11IsUndefinedEv

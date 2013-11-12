@@ -1,0 +1,1 @@
+TrahDivad_: can you do the same from mongos cli?

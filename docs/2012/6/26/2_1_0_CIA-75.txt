@@ -1,0 +1,1 @@
+node: Ben Noordhuis master * r57276ae / (common.gypi configure): build: enable strict aliasing if gcc < 4.5.0 (+21 more commits...) - http://git.io/zETjhw

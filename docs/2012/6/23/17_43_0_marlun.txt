@@ -1,0 +1,1 @@
+SubStack: I'm sorry but I don't understand the "cat file1.js file2.js <(browserify entry.js)" part?

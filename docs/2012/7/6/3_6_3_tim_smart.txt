@@ -1,0 +1,1 @@
+KingDosser: Listener === socket.on('someevent, listenerCallback)

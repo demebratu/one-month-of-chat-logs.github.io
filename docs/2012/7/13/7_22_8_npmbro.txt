@@ -1,0 +1,1 @@
+DTrejo: Please see http://github.com/isaacs/lockfile#readme

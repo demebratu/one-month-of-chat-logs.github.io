@@ -1,0 +1,1 @@
+circlicious: the exec() command is a shortcut to opening a shell and passing it a single parameter, the shell in turns evaluates the string you passed it, breaks it up into arguments, and passes those arguments to a new child process. It has a bit more overhead, so is discouraged

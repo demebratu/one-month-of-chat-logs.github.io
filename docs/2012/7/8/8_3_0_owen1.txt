@@ -1,0 +1,1 @@
+another question - is there any advantage of using nginx (apart from serving static files)? maybe security? load balancing?

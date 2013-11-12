@@ -1,0 +1,1 @@
+austinbv: whil this === global in the global scope, inside of required files, node sets this explicitly to module.exports

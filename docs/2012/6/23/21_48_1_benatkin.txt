@@ -1,0 +1,1 @@
+simonadameit: either way node.js has your back :) http://nodejs.org/api/vm.html

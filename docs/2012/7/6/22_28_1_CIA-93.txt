@@ -1,0 +1,1 @@
+node: TJ Holowaychuk v0.8 * red7fb14 / (3 files in 3 dirs): module: add filename to require() json errors - http://git.io/GOuBQw

@@ -1,0 +1,1 @@
+AAA_awright: oh. so u'r saying that since node scales thanks to it's evented i/o nature and it doesn't need many processes as in a blocking approach.

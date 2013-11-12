@@ -1,0 +1,1 @@
+and the whole system keeps running smoothly, without needing to use threads

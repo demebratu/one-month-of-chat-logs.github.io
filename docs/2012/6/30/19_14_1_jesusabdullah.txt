@@ -1,0 +1,1 @@
+tom21: No, node allows you to write native extensions in c++

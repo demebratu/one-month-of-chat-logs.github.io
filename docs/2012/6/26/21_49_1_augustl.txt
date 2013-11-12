@@ -1,0 +1,1 @@
+would prefer a default that I disable, instead of manually adding it to all routes, I might forget it that way

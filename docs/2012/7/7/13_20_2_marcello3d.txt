@@ -1,0 +1,1 @@
+how do I install it so it doesn't have a bunch of "UNMET DEPENDENCY" lines in npm ls?

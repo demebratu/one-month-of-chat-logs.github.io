@@ -1,0 +1,1 @@
+in php I created a controller class which rendered my table based on my data dynamically, formatted dates, added headers, added pagers, make them sortable, set max string length etc etc etc

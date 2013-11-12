@@ -1,0 +1,1 @@
+context: http://www.uberbrady.com/2011/10/nodejs-is-not-cancer-you-are-just-moron.html

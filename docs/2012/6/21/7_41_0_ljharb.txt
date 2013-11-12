@@ -1,0 +1,1 @@
+"functional" means more like a functional language, ie scheme or haskell or lisp or something

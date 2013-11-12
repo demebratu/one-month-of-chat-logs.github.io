@@ -1,0 +1,1 @@
+can I invoke npm from node code?

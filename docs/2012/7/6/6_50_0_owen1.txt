@@ -1,0 +1,1 @@
+my problem was i made http call to a server that can take snapshots of urls (with phontomJS). this server streamed back the image. i never listened to 'end' event and never closed the files..

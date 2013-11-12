@@ -1,0 +1,1 @@
+Is there any way I can introduce memory leaks, because if I keep repeating requests to my simple express service I can kick mem consumption from 6mb to 20mb in ~20 seconds. Or is that because of a GC that isn't instant?

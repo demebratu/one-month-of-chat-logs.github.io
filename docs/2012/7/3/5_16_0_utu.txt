@@ -1,0 +1,1 @@
+hello guys, i'm trying to create server app where multiple clients connect, and I want keep persistent tcp/http connection, so I can get to those clients later after some time, is this done by using keep-alive?

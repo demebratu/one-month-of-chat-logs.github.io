@@ -1,0 +1,1 @@
+so I've got a single object which is built by the Transformer before being forwarded to the Loader

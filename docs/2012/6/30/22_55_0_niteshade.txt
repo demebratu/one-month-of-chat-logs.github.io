@@ -1,0 +1,1 @@
+hi room... installation problem node 0.8.1, on webfaction.com. (centOS) some python problem, can't figure it out

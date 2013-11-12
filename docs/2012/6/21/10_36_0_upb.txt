@@ -1,0 +1,1 @@
+you dont even need to write it to some temp file if you could pipe it in to the process

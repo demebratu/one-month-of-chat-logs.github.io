@@ -1,0 +1,1 @@
+Actually, !context && (function() { throw new Error("Context not defined!") })();

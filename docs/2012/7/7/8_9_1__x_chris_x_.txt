@@ -1,0 +1,1 @@
+aber ich befürchte, das meldet mir keinen fehler, wenn node.js keine daten mehr loswird

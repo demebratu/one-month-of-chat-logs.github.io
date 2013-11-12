@@ -1,0 +1,1 @@
+I forgot if there was a 'global' object though.. maybe there was

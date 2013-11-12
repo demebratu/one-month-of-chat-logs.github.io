@@ -1,0 +1,1 @@
+is that `xvfb-run google-chrome url` is super easy to do

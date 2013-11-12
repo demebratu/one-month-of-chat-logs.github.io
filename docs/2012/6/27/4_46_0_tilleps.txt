@@ -1,0 +1,1 @@
+ty defunctzombie, I guess I'll use connect.utils.parseSignedCookie()

@@ -1,0 +1,1 @@
+So, like, if you create an object in a function and then return, those objects will lose their references when the closure created by that function is cleaned up

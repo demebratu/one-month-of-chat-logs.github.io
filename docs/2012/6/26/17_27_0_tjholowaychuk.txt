@@ -1,0 +1,1 @@
+write modules not m/v/c stuff, spread the app horizontally

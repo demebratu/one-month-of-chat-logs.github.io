@@ -1,0 +1,1 @@
+but even in ruby you can have $ - global variables, so u'll maintain state between requests. 

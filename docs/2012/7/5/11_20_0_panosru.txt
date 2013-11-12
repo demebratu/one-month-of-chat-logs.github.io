@@ -1,0 +1,1 @@
+Hello, I have install node via NVM but when I try to require global installed modules I get Error: Cannot find module, anyone got the same experience with me ?

@@ -1,0 +1,1 @@
+if I run 'ssh -f -N host' manually in the terminal, that also exits nicely and quickly

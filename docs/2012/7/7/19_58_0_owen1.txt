@@ -1,0 +1,1 @@
+augustl: ok. so whenever i make an async i/o call, the event loop, on each 'tick', poll the status of the socket (in case of http/db call) and if the socket was changed, meaning, the data is available, it will call the callback.

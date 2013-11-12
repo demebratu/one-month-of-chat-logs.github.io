@@ -1,0 +1,1 @@
+yeah, that's what i was hoping to avoid.. he's got a bunch of stuff i'd rather not reimplement if i don't have to

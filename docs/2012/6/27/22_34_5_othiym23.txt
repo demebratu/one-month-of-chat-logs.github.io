@@ -1,0 +1,1 @@
+Raynos: you can try the forever module, but using an OS-level tool to monitor / restart your tool if it crashes (like Ubuntu's upstart) is better in the long run

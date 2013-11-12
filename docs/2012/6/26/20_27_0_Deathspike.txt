@@ -1,0 +1,1 @@
+tobo: I still get content, "Not Found", when using this. I want it to send 404 w/o content, thus, forcing the browser to render its default 404-page.

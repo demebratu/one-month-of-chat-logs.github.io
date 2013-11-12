@@ -1,0 +1,1 @@
+they both valid, but do different things. The latter is an anonymous function call

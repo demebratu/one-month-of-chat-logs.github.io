@@ -1,0 +1,1 @@
+hi, someone know how can i do a mysql query in to an other mysql query result?

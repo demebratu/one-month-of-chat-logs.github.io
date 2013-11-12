@@ -1,0 +1,1 @@
+the call right before that to trimWhitespace was returning undefined if the command didn't match /^\s*(.+)\s*$/m

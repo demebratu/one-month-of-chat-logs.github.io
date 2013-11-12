@@ -1,0 +1,1 @@
+I'm not sure how people can develop on Windows (maybe I'm a *nix snob). I watched a friend doing some web development on windows and it looked so painful I had to stop watching him.

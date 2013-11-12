@@ -1,0 +1,1 @@
+I don't have an end goal or a project I am just trying to learn the fundementals of how async works (in js mostly)

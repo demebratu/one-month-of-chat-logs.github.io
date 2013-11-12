@@ -1,0 +1,1 @@
+but of course, all the xhr's assume that / is the root, not /registry/_design/ui/_rewrite/

@@ -1,0 +1,1 @@
+isaacs: Well, searching for "windows" on npmjs.org is only so productive hehe. I just thought maybe there might be an interesting project that is very handy for making node based applications on windows. Thought perhaps i might see a reply akin to "If you're using Nodejs, check out ____ project! It's a life saver for dealing with ___ problem on windows"

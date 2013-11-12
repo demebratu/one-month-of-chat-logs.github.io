@@ -1,0 +1,1 @@
+instead of req.write(JSON.stringify(data)); you can do

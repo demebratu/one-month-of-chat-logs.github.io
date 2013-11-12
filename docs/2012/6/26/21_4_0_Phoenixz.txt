@@ -1,0 +1,1 @@
+Just upgraded to node.js v0.8.0release (from GIT repo), with these dependancies http://pastebin.com/T3nZ5a55 .. When running my project, I had a few easiliy fixed details, and then this: Cannot read property 'url' of undefined on /home/sven/projects/pladeo/node_modules/connect/lib/proto.js:104:18

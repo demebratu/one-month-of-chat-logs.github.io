@@ -1,0 +1,1 @@
+anyways just use JSON.stringify and fs.writeFile or fs.writeFileSync

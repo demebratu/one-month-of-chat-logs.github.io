@@ -1,0 +1,1 @@
+and add the export PATH=/usr/local/bin:$PATH

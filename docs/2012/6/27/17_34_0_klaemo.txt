@@ -1,0 +1,1 @@
+Phoenixz: haha the pull request has indeed been merged yesterday: https://github.com/LearnBoost/socket.io/pull/929

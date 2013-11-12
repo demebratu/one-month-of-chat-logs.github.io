@@ -1,0 +1,1 @@
+I almost always symlink 2.7 to `python` though

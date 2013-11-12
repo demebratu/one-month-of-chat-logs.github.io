@@ -1,0 +1,1 @@
+one is used for unctional composition type prgoramming, like array map

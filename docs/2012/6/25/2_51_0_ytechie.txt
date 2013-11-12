@@ -1,0 +1,1 @@
+Looks like I'm not the only one with this problem: http://stackoverflow.com/questions/11135954/problems-piping-in-node-js

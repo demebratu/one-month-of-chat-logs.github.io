@@ -1,0 +1,1 @@
+However, I don't know why it's preferring c++ over g++, maybe you need to pass configure an arg or something. I'd look thru the config script.

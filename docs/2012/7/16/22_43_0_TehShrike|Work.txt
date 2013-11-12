@@ -1,0 +1,1 @@
+I was thinking of making a browser plugin that would show a "star this on npm" button on appropriate github projects

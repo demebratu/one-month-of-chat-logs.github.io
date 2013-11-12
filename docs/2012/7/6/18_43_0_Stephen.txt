@@ -1,0 +1,1 @@
+Phoenixz: Sounds like your io Reference is getting garbage collected

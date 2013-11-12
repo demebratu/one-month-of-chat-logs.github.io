@@ -1,0 +1,1 @@
+_6a68: yeah, definitely look at promised-io, we're using it with node at State, as well as using Dojo + Deferred's on the client side.

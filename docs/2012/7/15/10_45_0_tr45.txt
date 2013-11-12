@@ -1,0 +1,1 @@
+yes bcrypt auto salts. so right now there is only .compare function, i wonder if internally it is possible to compute it only once.

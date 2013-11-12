@@ -1,0 +1,1 @@
+if i have 2 clients accessing my site -- the node.js script has a global variable which will be modified by each 'script' (1 for each client)

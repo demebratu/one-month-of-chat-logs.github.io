@@ -1,0 +1,1 @@
+telnet server, it's a MUD

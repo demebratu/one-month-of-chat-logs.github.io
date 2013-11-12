@@ -1,0 +1,1 @@
+I built a tempting language myself… but its probably too heavy for CE …  your could try this: https://github.com/visionmedia/ejs

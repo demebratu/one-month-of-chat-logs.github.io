@@ -1,0 +1,1 @@
+They have APIs on their site and people build crappy bots that they run in their browsers as bookmarklets

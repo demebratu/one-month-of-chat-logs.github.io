@@ -1,0 +1,1 @@
+i wonder where should i report and what, when trying to debug my script, i get this: http://pastie.org/4263434 

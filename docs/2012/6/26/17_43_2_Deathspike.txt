@@ -1,0 +1,1 @@
+I have a tendency to use CamalCase and not lowerCamelCase; I suspect this is frowned upon in NodeJS community?

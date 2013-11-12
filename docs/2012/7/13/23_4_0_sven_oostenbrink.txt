@@ -1,0 +1,1 @@
+Ah, also, if it has some methods and events for drag drop, that would be great too :)

@@ -1,0 +1,1 @@
+briancray, copy the file over to somewhere else, then make the symlink, the whole point of the symlink is npm won't ever notice

@@ -1,0 +1,1 @@
+node:/usr/local/lib/node_modules/fibers/src/fibers.node: undefined symbol '_ZN2v811HandleScopeC1Ev'

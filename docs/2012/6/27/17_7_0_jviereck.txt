@@ -1,0 +1,1 @@
+hi. Is there a way to get an TypedArray from a buffer?

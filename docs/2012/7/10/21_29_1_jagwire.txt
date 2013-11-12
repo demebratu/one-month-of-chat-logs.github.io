@@ -1,0 +1,1 @@
+For example, let's say I wanted to use Java's affordances for executing javascript code.

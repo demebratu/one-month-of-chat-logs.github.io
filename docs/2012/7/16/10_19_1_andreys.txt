@@ -1,0 +1,1 @@
+docs say that "Users who need to do a large number of look ups quickly should use the methods that go through C-Ares"

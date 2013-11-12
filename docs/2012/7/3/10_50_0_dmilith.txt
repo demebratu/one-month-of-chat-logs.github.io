@@ -1,0 +1,1 @@
+the most important thing is to find hot spot, which triggered will start that cpu hog issue

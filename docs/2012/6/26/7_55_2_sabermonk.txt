@@ -1,0 +1,1 @@
+hmm .. i have a scenario where some writes are queued.. but upon crossing a threshod i need to flush stream to be able write new data

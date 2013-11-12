@@ -1,0 +1,1 @@
+ever since nodeconf I can't say socket.io or long polling w/o a conquistador accent.

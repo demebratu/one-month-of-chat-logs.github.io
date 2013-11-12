@@ -1,0 +1,1 @@
+doesnt matter, one you open the connection, the connection info is stored in teh object. when you pass the object, the reference to it gets passed, so anything you pass around will talk to the same object, meaning the same connection

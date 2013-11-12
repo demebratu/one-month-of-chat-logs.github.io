@@ -1,0 +1,1 @@
+Killswitch: symlinks are a better approach imho, that way you can repoint the symlink to different node versions w/o messing with code

@@ -1,0 +1,1 @@
+TimeTurner: so when i do http.createServer or fs.readFile, it create a thread for me, but i can't access it and don't care?

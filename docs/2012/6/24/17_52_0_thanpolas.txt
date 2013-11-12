@@ -1,0 +1,1 @@
+Root Project --> Submodules Project D --> Submodules Project F --> Submodules Root Project

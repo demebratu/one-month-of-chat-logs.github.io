@@ -1,0 +1,1 @@
+an image that I'm not hosting on my server but I want to send it in response to a http request

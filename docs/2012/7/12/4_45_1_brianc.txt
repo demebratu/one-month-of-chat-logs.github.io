@@ -1,0 +1,1 @@
+dominictarr: how do you do line seperated json if the json contains possible line-breaks in the value of a test property?

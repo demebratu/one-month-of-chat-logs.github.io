@@ -1,0 +1,1 @@
+I'm trying to modify the 'standalone proxy server with latency' http-proxy example to log responses, and I'm not getting any response events? code here: http://pastebin.mozilla.org/1677766

@@ -1,0 +1,1 @@
+Hotroot: characters. string characters. When you're sending serialized data over socket.

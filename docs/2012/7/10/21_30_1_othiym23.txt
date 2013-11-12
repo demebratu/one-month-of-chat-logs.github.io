@@ -1,0 +1,1 @@
+jagwire: but you can take chunks of Node and use them, like EventEmitter, and maybe you could wrap some of the streamy bits up in browserify and run it in Rhino

@@ -1,0 +1,1 @@
+fs.readFile(all_photos[i], function(err, buf) { var b64_buf = buf.toString('base64') 

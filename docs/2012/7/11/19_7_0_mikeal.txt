@@ -1,0 +1,1 @@
+isaacs: did the move from path.existsSync to fs.existsSync change any implementation details?

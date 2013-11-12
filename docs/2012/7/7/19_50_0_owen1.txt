@@ -1,0 +1,1 @@
+node.js has 40k lines of c/c++ and 20k of js.   does it sounds accurate?

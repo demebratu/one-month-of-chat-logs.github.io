@@ -1,0 +1,1 @@
+I am trying to use socket.io but it seems to not work properly; it is an arm board and i think it might be kernel related. What tcp/ip kernel features socket.io needs?

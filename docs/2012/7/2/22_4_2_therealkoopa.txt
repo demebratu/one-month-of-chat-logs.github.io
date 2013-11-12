@@ -1,0 +1,1 @@
+Yea, I was thinking it would be best to handle everything in one request rather than two.  So the express would fire a server-side event saying "Hey, this client should join the room"

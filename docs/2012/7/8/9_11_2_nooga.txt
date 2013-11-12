@@ -1,0 +1,1 @@
+if I remove options in repl.start() everything runs smoothly

@@ -1,0 +1,1 @@
+oh I think I got it now.. you want to set a previous version as a dependency to a newer one

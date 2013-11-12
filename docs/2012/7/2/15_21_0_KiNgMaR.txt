@@ -1,0 +1,1 @@
+bnoordhuis, you around? something seems off with node-iconv 1.2.0 and iconv > http://dpaste.de/IKAdT/

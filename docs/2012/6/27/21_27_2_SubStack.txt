@@ -1,0 +1,1 @@
+I argue that the default case for modules should mostly be a single function

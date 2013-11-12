@@ -1,0 +1,1 @@
+mmalecki: I never really had a need for a stream api I suppose

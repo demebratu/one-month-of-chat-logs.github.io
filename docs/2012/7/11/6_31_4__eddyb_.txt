@@ -1,0 +1,1 @@
+well, app.js is better than a local express server, hopefully I can write a small compatibility layer to get both a web app and a standalone one

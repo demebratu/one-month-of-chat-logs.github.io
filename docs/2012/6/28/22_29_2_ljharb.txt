@@ -1,0 +1,1 @@
+altho i suppose you could do [1,2,3].some(function (value) { /* do some stuff */ return i === 2; });

@@ -1,0 +1,1 @@
+/tmp/cc5Mc4Ct.s:3916: Error: unrecognized symbol type "gnu_unique_object

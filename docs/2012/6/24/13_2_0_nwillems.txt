@@ -1,0 +1,1 @@
+deoxxa: I have a url looking like the example one above. Then I have tried url.resolve("http://example.org", "/some/../other"), I have also tried with the full url as second parameter, and without domain in first and a lot of combinations of these. I beleive, it would be nice to first know which parameter is the base?

@@ -1,0 +1,1 @@
+Deathspike: I think of it as being more like Erlang than, say, Python or Rails or PHP -- it's tailor-made to solve a certain subset of problems very well, but it requires a different thought process to get comfortable with it

@@ -1,0 +1,1 @@
+othiym23: Linus is on the record as saying he's not super interested in allowing probes / hooks into the kernel

@@ -1,0 +1,1 @@
+Deathspike, the advantage of package.json is beyond that of update vs install

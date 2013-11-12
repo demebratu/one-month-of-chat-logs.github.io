@@ -1,0 +1,1 @@
+I moved my app from server.js to app.js,

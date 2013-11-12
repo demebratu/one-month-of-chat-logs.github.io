@@ -1,0 +1,1 @@
+myndzi: I was thinking of ripping .pipe from stream.js and rolling my own :p but then, I'd like to use as much from core node as possible without writing my own stuff :)

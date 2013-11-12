@@ -1,0 +1,1 @@
+hunterloftis: unset that, and it'll work.  i'll make npm do this explicitly as well.

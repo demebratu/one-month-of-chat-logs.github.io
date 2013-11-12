@@ -1,0 +1,1 @@
+as tlorenz suggested, try console.logging require.paths to make sure it's looking in the right places

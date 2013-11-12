@@ -1,0 +1,1 @@
+I'm no kernel hacker, so I can't explain how the async write() and read() calls work.

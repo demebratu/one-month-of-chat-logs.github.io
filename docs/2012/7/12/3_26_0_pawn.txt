@@ -1,0 +1,1 @@
+Do I have to garbage collect sockets with the disconnect event?

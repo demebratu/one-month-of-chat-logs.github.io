@@ -1,0 +1,1 @@
+Apathetic: not really, Node isnt really super at serving static pages, and it doesnt have php ro other support unless you write it all in. Its better to use Nginx, and route all static stuff to apache or nginx itself, and the important api/webapp stuff ot node.js

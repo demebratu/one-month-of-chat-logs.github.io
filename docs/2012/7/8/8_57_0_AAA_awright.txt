@@ -1,0 +1,1 @@
+owen1: What's being wasted? Node.js will use 100% of the CPU if possible. More processes than you have cores uses up resources without adding any benefit.

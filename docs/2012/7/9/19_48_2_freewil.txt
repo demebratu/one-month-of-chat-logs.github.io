@@ -1,0 +1,1 @@
+but then curl -I works fine for some reason

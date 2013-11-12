@@ -1,0 +1,1 @@
+cgiffard: didn't think os x has a .bashrc…. guess you mean .bash_profile. yeah sounds sensible :)

@@ -1,0 +1,1 @@
+dr0id: an hour to read and understand docs for Socket.io, 3 hours to learn everything about Canvas in MDN, and ~8 hours playing around with the code.

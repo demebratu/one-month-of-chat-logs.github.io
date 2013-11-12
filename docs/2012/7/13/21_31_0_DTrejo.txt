@@ -1,0 +1,1 @@
+jaha: what do you mean by serve it to someone? you could do a require to get access to the module, just know that require is sync & will maybe slow things down

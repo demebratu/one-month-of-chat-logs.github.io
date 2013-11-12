@@ -1,0 +1,1 @@
+just did. now i'm mad that JS doesnt handle binary data decently.

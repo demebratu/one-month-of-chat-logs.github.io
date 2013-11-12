@@ -1,0 +1,1 @@
+cb's are only a pita when you have to keep a lot of state around

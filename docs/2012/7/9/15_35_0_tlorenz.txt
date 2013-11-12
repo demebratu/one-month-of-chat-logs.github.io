@@ -1,0 +1,1 @@
+teadict: you can just run it again with --save

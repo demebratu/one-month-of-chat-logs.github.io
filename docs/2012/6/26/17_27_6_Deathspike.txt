@@ -1,0 +1,1 @@
+Thanks for the advice. I come from a PHP and C# background so I'm very much looking into things like automatic routing to a controller folder, stuff like that.

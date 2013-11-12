@@ -1,0 +1,1 @@
+ccowan: having a dedicated server means cached data can be kept in RAM without being evicted for another service

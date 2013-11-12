@@ -1,0 +1,1 @@
+you just write calls and callbacks, and if you need to break up work, either because it's I/O or CPU-intensive, you either call process.nextTick() yourself or you wrap streams / EventEmitters around the work to be done

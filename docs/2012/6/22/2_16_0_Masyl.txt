@@ -1,0 +1,1 @@
+Still… with node we already have telnet, web socket, cli and I'm pretty sure we're about to get so morse code module somewhere…. not having an ssh server is silly. I guess it's a really difficult task (I sure don't grasp most of it)

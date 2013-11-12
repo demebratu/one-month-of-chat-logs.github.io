@@ -1,0 +1,1 @@
+when the user authenticates, you generate a unique id and store it in your database, memory store, or whatever

@@ -1,0 +1,1 @@
+for doing inline coffee-script in a single file which I guess you would want for big multi-language bundles?

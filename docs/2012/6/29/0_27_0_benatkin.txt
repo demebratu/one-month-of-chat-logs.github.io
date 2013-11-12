@@ -1,0 +1,1 @@
+theodore: if all you need is to go to an URL, there's https://github.com/jjrdn/node-open

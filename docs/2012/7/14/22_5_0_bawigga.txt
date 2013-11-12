@@ -1,0 +1,1 @@
+Does the node installer for windows not automatically add node to the PATH? 

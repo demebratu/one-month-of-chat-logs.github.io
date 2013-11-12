@@ -1,0 +1,1 @@
+Is it possible to access some middleware from Connect that's bundled with Express rather than having to require Connect separately?

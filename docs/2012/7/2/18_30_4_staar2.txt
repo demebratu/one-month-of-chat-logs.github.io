@@ -1,0 +1,1 @@
+what would be good documentation style in JS, currently I use Java javadoc style ?

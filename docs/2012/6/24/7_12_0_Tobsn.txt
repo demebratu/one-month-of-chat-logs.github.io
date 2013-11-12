@@ -1,0 +1,1 @@
+second i would check if port 82/etc. is even accessable from the outside

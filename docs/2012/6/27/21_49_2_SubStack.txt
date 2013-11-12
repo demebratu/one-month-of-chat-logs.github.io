@@ -1,0 +1,1 @@
+well and custom destructuring I think shouldn't belong in import but I would even be ok with that if import returned a value

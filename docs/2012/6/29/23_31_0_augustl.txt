@@ -1,0 +1,1 @@
+obviously not useful on its own, but combined with a VM sandbox it would be very useful

@@ -1,0 +1,1 @@
+lamefun2: so it becomes dic["nate__proto__"]

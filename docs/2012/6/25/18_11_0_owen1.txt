@@ -1,0 +1,1 @@
+how to run forever and also pass some env variable?

@@ -1,0 +1,1 @@
+originally i wanted to combine the information that socket.io stored in redis and merge it with the session object in redis but I guess those need to stay decoupled

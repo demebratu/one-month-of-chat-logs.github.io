@@ -1,0 +1,1 @@
+the second player could see or not the sword depending on server load and not on the order of the requests

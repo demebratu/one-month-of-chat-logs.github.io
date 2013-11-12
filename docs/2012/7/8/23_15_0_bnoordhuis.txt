@@ -1,0 +1,1 @@
+testmaniac: and neither does klogd - which writes the log files you should be using

@@ -1,0 +1,1 @@
+Im trying to run them in sync, using async.series

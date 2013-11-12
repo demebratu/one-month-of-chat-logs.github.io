@@ -1,0 +1,1 @@
+ninna, if it times out, are you doing DNS resolution? Maybe your overloading your DNS?

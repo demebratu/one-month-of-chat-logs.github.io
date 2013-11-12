@@ -1,0 +1,1 @@
+EventEmitter's a pretty simple class

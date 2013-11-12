@@ -1,0 +1,1 @@
+the examples from the new zlib library dont show creating gz from string or buffer. that's what i'm trying to do

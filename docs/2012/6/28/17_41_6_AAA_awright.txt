@@ -1,0 +1,1 @@
+rektide: You're asking how to solve a problem, there's the answer: Move library code into a library file

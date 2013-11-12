@@ -1,0 +1,1 @@
+not a fucking diatribe on how the fuck to organize my code and guidance to not handle stdio sanely everywhere

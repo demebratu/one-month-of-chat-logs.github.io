@@ -1,0 +1,1 @@
+Ok, so at that point it would appear that socket.io isn't quite ready for you to connect

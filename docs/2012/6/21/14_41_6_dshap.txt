@@ -1,0 +1,1 @@
+i guess that was a dumb question i asked, since "-r" is just shorthand for including require() before executing the test file.  guess i'll add require('should') to the top of each of my tests

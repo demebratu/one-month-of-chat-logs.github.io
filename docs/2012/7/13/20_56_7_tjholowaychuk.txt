@@ -1,0 +1,1 @@
+not just supporting things with $(str).find() etc

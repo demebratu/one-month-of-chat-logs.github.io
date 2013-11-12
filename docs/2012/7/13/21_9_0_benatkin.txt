@@ -1,0 +1,1 @@
+tjholowaychuk: I like that. I also like the idea of a CSS parser that punts on stuff it doesn't understand and puts the ball back in the users' court

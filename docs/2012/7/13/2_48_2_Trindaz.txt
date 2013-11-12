@@ -1,0 +1,1 @@
+I know for a fact that the response includes the headers   'content-type': 'text/plain; charset=utf-8',   'content-encoding': 'gzip',

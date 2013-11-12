@@ -1,0 +1,1 @@
+hey guys. I'm working on a native module for Node.js, and I'm having some trouble with linking. What's a good project to study that uses up-to-date Node.js bindings e.g. NODE_MODULE()?

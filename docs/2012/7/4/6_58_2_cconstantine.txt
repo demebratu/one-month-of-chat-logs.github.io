@@ -1,0 +1,1 @@
+vrlogrs, the if block will fully execute before that function

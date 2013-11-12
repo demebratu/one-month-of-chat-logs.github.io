@@ -1,0 +1,1 @@
+ansolas: http://nodejs.org/api/ contains all of the official docs for the core modules, beyond that reading the source (it's quite readable) is another good way to learn.

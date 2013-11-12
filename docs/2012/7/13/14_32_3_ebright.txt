@@ -1,0 +1,1 @@
+I like the look of this approach: https://github.com/visionmedia/express/blob/master/examples/route-separation/app.js

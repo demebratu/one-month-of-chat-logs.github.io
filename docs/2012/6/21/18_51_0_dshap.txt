@@ -1,0 +1,1 @@
+AAA_awright: if i put a really slow operation in the for-loop, would that change things?

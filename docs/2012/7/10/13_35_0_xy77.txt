@@ -1,0 +1,1 @@
+bradgignac: jasmine looks way too verbose for my taste, gotta type all that

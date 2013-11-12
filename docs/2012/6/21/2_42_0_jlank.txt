@@ -1,0 +1,1 @@
+how could I store a reference to that stream to pass as a function and keep it readable?

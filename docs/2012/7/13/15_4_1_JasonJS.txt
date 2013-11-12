@@ -1,0 +1,1 @@
+darrenlooby: If it doesn't provide anything else you are probably stuck adding a listener for that event and then creating the connection again

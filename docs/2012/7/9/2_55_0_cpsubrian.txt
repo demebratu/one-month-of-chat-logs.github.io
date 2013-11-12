@@ -1,0 +1,1 @@
+Or wait.. that wouldnt quite work.. need to mix-in event emitter into the Model constructor 

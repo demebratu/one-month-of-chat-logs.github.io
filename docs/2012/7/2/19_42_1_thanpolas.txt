@@ -1,0 +1,1 @@
+so how can i safely determine that the environment i run on is node.js vs the DOM ?

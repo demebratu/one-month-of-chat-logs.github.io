@@ -1,0 +1,1 @@
+if i am a globally-installed node.js script installed via npm install -g, can i programatically find my global node_modules dir? e.g. if i'm installed as /opt/local/bin/foo that might be /opt/local/lib/node_modules/foo/

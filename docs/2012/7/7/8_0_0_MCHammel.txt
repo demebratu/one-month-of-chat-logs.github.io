@@ -1,0 +1,1 @@
+_x_chris_x_ asks, whether there's a way to get the reason for a timeout of a curl-request sent to php

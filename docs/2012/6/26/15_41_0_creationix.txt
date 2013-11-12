@@ -1,0 +1,1 @@
+I ended up doing that on top of the protocol using named events and ids

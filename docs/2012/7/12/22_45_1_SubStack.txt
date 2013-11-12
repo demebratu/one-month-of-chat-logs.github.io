@@ -1,0 +1,1 @@
+I think if you're going to deprecate something like that for no reason you might as well make both versions available for a version BEFORE turning on the warning spam

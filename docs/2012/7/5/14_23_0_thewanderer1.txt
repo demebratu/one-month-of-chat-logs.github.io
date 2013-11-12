@@ -1,0 +1,1 @@
+in timers, is it guaranteed that a callback registered for +100ms will be executed earlier than registered for +101ms? and if not, how do I enforce such ordering? any specific pattern?

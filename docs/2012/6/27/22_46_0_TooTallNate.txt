@@ -1,0 +1,1 @@
+timoxley: i'm not sure to be honest. all i know is that `process.env.foo = 'bar'` ends up calling setenv() under the hood

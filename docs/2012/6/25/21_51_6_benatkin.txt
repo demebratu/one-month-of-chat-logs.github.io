@@ -1,0 +1,1 @@
+seems like it might be a lot to expect from people who are new to node, to install npm on their own

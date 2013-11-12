@@ -1,0 +1,1 @@
+Qbix1, nah, it would be in here. Permissions problems occur a lot. I think there's an option in npm to set perms a certain way, but not sure

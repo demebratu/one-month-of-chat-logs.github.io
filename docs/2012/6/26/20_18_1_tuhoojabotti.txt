@@ -1,0 +1,1 @@
+bradleymeck: message.replace(/\w+/, '')

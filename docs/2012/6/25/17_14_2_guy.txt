@@ -1,0 +1,1 @@
+Because the original query looks like this.. https://gist.github.com/6a2420e00ecf22f781f6 and for whatever stupid reason (wtf? https://github.com/felixge/node-mysql/issues/133) named bindings are not implemented.

@@ -1,0 +1,1 @@
+of course, you'll have plenty of problems because the variable won't be altered until the query completes

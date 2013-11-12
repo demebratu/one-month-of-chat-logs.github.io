@@ -1,0 +1,1 @@
+output the buffers contents as a string with the .toString() method and you'll see what it is

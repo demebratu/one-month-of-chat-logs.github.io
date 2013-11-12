@@ -1,0 +1,1 @@
+eeemsi: the dot behind the clone commad is the target directory (/tmp/build/node in this case) probably node can't, for some reason, listen to the broadcast... are you root?

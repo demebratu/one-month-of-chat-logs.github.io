@@ -1,0 +1,1 @@
+It put /usr/local/bin/minifyjs -> /usr/local/lib/node_modules/minifyjs/bin/minify

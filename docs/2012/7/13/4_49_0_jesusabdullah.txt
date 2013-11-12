@@ -1,0 +1,1 @@
+ljharb: so I don't think scraping a fan site's NASCAR RACE RESULTS and exposing them over a nice api is unethical necessarily

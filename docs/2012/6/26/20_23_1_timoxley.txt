@@ -1,0 +1,1 @@
+Deathspike node modules export a single thing. It could be a number, a function, or an object. At the start of a module file `this`, `exports` and `module.exports` all point at the same object.

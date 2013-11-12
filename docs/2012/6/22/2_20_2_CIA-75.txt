@@ -1,0 +1,1 @@
+node: isaacs v0.8.0-release * rcfc4b54 / (ChangeLog src/node_version.h): wip 0.8.0 RC - http://git.io/bJii7g

@@ -1,0 +1,1 @@
+I thought it might be a ipv6 issue but I am now tunneling it OK. (ping6 google.com works)

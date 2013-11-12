@@ -1,0 +1,1 @@
+tjholowaychuk: I don't think a dsl is useful, json is fine for that imo, but is there any reason node can't be trusted to do long running things?

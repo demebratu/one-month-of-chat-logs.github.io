@@ -1,0 +1,1 @@
+TrahDivad: I would just make a node script to do it.

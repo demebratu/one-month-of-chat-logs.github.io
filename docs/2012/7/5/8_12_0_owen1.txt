@@ -1,0 +1,1 @@
+Noor_: what do u mean by 'mainain login session cookies'. i am trying to use node.js without express and curious about this. i am currently creating a cookie after the user logged in.

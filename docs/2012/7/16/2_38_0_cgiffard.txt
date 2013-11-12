@@ -1,0 +1,1 @@
+austinbv: Is that because it throws the error and exits the execution context _before_ the expect statement?

@@ -1,0 +1,1 @@
+my app is parsing image attachments, writing them to disk, and if it recognizes a png it needs to be converted to jpg

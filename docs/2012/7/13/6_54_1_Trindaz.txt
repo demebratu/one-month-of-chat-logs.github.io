@@ -1,0 +1,1 @@
+llrcombs: lesson very well learned already. I still can't see why there was any good reason that setting the encoding destroyed the data. it obviously did but i haven't seen any comments to address that. It would have to be true that some encodings simply allow series of bits that other encodings don't. Is that the case?

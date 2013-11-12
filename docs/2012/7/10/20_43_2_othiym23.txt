@@ -1,0 +1,1 @@
+TimothyFitz: the atexit handler doesn't call process.exit by default, it only calls the callback that you pass it from the SIGINT handler

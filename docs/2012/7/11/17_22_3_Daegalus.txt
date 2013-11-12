@@ -1,0 +1,1 @@
+well, technically, everything in javascript is an object, even functions.

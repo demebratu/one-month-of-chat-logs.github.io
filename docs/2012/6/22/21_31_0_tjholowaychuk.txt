@@ -1,0 +1,1 @@
+slajax take a look at that line in utils.js, in master that's the app.locals.use() callback stuff so that would seem weird

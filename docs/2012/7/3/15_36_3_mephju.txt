@@ -1,0 +1,1 @@
+bcrypt doesn't work for me anymore. Am I the only one having this problem?

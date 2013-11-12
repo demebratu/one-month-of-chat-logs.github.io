@@ -1,0 +1,1 @@
+looks like it should export fine for browsers. It also imports util and events but never uses them

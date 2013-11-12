@@ -1,0 +1,1 @@
+i will know which parts of my applikations are slow

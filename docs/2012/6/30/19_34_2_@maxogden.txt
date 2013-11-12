@@ -1,0 +1,1 @@
+williamcotton: yea but you should do that in an async fashion either by generating it your database or in another process

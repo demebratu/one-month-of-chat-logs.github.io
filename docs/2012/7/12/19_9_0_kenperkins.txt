@@ -1,0 +1,1 @@
+so is there a way of doing cluster like communcation between a spawned node child process?

@@ -1,0 +1,1 @@
+isaacs: are you about? was the change to .bin symlinks to make them absolute paths intentional?

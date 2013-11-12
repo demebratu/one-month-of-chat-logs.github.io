@@ -1,0 +1,1 @@
+more clearly: Do NOT use gzip on socket.io when with node 0.8 

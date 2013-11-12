@@ -1,0 +1,1 @@
+owen1: why are you pushing the payload into an array instead of just using a string to accumulate the data streaming in?

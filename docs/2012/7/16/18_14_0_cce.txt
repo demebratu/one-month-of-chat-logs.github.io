@@ -1,0 +1,1 @@
+So, the licensing complexity is due primarily to this promise... my need to have it unburdened for any use (including proprietary applications) with open source databases

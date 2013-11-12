@@ -1,0 +1,1 @@
+This post says the same http://stackoverflow.com/questions/9080085/node-js-find-home-directory-in-platform-agnostic-way

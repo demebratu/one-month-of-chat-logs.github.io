@@ -1,0 +1,1 @@
+rektide: have a global flag at the top of your scripts, if it's not set yet then it's first

@@ -1,0 +1,1 @@
+So if you are writing a function that has a takes a random amount of time to complete how do you get the next function to run and then the callback to run when the action completes

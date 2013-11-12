@@ -1,0 +1,1 @@
+timoxley, thanks for the jade suggestion! I didn't realize it inherits. It looks cool, especially since I'm finally developing an appreciation for Haml. 

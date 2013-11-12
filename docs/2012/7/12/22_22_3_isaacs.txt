@@ -1,0 +1,1 @@
+wants a recommendation engine for starred npm packages eventually

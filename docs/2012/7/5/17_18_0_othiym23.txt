@@ -1,0 +1,1 @@
+owen1: and there isn't really a ReadStream class, just Readable and Writable Streams that are more or less abstractions over certain event patterns

@@ -1,0 +1,1 @@
+as ther are only 3 termainals requiested and writing data .. concurrency wouln't be that much big issue... as i google and learned... sqlite allows only 1 write at a time to db

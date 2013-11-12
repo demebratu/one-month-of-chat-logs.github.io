@@ -1,0 +1,1 @@
+Assuming you're on linux a script to generate 20% of the song would be easy to write

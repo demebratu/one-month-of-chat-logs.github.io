@@ -1,0 +1,1 @@
+Deliver CDN-hosted assets that are minified, mangled, optimized, and concatenated with Express CDN @ https://github.com/niftylettuce/express-cdn (there is an article on Hacker News too! look under 'newest')

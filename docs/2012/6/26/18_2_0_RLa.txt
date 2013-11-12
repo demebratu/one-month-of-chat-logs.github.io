@@ -1,0 +1,1 @@
+but i guess that's because it's written in java and gc needs to work too

@@ -1,0 +1,1 @@
+id rather make node core smaller and less smelly than invent frameworks on top of frameworks to solve short term problems

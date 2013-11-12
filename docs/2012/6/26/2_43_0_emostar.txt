@@ -1,0 +1,1 @@
+tjholowaychuk: hmm well it works when i comment out a req.app.emit()

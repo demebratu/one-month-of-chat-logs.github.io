@@ -1,0 +1,1 @@
+moving some things out of connect but I need the res.req req.res references

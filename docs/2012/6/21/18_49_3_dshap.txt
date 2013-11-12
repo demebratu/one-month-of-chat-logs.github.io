@@ -1,0 +1,1 @@
+AAA_awright: so is the callback definition overwritten by each subsequent loop iteration?

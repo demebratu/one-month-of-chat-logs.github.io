@@ -1,0 +1,1 @@
+I thought that it might seem reasonable to call an app like node myapp.js { optional: "some value", required: "better put something here! }

@@ -1,0 +1,1 @@
+Yup. That's what `split` would be. Line buffer.

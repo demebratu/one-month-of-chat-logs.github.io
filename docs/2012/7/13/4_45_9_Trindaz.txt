@@ -1,0 +1,1 @@
+ok doing all the gzip stuff off of disk now based on the server response

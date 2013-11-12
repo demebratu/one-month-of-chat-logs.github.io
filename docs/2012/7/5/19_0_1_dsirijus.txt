@@ -1,0 +1,1 @@
+Bonuspunk: i think both should work, BUT, i think the 'signed_request' i'm receiving is encoded even more so

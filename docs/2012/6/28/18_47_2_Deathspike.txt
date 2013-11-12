@@ -1,0 +1,1 @@
+mattrobenolt: What do you mean? I know it keeps in RAM and writes to disk, but when I write stuff, that stuff is persistent, isn't it?

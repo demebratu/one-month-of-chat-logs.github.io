@@ -1,0 +1,1 @@
+I'm compiling an addon on Windows. The problem is that when I compile it with gyp, node can't load it and I get the following error: http://pastebin.com/5EV9Jrys

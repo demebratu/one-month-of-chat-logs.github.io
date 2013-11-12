@@ -1,0 +1,1 @@
+motiooon_: i would download the file from the cdn using request, and then return it directly to the browser with file-attachment headers so that it's a file

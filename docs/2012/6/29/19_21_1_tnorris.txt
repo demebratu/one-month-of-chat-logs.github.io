@@ -1,0 +1,1 @@
+tbranyen: it does the same thing if I create a function that just returns 1.

@@ -1,0 +1,1 @@
+someone give me some kind of hint what i should be looking for when i want to start process from node w/o parent having any kind of control over it :|? child_process seems to be out of question

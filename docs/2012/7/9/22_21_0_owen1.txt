@@ -1,0 +1,1 @@
+why is assert.strictEqual({}, {}) throwing exception?

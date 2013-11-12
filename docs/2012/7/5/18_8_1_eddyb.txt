@@ -1,0 +1,1 @@
+chjj: it works with this.element instead of document, I thought that's how I've written it in the first place

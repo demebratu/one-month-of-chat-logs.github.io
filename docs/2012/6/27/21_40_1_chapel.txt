@@ -1,0 +1,1 @@
+maxogden: no to window.Foo right there

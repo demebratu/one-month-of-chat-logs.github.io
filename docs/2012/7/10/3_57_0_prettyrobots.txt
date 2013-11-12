@@ -1,0 +1,1 @@
+Okay. How about: Is there an easy way to send output from one process, its output stream, to two separate input streams?

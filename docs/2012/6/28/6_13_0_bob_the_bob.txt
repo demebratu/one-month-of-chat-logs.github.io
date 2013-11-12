@@ -1,0 +1,1 @@
+using cluster, the only message that is ever exchanged between my master and workers is NODE_CLUSTER_/_queryEcho :-/

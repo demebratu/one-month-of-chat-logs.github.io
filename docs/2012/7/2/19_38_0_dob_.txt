@@ -1,0 +1,1 @@
+I get this error with mongoose-auth. And I don't have any idea anymore... http://pastebin.com/tBEfymWG

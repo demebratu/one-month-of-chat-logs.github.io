@@ -1,0 +1,1 @@
+isaacs: symlinks have their own owner, attributes and ACSs

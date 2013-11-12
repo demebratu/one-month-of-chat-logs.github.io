@@ -1,0 +1,1 @@
+I have question about the domains: Why nextTick is required for domain.run(function ... ); to catch thrown errors?

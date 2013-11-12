@@ -1,0 +1,1 @@
+I use child_process to spin up child processes to do CPU bound work, and they work in parallel.

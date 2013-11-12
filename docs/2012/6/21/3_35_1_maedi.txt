@@ -1,0 +1,1 @@
+It's funny how when someone else is moving, my square is the one that jumps. In that case then you could 'block' server updates that target my client, and as you send 'tween' between the server updates for all other objects

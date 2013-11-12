@@ -1,0 +1,1 @@
+circlicious: child_process.spawn() calls the new process directly, the arguments you pass to it are literally what is going to be that process' argv and argc

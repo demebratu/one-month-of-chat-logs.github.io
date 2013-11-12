@@ -1,0 +1,1 @@
+isaacs: http://search.npmjs.org/ has annoying bug where it says no result for every query at first.

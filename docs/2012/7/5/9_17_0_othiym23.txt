@@ -1,0 +1,1 @@
+for a simple file I/O operation like fs.readFile, almost all of the real work being done is in setting up the underlying stream

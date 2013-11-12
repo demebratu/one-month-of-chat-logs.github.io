@@ -1,0 +1,1 @@
+need a bot just for announcing when SubStack publishes a new module to npm :)

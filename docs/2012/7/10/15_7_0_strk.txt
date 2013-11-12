@@ -1,0 +1,1 @@
+so it looks like socket writing (or reading) is getting binary when ascii was expected

@@ -1,0 +1,1 @@
+owen1: libeio is the lib which facilitates node's backend thread pooling in a very efficient async-y sort of way and node's bindings are the built in modules, so to speak, that the end user has access to and can 'require' in their app. the bindings are basically the lowest level libs that node provides for use within the js env

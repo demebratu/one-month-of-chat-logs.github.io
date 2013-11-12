@@ -1,0 +1,1 @@
+functional usually means *don't* use the "new" keyword

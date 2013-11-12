@@ -1,0 +1,1 @@
+hey I run a js usergroup in leeds, uk. We're doing an intro to node next Wednesday: http://leedjs.posterous.com/july-meetup-introduction-to-nodejs

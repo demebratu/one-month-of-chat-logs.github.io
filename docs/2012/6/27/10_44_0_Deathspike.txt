@@ -1,0 +1,1 @@
+Is this an issue? On http://expressjs.com/guide.html at Configuration, methodOverride is loaded BEFORE bodyParser, while at HTTP Methods, it says "should be placed below bodyParser so that it can utilize it’s req.body containing the form values".

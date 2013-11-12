@@ -1,0 +1,1 @@
+spolu: http://nodejs.org/docs/latest/api/all.html#all_server_listen_path_callback << might be relevant

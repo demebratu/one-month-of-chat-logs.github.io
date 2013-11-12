@@ -1,0 +1,1 @@
+I mean you could go in and actually modify the NPM module and alter its node-gyp path I guess... This is a question for @isaacs

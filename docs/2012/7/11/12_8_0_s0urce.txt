@@ -1,0 +1,1 @@
+any1 knows where i get user/pass for root after mongodb installtion via npm?

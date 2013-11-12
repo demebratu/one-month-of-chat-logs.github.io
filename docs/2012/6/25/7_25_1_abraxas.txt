@@ -1,0 +1,1 @@
+I'm using node-csv-parser to parse csv files, row by row. For me to write out data for these rows is an asynchronous process (each row becomes a JSON file on disk). How am I supposed to control this stream? Call pause() on the csv stream while I'm doing the write operation? Or is there a better way?

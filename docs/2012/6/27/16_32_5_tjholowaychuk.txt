@@ -1,0 +1,1 @@
+vrlogrs you can redirect stdio to any file you want

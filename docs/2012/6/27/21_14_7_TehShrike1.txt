@@ -1,0 +1,1 @@
+What version of python do I need for node-gyp?  2.x or 3.x?

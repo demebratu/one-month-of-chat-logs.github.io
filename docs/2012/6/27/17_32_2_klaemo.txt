@@ -1,0 +1,1 @@
+Phoenixz: oh ok, because afaik socket.io doesn't work on 0.8 yet (unless someone commited a fix since yesterday)

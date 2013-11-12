@@ -1,0 +1,1 @@
+Spion: Yes, but how will node-cron be aware of the function i scheduled before it started

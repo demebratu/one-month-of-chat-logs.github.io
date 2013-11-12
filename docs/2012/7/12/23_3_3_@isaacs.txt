@@ -1,0 +1,1 @@
+SubStack: that opens for reading, but creates if it exists.

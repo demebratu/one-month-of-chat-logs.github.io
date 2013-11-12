@@ -1,0 +1,1 @@
+does anyone know a good snipper how i could count how many times a certain function runs in a second?

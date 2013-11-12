@@ -1,0 +1,1 @@
+by virtue of the way it compiles the regex, that might just work

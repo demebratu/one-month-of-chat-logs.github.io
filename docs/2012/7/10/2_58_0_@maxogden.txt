@@ -1,0 +1,1 @@
+only post/put data streams with http

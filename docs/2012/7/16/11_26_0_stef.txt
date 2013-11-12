@@ -1,0 +1,1 @@
+I had to force -march=armv5t to get the v8 build to work

@@ -1,0 +1,1 @@
+Any kind souls familiar with EventEmitters and might be able to help me determine what I might be doing wrong here? http://pastie.org/4152146 I'm seeing the prototype.test being fired but not the .on listener

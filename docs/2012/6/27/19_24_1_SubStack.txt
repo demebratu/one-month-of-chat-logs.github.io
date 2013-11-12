@@ -1,0 +1,1 @@
+isaacs: the problem is that none of these people in the "we need import * and custom syntax" camp seem to understand how exporting more than 1 thing is usually bad

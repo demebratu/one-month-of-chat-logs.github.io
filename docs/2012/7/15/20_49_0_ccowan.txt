@@ -1,0 +1,1 @@
+Go to the same network dialog and change it to bridge instead of nat for the networking

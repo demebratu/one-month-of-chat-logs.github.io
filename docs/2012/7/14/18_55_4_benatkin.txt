@@ -1,0 +1,1 @@
+zenista: yeah...to me pydoc -g isn't any more usable than pydoc -s

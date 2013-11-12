@@ -1,0 +1,1 @@
+Okee: but that's using git. it's not too complicated but yeah prettyrobots is right Homebrew might be a good solution as well

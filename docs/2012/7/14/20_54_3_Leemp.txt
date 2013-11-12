@@ -1,0 +1,1 @@
+Anyone know of Optimist has anything built in to show -h/--help ? Or do you need to define arguments for -h/--help yourself, then check/print them?

@@ -1,0 +1,1 @@
+> (function next (x, fns) { if (!fns.length) return; fns[0](x, function (x_) { next(x_, fns.slice(1)) }) })(11, [ function (x, cb) { cb(x+1) }, function (x, cb) { cb(x*2) }, function (x,cb) { cb(x*10)}, function (x) { console.log(x) } ])

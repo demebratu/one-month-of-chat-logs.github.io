@@ -1,0 +1,1 @@
+it was something jQuery seized upon, but now a lot of people use hasOwnProperty or Object.keys

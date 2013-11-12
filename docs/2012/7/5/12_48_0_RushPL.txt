@@ -1,0 +1,1 @@
+bnoordhuis: I actually I think you might have been wrong .. see http://nodejs.org/api/child_process.html .. they say I can specify an additional communication channel (pipe) during spawn, and according to doc I could do the same for fork() - you think it might work?

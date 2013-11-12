@@ -1,0 +1,1 @@
+Noldorin: but /usr/local/lib seems quite sensible to me

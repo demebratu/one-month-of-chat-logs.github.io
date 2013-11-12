@@ -1,0 +1,1 @@
+I've been rolling around different ways to get people to transition from using the "follow project" button on github to starring things in npm, but I'm wondering if this is something you've already thought about and made any decisions about

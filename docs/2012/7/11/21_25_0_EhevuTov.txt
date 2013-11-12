@@ -1,0 +1,1 @@
+TooTallNate, I wonder if this is still an issue: https://github.com/joyent/node/issues/2681

@@ -1,0 +1,1 @@
+on the other, it's sort of hilarious the way some Go devs act like multiple return is an innovation and achievement on the same level as the invention of peanut butter

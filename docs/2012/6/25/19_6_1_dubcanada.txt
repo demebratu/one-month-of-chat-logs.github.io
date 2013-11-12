@@ -1,0 +1,1 @@
+Relying on some system to monitor every single http request to mp3 and make sure they only stream for X seconds is going to destroy your CPU lol

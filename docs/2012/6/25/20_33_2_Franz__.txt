@@ -1,0 +1,1 @@
+im trying run my script in node.js i use gamejs too

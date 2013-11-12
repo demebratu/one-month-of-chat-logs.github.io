@@ -1,0 +1,1 @@
+socket.io has a client further down in it's directories. It's a tad confusing IIRC

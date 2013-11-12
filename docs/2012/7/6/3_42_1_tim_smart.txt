@@ -1,0 +1,1 @@
+TehShrike: I think windows we don't use threads, iocp supports file system I think.

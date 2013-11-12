@@ -1,0 +1,1 @@
+innociv: true you can't use it if the app is already running. You can do what Aria recommended though and connect to the running instance.

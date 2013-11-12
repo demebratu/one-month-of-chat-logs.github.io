@@ -1,0 +1,1 @@
+the best way to explain closure is that the memory location for the properties of the function that are returned stick around outside of the scope of the function but in a protected manner in which only the returned function can accesss them

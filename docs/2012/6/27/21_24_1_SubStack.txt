@@ -1,0 +1,1 @@
+and "static" modules could just return a "static" object

@@ -1,0 +1,1 @@
+chapel, well, I wanted users to be able to decorate mongoose fields in their model to tweek the mapping

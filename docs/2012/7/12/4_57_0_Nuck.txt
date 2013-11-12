@@ -1,0 +1,1 @@
+ljharb: What happens if a data event splits btween the } and the ;?

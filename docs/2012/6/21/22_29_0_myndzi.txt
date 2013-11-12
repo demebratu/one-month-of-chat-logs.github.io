@@ -1,0 +1,1 @@
+i put a conditional inside the function to check a variable, tried setting a variable in the helper module based on passed parameters, and tried setting a variable on the parent module's global object

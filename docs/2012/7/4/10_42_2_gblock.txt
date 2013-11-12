@@ -1,0 +1,1 @@
+the echo server is another idea of course…though with connect you could right your own middleware that sits in the middle

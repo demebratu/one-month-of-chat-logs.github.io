@@ -1,0 +1,1 @@
+blargh, does anyone know of a module that provides a crc32 algorithm that actually works?

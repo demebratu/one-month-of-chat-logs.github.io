@@ -1,0 +1,1 @@
+anyone know why a dnode server would die with "Error: Unable to load shared library .../node_modules/weak/build/default/weakref.node" ?

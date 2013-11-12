@@ -1,0 +1,1 @@
+lmattos: shouldnt be too complicated. Need to get nodejs installed, and follow normal install/setup

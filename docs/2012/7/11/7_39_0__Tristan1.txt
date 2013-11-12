@@ -1,0 +1,1 @@
+I want to take an existing async function (readline's question) and make it synchronous

@@ -1,0 +1,1 @@
+I can't npm install node-inspector (on node v0.8.0, npm 1.1.32), will I just have to wait until they make it compatible?

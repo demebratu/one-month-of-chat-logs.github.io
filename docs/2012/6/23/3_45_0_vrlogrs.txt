@@ -1,0 +1,1 @@
+ok, what about the cases where im returning false Masyl -- i should be doing callback(false) instead right?

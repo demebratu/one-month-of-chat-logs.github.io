@@ -1,0 +1,1 @@
+But aren't cookies an HTTP think, not a WS thing?

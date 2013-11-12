@@ -1,0 +1,1 @@
+TimeTurner: yeah, but ryan said that nginx can handle more requests and with less memory due to the fact it's not using a thread per reqests. threads are expensive in cpu and memory. so now i understand that even node is using threads. so i am a bit confused.

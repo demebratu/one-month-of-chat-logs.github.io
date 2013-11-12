@@ -1,0 +1,1 @@
+buffer += data works correctly, right?

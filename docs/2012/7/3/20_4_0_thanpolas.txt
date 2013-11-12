@@ -1,0 +1,1 @@
+are there resource monitoring tools? e.g. measure memory consumption of a required file / lib?

@@ -1,0 +1,1 @@
+did basic install on windows - loaded command line 

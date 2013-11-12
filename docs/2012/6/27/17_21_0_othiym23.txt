@@ -1,0 +1,1 @@
+tjholowaychuk: my experience with Strata is that there's a lot less stuff available right out of the box, and the middleware that is there is not as complete as Connect's

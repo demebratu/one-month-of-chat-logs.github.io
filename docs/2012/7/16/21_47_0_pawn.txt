@@ -1,0 +1,1 @@
+spolu: what about memcache? That was onee.

@@ -1,0 +1,1 @@
+How to catch ^C on Windows with 0.8.x

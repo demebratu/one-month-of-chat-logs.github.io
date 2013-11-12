@@ -1,0 +1,1 @@
+never mind, i just found the `stream' option for connect.logger

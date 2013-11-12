@@ -1,0 +1,1 @@
+Debian was familiar with me and Amazon EC2 didn't have a recommended Debian AMI.

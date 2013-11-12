@@ -1,0 +1,1 @@
+edsu: As creationix said, "main" can point to any file, so some poeple will create a `lib` directory and reference a file in there.

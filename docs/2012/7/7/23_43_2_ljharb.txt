@@ -1,0 +1,1 @@
+so the "event loop" describes the process of running code, and then pulling events off of the event stack

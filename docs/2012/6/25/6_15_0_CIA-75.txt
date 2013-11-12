@@ -1,0 +1,1 @@
+node: isaacs v0.8 * re9a68ca / doc/blog/release/node-v0.8.0.md : blog: Add shasums to 0.8.0 blog post - http://git.io/CojdiQ

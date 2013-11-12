@@ -1,0 +1,1 @@
+hey guys im using vagrant with puppet and stumbled across the Puppet Node.Js module, it seems it installs node.js via apt (on ubuntu) i thught it was recommended that you dont install via apt??

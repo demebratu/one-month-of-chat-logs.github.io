@@ -1,0 +1,1 @@
+Anyone familiar with mongoose auth or everyauth?  I'm trying to determine the best way to support multiple login strategies, but treat the user identically regardless of how they logged in.  So I can simply say user.name and it gets me the right information if they logged in with facebook or twitter

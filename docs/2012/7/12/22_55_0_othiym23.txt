@@ -1,0 +1,1 @@
+tjholowaychuk: I don't disagree, but it's more in the details of how they deal with error handling, and the way structural typing works

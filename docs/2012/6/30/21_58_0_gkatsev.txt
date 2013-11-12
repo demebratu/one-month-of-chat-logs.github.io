@@ -1,0 +1,1 @@
+fs.open('file.txt', 'a', function(error, file){}) 

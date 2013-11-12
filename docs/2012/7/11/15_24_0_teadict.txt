@@ -1,0 +1,1 @@
+prettyrobots: Well, I do think so, but not just because Windows... More like because node is not made in a way Windows developers feel comfy with

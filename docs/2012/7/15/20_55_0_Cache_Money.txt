@@ -1,0 +1,1 @@
+can't I use something like this http://progrium.com/localtunnel/ ?  I've used it to view my Rails apps running on Localhost on VM from other devices

@@ -1,0 +1,1 @@
+bwen: just pushed a fix to only swallow test errors, not all errors from `npm test`

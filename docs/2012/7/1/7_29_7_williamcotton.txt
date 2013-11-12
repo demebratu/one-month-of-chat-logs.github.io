@@ -1,0 +1,1 @@
+yeah, redis can handle binary values just fine

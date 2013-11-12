@@ -1,0 +1,1 @@
+i don't really know exactly how much data is coming back from the pipe, so using stdout with exec doesn't exactly work, since once it hits the buffer size, the pipe gets broken

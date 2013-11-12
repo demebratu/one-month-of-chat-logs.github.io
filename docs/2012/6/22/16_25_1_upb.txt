@@ -1,0 +1,1 @@
+i havent checked the source of node but it would make sense for it to use epoll or select or WaitFor* on windows

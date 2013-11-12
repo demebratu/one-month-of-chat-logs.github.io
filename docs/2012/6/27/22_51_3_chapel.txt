@@ -1,0 +1,1 @@
+ultimately I want something reliable, that wont break easily, and that I can pipe/send events to somewhere else easier

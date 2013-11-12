@@ -1,0 +1,1 @@
+hi guys a newbie trying node.js... i want to build an CRUD app... which framework should i use...or which modules, please guide. and i need a simple DB that doesn't require installation... the db which can handel < 50,000 to 100,000 rows 

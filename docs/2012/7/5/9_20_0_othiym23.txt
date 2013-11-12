@@ -1,0 +1,1 @@
+owen1: if you want to get a real feel for how Node is working under the hood, find some code that uses fs.createReadStream and then uses .on() event handlers to deal with the file data

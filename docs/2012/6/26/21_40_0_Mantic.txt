@@ -1,0 +1,1 @@
+bnoordhuis: Ok, so I slapped #!/usr/local/bin/python2.7 at the head of configure (taking out the env one) and now it chokes somewhere in the config process as it's loading source files: "./tools/gyp/pylib/gyp/common.py" line 373: "with open(source_path) as source_file:"

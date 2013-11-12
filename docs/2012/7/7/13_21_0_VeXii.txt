@@ -1,0 +1,1 @@
+thats why i tryed changing the $PATH of PYTHON to version 2

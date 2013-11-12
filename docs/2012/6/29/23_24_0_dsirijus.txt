@@ -1,0 +1,1 @@
+what rights to give to my user to run node servers?

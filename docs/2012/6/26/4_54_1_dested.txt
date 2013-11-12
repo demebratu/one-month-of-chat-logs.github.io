@@ -1,0 +1,1 @@
+i installed cloud9 with my node isntall at http://apptob.org/, anyone have any idea where that bastard installs to or how to run it?

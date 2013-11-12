@@ -1,0 +1,1 @@
+paste it into you r browser's address bar with this tacked onto the front: data:image/jpg;base64,

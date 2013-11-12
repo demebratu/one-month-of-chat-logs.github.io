@@ -1,0 +1,1 @@
+Killswitch: the path is all that matters, just ./configure; make; make install and if its not showing the right version, delete the binary in which and it'll fall back to the new one

@@ -1,0 +1,1 @@
+or mayb you dont have slimrb ? gem install 'slim' ?

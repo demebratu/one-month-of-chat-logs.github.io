@@ -1,0 +1,1 @@
+Is it possible with async to use series (or something similar) to split the iterator function out of a reduce call, ala Step's group function?

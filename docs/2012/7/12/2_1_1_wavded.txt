@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/4641053/socket-io-and-session

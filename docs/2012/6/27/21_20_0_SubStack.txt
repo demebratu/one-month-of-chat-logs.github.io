@@ -1,0 +1,1 @@
+dherman: and that export this(obj) stuff looks like total kludge

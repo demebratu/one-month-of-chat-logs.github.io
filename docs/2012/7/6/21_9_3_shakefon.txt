@@ -1,0 +1,1 @@
+Afternoon all, does anyone have any strong opinions on which promises implementation (i.e. a module) is best to make use of? Or is the promises approach no longer considered a good approach?

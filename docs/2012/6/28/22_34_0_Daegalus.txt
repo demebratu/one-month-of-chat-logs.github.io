@@ -1,0 +1,1 @@
+AAA_awright: XML was intended to be used as a seialization/data transfer format, then people went full retard and started using it for more than it was meant to be used for

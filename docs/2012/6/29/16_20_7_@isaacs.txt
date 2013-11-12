@@ -1,0 +1,1 @@
+i'd accept a patch to make it optional

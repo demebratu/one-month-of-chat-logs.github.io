@@ -1,0 +1,1 @@
+As a better convention, instead of "this.jquery_object"  you could call it this.$root  (root because its the root element  and "$" because it's a query object)

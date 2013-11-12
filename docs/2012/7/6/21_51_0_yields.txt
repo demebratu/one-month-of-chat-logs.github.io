@@ -1,0 +1,1 @@
+mexpolk, why would you want to do that ? node does this for you, your module is actually a callback.

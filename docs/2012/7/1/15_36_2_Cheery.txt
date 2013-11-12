@@ -1,0 +1,1 @@
+Selection is a combination of buffer, path and range

@@ -1,0 +1,1 @@
+dsirijus, mine is set in my ~/.profile

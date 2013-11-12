@@ -1,0 +1,1 @@
+dns works good, dns.resolve works good

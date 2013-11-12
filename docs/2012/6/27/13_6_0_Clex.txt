@@ -1,0 +1,1 @@
+Even if I manually put socket.io.js in /static/js/ every request to /socket.io/ keep 404.

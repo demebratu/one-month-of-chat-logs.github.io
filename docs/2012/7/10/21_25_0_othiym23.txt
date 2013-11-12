@@ -1,0 +1,1 @@
+VeXii: you totally can (just read the source for lib/module.js), but why would you want to do that?

@@ -1,0 +1,1 @@
+what does that mean? "I/O through DOM event callbacks."

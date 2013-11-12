@@ -1,0 +1,1 @@
+Well, i can get rid of the whole thing once safari updates its WebSocket implementation

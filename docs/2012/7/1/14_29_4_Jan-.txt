@@ -1,0 +1,1 @@
+Because that's, like, basic to Javascript, that's fundamental, that's how you actually build Javascript applications, isn't it?

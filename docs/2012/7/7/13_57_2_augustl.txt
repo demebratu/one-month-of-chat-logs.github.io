@@ -1,0 +1,1 @@
+wubino: in my experience, at least on OS X, not being consistent with sudo is a very bad idea. Last checkd this 3-4 months ago though.

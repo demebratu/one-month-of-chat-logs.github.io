@@ -1,0 +1,1 @@
+but if you're worried about memory management then it doesn't make a difference since npm can tell that express 3.x in one node_modules folder == express 3.x in another node_modules folder if the apps are truly connected

@@ -1,0 +1,1 @@
+ljharb: I'll remember that. But to be more precise, I wanted to test that a certain mongoose validation method was defined for a model, 'required' for example. I'm currently testing it by trying to add an object without that field into the database and expecting an error. Or should I be introspecting the model's schema looking for the validation method?

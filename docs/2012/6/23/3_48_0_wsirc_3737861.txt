@@ -1,0 +1,1 @@
+hey does anyone know a clean way to exclude properties from a mongoose document toJSON?

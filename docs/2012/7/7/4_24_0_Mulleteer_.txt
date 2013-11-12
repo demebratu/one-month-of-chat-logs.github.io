@@ -1,0 +1,1 @@
+Hi, I updated to node v0.8.1 and now express POST requests are failing with error "Object mydomain.com has no method 'exit'". It seems because EventEmitter assumes there is domain error handler

@@ -1,0 +1,1 @@
+I have used redis a lot in production since then, and I want to have models use prototypical inheritence etc.

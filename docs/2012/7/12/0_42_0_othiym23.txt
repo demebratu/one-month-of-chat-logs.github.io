@@ -1,0 +1,1 @@
+num1: you can probably make it do what you want, but if what you want is an in-process headless browser in Node, Zombie is closer to what you want

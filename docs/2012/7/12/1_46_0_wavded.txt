@@ -1,0 +1,1 @@
+pawn: essentially you have to duplicate the session data if you want to bring it in

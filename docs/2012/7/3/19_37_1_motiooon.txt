@@ -1,0 +1,1 @@
+if I have 1000 images on my server and I want to tag them how would I do that with node?

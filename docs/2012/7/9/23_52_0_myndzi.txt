@@ -1,0 +1,1 @@
+yay. manually upgrade it and it appears the bug is fixed

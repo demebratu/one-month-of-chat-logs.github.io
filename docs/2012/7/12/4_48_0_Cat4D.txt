@@ -1,0 +1,1 @@
+so the structures could be indexed and packed flat, but then recompose without having to copy

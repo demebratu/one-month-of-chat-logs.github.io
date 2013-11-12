@@ -1,0 +1,1 @@
+so just emit an event from the client asking for permission to join

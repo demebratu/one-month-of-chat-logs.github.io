@@ -1,0 +1,1 @@
+RLa, how to run node app.js to get console logs out?

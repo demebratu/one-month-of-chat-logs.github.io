@@ -1,0 +1,1 @@
+just do d.on('remote', fn) on the "server" code

@@ -1,0 +1,1 @@
+well when the request is no longer going to be used, remove it from the array, and limit maximum number of stored requests to prevent an accidental DDOS

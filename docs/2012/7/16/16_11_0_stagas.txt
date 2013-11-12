@@ -1,0 +1,1 @@
+LowValueTarget: also http://eirikb.github.com/nipster/

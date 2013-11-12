@@ -1,0 +1,1 @@
+staar2: for an alternative path, you can check out docco: http://jashkenas.github.com/docco/

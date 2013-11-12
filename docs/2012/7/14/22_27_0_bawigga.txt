@@ -1,0 +1,1 @@
+wtf... now it's working in all shells

@@ -1,0 +1,1 @@
+So you cannot roll your own async functions without using an interface like process

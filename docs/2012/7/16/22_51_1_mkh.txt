@@ -1,0 +1,1 @@
+I suppose I should invest some time in using a non-ab loadtest solution for the mac.  will do, thanks.

@@ -1,0 +1,1 @@
+how does the client know the server has written all the data?

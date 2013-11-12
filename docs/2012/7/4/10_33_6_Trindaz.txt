@@ -1,0 +1,1 @@
+i gave up on the request module that's so common. I forget exactly why but had some problems with it a few weeks back

@@ -1,0 +1,1 @@
+navaru, using B, you get better stack traces. you can also use: Model.prototype.action = function action() {...}

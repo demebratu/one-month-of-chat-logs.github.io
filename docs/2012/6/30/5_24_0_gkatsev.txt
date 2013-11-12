@@ -1,0 +1,1 @@
+timetunr: dont worry about it. just use whatever feels best for whatever you're doing at the moment. Then when you are done with your app, if it is slow and has problems, profile it and then optimize. There's no point in always using the simple reverse while loop

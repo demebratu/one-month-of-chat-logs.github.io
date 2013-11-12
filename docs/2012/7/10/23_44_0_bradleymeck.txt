@@ -1,0 +1,1 @@
+https://github.com/isaacs/npm/blame/master/lib/utils/lifecycle.js#L44

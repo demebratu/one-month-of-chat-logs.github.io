@@ -1,0 +1,1 @@
+if you install it and tell it to "use 0.6.0" for example is that just for the current shell?

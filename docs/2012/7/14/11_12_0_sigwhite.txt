@@ -1,0 +1,1 @@
+Is there an idiomatic way to "loop" a function call with a callback? I want to call someFunction('foo', callbackFunction) once and then every time callbackFunction is called. I could call it from the callbackFunction, but that seems redundant.

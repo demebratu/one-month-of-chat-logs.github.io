@@ -1,0 +1,1 @@
+Nexxy: yeah, so, the the thing is that they skip over !(this.hasOwnProperty(n))

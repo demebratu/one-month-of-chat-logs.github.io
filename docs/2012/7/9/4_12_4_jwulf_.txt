@@ -1,0 +1,1 @@
+vs 1000 queries with connection creation

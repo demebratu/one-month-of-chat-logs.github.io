@@ -1,0 +1,1 @@
+ok.  I installed Github, but it isn't showing up in the library, or the applications folder. Where is it?

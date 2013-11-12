@@ -1,0 +1,1 @@
+If I'm keeping a user object in memory for the duration of a user's connection is it cleaner to store a copy of socket and database client in the object or pass them as parameters to the functions that need them?

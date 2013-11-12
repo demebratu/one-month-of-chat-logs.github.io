@@ -1,0 +1,1 @@
+tjholowaychuk: it should def be similar to connect-style middleware

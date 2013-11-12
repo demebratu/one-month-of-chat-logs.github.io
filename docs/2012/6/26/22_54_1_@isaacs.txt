@@ -1,0 +1,1 @@
+mattrobenolt: but, what if we know the results of the realpath, and call fn() right away?

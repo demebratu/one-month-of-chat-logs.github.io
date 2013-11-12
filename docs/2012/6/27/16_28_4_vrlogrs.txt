@@ -1,0 +1,1 @@
+i have 2 scripts i want to run in the same folder, wont they override each other

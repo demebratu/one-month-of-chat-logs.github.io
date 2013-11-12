@@ -1,0 +1,1 @@
+When your friend npm installs your application, npm will install the dependencies

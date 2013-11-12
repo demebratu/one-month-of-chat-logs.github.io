@@ -1,0 +1,1 @@
+s5fs: webfaction is not quite a shared host... something between a vps and a shared... they give you full ssh.  I was able to compile tar for example, a few mins ago

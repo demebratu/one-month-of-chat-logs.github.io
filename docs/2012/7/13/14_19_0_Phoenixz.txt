@@ -1,0 +1,1 @@
+I get an XHR file upload, I get lots of chuncks of files.. Right now I write each to disk as they arrive, but that gives me one horrible node crash.. so to a) make it a bit more efficient, I suppose, and b) hoping to avoid this node crash, I'd like to store data first in a buffer, then write it to disk in one write..

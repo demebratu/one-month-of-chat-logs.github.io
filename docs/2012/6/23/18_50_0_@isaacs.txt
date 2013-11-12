@@ -1,0 +1,1 @@
+i think ubuntu has gcore.  so you can use that to take a core dump, and then look at the stack.

@@ -1,0 +1,1 @@
+ccowan: you are almost certainly thinking about performance on the wrong level

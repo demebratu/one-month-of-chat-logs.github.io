@@ -1,0 +1,1 @@
+anyone know if later versions of npm have changed how the .bin symlinks are created (specifically that they are now absolute rather than relative paths)

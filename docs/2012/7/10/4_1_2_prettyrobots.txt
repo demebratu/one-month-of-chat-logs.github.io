@@ -1,0 +1,1 @@
+tim_smart: Yes. Actually, I want to do `tee` exactly. Pipe to another process while at the same time writing output to file.

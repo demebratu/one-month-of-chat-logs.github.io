@@ -1,0 +1,1 @@
+excited to play with 0.8, but pushing to heroku fails with:  !     Heroku push rejected, failed to compile Node.js app. i just set "engines": {     "node": "0.8.x"   } in my package.json  any ideas?

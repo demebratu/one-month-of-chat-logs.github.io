@@ -1,0 +1,1 @@
+tbranyen: i can get it down to ~100ms if i drop the toDataURL quality to 0.1 https://developer.mozilla.org/en/DOM/HTMLCanvasElement

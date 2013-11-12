@@ -1,0 +1,1 @@
+i think you can get cheap certs for subdomains too (does not have to be wildcard cert)

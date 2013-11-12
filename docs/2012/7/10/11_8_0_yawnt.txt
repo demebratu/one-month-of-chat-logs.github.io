@@ -1,0 +1,1 @@
+fuck i should be starting to bootstrap this oauth shit but the implementation i thought of lacks of flexibility

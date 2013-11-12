@@ -1,0 +1,1 @@
+JSON is for serialization. Where you need to encode and collapse an object into a string.

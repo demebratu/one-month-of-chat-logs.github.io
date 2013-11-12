@@ -1,0 +1,1 @@
+tbranyen: where module authors decide what the export namespace is and extend globals on load

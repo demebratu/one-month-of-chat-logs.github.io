@@ -1,0 +1,1 @@
+dherman: maybe you could keep the export stuff as-is but drop export this() and add a special case for `export value`

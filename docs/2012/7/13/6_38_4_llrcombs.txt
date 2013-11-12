@@ -1,0 +1,1 @@
+Trindaz: stop trying to set encodings!

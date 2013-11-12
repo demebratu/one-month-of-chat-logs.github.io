@@ -1,0 +1,1 @@
+SubStack: so I went with something like this http://jsfiddle.net/Eu574/4/

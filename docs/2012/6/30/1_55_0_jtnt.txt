@@ -1,0 +1,1 @@
+anyone added authentication to a local cloud9 install?

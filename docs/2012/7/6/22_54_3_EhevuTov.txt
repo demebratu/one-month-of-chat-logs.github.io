@@ -1,0 +1,1 @@
+Hotroot, have you seen this: http://nodejs.org/api/net.html#net_socket_buffersize

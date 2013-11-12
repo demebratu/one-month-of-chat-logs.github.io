@@ -1,0 +1,1 @@
+ljharb, I hear XML has a fond place in .NET MVC devs hearts

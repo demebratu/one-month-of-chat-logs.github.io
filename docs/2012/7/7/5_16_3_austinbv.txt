@@ -1,0 +1,1 @@
+https://github.com/jberkel/interactive_editor/blob/master/lib/interactive_editor.rb

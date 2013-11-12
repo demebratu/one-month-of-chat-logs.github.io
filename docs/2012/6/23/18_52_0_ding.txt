@@ -1,0 +1,1 @@
+Anyone use cluster? Trying to remove/cancel a 'death' handler that starts replacement workers. I've tried redefining the function but it doesn't seem to replace the previous one.

@@ -1,0 +1,1 @@
+and after that, these empty socket.io.js files are in browser cache, when requested again, the host gives 304, not changed, so they stay there.. and socket.iio on the clients is  effectively broken..

@@ -1,0 +1,1 @@
+boutell: the idea is to have allow 2 use-cases: 1) the administrator deploys one module on one public computer, and another module on a private computer, for security purposes. 2) a user installs both modules on the same computer (maybe a local VM)

@@ -1,0 +1,1 @@
+he's doen a lot of low level audio stuff in js… could probably help point you in the right direction

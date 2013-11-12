@@ -1,0 +1,1 @@
+Run it in a VM?  Or, demo.htsql.org has a nice query builder so you could play with it

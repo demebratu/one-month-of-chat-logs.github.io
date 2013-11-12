@@ -1,0 +1,1 @@
+it just hangs at ln -fs until I kill it

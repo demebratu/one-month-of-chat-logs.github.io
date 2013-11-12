@@ -1,0 +1,1 @@
+DTrejo, https://github.com/DTrejo/node-authors/blob/master/authors.js#L75 does that work w/ the .map on another line? I thought ASI screwed with stuff like that

@@ -1,0 +1,1 @@
+i actualy don't see ReadStream here http://nodejs.org/api/stream.html#stream_stream

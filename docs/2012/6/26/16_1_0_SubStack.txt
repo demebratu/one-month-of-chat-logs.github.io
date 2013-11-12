@@ -1,0 +1,1 @@
+I think in this case I'll get past this sticking point by rolling this into its own module

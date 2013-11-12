@@ -1,0 +1,1 @@
+socket.io gives you an event emitter api

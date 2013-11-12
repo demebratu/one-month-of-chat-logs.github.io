@@ -1,0 +1,1 @@
+and you run config with ./configure? no extra args?

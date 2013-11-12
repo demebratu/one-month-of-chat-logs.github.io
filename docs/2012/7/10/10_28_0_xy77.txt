@@ -1,0 +1,1 @@
+Can someone help me to get started with node.js and mongodb? I tried the following, but it doesn't work: http://pastie.org/4230883 db server runs and command line client works fine.

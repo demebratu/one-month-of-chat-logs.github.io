@@ -1,0 +1,1 @@
+and, how to install "npm" after upgrading node ? [ Error: npm doesn't work with node v0.8.0 - Required: node@0.4 || 0.5 || 0.6 ]

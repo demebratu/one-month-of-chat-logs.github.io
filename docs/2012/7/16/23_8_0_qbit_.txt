@@ -1,0 +1,1 @@
+oh god.. does npm not work with self signed certs?  npm ERR! Error: SSL Error: SELF_SIGNED_CERT_IN_CHAIN 

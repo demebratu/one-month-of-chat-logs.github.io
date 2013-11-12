@@ -1,0 +1,1 @@
+in fact, streams are quite general. You can work with streaming data in most any language, the apis will just be different is all

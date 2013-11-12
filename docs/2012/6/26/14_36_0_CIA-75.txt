@@ -1,0 +1,1 @@
+node: Ben Noordhuis v0.8 * r06c82c5 / configure : build: expand ~ in `./configure --prefix=~/a/b/c` - http://git.io/IHtHCQ

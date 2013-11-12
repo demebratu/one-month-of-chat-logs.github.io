@@ -1,0 +1,1 @@
+othiym23: does it? this is (theoretically) in a library. If the code using my library adds a SIGINT handler that doesn't call process.exit, won't it magically still exit if they include my library?

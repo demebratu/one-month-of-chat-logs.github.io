@@ -1,0 +1,1 @@
+getting `xhr-polling closed due to exceeded duration` constantly on the native browser in android with socket.io, inspection of traffic with wireshark shows keep connection alive for the header, android v: 2.3.7

@@ -1,0 +1,1 @@
+How many threads will node contain if running code that reads a few files in parallel?

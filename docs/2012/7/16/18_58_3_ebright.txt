@@ -1,0 +1,1 @@
+JSHint seems to be ignoring my .jshintrc file - I've put one in the root of my project folder and in Sublime's JSHint package folder. What am I missing?

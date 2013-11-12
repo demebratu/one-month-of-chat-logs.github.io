@@ -1,0 +1,1 @@
+Should I commit node_modules (i.e installed dependencies) to the repository, or juts tell him what to install?

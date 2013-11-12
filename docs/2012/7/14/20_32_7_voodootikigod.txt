@@ -1,0 +1,1 @@
+i know I saw an article about providing pre-compiled binaries as part of an npm release

@@ -1,0 +1,1 @@
+Well, we'd love to have other implementations.  I don't know if the business goal is realistic.

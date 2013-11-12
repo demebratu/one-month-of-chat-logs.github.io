@@ -1,0 +1,1 @@
+Nexxy: the process starts, but it wont do anything until node process has closed :|

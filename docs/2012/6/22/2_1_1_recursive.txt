@@ -1,0 +1,1 @@
+my firefox has flipped out, im on freebsd, any idea if it has a signal i can send it to get available windows/uriS?

@@ -1,0 +1,1 @@
+libuv: Ben Noordhuis master * rf70b62a / (include/uv.h src/unix/core.c): unix: clarify that uv_getaddrinfo_t is a req - http://git.io/JfiA_Q

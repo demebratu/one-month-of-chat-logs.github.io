@@ -1,0 +1,1 @@
+jwulf_: connection pooling will not make things much faster (unless it's done it an unsafe and stupid way)

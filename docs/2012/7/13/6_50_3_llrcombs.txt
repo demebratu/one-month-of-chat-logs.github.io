@@ -1,0 +1,1 @@
+concatenating 2 base64 strings and then de-base64ing it will not give you the original 2 strings concatenated

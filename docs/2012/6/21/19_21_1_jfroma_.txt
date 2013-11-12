@@ -1,0 +1,1 @@
+denysoique it will be like request({url: .... + encodeURIComponents({stuff...})

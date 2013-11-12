@@ -1,0 +1,1 @@
+I think I'll just roll my own - just found out how to obtain the time with milisecond precision (Date.now())

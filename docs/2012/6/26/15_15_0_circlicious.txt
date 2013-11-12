@@ -1,0 +1,1 @@
+creationix: 1port per app is something i might fo a bit later. but right now i wanna try and quick setup 1 port for each with the filesystem way i mentioned (like i can do with my apache+php)

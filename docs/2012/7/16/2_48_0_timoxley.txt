@@ -1,0 +1,1 @@
+cgiffard the whole expect() chain is evaluated before the value passed to expect (a function block) is actually run

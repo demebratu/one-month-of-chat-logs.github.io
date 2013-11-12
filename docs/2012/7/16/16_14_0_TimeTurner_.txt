@@ -1,0 +1,1 @@
+Are there any workers I can have in node? I'm aware of process forking but not any sort of parallel workers

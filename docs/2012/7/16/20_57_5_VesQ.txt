@@ -1,0 +1,1 @@
+a Java applet that runs JS would be the smartest move ever

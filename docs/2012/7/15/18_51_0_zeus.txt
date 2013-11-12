@@ -1,0 +1,1 @@
+If I wanted to turn my node script into a file that I can place in my /usr/bin and call it just by its name, how would I go about doing that?

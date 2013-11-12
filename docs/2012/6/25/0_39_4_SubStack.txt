@@ -1,0 +1,1 @@
+the OS is way better at scheduling processes than the RTS is at doing threads

@@ -1,0 +1,1 @@
+ok, somewhat finished my thoughts on why cyclic dependencies have to go. https://gist.github.com/445adc206d51a038de4a

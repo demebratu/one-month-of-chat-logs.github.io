@@ -1,0 +1,1 @@
+data event still gets fired right before exit event

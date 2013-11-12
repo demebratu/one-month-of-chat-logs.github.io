@@ -1,0 +1,1 @@
+The update-project.sh file is what I run when I want it to pull from git and restart

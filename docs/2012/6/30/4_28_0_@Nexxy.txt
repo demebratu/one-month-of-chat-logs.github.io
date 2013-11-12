@@ -1,0 +1,1 @@
+nykac_, in general spawn 1 instance per core

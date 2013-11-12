@@ -1,0 +1,1 @@
+piscisaureus_: think we should move lchmod into libuv in general?  right now, we do fs.open(x, O_SYMLINK) and then fchmod

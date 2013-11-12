@@ -1,0 +1,1 @@
+ACCA: are you sure it's not (function(args){...})(this); ?

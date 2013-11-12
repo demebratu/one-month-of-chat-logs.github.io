@@ -1,0 +1,1 @@
+if you want simple marshaling and unmarshaling, JSON + JS is a rad combo

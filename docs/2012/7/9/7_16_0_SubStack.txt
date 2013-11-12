@@ -1,0 +1,1 @@
+owen1: just write your client side js the node way

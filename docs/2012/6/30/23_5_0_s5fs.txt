@@ -1,0 +1,1 @@
+niteshade: i don't know anything about your hosting provider, but they look like a shared host. often times you don't get full build environments, have you successfully compiled node there before?

@@ -1,0 +1,1 @@
+and new shells don't reload this variable when they startup?

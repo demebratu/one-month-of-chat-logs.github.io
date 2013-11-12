@@ -1,0 +1,1 @@
+Hey there, any node wizzards here who could help with this one? I have a node system that uses express, socket.io, DNode, and the internal node cluster mechanism amongst things, and about 1-2 times a day for no real obvious reason, the worker process shoots to 100% and becomes unresponsive untile I forcibly kill and restart it..

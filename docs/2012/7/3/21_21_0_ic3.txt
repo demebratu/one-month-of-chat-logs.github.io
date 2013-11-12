@@ -1,0 +1,1 @@
+there is no way to make a callback to another function that checks or something?

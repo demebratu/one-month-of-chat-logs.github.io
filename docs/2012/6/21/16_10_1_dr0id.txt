@@ -1,0 +1,1 @@
+I am using child_process.spawn but and something is not working as expected but no idea how to debug properly. no error msg, nothing :/

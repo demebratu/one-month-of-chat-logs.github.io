@@ -1,0 +1,1 @@
+We are starting to cache a bunch of it in Redis to help simplify and speed things up per request.

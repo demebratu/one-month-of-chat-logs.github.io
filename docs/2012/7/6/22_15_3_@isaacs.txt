@@ -1,0 +1,1 @@
+but really, the most important thing is to validate data on the way in, before passing to back-end APIs.  and that's not new.  same with rails, php, java, whatever.

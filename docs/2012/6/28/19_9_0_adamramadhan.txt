@@ -1,0 +1,1 @@
+is it good enough to use events? i mean is there another better way then using events? or thoughts?

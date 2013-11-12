@@ -1,0 +1,1 @@
+I'm not sure if this is even the best approach, but I'm trying to do some selenium tests, so I'm using soda within Mocha - however, since .end() processes the error in a callback, the test appears to pass before crashing Mocha altogether

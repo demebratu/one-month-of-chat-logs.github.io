@@ -1,0 +1,1 @@
+pawn: Meanwhile, with dnode you can do something like, remote.something(args, function (err, res) { /* Oh hey, remote procedure call */ });

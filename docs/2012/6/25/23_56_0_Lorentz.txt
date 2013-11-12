@@ -1,0 +1,1 @@
+I'm on 2.6.6 and I don't get syntax errors doing ./configure

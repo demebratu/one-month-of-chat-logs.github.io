@@ -1,0 +1,1 @@
+edsu: I'm using index.js a lot because my project size about that size.

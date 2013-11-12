@@ -1,0 +1,1 @@
+tjholowaychuk: you can use domain.intercept() to move it all to one place.

@@ -1,0 +1,1 @@
+maxogden: ok i guess more fundamentally then - is there any reason i *Need* to use streams to download an image?

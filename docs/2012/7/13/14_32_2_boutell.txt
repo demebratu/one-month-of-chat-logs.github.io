@@ -1,0 +1,1 @@
+if you are just trying to organize your code and you are positive you're going to keep things on consistent versions of the code, it's fine to share modules.

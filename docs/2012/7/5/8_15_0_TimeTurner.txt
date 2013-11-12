@@ -1,0 +1,1 @@
+owne1: yes, exactly. node exposes its bindings api in such a manner that you don't need to or should care about how node handles the async stuff. the take away point is that it is the most async as can be and still handle multiple requests without blocking on them

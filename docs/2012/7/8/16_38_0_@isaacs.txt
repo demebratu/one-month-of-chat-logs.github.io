@@ -1,0 +1,1 @@
+TrahDivad_: The value it adds is not worth the cost it adds.  I recommend just using JavaScript.  You may need to write a few thousand lines of each in production to fully  understand that, though.

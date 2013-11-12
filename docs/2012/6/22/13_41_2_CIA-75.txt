@@ -1,0 +1,1 @@
+node: Bert Belder master * r399731e / tools/msvs/msi/product.wxs : windows msi: add npm dir to user PATH only - http://git.io/xIJfWw

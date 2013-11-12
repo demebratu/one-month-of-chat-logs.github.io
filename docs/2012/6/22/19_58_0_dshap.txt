@@ -1,0 +1,1 @@
+RLa: the reason i'm confused is because i'm trying to check the headers with the .getHeader() method but node is telling me that getHeader() isn't a method

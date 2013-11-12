@@ -1,0 +1,1 @@
+if npm doesn't see a node_modules folder in the current directory it'll look upstairs and install there, etc.

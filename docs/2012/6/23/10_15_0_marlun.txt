@@ -1,0 +1,1 @@
+SubStack: It's still very nice and simple when you know how to do it. :) Will take a look at the browserify code later to learn some.

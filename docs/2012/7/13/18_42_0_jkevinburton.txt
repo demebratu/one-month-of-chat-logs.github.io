@@ -1,0 +1,1 @@
+Jade Users:::::  I have a config file, and one of my variables is in HTML.. ex: config.site.site_name_pretty	= "<strong><em>be</em></strong>strong<strong>buddy</strong>"; and in my template I have p Welcome to #{config.site_name_pretty} but it spits the html on the page (in it's literal sense) instead of formatting... something special I need to do?

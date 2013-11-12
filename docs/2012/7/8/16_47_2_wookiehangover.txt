@@ -1,0 +1,1 @@
+kilian_: fwiw valid es5 (that works in node) can break the fuck out of old ie

@@ -1,0 +1,1 @@
+I'm wondering whether there are any security issues or edge cases where the code breaks

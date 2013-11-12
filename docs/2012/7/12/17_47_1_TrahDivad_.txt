@@ -1,0 +1,1 @@
+Currently, metadata.count's query is not executed

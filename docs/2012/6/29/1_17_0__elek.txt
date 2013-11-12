@@ -1,0 +1,1 @@
+i'm sure this is really basic, i'm just not much of a js pro.. and cant figure out how to pass objects around like this

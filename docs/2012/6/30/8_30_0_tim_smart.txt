@@ -1,0 +1,1 @@
+Ah I see, then just take a look around http://nodejs.org/api/net.html#net_socket_remoteaddress

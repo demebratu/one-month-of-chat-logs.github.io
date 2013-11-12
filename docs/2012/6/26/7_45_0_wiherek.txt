@@ -1,0 +1,1 @@
+how can I pass a variable between three functions running in series?

@@ -1,0 +1,1 @@
+prettyrobots: will do. i recently gave an intro talk about node and someone asked me "when will the server stop accepting requests?" and i mentioned the memory limitation of v8 (1.7 MB) but didn't think about cpu or fd.

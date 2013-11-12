@@ -1,0 +1,1 @@
+What is considered a typical ratio of total memory RSS to HeapTotal? I'm seeing the whole process clock in at 400MB vs a v8 Heap size of just 50MB? It seems stable around there after running for about 12 hours

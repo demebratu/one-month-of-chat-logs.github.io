@@ -1,0 +1,1 @@
+which is fine except Stream.prototype.pipe expects there to be a .destroy method

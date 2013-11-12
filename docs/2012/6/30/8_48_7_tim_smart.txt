@@ -1,0 +1,1 @@
+So you should make sure you show a git diff for the last 5 minutes or something

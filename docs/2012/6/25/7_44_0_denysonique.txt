@@ -1,0 +1,1 @@
+TonkaTruck: sendmail on my current os (emacs) doesn't seem to work

@@ -1,0 +1,1 @@
+do npm obeys git contents to select the files to publish?

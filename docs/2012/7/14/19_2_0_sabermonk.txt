@@ -1,0 +1,1 @@
+hi, how many clients connecctions can be created when using node_redis to talk to different redis servers?

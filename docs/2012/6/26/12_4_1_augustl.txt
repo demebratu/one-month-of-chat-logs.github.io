@@ -1,0 +1,1 @@
+isaacs: would be nice if you could take a look at http://travis-ci.org/#!/cujojs/when/builds/1683898 and tell us what exactly is going wrong :) When.js 1.3.0 has a devDependency for "buster", which in turn depends on When.js 1.3.0, or something like that.

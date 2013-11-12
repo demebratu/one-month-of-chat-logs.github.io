@@ -1,0 +1,1 @@
+oh, so npm install something installs where you are, and npm install something -g installs globally

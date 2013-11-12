@@ -1,0 +1,1 @@
+livinded: im coding in rails and see there is juggernaut wich supports node.js + websockets i assume that would give me the same possibility's right?

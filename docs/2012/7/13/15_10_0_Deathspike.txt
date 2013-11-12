@@ -1,0 +1,1 @@
+They talked about SignalR as well in that presentation. I must say that it looked quite impressive, but they didn't talk about async database access for example, so I suspect that will be quite a bottleneck for that stack for a while. But serving files and simpler I/O (incl. scraping), I think it *might* get on-par. Was wondering about that.. :D

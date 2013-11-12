@@ -1,0 +1,1 @@
+but the idea is that in reality that thirty seconds is random because it's based on external factors like networks and disk IO

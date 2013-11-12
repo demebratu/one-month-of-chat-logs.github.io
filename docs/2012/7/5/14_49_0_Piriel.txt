@@ -1,0 +1,1 @@
+I need a help please: I have installed python 2.7.1 and node.js. When i give command console.log ('hello'); and I received ---- > hello undefined

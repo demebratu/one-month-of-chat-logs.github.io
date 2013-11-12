@@ -1,0 +1,1 @@
+but what i need to do here it if a lock is encountered, that instance should wait for the lock to be free and the proceed

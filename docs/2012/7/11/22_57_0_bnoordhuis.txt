@@ -1,0 +1,1 @@
+Phoenixz: if it still happens, compile a debug build (make BUILDTYPE=Debug), run it from gdb (gdb --args out/Debug/node app.js) and when it crashes, inspect the output of `bt full`

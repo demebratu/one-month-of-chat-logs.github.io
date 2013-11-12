@@ -1,0 +1,1 @@
+cluster seems to be more robust than child_process; is there any reason not to use it even if you're not sharing a listening port?

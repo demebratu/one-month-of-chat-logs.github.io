@@ -1,0 +1,1 @@
+Holy smoke. Just found a way to benchmark database hardcore. Create Twitter stream listener for top 10 hashtags. Tada. This makes me thing what's the total amount of data recorded/read from database.

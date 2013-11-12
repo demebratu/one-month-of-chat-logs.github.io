@@ -1,0 +1,1 @@
+It just freezes once I try to assign it to a variabele

@@ -1,0 +1,1 @@
+hichaelmart: yes, that's the approach i'd take. the idea behind streams is that they're composable

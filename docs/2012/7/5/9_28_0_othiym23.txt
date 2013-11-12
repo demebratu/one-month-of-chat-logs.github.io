@@ -1,0 +1,1 @@
+anytime an operation does I/O in Node, it should be creating a handler / callback that goes on the event queue

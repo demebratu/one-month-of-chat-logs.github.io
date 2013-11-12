@@ -1,0 +1,1 @@
+EhevuTov, any way to get that variable global instead of pushing it to .bashrc?

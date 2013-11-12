@@ -1,0 +1,1 @@
+from a hypermedia perspective, documents are representations, and as long as you can present those representations to consumers in a usable way, they're valid transports

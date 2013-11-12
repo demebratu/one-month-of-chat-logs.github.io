@@ -1,0 +1,1 @@
+Unfortunately it takes up every available thread and locks the memory pool

@@ -1,0 +1,1 @@
+ku, if you want to compare apples and oranges, why not startup a simple web server in node and one in ngnix and run 'ab' tests against them

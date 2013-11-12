@@ -1,0 +1,1 @@
+Question.. how does a project put itself as a dependancy? Ie, say a testing framework 'dogfoods' and uses itself to test itself. The thing is, you don't want to simply `require('../lib')`, because you're likely *working* on ../lib. Thoughts?

@@ -1,0 +1,1 @@
+I'm building a content server which has among its features a cli/repl interface to manage it. I want to be able to expose only it's cli, not the whole OS.

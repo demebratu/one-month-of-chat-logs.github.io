@@ -1,0 +1,1 @@
+marcosmlopes: yes. node is fast enough for things that are IO-bound and its buffers handle binary safely

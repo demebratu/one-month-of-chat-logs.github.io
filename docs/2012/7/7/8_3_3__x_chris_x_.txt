@@ -1,0 +1,1 @@
+node.js wird dann seine daten nicht mehr los

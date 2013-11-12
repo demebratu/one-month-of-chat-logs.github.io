@@ -1,0 +1,1 @@
+hello, is there a javascript equivilent to perl's @_ ?

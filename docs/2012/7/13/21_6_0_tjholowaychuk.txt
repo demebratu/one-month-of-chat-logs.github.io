@@ -1,0 +1,1 @@
+another nice feature for the "component server" might be to allow people to just write vanilla CSS no prefixes or crazy -webkit-keyframes etc and allow the package manager to request a transformed variant

@@ -1,0 +1,1 @@
+my browser win I hit link has this headers : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8

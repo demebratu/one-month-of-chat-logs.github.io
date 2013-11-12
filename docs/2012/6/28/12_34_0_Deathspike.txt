@@ -1,0 +1,1 @@
+This is, besides being able to have a version, not really relevant for a non published project with nothing to do with npm?

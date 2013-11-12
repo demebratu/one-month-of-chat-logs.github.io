@@ -1,0 +1,1 @@
+Hotroot, like, on event 'data' increment i and when i reaches a certain number which is the multiplier, do an end()

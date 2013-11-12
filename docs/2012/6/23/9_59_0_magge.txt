@@ -1,0 +1,1 @@
+blakmatrix: no, i'm just doing> path + '/' + entry

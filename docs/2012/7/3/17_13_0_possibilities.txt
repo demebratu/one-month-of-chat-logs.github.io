@@ -1,0 +1,1 @@
+if i spawn a child process (it's a shell script) that starts a bunch of child processes of it's own is there an easy way i can look up all their pids so i can kill them all? or is there some altogether better way to make sure everything dies when the main drocess dies?

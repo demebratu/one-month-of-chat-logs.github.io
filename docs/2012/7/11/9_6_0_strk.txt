@@ -1,0 +1,1 @@
+found the example, nevermind: https://github.com/visionmedia/mocha/blob/master/lib/interfaces/tdd.js

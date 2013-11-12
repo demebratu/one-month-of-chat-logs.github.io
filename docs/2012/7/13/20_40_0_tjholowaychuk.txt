@@ -1,0 +1,1 @@
+nothing fancy at all, just simply that a component is not javascript, it's javascript/images/css/*

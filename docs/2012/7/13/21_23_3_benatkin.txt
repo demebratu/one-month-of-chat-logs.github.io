@@ -1,0 +1,1 @@
+tjholowaychuk: I think the retina image problem might be a good use case to make sure a component system isn't *too* simple

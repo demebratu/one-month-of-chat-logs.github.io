@@ -1,0 +1,1 @@
+bnoordhuis: having spent ~6 years working on an app that has tables/sprocs/functions/data layer/classes all explicitly defined, I'm happy to disagree with you :)

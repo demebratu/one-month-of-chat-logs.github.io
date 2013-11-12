@@ -1,0 +1,1 @@
+Spion_: it's not like goto because you don't have to go read "bar" again in your example. when you get to where it's a callback, youve already memorized what "bar" does.

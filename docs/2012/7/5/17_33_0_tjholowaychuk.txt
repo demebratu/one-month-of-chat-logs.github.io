@@ -1,0 +1,1 @@
+it could be a lot better in lua IMO (api) with coros

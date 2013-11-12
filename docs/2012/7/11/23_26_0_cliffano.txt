@@ -1,0 +1,1 @@
+what's a good way to find out / visualize object references in a node program? e.g. i have a large object which uses up lots of memory, even after i 'delete theobj;

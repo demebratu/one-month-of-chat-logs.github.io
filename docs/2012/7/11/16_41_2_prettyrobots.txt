@@ -1,0 +1,1 @@
+mc: What AviMarcus said. You're describing what many daemons do when you give them a HUP.

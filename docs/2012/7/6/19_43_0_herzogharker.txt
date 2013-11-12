@@ -1,0 +1,1 @@
+so you can require() it just fine?

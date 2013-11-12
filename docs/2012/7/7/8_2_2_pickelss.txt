@@ -1,0 +1,1 @@
+Is there a way to add client-side libraries to browserify without converting them to commonjs modules?

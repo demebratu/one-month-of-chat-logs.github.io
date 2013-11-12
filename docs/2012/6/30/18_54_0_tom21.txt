@@ -1,0 +1,1 @@
+I heard about node.js which seems pretty awesome, is it right that it just uses the javascript language to work?

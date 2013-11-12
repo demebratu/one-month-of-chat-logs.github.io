@@ -1,0 +1,1 @@
+how do you get anything in node_modules/.bin to run like a normal bin in your project directory

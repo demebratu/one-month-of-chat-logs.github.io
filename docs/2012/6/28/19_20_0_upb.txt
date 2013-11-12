@@ -1,0 +1,1 @@
+you could but that is normally done using WFS protocol

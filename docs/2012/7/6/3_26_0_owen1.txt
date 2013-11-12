@@ -1,0 +1,1 @@
+in a desperate attempt to understand how can node make async operations without using another thread, i am reading the man page of select_tut(2) - http://www.kernel.org/doc/man-pages/online/pages/man2/select_tut.2.html

@@ -1,0 +1,1 @@
+TimeTurner: mysql has a better ecosystem / community, postgres is done by more intelligent people :)

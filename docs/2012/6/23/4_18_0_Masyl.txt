@@ -1,0 +1,1 @@
+Building your own MVC for Win CE makes sense… but building whole UIs with jQuery get very tiresome, bug-prone and a hell to maintain

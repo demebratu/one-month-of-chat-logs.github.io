@@ -1,0 +1,1 @@
+hm. It looks like the response is triggering this behaviour. https://gist.github.com/ffe8f72782c8e05c8433 I've switched to simply this and event fires only once now.

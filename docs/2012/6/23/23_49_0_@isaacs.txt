@@ -1,0 +1,1 @@
+chrisdickinson: they don't skip undefined values, they skip holes.

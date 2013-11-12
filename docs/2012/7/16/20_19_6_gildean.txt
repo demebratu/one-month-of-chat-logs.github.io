@@ -1,0 +1,1 @@
+brianc1: you need to update the retrieve page automatically as soon as the download link is first clikced

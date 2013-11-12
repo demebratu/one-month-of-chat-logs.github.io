@@ -1,0 +1,1 @@
+Karmaon__: one of my projects that uses node had a similar 100% cpu issue

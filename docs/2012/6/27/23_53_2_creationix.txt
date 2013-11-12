@@ -1,0 +1,1 @@
+tjholowaychuk: so how do you declare css and other non-js assets?

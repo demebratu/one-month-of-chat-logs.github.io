@@ -1,0 +1,1 @@
+tried running the command line "stylus --use node_modules/nib/lib" like it mentions but i feel like im still missing something obvious

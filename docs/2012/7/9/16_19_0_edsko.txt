@@ -1,0 +1,1 @@
+herzogharker: yes, sorry. that was a copy of /usr/bin/azure that I tried to modify

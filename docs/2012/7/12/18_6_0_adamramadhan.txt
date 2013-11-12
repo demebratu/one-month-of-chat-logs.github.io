@@ -1,0 +1,1 @@
+hello anyone knows why  console.log(new RegExp('/\b[a-zA-Z0-9]+\b/').test('Word')); fails?

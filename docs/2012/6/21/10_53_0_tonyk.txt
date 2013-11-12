@@ -1,0 +1,1 @@
+you also have to send an eof with jade.stdin.end()

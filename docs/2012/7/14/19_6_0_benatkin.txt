@@ -1,0 +1,1 @@
+zenista: I might use files containing json. there's some libraries for that. I don't remember their names though

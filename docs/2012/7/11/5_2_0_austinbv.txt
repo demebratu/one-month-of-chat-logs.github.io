@@ -1,0 +1,1 @@
+say you have a long running function that and you are in the browser how do you stay async

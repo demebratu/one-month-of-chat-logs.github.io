@@ -1,0 +1,1 @@
+thewanderer1: perhaps you create new Job = {prereqsDone = false, task = function(){stuff}}, then in your setTimeout callback, you check if prereqsDone = true and only execute task if so

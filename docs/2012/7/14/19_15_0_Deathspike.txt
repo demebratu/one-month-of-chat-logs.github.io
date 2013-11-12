@@ -1,0 +1,1 @@
+jhsto: You don't call files directly as you would in, say, PHP. Instead, your server runs the file you specified and runs through it and that's it, so you need to have it load 'routes' with a handler that executes whatever code you want.

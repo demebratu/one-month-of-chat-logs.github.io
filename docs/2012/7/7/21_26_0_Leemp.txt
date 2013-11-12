@@ -1,0 +1,1 @@
+Out of curiosity, anyone know of any notable apps/frameworks/libs/whatever for Nodejs on windows? I understand node and npm works on windows, i'm just curious if there is anything notable before i start heading down this road

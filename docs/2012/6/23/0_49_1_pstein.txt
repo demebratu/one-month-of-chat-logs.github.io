@@ -1,0 +1,1 @@
+Quick Q. How do people handle crunching big numbers? I'm doing python scripts through cron, but I was wondering if there's a better way

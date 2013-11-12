@@ -1,0 +1,1 @@
+so i dont need a comet server or ape for example? sockets.io is enough

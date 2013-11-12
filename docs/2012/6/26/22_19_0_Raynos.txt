@@ -1,0 +1,1 @@
+I have this module that fails to install when process.platform is solaris but installs when it is sunos

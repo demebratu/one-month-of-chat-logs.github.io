@@ -1,0 +1,1 @@
+victusfate, can you paste whole npm output log somewhere

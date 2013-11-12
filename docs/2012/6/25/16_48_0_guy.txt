@@ -1,0 +1,1 @@
+Does https://github.com/felixge/node-mysql support named binding?

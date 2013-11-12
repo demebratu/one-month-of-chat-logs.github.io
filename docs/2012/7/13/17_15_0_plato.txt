@@ -1,0 +1,1 @@
+deathspike, won't you still need to handle serialization/deserialization to your user db?

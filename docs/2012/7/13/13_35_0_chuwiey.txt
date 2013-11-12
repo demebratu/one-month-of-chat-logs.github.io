@@ -1,0 +1,1 @@
+bradgignac: last two questions (and thanks a lot)... 1) are messages distributed to specific channels or via events? (ie. a user is subscribed to a specific channel for updates, or to an event?) 2) rabbitmq - meaning I need to run the rabbitmq server?

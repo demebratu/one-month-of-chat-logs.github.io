@@ -1,0 +1,1 @@
+while i read more about dnode and now.js (and keep seeing examples of how i would be able to utterly violate a server running them)

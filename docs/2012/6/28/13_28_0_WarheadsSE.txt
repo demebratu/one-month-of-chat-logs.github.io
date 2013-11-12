@@ -1,0 +1,1 @@
+isaacs et al, I forgot to mention the other day that nodejs 0.8.0 is up and packaged in Arch Linux ARM.. the joys of automatic build systems ;)

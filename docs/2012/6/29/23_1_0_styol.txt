@@ -1,0 +1,1 @@
+Do EventEmitters need to be defined in a separate script/module and require'd by a script in order to work properly or can events be emitted from the same script trying to listen for those events?

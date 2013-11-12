@@ -1,0 +1,1 @@
+the burden is moreso on the api around it, and the rest of your code's ability to wait

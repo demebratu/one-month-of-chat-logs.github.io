@@ -1,0 +1,1 @@
+so how can I write the result to a database ?

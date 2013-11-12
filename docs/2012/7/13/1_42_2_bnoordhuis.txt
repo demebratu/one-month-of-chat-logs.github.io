@@ -1,0 +1,1 @@
+llrcombs: well... there's technically nothing stopping a malloc() implementation from zeroing the memory for you

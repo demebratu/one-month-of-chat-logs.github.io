@@ -1,0 +1,1 @@
+num1: you've now exhausted my competency ;), but I remember dealing with the resource-loader bits of jsdom as being a pain in the ass

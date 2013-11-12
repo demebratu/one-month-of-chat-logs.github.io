@@ -1,0 +1,1 @@
+even if you write code in a completely silly way that sends a new callback thousands of times per second

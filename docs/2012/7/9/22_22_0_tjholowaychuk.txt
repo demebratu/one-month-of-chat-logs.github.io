@@ -1,0 +1,1 @@
+Jeena you can update npm from npmjs.org directly if you need to

@@ -1,0 +1,1 @@
+konobi: drop .cc in src/, add to compile list in node.gyp, look up with process.binding('module')

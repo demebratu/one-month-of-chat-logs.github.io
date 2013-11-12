@@ -1,0 +1,1 @@
+hey, why can't i set a variable inside a callback? http://pastebin.com/VcWptXfJ (errors are in the client.get callbacks)

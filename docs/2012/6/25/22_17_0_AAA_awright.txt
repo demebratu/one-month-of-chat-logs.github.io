@@ -1,0 +1,1 @@
+Documentation should reflect the state of the program and any difference in documentation vs. code is considered a bug.

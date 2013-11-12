@@ -1,0 +1,1 @@
+darrenlooby: Or whatever the module provides you to let you known that the connection has died

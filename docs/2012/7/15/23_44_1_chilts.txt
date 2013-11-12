@@ -1,0 +1,1 @@
+zeus: npm -g <- that what you want?

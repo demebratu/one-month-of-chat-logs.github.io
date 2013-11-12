@@ -1,0 +1,1 @@
+process.stdin.on('data', function(d) { console.log("Read string", d.toString()); });

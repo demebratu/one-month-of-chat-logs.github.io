@@ -1,0 +1,1 @@
+timoxley: Regarding the style guide, there is a section "Named closures", is the "wrong" example really that wrong? I see it all over the place in documentations and tutorials.

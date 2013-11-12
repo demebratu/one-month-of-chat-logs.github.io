@@ -1,0 +1,1 @@
+Looking at the current presentations, it happens almost instantly (in the case of node, at least). There are vids at azures main page to introduce people to nodejs and azure.

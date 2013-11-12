@@ -1,0 +1,1 @@
+radiodario: you are right, single quotes. but it is user submitted. how can i take care of it ? :/ i guess escaping double quotes should fix it then ?

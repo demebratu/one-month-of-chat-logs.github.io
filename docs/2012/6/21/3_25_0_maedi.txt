@@ -1,0 +1,1 @@
+yeah… do you think that's because when 1 client updates, node has to propagate changes to all clients. So if I move first then node updates your screen at a crucial time - when you're also moving, it will put you back to where my client thought you where, so it appears to give a reverse effect?

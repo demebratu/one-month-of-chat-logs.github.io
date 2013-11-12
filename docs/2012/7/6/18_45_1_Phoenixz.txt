@@ -1,0 +1,1 @@
+Stephen: Well, thats what I mean.. If I try to load the file directly, entering URL host://blah/socket.io/socket.io.js, I would get 200, with nothing, or 304, not modified (AFTER I got nothing)...  And it only happens every now and then.. Mostly RIGHT after I restart the host, then reload the page, then boom..

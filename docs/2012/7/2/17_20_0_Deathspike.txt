@@ -1,0 +1,1 @@
+I'd like to get some feedback; I wrote a simple REST-service on Express and Mongoose. The code is here http://pastebin.com/zaGzpbXs. Has anyone got any suggestions for readability, functionality, behaviour, etc? Any feedback is appreciated, I'm rather new to this.

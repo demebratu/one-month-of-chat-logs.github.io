@@ -1,0 +1,1 @@
+I recently figured out that we need a basic ORM abstractions if we don't code any classes in our code.

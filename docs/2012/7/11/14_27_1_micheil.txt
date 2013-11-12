@@ -1,0 +1,1 @@
+AAA_awright: actually, as one of the earlier people using node, I have to say I prefer promised-io + promises vs caolan's async

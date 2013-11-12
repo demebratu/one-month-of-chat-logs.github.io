@@ -1,0 +1,1 @@
+motiooon: yes it'll work seamlessly as long as you're not storing massive files (read: larger than document limit)

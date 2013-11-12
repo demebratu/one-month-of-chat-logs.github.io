@@ -1,0 +1,1 @@
+how would you do that with destructuring

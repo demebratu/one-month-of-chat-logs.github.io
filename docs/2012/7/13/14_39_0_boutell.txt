@@ -1,0 +1,1 @@
+arinel: what do you actually want? Separate hostnames? Separate virtual subdirectories of one hostname, like foo.com/one and foo.com/two?

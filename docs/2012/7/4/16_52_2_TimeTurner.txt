@@ -1,0 +1,1 @@
+and what's weird is that I started in javascript and then I was helping a friend out in some Java stuff when I realized that it wouldn't compile because I was thinking in the dynamic mindset

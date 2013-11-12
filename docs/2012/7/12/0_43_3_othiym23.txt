@@ -1,0 +1,1 @@
+num1: I was in a very tactical frame of mind at the time, trying to figure out why a whole bunch of jQuery pseudoselectors in my code weren't working

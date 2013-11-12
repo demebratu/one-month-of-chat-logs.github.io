@@ -1,0 +1,1 @@
+I also tried install the lib by hand but couldn't run the examples it just stood there doesn't connect nor gives any error

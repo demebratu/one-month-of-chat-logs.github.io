@@ -1,0 +1,1 @@
+Hey - I'm using node-mysql, reading a (tab)csv file, splitting on \t, grabbing the email column and then creating a query - only no rows are matched (returning []).  If I explicity set email ='me' then it works.  is there a way to get node-mysql to show me the sql it is creating?

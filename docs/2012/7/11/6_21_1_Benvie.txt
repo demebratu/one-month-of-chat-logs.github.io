@@ -1,0 +1,1 @@
+this helps explains some of it http://www.webperformancetoday.com/2012/07/10/internet-explorer-8-default-web-performance-test/

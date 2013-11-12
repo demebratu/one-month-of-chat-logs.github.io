@@ -1,0 +1,1 @@
+you can put your timers in an object or an array or even a more complex structure

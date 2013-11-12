@@ -1,0 +1,1 @@
+jesusabdullah: Here's some more details, I'm building a content server with a fancy api this api is accessible through telnet, rest, socket.io… and I wish it would also be accessible through ssh (telnet sucks)

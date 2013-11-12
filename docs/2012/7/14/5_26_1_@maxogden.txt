@@ -1,0 +1,1 @@
+this c lib is supposed to modify a buffer but when i cross compile it to JS using emscripten it doesnt actually modify it

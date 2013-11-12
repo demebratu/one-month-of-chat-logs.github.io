@@ -1,0 +1,1 @@
+altough you could handle it by making it send you a text message screaming HEY DUDE AN UNCAUGHT EXCEPTION!

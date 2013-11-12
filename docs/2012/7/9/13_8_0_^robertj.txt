@@ -1,0 +1,1 @@
+i've been looking at persistencejs..."Task.is(Annotatable)"...beautiful, about cried

@@ -1,0 +1,1 @@
+where having node_modules in your repo bites you, is if you use anything that's compiled via waf or gyp and intend to use the repo on more than one platform

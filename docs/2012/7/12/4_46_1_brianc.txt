@@ -1,0 +1,1 @@
+yeah, only need to buffer the stream for as much as you need for an entire packet

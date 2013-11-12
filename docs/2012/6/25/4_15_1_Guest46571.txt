@@ -1,0 +1,1 @@
+sx2020: YES I am a beginner.  I just installed node and tried to do some simple things with it and get lots of errors.

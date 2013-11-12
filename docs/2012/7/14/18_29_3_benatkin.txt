@@ -1,0 +1,1 @@
+that was one of many odd things about javascript, that it wasn't baked into popular js libraries

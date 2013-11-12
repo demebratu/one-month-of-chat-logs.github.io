@@ -1,0 +1,1 @@
+sh1mmer: do the core dumps not dump heap?

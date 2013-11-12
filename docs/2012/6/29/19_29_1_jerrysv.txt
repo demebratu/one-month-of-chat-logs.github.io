@@ -1,0 +1,1 @@
+isaacs: just a quicky - are there plans to support other engines beyond node in package.json/npm?

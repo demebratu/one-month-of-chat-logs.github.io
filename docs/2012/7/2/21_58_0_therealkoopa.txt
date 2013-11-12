@@ -1,0 +1,1 @@
+With socket.io to join a room, you need the socket.  What's the best way to join a room on the server-side inside of an express route?  Most things I see have the client emitting an event that tells the server to join a room. 

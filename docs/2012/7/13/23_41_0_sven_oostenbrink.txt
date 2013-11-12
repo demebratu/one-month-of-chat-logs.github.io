@@ -1,0 +1,1 @@
+livinded: The problem I am having with most (afaik, all) upload things is that they have an entire framework integrated, do their own HTML and CSS (from JS), its a mess... I cant get any to work well AND look well at the same time, AND actually work on all browsers. I just want to have ome that works on the background, I'll tie it to my HTML myself, and everybody will be happy :)

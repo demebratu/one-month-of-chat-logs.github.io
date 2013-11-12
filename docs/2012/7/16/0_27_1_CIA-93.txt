@@ -1,0 +1,1 @@
+node: Mike Morearty v0.8 * r19aa05f / doc/api/child_process.markdown : doc: fix bug in child_process.spawn() sample code - http://git.io/IvYvsQ

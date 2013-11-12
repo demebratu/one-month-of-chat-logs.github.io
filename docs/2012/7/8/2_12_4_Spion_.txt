@@ -1,0 +1,1 @@
+... then you notice somethingAsync(bar); - Oh. okay, lets go back to re-read bar again.

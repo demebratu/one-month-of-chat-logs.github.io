@@ -1,0 +1,1 @@
+Does anyone know of a module to get the common prefix of a path? I think python has something called commonprefix but maybe there are other names I could search for

@@ -1,0 +1,1 @@
+Deathspike: most people seem to end up with a pretty typical Express / Connect + EJS / Jade / Plates / Mustache / Handlebars + Stylus / LESS + CouchDB / MongoDB / MySQL / Mongoose stack

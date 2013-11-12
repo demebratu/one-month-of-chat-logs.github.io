@@ -1,0 +1,1 @@
+for example adding a dependency of a auth module is really no different than talking to an auth service

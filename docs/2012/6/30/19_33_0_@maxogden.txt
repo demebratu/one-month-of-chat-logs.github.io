@@ -1,0 +1,1 @@
+williamcotton: imagine you are querying a database and it takes 30ms, the query isnt going to peg your cpu for 30ms

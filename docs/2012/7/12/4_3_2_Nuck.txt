@@ -1,0 +1,1 @@
+socket.write(JSON.stringify(obj) + '\00') ought to work, I'd imagine, I can't understand why NSSocket is doing this fancy stuff

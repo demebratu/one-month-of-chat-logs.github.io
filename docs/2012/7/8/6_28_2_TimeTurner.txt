@@ -1,0 +1,1 @@
+reqs/s and bandwidth are the primary concerns for this type of stuff

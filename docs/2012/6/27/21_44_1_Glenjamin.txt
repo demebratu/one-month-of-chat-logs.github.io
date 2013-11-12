@@ -1,0 +1,1 @@
+hrm, no plans to add some sugar for parent method call?

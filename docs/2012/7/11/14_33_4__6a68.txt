@@ -1,0 +1,1 @@
+like, a beautifully lightweight analogue of event routing, without the noise of registering and firing and decoding event strings

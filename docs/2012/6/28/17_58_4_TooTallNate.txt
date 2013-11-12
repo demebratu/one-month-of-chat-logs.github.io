@@ -1,0 +1,1 @@
+bahamas: well if you update to node v0.8.0 you'll get a better error message

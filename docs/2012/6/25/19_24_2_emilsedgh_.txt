@@ -1,0 +1,1 @@
+well, im sure it will scale to my usecase, i would not have more than 200 connections in the best possible scenario. i asked mostly because i wanted to know why they differ and how much they differ

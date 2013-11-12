@@ -1,0 +1,1 @@
+Bennit: Using http://pastebin.com/s9NmiWYw (enabled bodyParser) and hitting it with "{"Id","2123"}" through fiddler

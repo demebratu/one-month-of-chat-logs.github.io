@@ -1,0 +1,1 @@
+kindof offtopic, but does anyone have a good way to do web-based presentations where people can follow along in a browser?

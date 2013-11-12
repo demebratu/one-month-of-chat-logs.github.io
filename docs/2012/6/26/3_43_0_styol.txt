@@ -1,0 +1,1 @@
+bob_the_bob: https://github.com/joyent/node/issues/3532

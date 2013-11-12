@@ -1,0 +1,1 @@
+only installs if it's not already in there other wise it switches shells setting the paths for the version you specify

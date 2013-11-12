@@ -1,0 +1,1 @@
+othiym23: I'm thinking now that it's because when you create a function, it's prototype property gets set to an object that has a constructor property

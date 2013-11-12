@@ -1,0 +1,1 @@
+specifically: http://nodejs.org/api/stream.html#stream_stream_setencoding_encoding

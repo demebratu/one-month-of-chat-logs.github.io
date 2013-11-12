@@ -1,0 +1,1 @@
+dherman: having to name your export introduces an unfortunate correspondence between what the module author wants to expose and what the module consumer wants to name the functionality

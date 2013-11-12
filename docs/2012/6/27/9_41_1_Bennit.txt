@@ -1,0 +1,1 @@
+I've also tried using getWebServiceE's rawPost request but it results in the same problem

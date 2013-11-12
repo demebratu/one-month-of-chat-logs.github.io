@@ -1,0 +1,1 @@
+dmilith: maybe it's the exit/close event stuff?

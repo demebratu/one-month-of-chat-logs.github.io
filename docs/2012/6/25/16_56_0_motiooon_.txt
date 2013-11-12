@@ -1,0 +1,1 @@
+but how would node 0.8 solve my problems if I don't use process.on (unhanded…)

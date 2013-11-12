@@ -1,0 +1,1 @@
+maybe respond by polling every n ms until the file isn't there anymore?

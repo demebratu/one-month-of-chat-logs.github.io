@@ -1,0 +1,1 @@
+just like EventEmitter's magic "error" event

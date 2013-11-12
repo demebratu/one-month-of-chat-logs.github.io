@@ -1,0 +1,1 @@
+I mean why domain.run(function() { throw new Error("my error"); }); is not caught by the domain error handler, but domain.run(function() { process.nextTick(function() { throw new Error("my error");});}); is?

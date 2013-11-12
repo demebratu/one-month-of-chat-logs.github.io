@@ -1,0 +1,1 @@
+but I'm not sure I like the Seq version any better then the CoffeeScript one :\ Did I do it right?

@@ -1,0 +1,1 @@
+_Tristan: what client side functions would make any sense to execute on the server?

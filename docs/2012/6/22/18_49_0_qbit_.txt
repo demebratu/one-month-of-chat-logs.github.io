@@ -1,0 +1,1 @@
+so for any native module on 0.8.0 i get "undefined symbol '_ZN2v811HandleScopeC1Ev'"

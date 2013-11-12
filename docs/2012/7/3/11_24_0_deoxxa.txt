@@ -1,0 +1,1 @@
+strk: install the root package with npm

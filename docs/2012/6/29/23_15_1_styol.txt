@@ -1,0 +1,1 @@
+othiym23: any chance you know of a link to a basic example? im affraid the 6.0 documentation isn't helping me understand how to properly emit an event and the example i have been working with seems to require being in a separate module with module.exports http://pastie.org/4174122

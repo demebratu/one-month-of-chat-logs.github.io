@@ -1,0 +1,1 @@
++ve 935  -ve 0  NaN 217 in 1152 samples .

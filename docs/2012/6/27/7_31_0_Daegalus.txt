@@ -1,0 +1,1 @@
+jhsto: give async.series a look

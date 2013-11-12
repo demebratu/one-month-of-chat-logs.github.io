@@ -1,0 +1,1 @@
+creating a function by passing a string into the function constructor is eval, and evil.

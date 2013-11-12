@@ -1,0 +1,1 @@
+niteshade: if you already had python in your path, the alias was unnecessary

@@ -1,0 +1,1 @@
+the maybe monad and either monad are great strategies for propagating failure through an execution flow

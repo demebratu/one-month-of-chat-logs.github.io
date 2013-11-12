@@ -1,0 +1,1 @@
+If I compressed/minified my node.js code + the modules, would that reduce the memory footprint?

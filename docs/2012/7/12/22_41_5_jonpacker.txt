@@ -1,0 +1,1 @@
+"callbacks are hard" is the reason that 2% of npm is control flow modules :P

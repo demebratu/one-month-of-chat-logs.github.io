@@ -1,0 +1,1 @@
+they should just see what 'TERM=xterm' is doing and fix the damn thing with 'screen' and 'linux' TERM also

@@ -1,0 +1,1 @@
+Personally I minify using uglifyjs (installed globally) and serve the preminified scripts without having a server do it on the fly. It's less convenient to be sure. But if you're gzipping anyway it isn't a huge deal.

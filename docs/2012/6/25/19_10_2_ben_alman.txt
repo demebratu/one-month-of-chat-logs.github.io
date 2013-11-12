@@ -1,0 +1,1 @@
+isaacs: Is there an npm command you can run, given a package.json to see what, of all your dependencies, the absolute strictest node engine version limitations are?

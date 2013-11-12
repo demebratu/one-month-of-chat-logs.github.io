@@ -1,0 +1,1 @@
+you'll get a "Your environment has been set up for using Node.js 0.8.0 (ia32) and NPM"

@@ -1,0 +1,1 @@
+I was grateful that lua doesn't use curly braces like JS does

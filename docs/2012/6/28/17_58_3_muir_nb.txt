@@ -1,0 +1,1 @@
+TooTallNate: I guess I mean: will the openssl interaction block waiting for entropy?

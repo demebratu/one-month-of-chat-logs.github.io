@@ -1,0 +1,1 @@
+require('foo', function(err, module) { window.Foo = module }) would be nice

@@ -1,0 +1,1 @@
+i have some directory names with norwegian letters in them, when i read them with fs.readdir and try to do fs.stat on on it i get ENOENT. this is on linux. and it works for dirs without crazy letters. has anyone else expereniced this?

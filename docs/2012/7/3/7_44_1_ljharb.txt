@@ -1,0 +1,1 @@
+i've been mostly reading about nowjs, where i can just set a function on the server and do whatever. let me take another look at dnode

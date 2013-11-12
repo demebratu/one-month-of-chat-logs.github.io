@@ -1,0 +1,1 @@
+what do  I need to do to specify I want to inrerpret it as ascii (or utf8 or whatever) ?

@@ -1,0 +1,1 @@
+I have a Buffer that I want to read via a Read Stream. Is that possible?

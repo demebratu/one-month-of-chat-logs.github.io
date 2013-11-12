@@ -1,0 +1,1 @@
+what are people using for deployment, I have been using a Makefile, rsync, upstart, but feel like I can do better, and wondering what has worked well for ya'll

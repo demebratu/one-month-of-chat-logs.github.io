@@ -1,0 +1,1 @@
+the last answer here puts it well: if you use express.bodyParser(), you get everything in req.files. See: http://stackoverflow.com/questions/5149545/uploading-images-using-nodejs-express-and-mongo

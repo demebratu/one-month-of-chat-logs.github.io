@@ -1,0 +1,1 @@
+jarr0dsz: if you're using websockets you want a single page app

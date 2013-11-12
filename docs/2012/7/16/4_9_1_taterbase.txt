@@ -1,0 +1,1 @@
+owen1 turned out to be a buggy http.get. It doesn't like addresses not prefixed with www. Using http.request isntead

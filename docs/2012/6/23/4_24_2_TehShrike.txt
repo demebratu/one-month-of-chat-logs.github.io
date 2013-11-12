@@ -1,0 +1,1 @@
+I'm just glad I'm not writing native code for these devices

@@ -1,0 +1,1 @@
+If I am setting a user_id on users when they connect to my socket.io server. How do I send to individual sockets by user_id without having to loop through every socket?

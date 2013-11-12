@@ -1,0 +1,1 @@
+Nexxy: are require paths relative, so if I have project_root/models/person.js and project_root/tests/person_spec.js the require in the spec has to be ../models/person

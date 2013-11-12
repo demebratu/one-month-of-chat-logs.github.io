@@ -1,0 +1,1 @@
+ tjholowaychuk but res.attachment() wouldn't only serve files from disk? 

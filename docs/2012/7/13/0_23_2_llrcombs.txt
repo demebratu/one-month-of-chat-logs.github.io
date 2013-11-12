@@ -1,0 +1,1 @@
+I do have /usr/lib/gcc/i486-slackware-linux/4.2.4/include/stddef.h

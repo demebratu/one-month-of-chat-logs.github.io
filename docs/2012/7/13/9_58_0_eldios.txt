@@ -1,0 +1,1 @@
+join the party.. open a shell and -> while (true );do for i in $(echo -e '\\\o\n\o)\n(o)\n\o/\n(o)\n(o/\no//\n(o/\n(o)\n\o/\n(o)\n\o)');do clear;echo $i;sleep 1s;done;done;

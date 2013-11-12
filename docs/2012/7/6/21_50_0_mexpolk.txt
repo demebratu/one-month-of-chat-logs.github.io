@@ -1,0 +1,1 @@
+Yep, it is weird to me to use var something = require('something');  Where it should be require(['something'], function (something) {});

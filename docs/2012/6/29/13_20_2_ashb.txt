@@ -1,0 +1,1 @@
+erick2red: ./configure --prefix=x && make install && x/bin/node

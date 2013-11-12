@@ -1,0 +1,1 @@
+Did somebody every try to implemenet moduleErrback function in everyauth? 

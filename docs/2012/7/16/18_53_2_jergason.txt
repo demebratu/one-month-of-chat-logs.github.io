@@ -1,0 +1,1 @@
+wait, IRC doesn't say anything about character encoding, right?

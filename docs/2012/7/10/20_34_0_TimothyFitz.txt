@@ -1,0 +1,1 @@
+mxweas: and not process.on('EXIT', ..) ?

@@ -1,0 +1,1 @@
+dherman: I'm not sure that static exports are necessary for macros, what about just a nice way of doing multi-line quotes?

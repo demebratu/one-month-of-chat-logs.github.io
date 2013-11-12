@@ -1,0 +1,1 @@
+owen1: you'll always get 1 or more data events and 1 end event on a successful connection

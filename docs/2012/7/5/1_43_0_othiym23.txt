@@ -1,0 +1,1 @@
+yeah, I just get a couch 401 Unauthorized stacktrace when I try to log in

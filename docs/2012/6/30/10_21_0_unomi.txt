@@ -1,0 +1,1 @@
+dsirijus, so imagine that you have an array or object literal populated with httpProxies

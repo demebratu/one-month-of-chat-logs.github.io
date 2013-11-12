@@ -1,0 +1,1 @@
+regality: Alright. Thanks for your help! I'm going to try ssh into my ubuntu box, maybe i'll have better luck there.

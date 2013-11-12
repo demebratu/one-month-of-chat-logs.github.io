@@ -1,0 +1,1 @@
+a C++ bot called geordi differentiates between them by having different commands

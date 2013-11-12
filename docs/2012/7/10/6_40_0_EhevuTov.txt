@@ -1,0 +1,1 @@
+so, what you want to do now, is copy someone's package.json, modify it for your dependencies, 'rm -rf node_modules' and then do an 'npm install' or 'npm i' for short

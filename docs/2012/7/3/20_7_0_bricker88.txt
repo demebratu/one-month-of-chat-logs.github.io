@@ -1,0 +1,1 @@
+Hello. Can someone explain to me what types of things could cause the error, "[Error: socket hang up] code: 'ECONNRESET'"

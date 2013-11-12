@@ -1,0 +1,1 @@
+ben_alman: there's a force option on npm install, -F or -f, can't remember for sure,that overrides some of the checks.

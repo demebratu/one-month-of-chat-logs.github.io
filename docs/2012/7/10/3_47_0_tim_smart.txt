@@ -1,0 +1,1 @@
+jesusabdullah: To be honest, I just wish browsers had a stream-like xhr object.

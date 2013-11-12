@@ -1,0 +1,1 @@
+Hi all - is there any way to retrieve the returned TTL from a DNS query?

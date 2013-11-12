@@ -1,0 +1,1 @@
+williamcotton: why not just isolate it by using fs to load the file in node and upload it

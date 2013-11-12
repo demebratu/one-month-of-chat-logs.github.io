@@ -1,0 +1,1 @@
+Or in that same category, when sending a string, should I always just stream.end("blah"); it instead of stream.write?

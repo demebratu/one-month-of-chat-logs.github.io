@@ -1,0 +1,1 @@
+this.end('HEAD' == this.req.method ? null : body);

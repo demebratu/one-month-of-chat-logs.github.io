@@ -1,0 +1,1 @@
+wingy: yes, redis tends to popular, mongodb too

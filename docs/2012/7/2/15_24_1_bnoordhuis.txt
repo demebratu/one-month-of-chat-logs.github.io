@@ -1,0 +1,1 @@
+KiNgMaR: oh, that probably means your glibc doesn't export locale_charset()

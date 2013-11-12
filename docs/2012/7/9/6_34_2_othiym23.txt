@@ -1,0 +1,1 @@
+jesusabdullah: all mocha does is trap and report exceptions / errors and deal with the async cleanup (when cases are run asynchronously)

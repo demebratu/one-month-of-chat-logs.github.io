@@ -1,0 +1,1 @@
+the long term problem that arises if the application starts using so much bandwidth that a binary protocol is necessary, that's the only scaling problem that would exist

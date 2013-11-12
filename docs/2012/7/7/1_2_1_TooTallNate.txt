@@ -1,0 +1,1 @@
+Hotroot: but on the other end, you need to parse it somehow, like on \n chars for example

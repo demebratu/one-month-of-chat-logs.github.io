@@ -1,0 +1,1 @@
+yangchenyun: when running node as REPL, i think you are in eval context

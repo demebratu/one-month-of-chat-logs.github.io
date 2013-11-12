@@ -1,0 +1,1 @@
+you also can't just return a value from an async function

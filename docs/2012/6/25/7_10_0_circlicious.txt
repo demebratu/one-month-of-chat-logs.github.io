@@ -1,0 +1,1 @@
+konobi: i commented write and end, and added on('exit'... this is what the output is, `/usr/bin/env: ruby: No such file or directory` AND `Exit Code: 127`

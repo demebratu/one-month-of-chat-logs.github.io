@@ -1,0 +1,1 @@
+Hmm. I noticed that if I have multiple tabs open of my app, it creates mutiple socket connections. This isn't really efficient is it?

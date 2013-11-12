@@ -1,0 +1,1 @@
+arcanis: you can combine the stream implementation with memoization

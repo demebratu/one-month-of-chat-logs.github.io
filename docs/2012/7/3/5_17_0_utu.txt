@@ -1,0 +1,1 @@
+also to send some data to clients, I need to keep a list of IP addresses so I can get back to clients?

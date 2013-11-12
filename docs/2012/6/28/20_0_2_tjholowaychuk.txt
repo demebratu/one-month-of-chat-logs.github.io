@@ -1,0 +1,1 @@
+--invert could just set a bool, we check that and invert the matches

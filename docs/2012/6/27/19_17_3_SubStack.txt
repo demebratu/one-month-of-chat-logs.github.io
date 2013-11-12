@@ -1,0 +1,1 @@
+yes, naming is the default in node requires

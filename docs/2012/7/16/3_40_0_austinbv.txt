@@ -1,0 +1,1 @@
+where and how do people store global config like db passwords and API keys

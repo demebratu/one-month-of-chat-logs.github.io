@@ -1,0 +1,1 @@
+Are there any flags I can set that warn me that i am using things I should not be used

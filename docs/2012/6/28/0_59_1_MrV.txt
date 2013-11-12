@@ -1,0 +1,1 @@
+but when I console.log(req.params[0]) I get undefined

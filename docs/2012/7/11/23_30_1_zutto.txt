@@ -1,0 +1,1 @@
+jarr0dsz: and instead of using faye, you should use socket.io

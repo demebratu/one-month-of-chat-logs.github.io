@@ -1,0 +1,1 @@
+ive been googling but not finding; does anyone know of a markdown parser that parses "metadata", like multimarkdown? However the multimarkdown package return a fully formatted html document if you give it metadata. I only want snippets, and I want the metadata returned as json object or similar.

@@ -1,0 +1,1 @@
+and yet, in practice, when i write programs that export a bunch of shit, it's a huge pain, and when i write programs that don't, it isn't.

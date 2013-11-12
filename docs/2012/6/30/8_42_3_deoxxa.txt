@@ -1,0 +1,1 @@
+i think that uses named pipes on windows as well, but don't quote me on that

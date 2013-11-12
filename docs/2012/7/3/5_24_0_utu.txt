@@ -1,0 +1,1 @@
+^ ok will look into that, this is interesting and very simple, maybe it will work well for me: http://stackoverflow.com/questions/7007039/keep-track-of-connected-clients-with-nodejs

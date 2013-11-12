@@ -1,0 +1,1 @@
+Dofs, let me check what mine does. I think I have mine set to only output in DEV mode

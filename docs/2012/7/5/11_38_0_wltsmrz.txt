@@ -1,0 +1,1 @@
+suggests to use plain jane `ws` module

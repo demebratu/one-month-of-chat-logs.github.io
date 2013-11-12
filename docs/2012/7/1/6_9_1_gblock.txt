@@ -1,0 +1,1 @@
+williamcotton: shouldn't your pop be in the callback for push?

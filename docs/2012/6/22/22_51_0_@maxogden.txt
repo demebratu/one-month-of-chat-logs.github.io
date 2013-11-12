@@ -1,0 +1,1 @@
+dshap: ive never used node-canvas sorry

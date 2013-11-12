@@ -1,0 +1,1 @@
+but streams by their intent aren't the kind of things that are meant to be piped and unpiped

@@ -1,0 +1,1 @@
+Phoenixz if you're using bodyParser() you're opting into having it handle multipart for you

@@ -1,0 +1,1 @@
+but you do want to retrieve data associated with a session on a user request, yes?

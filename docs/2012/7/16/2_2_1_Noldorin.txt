@@ -1,0 +1,1 @@
+cgiffard: indeed. rm -r ~/node_modules, npm install minifyjs

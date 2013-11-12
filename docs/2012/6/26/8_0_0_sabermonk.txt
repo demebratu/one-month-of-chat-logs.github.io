@@ -1,0 +1,1 @@
+i thot of using .pipe() but i need to parse the data from the stream coming from the other end , and then write 

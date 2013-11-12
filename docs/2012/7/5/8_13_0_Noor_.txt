@@ -1,0 +1,1 @@
+something that resembles browser cookie handling 

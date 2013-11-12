@@ -1,0 +1,1 @@
+rektide: You can't guarentee that the module won't be renamed, and authors need to be able to call the binary, OR the library, without being detected "hmm what did the parent intend me to be, a library or an application"

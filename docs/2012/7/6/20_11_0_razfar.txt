@@ -1,0 +1,1 @@
+does any one know about the env variable npm_config_binroot?

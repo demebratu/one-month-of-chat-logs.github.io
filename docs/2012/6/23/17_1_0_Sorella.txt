@@ -1,0 +1,1 @@
+marlun, you can, probably, just write a filter that does that for you.

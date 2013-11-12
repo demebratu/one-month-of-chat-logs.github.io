@@ -1,0 +1,1 @@
+jesusabdullah: Heroku is fun, but a lot of our ideas endup requiring socket.io … so you simply win!

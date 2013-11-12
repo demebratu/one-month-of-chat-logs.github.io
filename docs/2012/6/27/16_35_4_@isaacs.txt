@@ -1,0 +1,1 @@
+tjholowaychuk: this only works wiht bash and zsh, of course.  sh and ksh will blow up.  set your #! appropriately :)

@@ -1,0 +1,1 @@
+Hi, I'm consistently getting errors like this. How do I fix them? https://gist.github.com/3015104 I believe they are related to the template rendering, but not sure

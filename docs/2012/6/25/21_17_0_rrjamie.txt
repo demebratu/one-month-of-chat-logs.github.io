@@ -1,0 +1,1 @@
+do I just do a existsSync = fs.existSync || path.existsSync?

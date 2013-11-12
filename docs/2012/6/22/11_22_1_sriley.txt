@@ -1,0 +1,1 @@
+malkomalko: wouldnt that just be a fairly simple regexp

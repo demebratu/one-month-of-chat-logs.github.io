@@ -1,0 +1,1 @@
+correction: var name = new (require('./class.js').Class))() 

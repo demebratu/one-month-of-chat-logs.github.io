@@ -1,0 +1,1 @@
+> ws@0.4.20 install /usr/local/lib/node_modules/node-inspector/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws

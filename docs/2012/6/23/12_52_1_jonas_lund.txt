@@ -1,0 +1,1 @@
+anyone has a nice insight/article covering node-mysql connection handling, esp on running apps, keeping connections alive.. etc?

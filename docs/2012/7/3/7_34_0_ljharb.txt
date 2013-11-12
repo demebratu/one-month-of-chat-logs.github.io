@@ -1,0 +1,1 @@
+_Tristan: but what i disagree with is the general principle that client and server SHOULD be that integrated. i think they should not be.

@@ -1,0 +1,1 @@
+Usually callbacks don't return anything.   Some fancier api allow you some return value, but its specific to each apis

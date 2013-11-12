@@ -1,0 +1,1 @@
+I have a problem with escaping. Apparently this, like in normal browser JS doesn't work. There is no way to write text-block with line-breakes?

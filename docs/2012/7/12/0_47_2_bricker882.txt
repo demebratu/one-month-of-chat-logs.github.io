@@ -1,0 +1,1 @@
+Hello, can I npm install into something besides ./node_modules? The reason I want to do this is to try to share the packages across deployments when possible (using capistrano). I would like to install the packages in a shared folder, and then will symlink that shared folder to app_root/node_modules/

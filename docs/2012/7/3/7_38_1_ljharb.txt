@@ -1,0 +1,1 @@
+REST is better because if the API is built properly, you can just look at an individual call and know exactly what it's doing

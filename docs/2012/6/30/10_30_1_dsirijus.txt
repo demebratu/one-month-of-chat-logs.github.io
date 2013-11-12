@@ -1,0 +1,1 @@
+i had it running yesterday perfectly fine with nginx :D

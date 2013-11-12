@@ -1,0 +1,1 @@
+nlf: it can, in general there's a way to access the underlying node.js http lib with request

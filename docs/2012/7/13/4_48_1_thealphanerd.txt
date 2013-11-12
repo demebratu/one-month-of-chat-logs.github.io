@@ -1,0 +1,1 @@
+livinded: one nice thing is the raspi runs at 3.3v

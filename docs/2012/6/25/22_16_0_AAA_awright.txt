@@ -1,0 +1,1 @@
+benatkin: I encourage shipping documentation and related tools in the repository itself, I have a similar build tool in my own program

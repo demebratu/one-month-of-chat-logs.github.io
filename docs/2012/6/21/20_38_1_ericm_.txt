@@ -1,0 +1,1 @@
+My first port of call was to see if __filename would do the trick, but it didn't.

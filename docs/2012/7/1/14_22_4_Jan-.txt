@@ -1,0 +1,1 @@
+what would be a good way of detecting if the fs stuff is available, in the context of a portability layer?

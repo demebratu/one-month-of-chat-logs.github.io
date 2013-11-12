@@ -1,0 +1,1 @@
+tjholowaychuk: I'm not sure if the ECMAScript standard has anything to say about it but at least in Node.js all evaluated code is inside a function with a scope, return is a valid statement anywhere.

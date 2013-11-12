@@ -1,0 +1,1 @@
+utf-8 is backwards compatible, but not vice versa

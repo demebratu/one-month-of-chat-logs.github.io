@@ -1,0 +1,1 @@
+I'm using Visual C++ Express with the Windows 7.1 64-bit SDK and 64-bit node.

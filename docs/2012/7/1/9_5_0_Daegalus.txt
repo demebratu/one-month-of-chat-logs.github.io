@@ -1,0 +1,1 @@
+well i have to make a correction i guess, so I could be wrong about JVM performance, but I forgot Android was Dalvik

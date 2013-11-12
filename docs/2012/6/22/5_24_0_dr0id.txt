@@ -1,0 +1,1 @@
+then nodemon index.js and you have it on your vps/hosting/server

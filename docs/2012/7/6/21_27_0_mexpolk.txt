@@ -1,0 +1,1 @@
+I need you help: fs.symlink keeps giving me [Error: EEXIST, symlink ''some/path], but the file does not exist… What ma I missing?

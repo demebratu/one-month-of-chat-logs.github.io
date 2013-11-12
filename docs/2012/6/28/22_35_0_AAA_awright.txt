@@ -1,0 +1,1 @@
+ljharb: On the contrary, Java came from Javascript, hence the name

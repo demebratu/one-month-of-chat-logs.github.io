@@ -1,0 +1,1 @@
+I can do the detect thing, but coffeescript is making a new variable for me that makes it break in the browser

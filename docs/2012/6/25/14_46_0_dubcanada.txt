@@ -1,0 +1,1 @@
+Or anything in a setTimeout function that would cause it to infi loop

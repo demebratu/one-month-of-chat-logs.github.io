@@ -1,0 +1,1 @@
+t = 0; REDIS.lrange("/user12832/williamcotton.jpg-data", 0, -1).each {|p| t = t + p.size; puts p.size }; t

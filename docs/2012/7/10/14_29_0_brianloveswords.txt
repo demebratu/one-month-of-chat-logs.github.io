@@ -1,0 +1,1 @@
+vicapow: it's fairly new, but you might wanna try https://github.com/lloyd/node-memwatch?

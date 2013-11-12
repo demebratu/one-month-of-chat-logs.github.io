@@ -1,0 +1,1 @@
+cause it's websocketz over http over tcp that in the end is a convoluted thing that on some level acts kinda like tcp in your tcp

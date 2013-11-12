@@ -1,0 +1,1 @@
+Hi. I'm passing an ipv6 addres as a localAddress option in http.request but nodejs is sending the request using the ipv4 address of my NIC

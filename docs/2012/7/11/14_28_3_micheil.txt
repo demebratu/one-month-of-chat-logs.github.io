@@ -1,0 +1,1 @@
+AAA_awright: you can't argue your example is not better written as: fs.readFile('whatever.txt').then(db.saveWhatever).then(saved)

@@ -1,0 +1,1 @@
+why is if I read a file of 5mb with fs.readFile(all_photos[i], function(err, result){ })     my CPU  goes trough the roof to 100%

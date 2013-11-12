@@ -1,0 +1,1 @@
+i have a server that i run and then i wanna kill it from the server logic

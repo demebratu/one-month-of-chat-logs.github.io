@@ -1,0 +1,1 @@
+btw: compose(pluck('name'), invoke('toUpperCase'), shorten_name)(ModelStream) would be one of such constructs.

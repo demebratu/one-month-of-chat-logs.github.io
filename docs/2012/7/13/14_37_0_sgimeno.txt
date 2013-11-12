@@ -1,0 +1,1 @@
+bnoordhuis: ok, good to know, thanks! if not, could it be done as a separate module?

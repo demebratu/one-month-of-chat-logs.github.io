@@ -1,0 +1,1 @@
+timoxley: patch welcome.  docs/blog/release/node-v0.8.0.md

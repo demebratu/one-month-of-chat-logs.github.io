@@ -1,0 +1,1 @@
+i think ASI only messes with return if it doesn't encounter an expression immediately following `return`.

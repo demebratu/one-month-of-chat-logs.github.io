@@ -1,0 +1,1 @@
+hi all is ther an faster way to add something to the end of an array then array.push() ?

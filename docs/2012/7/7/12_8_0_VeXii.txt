@@ -1,0 +1,1 @@
+i dont know how dig diff ther is on jsdom and the live dom' s anyone know a list of traps or somthing?

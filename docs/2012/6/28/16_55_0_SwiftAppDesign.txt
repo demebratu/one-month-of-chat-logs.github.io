@@ -1,0 +1,1 @@
+no, its a very basic server, when it gets a request it runs a bash script

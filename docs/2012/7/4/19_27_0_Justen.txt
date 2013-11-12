@@ -1,0 +1,1 @@
+I just got the nodejs package so you can have node run the current file open, but how am I able to restart the server within Sublime Text 2? The only way I've found to do it is killing the process in the task manager
