@@ -9,10 +9,10 @@ this is only one month of those chat logs, so there are something like 42,500 in
 http://one-month-of-chat-logs.github.io/docs/<year>/<month>/<day>/<hours>_<minutes>_<seonds>_<irc handle>.txt
 ```
 
-for example:
+[for example](http://one-month-of-chat-logs.github.io/docs/2012/7/9/0_27_0_rrjamie.txt):
 
 ```text
-http://one-month-of-chat-logs.github.io/docs/2013/5/9/0_0_1_lamalex.txt
+http://one-month-of-chat-logs.github.io/docs/2012/7/9/0_27_0_rrjamie.txt
 ```
 
 these can be searched with something like [this](https://www.google.com/#q=site:http%3A%2F%2Fone-month-of-chat-logs.github.io+security):
